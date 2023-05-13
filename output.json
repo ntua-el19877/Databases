@@ -1,15 +1,179 @@
 [
     {
+        "title": "\"U Can't Make This Stuff Up\"",
+        "authors": [
+            "Larry Malcolm"
+        ],
+        "pageCount": 622,
+        "language": "en"
+    },
+    {
+        "title": "\"W\" Publication Series",
+        "authors": [
+            "National Center for State Courts"
+        ],
+        "pageCount": 32,
+        "language": "en"
+    },
+    {
+        "title": "... I\u014dannou ... tou Chrusostomou ... ta heuriskomena panta, opera et studio B. de Montfaucon. Ed. Par. altera, emendata et aucta [by G.R.L. von Sinner].",
+        "authors": [
+            "John (st, Chrysostom.)"
+        ],
+        "pageCount": 444,
+        "language": "el"
+    },
+    {
+        "title": "... William W. Grows, Vs. the Maine Central Railroad Company",
+        "authors": [
+            "William W. Grows (plaintiff.)"
+        ],
+        "pageCount": 64,
+        "language": "en"
+    },
+    {
         "title": "18 erga [a collection]",
         "authors": [
             "S\u014dkrat\u0113s V. Kougeas"
-        ]
+        ],
+        "pageCount": 588,
+        "language": "el"
     },
     {
-        "title": "A concordance to Q",
+        "title": "3-D Human Modeling and Animation",
         "authors": [
-            "Richard Alan Edwards"
-        ]
+            "Peter Ratner"
+        ],
+        "pageCount": 356,
+        "language": "en"
+    },
+    {
+        "title": "A Blade of Fern",
+        "authors": [
+            "Edith L. Tiempo"
+        ],
+        "pageCount": 200,
+        "language": "en"
+    },
+    {
+        "title": "A Child at Gunpoint",
+        "authors": [
+            "Richard Raskin"
+        ],
+        "pageCount": 198,
+        "language": "en"
+    },
+    {
+        "title": "A Comparative Study of Fuzzy-c-means, K-means and K-NN Algorithms in the Classification and Identification of Lactic Acid Bacteria",
+        "authors": [
+            "Isidoros Dalezios"
+        ],
+        "pageCount": 222,
+        "language": "en"
+    },
+    {
+        "title": "A Comprehensive Review of Literature on the Long-term Effects and Treatment of Childhood Sexual Abuse",
+        "authors": [
+            "Christopher R. Jaussi"
+        ],
+        "pageCount": 96,
+        "language": "en"
+    },
+    {
+        "title": "A Comprehensive Treatment of q-Calculus",
+        "authors": [
+            "Thomas Ernst"
+        ],
+        "pageCount": 492,
+        "language": "en"
+    },
+    {
+        "title": "A Field Guide for Human Skeletal Identification",
+        "authors": [
+            "Kenneth A. Bennett"
+        ],
+        "pageCount": 138,
+        "language": "en"
+    },
+    {
+        "title": "A Financial Guide for the Self-employed",
+        "authors": [
+            "John Ellis"
+        ],
+        "pageCount": 248,
+        "language": "en"
+    },
+    {
+        "title": "A Grammar of D\u00ebne Su\u031c\u0142in\u00e9 (Chipewyan)",
+        "authors": [
+            "Eung-Do Cook"
+        ],
+        "pageCount": 492,
+        "language": "en"
+    },
+    {
+        "title": "A Grammar of Yeyi",
+        "authors": [
+            "Frank Seidel"
+        ],
+        "pageCount": 506,
+        "language": "en"
+    },
+    {
+        "title": "A Hard Rain and a Cross",
+        "authors": [
+            "Lotan Harold DeWolf"
+        ],
+        "pageCount": 224,
+        "language": "en"
+    },
+    {
+        "title": "A History of the Abaluyia of Western Kenya. [c. 1500-1930",
+        "authors": [
+            "Gideon S. Were"
+        ],
+        "pageCount": 216,
+        "language": "en"
+    },
+    {
+        "title": "A History of the Lithuanian Military Forces in World War II, 1939-1945",
+        "authors": [
+            "Henry L. Gaidis"
+        ],
+        "pageCount": 334,
+        "language": "en"
+    },
+    {
+        "title": "A Measurement of Charged Particle Spectra in Interplanetary Space",
+        "authors": [
+            "Jerry Allen Lezniak"
+        ],
+        "pageCount": 570,
+        "language": "en"
+    },
+    {
+        "title": "A Model of Human Occupation",
+        "authors": [
+            "Gary Kielhofner"
+        ],
+        "pageCount": 406,
+        "language": "en"
+    },
+    {
+        "title": "A Naturalist's Shetland",
+        "authors": [
+            "J. Laughton Johnston"
+        ],
+        "pageCount": 572,
+        "language": "en"
+    },
+    {
+        "title": "A Pacific Cruise",
+        "authors": [
+            "Sir Thomas Henley"
+        ],
+        "pageCount": 270,
+        "language": "en"
     },
     {
         "title": "A Panegyric on Macarius, Bishop of Tk\u00f4w",
@@ -18,124 +182,1781 @@
             "Bernard Carra de Vaux",
             "Jacobus Forget",
             "Arthur Adolphe Vaschalde"
-        ]
+        ],
+        "pageCount": 172,
+        "language": "el"
     },
     {
-        "title": "A Study of Income and Expenditures in Sixty Colleges. Year 1953-54",
+        "title": "A Practical Guide for Advanced Writers in English as a Second Language",
         "authors": [
-            "National Federation of College and University Business Officers Associations"
-        ]
+            "Paul Munsell",
+            "Martha Clough"
+        ],
+        "pageCount": 324,
+        "language": "en"
     },
     {
-        "title": "A Grammar of Yeyi",
+        "title": "A Renegade in Springtime",
         "authors": [
-            "Frank Seidel"
-        ]
-    },
-    {
-        "title": "A Field Guide for Human Skeletal Identification",
-        "authors": [
-            "Kenneth A. Bennett"
-        ]
-    },
-    {
-        "title": "A Blade of Fern",
-        "authors": [
-            "Edith L. Tiempo"
-        ]
-    },
-    {
-        "title": "Equilibrium and Kinetic Studies of a Model Ligand-receptor System",
-        "authors": [
-            "Jon William Erickson"
-        ]
+            "Edward Upward"
+        ],
+        "pageCount": 210,
+        "language": "en"
     },
     {
         "title": "A Secret Past",
         "authors": [
             "D\u014d\u031ckmai Sot"
-        ]
+        ],
+        "pageCount": 80,
+        "language": "en"
     },
     {
-        "title": "A Model of Human Occupation",
+        "title": "A Short Course in Calculus",
         "authors": [
-            "Gary Kielhofner"
-        ]
+            "Jack Gary Ceder",
+            "David L. Outcalt"
+        ],
+        "pageCount": 368,
+        "language": "en"
     },
     {
-        "title": "Text of \"A\" Papers from the Summer Meeting, IEEE Power Engineering Society, Portland, Oregon, July 18-23, 1976",
+        "title": "A Study of Income and Expenditures in Sixty Colleges. Year 1953-54",
         "authors": [
-            "IEEE Power Engineering Society"
-        ]
+            "National Federation of College and University Business Officers Associations"
+        ],
+        "pageCount": 190,
+        "language": "en"
     },
     {
-        "title": "Development of a Muscle Cell Culture Bioassay for Serum-borne Growth Factors Affecting Protein Turnover",
+        "title": "A Summer in Touraine",
         "authors": [
-            "Maureen Ann Mackey"
-        ]
-    },
-    {
-        "title": "Behavioral Testing During a 7-day Confinement",
-        "authors": [
-            "Rollin Mark Patton",
-            "Robert J. Randle"
-        ]
+            "Frederic Lees"
+        ],
+        "pageCount": 492,
+        "language": "en"
     },
     {
         "title": "A Taste of Blood",
         "authors": [
             "Christopher Wayne Curry",
             "John W. Curry"
-        ]
+        ],
+        "pageCount": 276,
+        "language": "en"
     },
     {
-        "title": "Specification of a CAD 1 Neutral File for CAD Geometry",
+        "title": "A University Correspondence Course on how to Install and Operate a Standard Accounting System for Electrical Contractors and Dealers",
         "authors": [
-            "Ernst G. Schlechtendahl"
-        ]
+            "Paul Brendan Kelly"
+        ],
+        "pageCount": 130,
+        "language": "en"
     },
     {
-        "title": "A Measurement of Charged Particle Spectra in Interplanetary Space",
+        "title": "A War Record of the 21st London Regiment (First Surrey Rifles), 1914-1919",
         "authors": [
-            "Jerry Allen Lezniak"
-        ]
+            "Great Britain. Army. 21st London Regiment (First Surrey Rifles)"
+        ],
+        "pageCount": 298,
+        "language": "en"
+    },
+    {
+        "title": "A concordance to Q",
+        "authors": [
+            "Richard Alan Edwards"
+        ],
+        "pageCount": 206,
+        "language": "el"
+    },
+    {
+        "title": "A concordance to Q",
+        "authors": [
+            "Richard Alan Edwards"
+        ],
+        "pageCount": 206,
+        "language": "el"
+    },
+    {
+        "title": "A grammar of the Greek language, chiefly from the Germ. of R. K\u00fchner",
+        "authors": [
+            "William Edward Jelf"
+        ],
+        "pageCount": 628,
+        "language": "el"
+    },
+    {
+        "title": "A: Libri VIII-XI. B: Epitome",
+        "authors": [
+            "Athenaeus Naucratites"
+        ],
+        "pageCount": 536,
+        "language": "el"
+    },
+    {
+        "title": "AIC.",
+        "authors": [
+            "United States. Bureau of Agricultural and Industrial Chemistry"
+        ],
+        "pageCount": 974,
+        "language": "en"
+    },
+    {
+        "title": "Acta apostolorum apocrypha, ed. C. Tischendorf",
+        "authors": [
+            "Apostles apocryphal acts"
+        ],
+        "pageCount": 364,
+        "language": "el"
+    },
+    {
+        "title": "Acta s. Marinae et s. Christophori, ed. H. Vsener. (Festschr. zur f\u00fcnften S\u00e4cularfeier d. Carl-Ruprechts-Univ. zu Heidelberg \u00fcberreicht von Rector u. Senat d. Rheinischen Friedrich-Wilhelms-Univ.).",
+        "authors": [
+            "Margaret (st, of Antioch.)"
+        ],
+        "pageCount": 94,
+        "language": "el"
+    },
+    {
+        "title": "Acta s. Marinae et s. Christophori, ed. H. Vsener. (Festschr. zur f\u00fcnften S\u00e4cularfeier d. Carl-Ruprechts-Univ. zu Heidelberg \u00fcberreicht von Rector u. Senat d. Rheinischen Friedrich-Wilhelms-Univ.).",
+        "authors": [
+            "Margaret (st, of Antioch.)"
+        ],
+        "pageCount": 94,
+        "language": "el"
+    },
+    {
+        "title": "Adjustment and Equity in C\u00f4te D'Ivoire",
+        "authors": [
+            "Hartmut Schneider (economia)",
+            "Winifred Weekes-Vagliani",
+            "Organisation for Economic Co-operation and Development. Development Centre"
+        ],
+        "pageCount": 178,
+        "language": "en"
+    },
+    {
+        "title": "Advances in X-ray Diffractometry and X-ray Spectrography",
+        "authors": [
+            "William Parrish"
+        ],
+        "pageCount": 233,
+        "language": "en"
+    },
+    {
+        "title": "African American Clinical Psychologists' Q-sort Conceptualizations of Optimal Mental Health",
+        "authors": [
+            "Antoinette Elizabeth Kavanaugh"
+        ],
+        "pageCount": 300,
+        "language": "en"
+    },
+    {
+        "title": "Agricultural Growing Degree Days in South Carolina",
+        "authors": [
+            "Alex J. Kish"
+        ],
+        "pageCount": 48,
+        "language": "en"
+    },
+    {
+        "title": "Ajax cum lectionibus codicum Laurentianorum ex schedis P. Elmsleii et selecta annotatione interpretum",
+        "authors": [
+            "Sophocles"
+        ],
+        "pageCount": 164,
+        "language": "el"
+    },
+    {
+        "title": "Alieutikon biblia V. De Piscatu libri V. De Venatione libri IIII.",
+        "authors": [
+            "Oppianus (Anazarbensis)"
+        ],
+        "pageCount": 232,
+        "language": "el"
+    },
+    {
+        "title": "American Public Finance",
+        "authors": [
+            "William John Shultz",
+            "Clement Lowell Harriss"
+        ],
+        "pageCount": 724,
+        "language": "en"
+    },
+    {
+        "title": "Amvl\u014ds\u0113 sto 2. trimeles",
+        "authors": [
+            "Roula Kaklamanak\u0113"
+        ],
+        "pageCount": 102,
+        "language": "el"
+    },
+    {
+        "title": "An Analysis of the Settlement of Footings on Sand",
+        "authors": [
+            "Richard Wayne Christensen"
+        ],
+        "pageCount": 90,
+        "language": "en"
+    },
+    {
+        "title": "An Interview with William K. Reilly",
+        "authors": [
+            "Harold K. Steen"
+        ],
+        "pageCount": 168,
+        "language": "en"
+    },
+    {
+        "title": "An X Window-motif GUI for VISX",
+        "authors": [
+            "Angel J. Colon"
+        ],
+        "pageCount": 252,
+        "language": "en"
+    },
+    {
+        "title": "An t'Iliad. Air chogadh na Tro \u0301ighe ...",
+        "authors": [
+            "Homer"
+        ],
+        "pageCount": 436,
+        "language": "el"
+    },
+    {
+        "title": "Analyse Des Bordereaux D'exp\u00e9dition; Le Trafic-wagons Enti\u00e8rement Ferroviaire",
+        "authors": [
+            "Canadian Transport Commission. Economic and Social Analysis Branch"
+        ],
+        "pageCount": 116,
+        "language": "en"
+    },
+    {
+        "title": "Andronikos K. D\u0113m\u0113trakopoulos 1826-1872",
+        "authors": [
+            "Theod\u014dros G. Papage\u014drgiou"
+        ],
+        "pageCount": 26,
+        "language": "el"
+    },
+    {
+        "title": "Anecdota graeca e codd. manuscriptis Bibliothecae regiae parisiensis",
+        "authors": [
+            "John Anthony Cramer"
+        ],
+        "pageCount": 442,
+        "language": "el"
+    },
+    {
+        "title": "Angina Pectoris with Normal Coronary Arteries: Syndrome X",
+        "authors": [
+            "Juan Carlos Kaski"
+        ],
+        "pageCount": 310,
+        "language": "en"
+    },
+    {
+        "title": "Annales de L'Institut Oc\u00e9anographique",
+        "authors": [
+            "Institut oc\u00e9anographique"
+        ],
+        "pageCount": 146,
+        "language": "en"
+    },
+    {
+        "title": "Annotated Catalogue of the Butterflies of New Hampshire",
+        "authors": [
+            "New Hampshire Agricultural Experiment Station"
+        ],
+        "pageCount": 38,
+        "language": "en"
+    },
+    {
+        "title": "Annuaire de l'Association d'\u00e9tudes byzantines",
+        "authors": [
+            "Hetaireia Vyzantin\u014dn Spoud\u014dn"
+        ],
+        "pageCount": 572,
+        "language": "el"
+    },
+    {
+        "title": "Annual Report",
+        "authors": [
+            "Organization of American States. General Secretariat"
+        ],
+        "pageCount": 424,
+        "language": "en"
+    },
+    {
+        "title": "Antiphon et Andocides.-t.2. Lysias.-t.3. Isocrates.-t.4. Isaeus et Dinarchus etc.-t.5-11. Demosthenes.-t.12. Aeschines.-t.13. Antiphontis, Andocidis et Lysiae interpretatio latina.-t.14. Isocratis, Isaei Dinarchi, Lycurgi, Demadis et sophistarum interpretatio latina.-t.15. Demosthenis interpretatio latina.-t.16. Demosthenis et Aeschinis interpretatio latina",
+        "authors": [
+            "William Stephen Dobson"
+        ],
+        "pageCount": 476,
+        "language": "el"
+    },
+    {
+        "title": "Antologia greca ad uso dei ginnasi e dei licei per Bartolomeo Bona",
+        "authors": [
+            "Bartolomeo Bona"
+        ],
+        "pageCount": 288,
+        "language": "el"
+    },
+    {
+        "title": "Apollonii Argonautica. Emendavit, apparatum criticum et prolegomena adiecit R. Merkel. Scholia vetera e codice Laurentiano edidit Henricus Keil",
+        "authors": [
+            "Apollonius (Rhodius.)"
+        ],
+        "pageCount": 772,
+        "language": "el"
+    },
+    {
+        "title": "Apologiae F. Aegidii a Cesaro ... in Catalatinon Nathanaelis Xhichae Atheniensis",
+        "authors": [
+            "Aegidius (a Cesaro)"
+        ],
+        "pageCount": 372,
+        "language": "el"
+    },
+    {
+        "title": "Apomn\u0113moneumata Souli\u014dtou ag\u014dnistou tou Eikosiena S. Tzip\u0113",
+        "authors": [
+            "S. Tzip\u0113s"
+        ],
+        "pageCount": 196,
+        "language": "el"
+    },
+    {
+        "title": "Appendix to the Journals of the House of Representatives of New Zealand",
+        "authors": [
+            "New Zealand. Parliament. House of Representatives"
+        ],
+        "pageCount": 1374,
+        "language": "en"
+    },
+    {
+        "title": "Aristophanis Nubes cum scholiis antiquis e recens. L. Kusteri in usum lectionum cum praefatione Io. Augusti Ernestii in qua scholia pluribus locis emendantur illustrantur",
+        "authors": [
+            "Aristophanes"
+        ],
+        "pageCount": 296,
+        "language": "el"
+    },
+    {
+        "title": "Aristophanous k\u014dm\u014ddiai. Aristophanis comoediae, emendatae a P. Invernizio [ed. by C.D. Beckius and C.W. Dindorf]. 13 vol. [in 14].",
+        "authors": [
+            "Aristophanes"
+        ],
+        "pageCount": 730,
+        "language": "el"
+    },
+    {
+        "title": "Aristotelis opera, ex recens. I. Bekkenri. Accedunt indices Sylburgiani",
+        "authors": [
+            "Aristoteles"
+        ],
+        "pageCount": 256,
+        "language": "el"
+    },
+    {
+        "title": "Arrian's Anabasis ... Herausgegeben von G. Hartmann",
+        "authors": [
+            "Flavius ARRIANUS"
+        ],
+        "pageCount": 194,
+        "language": "el"
+    },
+    {
+        "title": "Artemidori Daldiani & Achmetis Sereimi F. Oneirocritica",
+        "authors": [
+            "Artemidorus (Daldianus)",
+            "Mu\u1e25ammad Ibn-S\u012br\u012bn"
+        ],
+        "pageCount": 324,
+        "language": "el"
+    },
+    {
+        "title": "Aspects of the Host-parasite Relationships of Nematodes and Hairy Vetch",
+        "authors": [
+            "Richard B. Malek"
+        ],
+        "pageCount": 46,
+        "language": "en"
+    },
+    {
+        "title": "Astronomical Observations of the 807 GHz CO J",
+        "authors": [
+            "Andrew Irwin Harris"
+        ],
+        "pageCount": 270,
+        "language": "en"
+    },
+    {
+        "title": "Atmospheric Transport and Deposition of Polychlorinated Dibenzo-p-dioxins and Dibenzofurans",
+        "authors": [
+            "Brian David Eitzer"
+        ],
+        "pageCount": 362,
+        "language": "en"
+    },
+    {
+        "title": "Attenuation of Sinusoidal Disturbances in Nonviscous Liquid Flowing in a Long Line with Distributed Leakage",
+        "authors": [
+            "Robert J. Blade",
+            "Carl M. Holland"
+        ],
+        "pageCount": 34,
+        "language": "en"
+    },
+    {
+        "title": "Atti del Symposium internazionale di storia, metodologia, logica e filosofia della scienza",
+        "authors": [
+            "Comitato nazionale per le manifestazioni celebrative del 4\u00b0 centenario della nascita di Galileo Galilei. Convegno (1964, 14-16 septembre. Florence-Pise)",
+            "Symposium internazionale di storia, metodologia, logica e filosofia della scienza, Florence and Pisa, 1964"
+        ],
+        "pageCount": 570,
+        "language": "en"
+    },
+    {
+        "title": "B. Theodoreti Episcopi Cyri Opera omnia",
+        "authors": [
+            "Theodoret (Bishop of Cyrrhus.)"
+        ],
+        "pageCount": 710,
+        "language": "el"
+    },
+    {
+        "title": "B. Theodoreti Interpretatio Psalmorum",
+        "authors": [
+            "Theodoretus (Cyrrhensis)"
+        ],
+        "pageCount": 1034,
+        "language": "el"
+    },
+    {
+        "title": "BABADADA black-and-white, Alemannisch - Ellinik\u00e1 (se metagraf\u00bf), Bildw\u00f6rterbuech - eikonografim\u00bfno lexik\u00bf",
+        "authors": [
+            "Babadada Gmbh"
+        ],
+        "pageCount": 93,
+        "language": "el"
+    },
+    {
+        "title": "Bd. Der Jesajakommentar, hrsg. von J. Ziegler",
+        "authors": [
+            "Eusebius (of Caesarea, Bishop of Caesarea)"
+        ],
+        "pageCount": 536,
+        "language": "el"
+    },
+    {
+        "title": "Bd. Die Kirchengeschichte, hrsg. von E. Schwartz. Die lateinische \u00dcbersetzung des Rufinus, bearb. von T. Mommsen. 3 v",
+        "authors": [
+            "Eusebius (of Caesarea, Bishop of Caesarea)"
+        ],
+        "pageCount": 532,
+        "language": "el"
+    },
+    {
+        "title": "Bd. Die Praeparatio evangelica, hrsg. von K. Mras. 2 v",
+        "authors": [
+            "Eusebius (of Caesarea, Bishop of Caesarea)"
+        ],
+        "pageCount": 682,
+        "language": "el"
+    },
+    {
+        "title": "Bd. Die Praeparatio evangelica, hrsg. von K. Mras. 2 v",
+        "authors": [
+            "Eusebius (of Caesarea, Bishop of Caesarea)"
+        ],
+        "pageCount": 682,
+        "language": "el"
+    },
+    {
+        "title": "Behavioral Testing During a 7-day Confinement",
+        "authors": [
+            "Rollin Mark Patton",
+            "Robert J. Randle"
+        ],
+        "pageCount": 24,
+        "language": "en"
+    },
+    {
+        "title": "Bernice P. Bishop Museum Bulletin",
+        "authors": [
+            "Bernice Pauahi Bishop Museum"
+        ],
+        "pageCount": 52,
+        "language": "en"
+    },
+    {
+        "title": "Better X-ray Interpretation",
+        "authors": [
+            "Kathy J. Scheffer",
+            "Richard S. Tobin"
+        ],
+        "pageCount": 376,
+        "language": "en"
+    },
+    {
+        "title": "Bibliographic Series",
+        "authors": [
+            "Institute of Paper Chemistry (Appleton, Wis.)"
+        ],
+        "pageCount": 816,
+        "language": "en"
+    },
+    {
+        "title": "Biennial Report of the State Energy Commission",
+        "authors": [
+            "California Energy Commission"
+        ],
+        "pageCount": 244,
+        "language": "en"
+    },
+    {
+        "title": "Blues Chased a Rabbit",
+        "authors": [
+            "Seymour Blicker"
+        ],
+        "pageCount": 320,
+        "language": "en"
+    },
+    {
+        "title": "Bone Mineral Measurement from Apollo Experiment M-078",
+        "authors": [
+            "John M. Vogel"
+        ],
+        "pageCount": 82,
+        "language": "en"
+    },
+    {
+        "title": "Brooks Guar",
+        "authors": [
+            "Ralph S. Matlock"
+        ],
+        "pageCount": 16,
+        "language": "en"
+    },
+    {
+        "title": "Budget d'investissement de l'exercise ...",
+        "authors": [
+            "Paris (France)"
+        ],
+        "pageCount": 390,
+        "language": "el"
+    },
+    {
+        "title": "Bulletin",
+        "authors": [
+            "Hugh Wilbur Bennett"
+        ],
+        "pageCount": 39,
+        "language": "en"
+    },
+    {
+        "title": "Bulletin",
+        "authors": [
+            "Robert M. Dimit"
+        ],
+        "pageCount": 44,
+        "language": "en"
+    },
+    {
+        "title": "Bulletin",
+        "authors": [
+            "Ernest William Callenbach"
+        ],
+        "pageCount": 36,
+        "language": "en"
+    },
+    {
+        "title": "Bulletin",
+        "authors": [
+            "Ralph Porter Tittsler"
+        ],
+        "pageCount": 24,
+        "language": "en"
+    },
+    {
+        "title": "Bulletin",
+        "authors": [
+            "Kenneth Hayes Myers"
+        ],
+        "pageCount": 18,
+        "language": "en"
+    },
+    {
+        "title": "Bulletin",
+        "authors": [
+            "C. T. Ames"
+        ],
+        "pageCount": 24,
+        "language": "en"
+    },
+    {
+        "title": "Bulletin",
+        "authors": [
+            "Charles W. Rutschky"
+        ],
+        "pageCount": 44,
+        "language": "en"
+    },
+    {
+        "title": "Bulletin",
+        "authors": [
+            "Karl Gertel"
+        ],
+        "pageCount": 48,
+        "language": "en"
+    },
+    {
+        "title": "Bulletin",
+        "authors": [
+            "Dorothy Dickins"
+        ],
+        "pageCount": 38,
+        "language": "en"
+    },
+    {
+        "title": "Bulletin",
+        "authors": [
+            "Robert M. Dimit"
+        ],
+        "pageCount": 44,
+        "language": "en"
+    },
+    {
+        "title": "Bulletin",
+        "authors": [
+            "George H. Watrous"
+        ],
+        "pageCount": 30,
+        "language": "en"
+    },
+    {
+        "title": "Bulletin Trimestriel de Statistiques de L'acier Pour L'Europe",
+        "authors": [
+            "United Nations. Economic Commission for Europe"
+        ],
+        "pageCount": 884,
+        "language": "en"
+    },
+    {
+        "title": "Bulletin of the Agricultural Experiment Station of the University of Tennessee, State Agricultural and Mechanical College",
+        "authors": [
+            "James G. Snell"
+        ],
+        "pageCount": 48,
+        "language": "en"
+    },
+    {
+        "title": "Bunny",
+        "authors": [
+            "Rachael O'Neill"
+        ],
+        "pageCount": 8,
+        "language": "en"
+    },
+    {
+        "title": "Byzance et l'hell\u00e9nisme",
+        "authors": [
+            "Association Pierre Belon"
+        ],
+        "pageCount": 210,
+        "language": "el"
+    },
+    {
+        "title": "C and the 8051: Hardware, modular programming, and multitasking",
+        "authors": [
+            "Thomas W. Schultz"
+        ],
+        "pageCount": 474,
+        "language": "en"
+    },
+    {
+        "title": "C- and C* -quotients in Pointfree Topology",
+        "authors": [
+            "Richard N. Ball",
+            "Joanne Walters-Wayland"
+        ],
+        "pageCount": 70,
+        "language": "en"
+    },
+    {
+        "title": "C. Julii Caesaris Commentariorum de bello Gallico libri septem in graecum sermonem translati",
+        "authors": [
+            "Julius Caesar"
+        ],
+        "pageCount": 540,
+        "language": "el"
+    },
+    {
+        "title": "C/C++ Programmer's Reference",
+        "authors": [
+            "Herbert Schildt"
+        ],
+        "pageCount": 420,
+        "language": "en"
+    },
+    {
+        "title": "CALIPSO Dramma per Musica in due Atti dal Sigr. P. Winter. Calypso Oper, in Musik gesezt von P. WINTER ... im Klavierauszuge vom Musikdir. M. G. Fischer",
+        "authors": [
+            "Peter von Winter"
+        ],
+        "pageCount": 137,
+        "language": "el"
+    },
+    {
+        "title": "Cahiers Du Centre D'\u00e9tudes Irlandaises",
+        "authors": [
+            "Universit\u00e9 de Haute Bretagne. Centre d'\u00e9tudes irlandaises"
+        ],
+        "pageCount": 458,
+        "language": "en"
+    },
+    {
+        "title": "Canon EOS Digital Rebel XTi Digital Field Guide",
+        "authors": [
+            "Charlotte K Lowrie"
+        ],
+        "pageCount": 263,
+        "language": "en"
+    },
+    {
+        "title": "Capital Flows Among the G-7 Nations",
+        "authors": [
+            "Michael Feroli"
+        ],
+        "pageCount": 25,
+        "language": "en"
+    },
+    {
+        "title": "Cases on Code Pleading",
+        "authors": [
+            "Seward Phillips Reese"
+        ],
+        "pageCount": 766,
+        "language": "en"
+    },
+    {
+        "title": "Catalog of the Melville J. Herskovits Library of African Studies, Northwestern University Library (Evanston, Illinois) and Africana in Selected Libraries",
+        "authors": [
+            "Melville J. Herskovits Library of African Studies"
+        ],
+        "pageCount": 674,
+        "language": "en"
+    },
+    {
+        "title": "Catalogue des manuscrits alchimiques grecs ...",
+        "authors": [
+            "Union acad\u00e9mique internationale"
+        ],
+        "pageCount": 388,
+        "language": "el"
+    },
+    {
+        "title": "Catalogue g\u00e9n\u00e9ral des antiquit\u00e9s \u00e9gyptiennes du Mus\u00e9e du Caire",
+        "authors": [
+            "Mat\u1e25af al-Mi\u1e63r\u012b"
+        ],
+        "pageCount": 328,
+        "language": "el"
+    },
+    {
+        "title": "Causes of Pithiness in Sweet Potatoes",
+        "authors": [
+            "Leaton John Kushman"
+        ],
+        "pageCount": 34,
+        "language": "en"
+    },
+    {
+        "title": "Cavitation Similarity Considerations Based on Measured Pressure and Temperature Depressions in Cavitated Regions of Freon 114",
+        "authors": [
+            "Thomas F. Gelder",
+            "Robert S. Ruggeri",
+            "Royce D. Moore"
+        ],
+        "pageCount": 42,
+        "language": "en"
+    },
+    {
+        "title": "Cellular Proteins Associated with SV40 Small-T Antigen",
+        "authors": [
+            "Yu-Chung Yang"
+        ],
+        "pageCount": 126,
+        "language": "en"
+    },
+    {
+        "title": "Census Reports",
+        "authors": [
+            "United States. Census Office"
+        ],
+        "pageCount": 1272,
+        "language": "en"
+    },
+    {
+        "title": "Charist\u0113rion eis Anastasion K. Orlandon",
+        "authors": [
+            "Charisterion eis Anastasion K"
+        ],
+        "pageCount": 1248,
+        "language": "el"
+    },
+    {
+        "title": "Charles Olson's Imago Mundi, H.D.'s Flowering of the Rod",
+        "authors": [
+            "John Scoggan"
+        ],
+        "pageCount": 182,
+        "language": "en"
+    },
+    {
+        "title": "Charlie B: a Biography of Admiral Lord Beresford of Metemmeh and Curraghmore, G.C.B., G.C.V.O., LL.D., D.C.L.",
+        "authors": [
+            "Geoffrey Martin Bennett"
+        ],
+        "pageCount": 426,
+        "language": "en"
+    },
+    {
+        "title": "Chemical Sagebrush Control-- Good and Bad",
+        "authors": [
+            "Dale W. Bohmont"
+        ],
+        "pageCount": 16,
+        "language": "en"
+    },
+    {
+        "title": "Chronikon ... eis tessara biblia diairethen, nyn proton ekdothen epimeleia Ph. K. Alter. (Chronicon in quatuor libros divisum, edente F. C. Altero.)",
+        "authors": [
+            "Georgios Phrantzes"
+        ],
+        "pageCount": 218,
+        "language": "el"
+    },
+    {
+        "title": "Chrysler K-Cars (1981-84)",
+        "authors": [
+            "Larry W. Carley"
+        ],
+        "pageCount": 244,
+        "language": "en"
+    },
+    {
+        "title": "Cibo, vita e cultura nelle collezioni del Museo archeologico nazionale di Mantova",
+        "authors": [
+            "Elena Maria Menotti",
+            "Museo archeologico nazionale (Mantua, Italy)"
+        ],
+        "pageCount": 284,
+        "language": "en"
+    },
+    {
+        "title": "Clementina, herausg. von P. de Lagarde",
+        "authors": [
+            "Clement I ((st) pope)"
+        ],
+        "pageCount": 246,
+        "language": "el"
+    },
+    {
+        "title": "Cluster Analysis for Researchers",
+        "authors": [
+            "H. Charles Romesburg"
+        ],
+        "pageCount": 364,
+        "language": "en"
+    },
+    {
+        "title": "Collection of Oil Paintings Belonging to the Late John G. Watmough ...",
+        "authors": [
+            "John G. Watmough"
+        ],
+        "pageCount": 108,
+        "language": "en"
+    },
+    {
+        "title": "Colloque d'Ath\u00e8nes, 10-9--18-9, 1961: Eaux souterraines dans les zones arides",
+        "authors": [
+            "International Association of Scientific Hydrology"
+        ],
+        "pageCount": 466,
+        "language": "en"
+    },
+    {
+        "title": "Commentaires de Pappus et de Th\u00e9on d'Alexandrie sur l'Almageste",
+        "authors": [
+            "Pappus (of Alexandria.)"
+        ],
+        "pageCount": 536,
+        "language": "el"
+    },
+    {
+        "title": "Compte Rendu de la Conf\u00e9rence de L'Ex\u00e9cutif Elargi de L'Internationale Communiste",
+        "authors": [
+            "Communist International. Executive Committee"
+        ],
+        "pageCount": 274,
+        "language": "en"
+    },
+    {
+        "title": "Concilium universale ephesenum. 5 v. in 12",
+        "authors": [
+            "Catholic Church. Councils"
+        ],
+        "pageCount": 172,
+        "language": "el"
+    },
+    {
+        "title": "Constantini Imperatoris porphyrogeniti, de Administrando Imperio, ad Romanum F.",
+        "authors": [
+            "Joannes Meursius"
+        ],
+        "pageCount": 331,
+        "language": "el"
+    },
+    {
+        "title": "Contributions from the Gray Herbarium of Harvard University",
+        "authors": [
+            "Harvard University. Gray Herbarium"
+        ],
+        "pageCount": 1158,
+        "language": "en"
+    },
+    {
+        "title": "Crise\u014ds Griesbachian\u00e6 in Novum Testamentum synopsis, ed. J. White",
+        "authors": [
+            "Johann Jacob Griesbach"
+        ],
+        "pageCount": 252,
+        "language": "el"
+    },
+    {
+        "title": "D. D\u0113m\u0113trakou Mega lexikon t\u0113s Hell\u0113nik\u0113s gl\u014dss\u0113s ...",
+        "authors": [
+            "I\u014dann\u0113s Spyrid\u014dnos Zerbos"
+        ],
+        "pageCount": 930,
+        "language": "el"
+    },
+    {
+        "title": "D. Hieronymi Theologi Graeci Dialogus De S. Trinitate",
+        "authors": [
+            "Hieronymus (Hierosolymitanus)"
+        ],
+        "pageCount": 134,
+        "language": "el"
+    },
+    {
+        "title": "D. Wayne: the High-Rolling and Fast Times of America's Premier Horse Trainer",
+        "authors": [
+            "Carlo DeVito"
+        ],
+        "pageCount": 406,
+        "language": "en"
+    },
+    {
+        "title": "Daniel D. Tompkins: Governor of New York and Vice President of the United States",
+        "authors": [
+            "Ray Watkins Irwin"
+        ],
+        "pageCount": 368,
+        "language": "en"
+    },
+    {
+        "title": "Data Comparisons and Photographic Observations of Coaxial Mixing of Dissimilar Gases at Nearly Equal Stream Velocities",
+        "authors": [
+            "Robert G. Ragsdale",
+            "Oliver J. Edwards"
+        ],
+        "pageCount": 26,
+        "language": "en"
+    },
+    {
+        "title": "Davis Stockton of Virginia",
+        "authors": [
+            "Leona Irene Smith Johnson",
+            "Winfred Broadus Smith"
+        ],
+        "pageCount": 474,
+        "language": "en"
+    },
+    {
+        "title": "De opificio mundi. Legum allegoriarum (I-III). De Cherubim. De sacrificiis Abelis et Caini. Quod deterius potiori insidiari soleat",
+        "authors": [
+            "Leopold Cohn"
+        ],
+        "pageCount": 430,
+        "language": "el"
+    },
+    {
+        "title": "Decision[s].",
+        "authors": [
+            "California. Environmental Protection Agency. State Water Resources Control Board"
+        ],
+        "pageCount": 548,
+        "language": "en"
+    },
+    {
+        "title": "Deck Log Book of the R/V Roger Revelle",
+        "authors": [
+            "Roger Revelle (Ship)"
+        ],
+        "pageCount": 78,
+        "language": "en"
+    },
+    {
+        "title": "Deck Log Book of the R/V Roger Revelle",
+        "authors": [
+            "Roger Revelle (Ship)"
+        ],
+        "pageCount": 78,
+        "language": "en"
+    },
+    {
+        "title": "Deck Log Book of the R/V Sally Ride",
+        "authors": [
+            "Sally Ride (Ship)"
+        ],
+        "pageCount": 78,
+        "language": "en"
+    },
+    {
+        "title": "Declaraci\u00f3n sobre la no prescripci\u00f3n de cr\u00edmenes de guerra y cr\u00edmenes contra la humanidad",
+        "authors": [
+            "G\u0142\u00f3wna Komisja Badania Zbrodni Hitlerowskich w Polsce"
+        ],
+        "pageCount": 48,
+        "language": "en"
+    },
+    {
+        "title": "Demosthenous logoi, kai prooimia d?m?gorika, kai epistolai",
+        "authors": [
+            "Dem\u00f3stenes"
+        ],
+        "pageCount": 864,
+        "language": "el"
+    },
+    {
+        "title": "Des Gaius Institutionen lat. u. neugr. von S. Andronis mit Noten des franz. Uebersetzers L. Domenchet",
+        "authors": [
+            "Gaius"
+        ],
+        "pageCount": 496,
+        "language": "el"
+    },
+    {
+        "title": "Des Gaius Institutionen lat. u. neugr. von S. Andronis mit Noten des franz. Uebersetzers L. Domenchet",
+        "authors": [
+            "Gaius"
+        ],
+        "pageCount": 496,
+        "language": "el"
+    },
+    {
+        "title": "Desire",
+        "authors": [
+            "Georgia Hampton"
+        ],
+        "pageCount": 358,
+        "language": "en"
+    },
+    {
+        "title": "Development and Implementation of a Quality-assured, Peer-instructional Model",
+        "authors": [
+            "Kenneth Weingarten",
+            "Jacklyn E. Hungerland",
+            "Mark F. Brennan"
+        ],
+        "pageCount": 86,
+        "language": "en"
+    },
+    {
+        "title": "Development of a Muscle Cell Culture Bioassay for Serum-borne Growth Factors Affecting Protein Turnover",
+        "authors": [
+            "Maureen Ann Mackey"
+        ],
+        "pageCount": 594,
+        "language": "en"
+    },
+    {
+        "title": "Dictionarium latino-graecum, sive synonymorum D. M(artini) R(uland) Pars ...",
+        "authors": [
+            "Martin Ruland"
+        ],
+        "pageCount": 1104,
+        "language": "el"
+    },
+    {
+        "title": "Dictionarium latino-graecum, sive synonymorum D. M(artini) R(uland) Pars ...",
+        "authors": [
+            "Martin Ruland"
+        ],
+        "pageCount": 934,
+        "language": "el"
+    },
+    {
+        "title": "Die Pseudoklementinen",
+        "authors": [
+            "Clemens I (p\u00e5ve)"
+        ],
+        "pageCount": 568,
+        "language": "el"
+    },
+    {
+        "title": "Die Pseudoklementinen",
+        "authors": [
+            "Clemens I (p\u00e5ve)"
+        ],
+        "pageCount": 568,
+        "language": "el"
+    },
+    {
+        "title": "Die byzantinischen Ranglisten nach dem Kletorologion Philothei (De Cer, I, II c.52) und nach den Jerusalemer Handschriften zusammengestellt und revidiert",
+        "authors": [
+            "Vladimir Nikolaevi\u010d Bene\u0161evi\u010d"
+        ],
+        "pageCount": 84,
+        "language": "el"
+    },
+    {
+        "title": "Die byzantinischen Ranglisten nach dem Kletorologion Philothei (De Cer, I, II c.52) und nach den Jerusalemer Handschriften zusammengestellt und revidiert",
+        "authors": [
+            "Vladimir Nikolaevi\u010d Bene\u0161evi\u010d"
+        ],
+        "pageCount": 84,
+        "language": "el"
+    },
+    {
+        "title": "Dikaiarchou tou Messeniou AnagraphL\u00b7 kai bios Hellados. Ann\u014dnos periplous LibuL\u00b7s. NikL\u00b7phorou tou Blemmidou gheographia sunoptikL\u00b7. Tou autou historia peri tes ghL\u00b7s en sunopsei. Cum Lucae Holstenii lucubrationibus ad priora duo opuscula. Accesserunt ad coeteros geographiae auctores Holstenii item notulae non antea editae. Haec omnia cura ac studio Gulielmi Manzi Bibliothecae Barberinae praefecti in lucem diemque proferuntur",
+        "authors": [
+            "Dicaearchus : Messenius"
+        ],
+        "pageCount": 124,
+        "language": "el"
+    },
+    {
+        "title": "Diogenis Laertii Socrates et Plato, nec non Aristoteles de mundo, curavit M. Helfrecht",
+        "authors": [
+            "Diogenes (Laertius.)"
+        ],
+        "pageCount": 88,
+        "language": "el"
+    },
+    {
+        "title": "Dionysii Halicarnassensis Operum volumen quartum, antiquitatem Romanarum libros X. et XI. tenens, Graece et Latine",
+        "authors": [
+            "Dionysius Halicarnassensis",
+            "Henricus Dodwell"
+        ],
+        "pageCount": 770,
+        "language": "el"
+    },
+    {
+        "title": "Directory of Physicians and Surgeons, Osteopaths, Drugless Practitioners, Chiropodists, Midwives Holding Certificates Issued Under the Medical Practice Acts of the State of California",
+        "authors": [
+            "California. Board of Medical Examiners"
+        ],
+        "pageCount": 894,
+        "language": "en"
+    },
+    {
+        "title": "District Census Handbook: Series 19: Tamil Nadu: A-C. Kanyakumari (3 v. )",
+        "authors": [
+            "India. Director of Census Operations, Tamil Nadu"
+        ],
+        "pageCount": 494,
+        "language": "en"
+    },
+    {
+        "title": "Diuina liturgia sancti apostoli et euangelist\u00e6 Marci, discipuli S. Petri , \u00e8 Gr\u00e6co sermone in Latinum conuersa",
+        "authors": [
+            "Chiesa cattolica"
+        ],
+        "pageCount": 140,
+        "language": "el"
+    },
+    {
+        "title": "Documentary History of the Dwight D. Eisenhower Presidency: The Eisenhower administration and the Brown v. Board of Education decision, 1954-1955",
+        "authors": [
+            "Nancy Beck Young"
+        ],
+        "pageCount": 540,
+        "language": "en"
+    },
+    {
+        "title": "Documents",
+        "authors": [
+            "United Nations. Trusteeship Council"
+        ],
+        "pageCount": 838,
+        "language": "en"
+    },
+    {
+        "title": "Dokimion peri anakrise\u014ds h ... the\u014dr\u0113tik\u0113 kai praktik\u0113 anaptuxis t\u014dn arch\u014dn",
+        "authors": [
+            "K. Bikelas"
+        ],
+        "pageCount": 219,
+        "language": "el"
+    },
+    {
+        "title": "Don't Explain",
+        "authors": [
+            "Betsy Sholl"
+        ],
+        "pageCount": 98,
+        "language": "en"
+    },
+    {
+        "title": "Don't Get Mad, Get Funny!",
+        "authors": [
+            "Leigh Anne Jasheway"
+        ],
+        "pageCount": 132,
+        "language": "en"
+    },
+    {
+        "title": "Don't Just Stand There!",
+        "authors": [
+            "Inez Robb"
+        ],
+        "pageCount": 324,
+        "language": "en"
+    },
+    {
+        "title": "Don't Miss Out",
+        "authors": [
+            "Anna J. Leider",
+            "Octameron Associates"
+        ],
+        "pageCount": 216,
+        "language": "en"
+    },
+    {
+        "title": "Draconis Stratonicensis [or rather J. Diassorinus] Liber de metris poeticis. Ioannis Tzetzae Exegesis in Homeri Iliadem, ed. G. Hermannus. [With] Appendix, complectens Trichae, Eliae monachi et Herodiani tractatus de metris, ed. F. de Furia. [3 pt. In Gr.].",
+        "authors": [
+            "Jacobus Diassorinus"
+        ],
+        "pageCount": 494,
+        "language": "el"
     },
     {
         "title": "Driving Over a Cliff?",
         "authors": [
             "Graeme P. Maxton",
             "John Wormald"
-        ]
+        ],
+        "pageCount": 296,
+        "language": "en"
     },
     {
-        "title": "Understanding Economics",
+        "title": "Dru\u0161tveni i istoriski spisi",
         "authors": [
-            "Mark A. Lovewell"
-        ]
+            "Srpska akademija nauka i umetnosti"
+        ],
+        "pageCount": 292,
+        "language": "el"
     },
     {
-        "title": "A Survey of the Literature on Human Error",
+        "title": "D\u0113m. Bik\u0113las, Em. Lykoud\u0113s, D. Kampouroglous kai alloi",
         "authors": [
-            "Richard E. Hurlock"
-        ]
+            "D\u0113m\u0113tr\u0113s Giakos"
+        ],
+        "pageCount": 376,
+        "language": "el"
     },
     {
-        "title": "A Summer in Touraine",
+        "title": "E [series Circulars].",
         "authors": [
-            "Frederic Lees"
-        ]
+            "United States. Bureau of Entomology and Plant Quarantine"
+        ],
+        "pageCount": 918,
+        "language": "en"
     },
     {
-        "title": "A Renegade in Springtime",
+        "title": "Earthquake Reports, New Zealand and Fiji",
         "authors": [
-            "Edward Upward"
-        ]
+            "Seismological Observatory (N.Z.)"
+        ],
+        "pageCount": 596,
+        "language": "en"
     },
     {
-        "title": "Searching for a Past",
+        "title": "Ecole D'\u00e9t\u00e9 de Probabilit\u00e9s de Saint-Flour XV-XVII, 1985-87",
         "authors": [
-            "Jayne E. Schooler"
-        ]
+            "Persi Diaconis"
+        ],
+        "pageCount": 482,
+        "language": "en"
+    },
+    {
+        "title": "Economic Organisation and Development [by J. Kudsia]",
+        "authors": [
+            "Jitendra Kudsia"
+        ],
+        "pageCount": 320,
+        "language": "en"
+    },
+    {
+        "title": "Ed\u014d k' ekei",
+        "authors": [
+            "Bamp\u0113s Anninos"
+        ],
+        "pageCount": 272,
+        "language": "el"
+    },
+    {
+        "title": "Effects of Sprays of Lime Sulfur and of Elemental Sulfur on Apple in Relation to Yield",
+        "authors": [
+            "W. D. Mills"
+        ],
+        "pageCount": 38,
+        "language": "en"
+    },
+    {
+        "title": "Effects of in Utero and Lactational 2,3,7,8-tetrachlorodibenzo-p-dioxin Exposure on the Male Reproductive System in the Rat",
+        "authors": [
+            "Thomas A. Mably"
+        ],
+        "pageCount": 510,
+        "language": "en"
+    },
+    {
+        "title": "Efficient Characterization of Protein-protein Interfaces Involved in Cellular Signaling",
+        "authors": [
+            "Michael Lloyd Reese"
+        ],
+        "pageCount": 103,
+        "language": "en"
+    },
+    {
+        "title": "Eleganti\u00e6 Gr\u00e6c\u00e6 Lingu\u00e6, seu locutionum Gr\u00e6carum formul\u00e6, e notationibus ... M. Neandri ... collect\u00e6 ... a J. Vollando",
+        "authors": [
+            "Michael NEANDER (of Sorau.)"
+        ],
+        "pageCount": 254,
+        "language": "el"
+    },
+    {
+        "title": "Elementarna gramat\u012bka \u012btal\u012bjanskog jez\u012bka (Kleine italienische sprachlehre, f\u00fcr Serben) \u012bzrad\u012bo Voj\u012bslav M. Petrov\u012bc (Woislav M. Petrovitch).",
+        "authors": [
+            "Voj\u012bslav M. Petrov\u012b\u0107"
+        ],
+        "pageCount": 182,
+        "language": "el"
+    },
+    {
+        "title": "Elements of Chemistry",
+        "authors": [
+            "Antoine Laurent Lavoisier"
+        ],
+        "pageCount": 556,
+        "language": "en"
+    },
+    {
+        "title": "Elenchos tL\u00b7s pseudochristianikL\u00b7s katL\u00b7chL\u00b7seos Zachariou tou Gerganou apotL\u00b7n artL\u00b7n. Refutatio pseudochristianae catechesis editae a Zacharia Gergano Graeco. Auctore Io. Matthaeo Caryophilo archiepiscopo Iconiensi",
+        "authors": [
+            "Ioannes Matthaios Caryophyllos"
+        ],
+        "pageCount": 527,
+        "language": "el"
+    },
+    {
+        "title": "Emergency Responders Guide to Chemical Reactivity and Compatibility",
+        "authors": [
+            "Donald A. Drum"
+        ],
+        "pageCount": 586,
+        "language": "en"
+    },
+    {
+        "title": "Emergency Responders Guide to Chemical Reactivity and Compatibility",
+        "authors": [
+            "Donald A. Drum"
+        ],
+        "pageCount": 586,
+        "language": "en"
+    },
+    {
+        "title": "Energy Balances of OECD Countries",
+        "authors": [
+            "International Energy Agency",
+            "Organisation for Economic Co-operation and Development"
+        ],
+        "pageCount": 362,
+        "language": "en"
+    },
+    {
+        "title": "Energy Conservation Activity Packet: Grade K-2",
+        "authors": [
+            "Ruth Bakke"
+        ],
+        "pageCount": 100,
+        "language": "en"
+    },
+    {
+        "title": "Epimerismoi. Partitiones. E. codd. Parisinis",
+        "authors": [
+            "Aelius Herodianus"
+        ],
+        "pageCount": 340,
+        "language": "el"
+    },
+    {
+        "title": "Epistolae Genuinae S. Ignatii Martyris",
+        "authors": [
+            "Antiochenus Ignatius"
+        ],
+        "pageCount": 344,
+        "language": "el"
+    },
+    {
+        "title": "Epistolai tou agiou Isid\u014drou tou P\u0113lousi\u014dtou. S. Isidori Pelusiotae Epistolarum amplius mille ducentarum libri tres, nunc prim\u00f9m Graec\u00e8 editi. Quibus \u00e8 regione accessit latina ... Iacobi Billij Prunaei, ... interpretatio. Eiusdem Billij Sacrarum obseruatiomum libri duo. ..",
+        "authors": [
+            "Isidorus : Pelusiota santo (santo)"
+        ],
+        "pageCount": 20,
+        "language": "el"
+    },
+    {
+        "title": "Epistol\u0113 pros Phrankiskon K. Mauron",
+        "authors": [
+            "K\u014dnstantinos Micha\u0113l Koumas"
+        ],
+        "pageCount": 152,
+        "language": "el"
+    },
+    {
+        "title": "Equalizing Library Opportunities in South Dakota",
+        "authors": [
+            "Wendell Frichof Kumlien"
+        ],
+        "pageCount": 31,
+        "language": "en"
+    },
+    {
+        "title": "Equilibrium and Kinetic Studies of a Model Ligand-receptor System",
+        "authors": [
+            "Jon William Erickson"
+        ],
+        "pageCount": 342,
+        "language": "en"
+    },
+    {
+        "title": "Er\u014dtik\u014dn log\u014dn sungrapheis. Erotici scriptores Graeci, recogn. R. Hercher",
+        "authors": [
+            "Rudolf Hercher"
+        ],
+        "pageCount": 692,
+        "language": "el"
+    },
+    {
+        "title": "Esays in Honour of Professor Jac. P. Thijsse, on the Occasion of His Retirement as Professor of Comprehensive Planning of the Institute of Social Studies ... Edited by F. Van Schagen",
+        "authors": [
+            "Jacobus Pieter THIJSSE (Prof.Ir.)",
+            "F. van SCHAGEN"
+        ],
+        "pageCount": 175,
+        "language": "en"
+    },
+    {
+        "title": "Euripidis tragoediae, recens. et comm. instruxit A.J.E. Pflugk (R. Klotz). 3 voll. [in 11 sections].",
+        "authors": [
+            "Euripides"
+        ],
+        "pageCount": 434,
+        "language": "el"
+    },
+    {
+        "title": "Euripidis trag\u0153di\u00e6 ... Edidit R. Porson ... tom. I. Editio in Germania altera, ... auctior, etc",
+        "authors": [
+            "Euripides"
+        ],
+        "pageCount": 654,
+        "language": "el"
+    },
+    {
+        "title": "Euripidis trag\u0153di\u00e6 priores quatuor (\u1f19\u03ba\u03b1\u03b2\u03b7, \u1f48\u03c1\u03b5\u03c3\u03c4\u03b7\u03c2, \u03a6\u03bf\u03b9\u03bd\u03b9\u03c3\u03c3\u03b1\u03b9, \u039c\u03b7\u03b4\u03b5\u03b9\u03b1). Edidit R. Porson ... Recensuit, suasque notulas subjecit J. Scholefield",
+        "authors": [
+            "Euripides"
+        ],
+        "pageCount": 562,
+        "language": "el"
+    },
+    {
+        "title": "European Aspects. Series C: Politics",
+        "authors": [
+            "Radom\u00edr Lu\u017ea"
+        ],
+        "pageCount": 336,
+        "language": "en"
+    },
+    {
+        "title": "Eusebii Pamphili Historiae ecclesiasticae libri X",
+        "authors": [
+            "Eusebius (of Caesarea, Bishop of Caesarea)"
+        ],
+        "pageCount": 590,
+        "language": "el"
+    },
+    {
+        "title": "Evaluation of the Tetraploid X Diploid (4x X 2x) Mating Scheme and Its Efficiency in a New Breeding Program",
+        "authors": [
+            "Luigi Concilio"
+        ],
+        "pageCount": 344,
+        "language": "en"
+    },
+    {
+        "title": "Experimental Investigation of Transverse-mode Solid-propellant Combustion Instability in a Vortex Burner",
+        "authors": [
+            "Louis A. Povinelli",
+            "Marcus F. Heidmann",
+            "Charles E. Feiler"
+        ],
+        "pageCount": 42,
+        "language": "en"
+    },
+    {
+        "title": "Explaining the Productivity-diversity Relationship in Plants",
+        "authors": [
+            "Tara K. Rajaniemi"
+        ],
+        "pageCount": 534,
+        "language": "en"
+    },
+    {
+        "title": "Exposure to Adult Substance Use as a Risk Factor in Adolescent Substance Use Onset",
+        "authors": [
+            "Allison J. Tracy",
+            "Linda M. Collins",
+            "John W. Graham",
+            "Pennsylvania State University. College of Health and Human Development"
+        ],
+        "pageCount": 180,
+        "language": "en"
+    },
+    {
+        "title": "Expression Cloning Unknown CD4+ T-cell Antigens Presented by Class II MHC",
+        "authors": [
+            "Sarah Elizabeth Sanderson"
+        ],
+        "pageCount": 272,
+        "language": "en"
+    },
+    {
+        "title": "F. Scott Hess",
+        "authors": [
+            "F. Scott Hess",
+            "Hackett-Freedman Gallery"
+        ],
+        "pageCount": 36,
+        "language": "en"
+    },
+    {
+        "title": "Federal Income Taxation of S Corporations",
+        "authors": [
+            "James S. Eustice",
+            "Joel D. Kuntz"
+        ],
+        "pageCount": 1638,
+        "language": "en"
+    },
+    {
+        "title": "Feeding Cocoa Meal to Dairy Heifers",
+        "authors": [
+            "Howard Bowman Ellenberger"
+        ],
+        "pageCount": 30,
+        "language": "en"
+    },
+    {
+        "title": "Firmly I Believe",
+        "authors": [
+            "Raymond Chapman"
+        ],
+        "pageCount": 196,
+        "language": "en"
+    },
+    {
+        "title": "Fishes of the Yukon Coast",
+        "authors": [
+            "R. E. Kendel"
+        ],
+        "pageCount": 144,
+        "language": "en"
+    },
+    {
+        "title": "Flav. Jos. vitam, et Belli Jud. lib. I-IV",
+        "authors": [
+            "Flavius Josephus"
+        ],
+        "pageCount": 472,
+        "language": "el"
+    },
+    {
+        "title": "Forward Along the Path Charted by K. Marx",
+        "authors": [
+            "Tr\u01a1 \u0144\u0131g-Chinh"
+        ],
+        "pageCount": 148,
+        "language": "en"
+    },
+    {
+        "title": "French Records Relating to the History of the Marathas: Correspondence of M. Law de Lauriston, Governor of Pondicherry, 1765-1776, of M. Jean Baptiste Chevalier, Director of Bengal, 1767-1778, of M. de Montigny, French Agent at the Mughal Court and later on at the Maratha Court, 1777-1779 and others",
+        "authors": [
+            "V. G. Hatalkar"
+        ],
+        "pageCount": 446,
+        "language": "en"
+    },
+    {
+        "title": "G-1",
+        "authors": [
+            "Allied Forces. Army Group, 12th"
+        ],
+        "pageCount": 260,
+        "language": "en"
+    },
+    {
+        "title": "GA\u012bsh\u00falos@. Aeschyli tragoedi\u00e6 superstites et deperditarum fragmenta, ex recens. G. Dindorfii",
+        "authors": [
+            "Aeschylus"
+        ],
+        "pageCount": 582,
+        "language": "el"
+    },
+    {
+        "title": "GA\u012bsh\u00falos@. \u00c6schylus, recens. J. Scholefield. [With] Appendix",
+        "authors": [
+            "Aeschylus"
+        ],
+        "pageCount": 1078,
+        "language": "el"
+    },
+    {
+        "title": "Gen E",
+        "authors": [
+            "Brian O'Connell"
+        ],
+        "pageCount": 370,
+        "language": "en"
+    },
+    {
+        "title": "Genealogical and Personal History of Fayette County, Pennsylvania, 1912 by John W. Jordan and James Hadden",
+        "authors": [
+            "Lee Donovan"
+        ],
+        "pageCount": 192,
+        "language": "en"
+    },
+    {
+        "title": "Geochemical Modelling of Igneous Processes \u2013 Principles And Recipes in R Language",
+        "authors": [
+            "Vojt\u011bch Janou\u0161ek",
+            "Jean-Fran\u00e7ois Moyen",
+            "Herv\u00e9 Martin",
+            "Vojt\u011bch Erban",
+            "Colin Farrow"
+        ],
+        "pageCount": 346,
+        "language": "en"
+    },
+    {
+        "title": "Geografia fisica e politica della Sicilia antica",
+        "authors": [
+            "Eugenio Manni"
+        ],
+        "pageCount": 344,
+        "language": "el"
+    },
+    {
+        "title": "George C. Marshall",
+        "authors": [
+            "Forrest C. Pogue"
+        ],
+        "pageCount": 728,
+        "language": "en"
+    },
+    {
+        "title": "George S. Kaufman and His Friends",
+        "authors": [
+            "Scott Meredith"
+        ],
+        "pageCount": 802,
+        "language": "en"
+    },
+    {
+        "title": "Georgii Monachi, dicti Hamartoli Ghronicon (sic) ab orbe condito ad annum P. Chr. N. 842 et a diversis scriptoribus usque ad a. 1143 continuatum nunc primum ad fidem codicis Mosquensis, adjecta passim varietate reliquorum codicum nec non Leonis Grammatici et Cedreni et annotatis locis s. scripturae, patrum ecclesiastt. et ceterorum scriptorum in chronico laudatis annisque ante et post Chr. n. in margine adscriptis",
+        "authors": [
+            "Georgius (monachus.)"
+        ],
+        "pageCount": 1084,
+        "language": "el"
+    },
+    {
+        "title": "Germania [Geographiae lib. II, cap. XI] e codice mspto graeco antiquissimo",
+        "authors": [
+            "Ptolemy"
+        ],
+        "pageCount": 32,
+        "language": "el"
+    },
+    {
+        "title": "Germans to America",
+        "authors": [
+            "Ira A. Glazier",
+            "Percy William Filby"
+        ],
+        "pageCount": 688,
+        "language": "en"
+    },
+    {
+        "title": "Grammaire grecque \u00e0 l'usage du Coll\u00e9ge royal fran\u00e7ais",
+        "authors": [
+            "F. Weiland"
+        ],
+        "pageCount": 224,
+        "language": "el"
+    },
+    {
+        "title": "H \u039cercury \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03b6\u03b5\u03b9",
+        "authors": [
+            "Anthony Marra"
+        ],
+        "pageCount": 418,
+        "language": "el"
+    },
+    {
+        "title": "H \u03ba\u03c5\u03c1\u03af\u03b1 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03ba\u03b1\u03bc\u03ad\u03bb\u03b9\u03b5\u03c2",
+        "authors": [
+            "\u0391\u03bb\u03ad\u03be\u03b1\u03bd\u03b4\u03c1\u03bf\u03c2 \u0394\u03bf\u03c5\u03bc\u03ac\u03c2 (\u03c5\u03b9\u03cc\u03c2)"
+        ],
+        "pageCount": 320,
+        "language": "el"
+    },
+    {
+        "title": "H \u03c3\u03b9\u03c9\u03c0\u03b7\u03bb\u03ae \u03c3\u03cd\u03b6\u03c5\u03b3\u03bf\u03c2",
+        "authors": [
+            "A.S.A. Harrison"
+        ],
+        "pageCount": 400,
+        "language": "el"
+    },
+    {
+        "title": "H? en Peloponn?s? hell?nik? ekkl?sia epi Henet?n",
+        "authors": [
+            "Perikl?s G. Zerlent?s"
+        ],
+        "pageCount": 32,
+        "language": "el"
     },
     {
         "title": "Haiti, a Slave Revolution",
@@ -144,93 +1965,3033 @@
             "Greg Dunkel",
             "Sara Flounders",
             "Kim Ives"
-        ]
+        ],
+        "pageCount": 262,
+        "language": "en"
     },
     {
-        "title": "A Grammar of D\u00ebne Su\u031c\u0142in\u00e9 (Chipewyan)",
+        "title": "He ge\u2212ologia t\u2212es metaxy Megar\u2212on kai Erythr\u2212on perioch\u2212es",
         "authors": [
-            "Eung-Do Cook"
-        ]
+            "A. G. Dounas"
+        ],
+        "pageCount": 192,
+        "language": "el"
     },
     {
-        "title": "Visit to a Small Planet",
+        "title": "Herodoti Historiarum libri novem. Nova editio stereotypa. Curavit F. Palm. Accedit libellus de Vita Homeri et index historicus",
         "authors": [
-            "Gore Vidal"
-        ]
+            "Herodotus"
+        ],
+        "pageCount": 334,
+        "language": "el"
     },
     {
-        "title": "A University Correspondence Course on how to Install and Operate a Standard Accounting System for Electrical Contractors and Dealers",
+        "title": "High Multiplicity Pion Production in 25 GeV/c Pi-minus-proton Collisions",
         "authors": [
-            "Paul Brendan Kelly"
-        ]
+            "Jerome William Elbert"
+        ],
+        "pageCount": 642,
+        "language": "en"
     },
     {
-        "title": "A Practical Guide for Advanced Writers in English as a Second Language",
+        "title": "Ho Hell\u0113nismos t\u0113s Thrak\u0113s stous r\u014dmaikous chronous, 146 p. Ch.-330 m. Ch: Ge\u014dgraphiko plaisio",
         "authors": [
-            "Paul Munsell",
-            "Martha Clough"
-        ]
+            "Ant\u014dnios B. Kaps\u0113s"
+        ],
+        "pageCount": 328,
+        "language": "el"
     },
     {
-        "title": "Blues Chased a Rabbit",
+        "title": "Ho Hell\u0113nismos t\u0113s Thrak\u0113s stous r\u014dmaikous chronous, 146 p. Ch.-330 m. Ch: Ge\u014dgraphiko plaisio",
         "authors": [
-            "Seymour Blicker"
-        ]
+            "Ant\u014dnios B. Kaps\u0113s"
+        ],
+        "pageCount": 328,
+        "language": "el"
     },
     {
-        "title": "A Child at Gunpoint",
+        "title": "Ho nauarchos P. Kountouri\u014dt\u0113s",
         "authors": [
-            "Richard Raskin"
-        ]
+            "D\u0113m\u0113trios Alex Lambik\u0113s"
+        ],
+        "pageCount": 280,
+        "language": "el"
     },
     {
-        "title": "A Hard Rain and a Cross",
+        "title": "Ho taphkos B ton Mykenon",
         "authors": [
-            "Lotan Harold DeWolf"
-        ]
+            "George Emmanuel Mylonas"
+        ],
+        "pageCount": 502,
+        "language": "el"
     },
     {
-        "title": "A War Record of the 21st London Regiment (First Surrey Rifles), 1914-1919",
+        "title": "Howard J. Stoddard, Founder, Michigan National Bank",
         "authors": [
-            "Great Britain. Army. 21st London Regiment (First Surrey Rifles)"
-        ]
+            "Richard Douglas Poll"
+        ],
+        "pageCount": 294,
+        "language": "en"
     },
     {
         "title": "Hunting with a Camera",
         "authors": [
             "Erwin A. Bauer"
-        ]
+        ],
+        "pageCount": 362,
+        "language": "en"
     },
     {
-        "title": "Development and Implementation of a Quality-assured, Peer-instructional Model",
+        "title": "H\u0113 all\u0113lographia tou strati\u014dt\u0113 Ge\u014drgiou M. Magn\u0113 kata t\u0113 Mikrasiatik\u0113 ekstrateia",
         "authors": [
-            "Kenneth Weingarten",
-            "Jacklyn E. Hungerland",
-            "Mark F. Brennan"
-        ]
+            "Ge\u014drgios M. Magn\u0113s"
+        ],
+        "pageCount": 140,
+        "language": "el"
     },
     {
-        "title": "A History of the Lithuanian Military Forces in World War II, 1939-1945",
+        "title": "H\u0113 hyster\u0113 byzantin\u0113 avtokratoria kai o messai\u014dnikos hell\u0113nismos (1025-1461 m.Ch.)",
         "authors": [
-            "Henry L. Gaidis"
-        ]
+            "Alex\u0113s G. K. Savvid\u0113s"
+        ],
+        "pageCount": 332,
+        "language": "el"
     },
     {
-        "title": "A Pacific Cruise",
+        "title": "H\u0113 symbol\u0113 t\u0113s Kyprou eis ton B' [i.e. Deuteron] Pankosmion Polemon",
         "authors": [
-            "Sir Thomas Henley"
-        ]
+            "Pankyprios Syndesmos Polemist\u014dn tou B' [i.e. Deuterou] Pankosmiou Polemou"
+        ],
+        "pageCount": 190,
+        "language": "el"
     },
     {
-        "title": "A Naturalist's Shetland",
+        "title": "I Am Lazarus",
         "authors": [
-            "J. Laughton Johnston"
-        ]
+            "Sven Berlin"
+        ],
+        "pageCount": 250,
+        "language": "en"
     },
     {
-        "title": "A Financial Guide for the Self-employed",
+        "title": "I Am Roe",
         "authors": [
-            "John Ellis"
-        ]
+            "Norma McCorvey"
+        ],
+        "pageCount": 232,
+        "language": "en"
+    },
+    {
+        "title": "I Can Tell it Now",
+        "authors": [
+            "Overseas Press Club of America"
+        ],
+        "pageCount": 382,
+        "language": "en"
+    },
+    {
+        "title": "I Love to Tell the Story",
+        "authors": [
+            "Donna Albrecht"
+        ],
+        "pageCount": 230,
+        "language": "en"
+    },
+    {
+        "title": "I Remember General Patton's Principles",
+        "authors": [
+            "Porter B. Williamson"
+        ],
+        "pageCount": 210,
+        "language": "en"
+    },
+    {
+        "title": "I Try to Behave Myself",
+        "authors": [
+            "Peg Bracken"
+        ],
+        "pageCount": 188,
+        "language": "en"
+    },
+    {
+        "title": "I frammenti della gastronomia",
+        "authors": [
+            "Archestratus (Gelous)"
+        ],
+        "pageCount": 108,
+        "language": "el"
+    },
+    {
+        "title": "I was in Noah's Ark",
+        "authors": [
+            "Francis Reid"
+        ],
+        "pageCount": 152,
+        "language": "en"
+    },
+    {
+        "title": "I. Lignin Plastics. II. Paper-base Plastics",
+        "authors": [
+            "Clarence Jay West"
+        ],
+        "pageCount": 248,
+        "language": "en"
+    },
+    {
+        "title": "Iliados Homer\u016b Raps\u014ddias Bibloi Treis, A, B, G",
+        "authors": [
+            "ca. v8. Jh Homerus"
+        ],
+        "pageCount": 106,
+        "language": "el"
+    },
+    {
+        "title": "Improving Turkey Production",
+        "authors": [
+            "Roy Styring Dearstyne"
+        ],
+        "pageCount": 26,
+        "language": "en"
+    },
+    {
+        "title": "Improving Turkey Production",
+        "authors": [
+            "Roy Styring Dearstyne"
+        ],
+        "pageCount": 26,
+        "language": "en"
+    },
+    {
+        "title": "In D. Joannis Evangelium accedunt fragmenta varia necnon tractatus ad Tiberium diaconum duo",
+        "authors": [
+            "Saint Cyril (Patriarch of Alexandria)"
+        ],
+        "pageCount": 750,
+        "language": "el"
+    },
+    {
+        "title": "In Porphyrii Isagogen sive V voces",
+        "authors": [
+            "Ammonius"
+        ],
+        "pageCount": 178,
+        "language": "el"
+    },
+    {
+        "title": "Indiana Public Welfare Laws Relating to Children",
+        "authors": [
+            "Indiana. Department of Public Welfare"
+        ],
+        "pageCount": 656,
+        "language": "en"
+    },
+    {
+        "title": "Information Report CC-X.",
+        "authors": [
+            "Chemical Control Research Institute"
+        ],
+        "pageCount": 580,
+        "language": "en"
+    },
+    {
+        "title": "Insights on the Mechanism of Pseudomonas Aeruginosa P-hydroxybenzoate Hydroxylase from QSAR Studies Using 8-substituted Flavins",
+        "authors": [
+            "Mariliz Ortiz-Maldonado"
+        ],
+        "pageCount": 358,
+        "language": "en"
+    },
+    {
+        "title": "Institutio Gr\u00e6c\u00e6 grammatices compendiaria. In vsum Regi\u00e6 schol\u00e6 Wesmonasteriensis [by W. Camden. Cropped].",
+        "authors": [
+            "William Camden"
+        ],
+        "pageCount": 212,
+        "language": "el"
+    },
+    {
+        "title": "International Tax Treaties of All Nations, Series B",
+        "authors": [
+            "Walter H. Diamond",
+            "Dorothy B. Diamond"
+        ],
+        "pageCount": 552,
+        "language": "en"
+    },
+    {
+        "title": "Interval Valued Q-Fuzzy Multiparameterized Soft Set and its Application",
+        "authors": [
+            "Fatma Adam ",
+            "Nasruddin Hassan "
+        ],
+        "pageCount": 18,
+        "language": "en"
+    },
+    {
+        "title": "Ioaniki\u012d Galii\u0361atovs\u02b9ky\u012d i \u012doho \"Kli\u0361uch razumi\u0361enii\u0361a\"",
+        "authors": [
+            "Konstantyn Bida"
+        ],
+        "pageCount": 648,
+        "language": "el"
+    },
+    {
+        "title": "Irrigation of Corn and Cotton in South Carolina",
+        "authors": [
+            "Thomas Virgil Wilson"
+        ],
+        "pageCount": 24,
+        "language": "en"
+    },
+    {
+        "title": "Isocratis Panegyricus, cum Mori suisque annotationibus ed. G. Dindorfius",
+        "authors": [
+            "Isocrates"
+        ],
+        "pageCount": 144,
+        "language": "el"
+    },
+    {
+        "title": "Isocratis opera qu\u00e6 exstant omnia, emendavit, varietate lectionis [&c.] instruxit W. Lange",
+        "authors": [
+            "Isocrates"
+        ],
+        "pageCount": 938,
+        "language": "el"
+    },
+    {
+        "title": "Italian Medals C.1530-1600 in British Public Collections: Text",
+        "authors": [
+            "Philip Attwood"
+        ],
+        "pageCount": 554,
+        "language": "en"
+    },
+    {
+        "title": "Italiani e Francesi in Tunisia",
+        "authors": [
+            "Francesco Bonura"
+        ],
+        "pageCount": 44,
+        "language": "el"
+    },
+    {
+        "title": "I\u014dann\u0113s o Grammatikos Eis to peri genese\u014ds, kai phthoras. Alexandros o Aphrodisieus Eis ta mete\u014drologika. O autos Peri mixe\u014ds. Ioannes Grammaticus In libros de generatione, et interitu. Alexander Aphrodisiensis In meteorologica. Idem De mixtione",
+        "authors": [
+            "Ioannes : Philoponus"
+        ],
+        "pageCount": 147,
+        "language": "el"
+    },
+    {
+        "title": "J. Golden Kimball Stories",
+        "authors": [
+            "Kristy Wirthlin"
+        ],
+        "pageCount": 124,
+        "language": "en"
+    },
+    {
+        "title": "John D. Rockefeller",
+        "authors": [
+            "Allan Nevins"
+        ],
+        "pageCount": 742,
+        "language": "en"
+    },
+    {
+        "title": "John F. Kennedy",
+        "authors": [
+            "Manning Hawthorne"
+        ],
+        "pageCount": 32,
+        "language": "en"
+    },
+    {
+        "title": "John F. Kennedy Center",
+        "authors": [
+            "United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds"
+        ],
+        "pageCount": 36,
+        "language": "en"
+    },
+    {
+        "title": "John F. Kennedy, a Political Biography",
+        "authors": [
+            "Ramesh Sanghvi"
+        ],
+        "pageCount": 236,
+        "language": "en"
+    },
+    {
+        "title": "Journal international d'arch\u00e9ologie numismatique",
+        "authors": [
+            "I\u014dann\u0113s N. Svor\u014dnos"
+        ],
+        "pageCount": 566,
+        "language": "el"
+    },
+    {
+        "title": "K \u0304-proton Interactions Near 760 MeV/c",
+        "authors": [
+            "Pierre Lucien Bastien"
+        ],
+        "pageCount": 166,
+        "language": "en"
+    },
+    {
+        "title": "K-Nearest Neighbor Estimation",
+        "authors": [
+            "Yue-pok Mack"
+        ],
+        "pageCount": 194,
+        "language": "en"
+    },
+    {
+        "title": "K. Madhava Menon",
+        "authors": [
+            "K. Madhava Menon"
+        ],
+        "pageCount": 60,
+        "language": "en"
+    },
+    {
+        "title": "Kai leuteria s' hoti apomeine ap' ton Hell\u0113nismo",
+        "authors": [
+            "Aristeid\u0113s G. D\u0113mopoulos"
+        ],
+        "pageCount": 288,
+        "language": "el"
+    },
+    {
+        "title": "Karafuto (Japanese Sakhalin)",
+        "authors": [
+            "United States. Naval reserve midshipmen's school, New York"
+        ],
+        "pageCount": 90,
+        "language": "en"
+    },
+    {
+        "title": "Klaudiou Ptolemaiou Alexandre\u014ds ... Peri tL\u00b7s ge\u014dgraphias biblia okt\u014d, mL\u00b7ta pasL\u00b7s acribeias entyp\u014dthenta. Claudii Ptolemaei Alexandrini ... De geographia libri octo, summa cum uigilantia excusi",
+        "authors": [
+            "Claudius Ptolemaeus"
+        ],
+        "pageCount": 542,
+        "language": "el"
+    },
+    {
+        "title": "Kriegie, Don't Cry",
+        "authors": [
+            "Roger North Haynes"
+        ],
+        "pageCount": 99,
+        "language": "en"
+    },
+    {
+        "title": "Kriegsmarine U-boats 1939\u201345 (1)",
+        "authors": [
+            "Gordon Williamson"
+        ],
+        "pageCount": 77,
+        "language": "en"
+    },
+    {
+        "title": "K\u014dstas M. R\u014dmanos",
+        "authors": [
+            "K\u014dstas M. R\u014dmanos"
+        ],
+        "pageCount": 100,
+        "language": "el"
+    },
+    {
+        "title": "L' agriculture syrienne",
+        "authors": [
+            "Office arabe de presse et de documentation"
+        ],
+        "pageCount": 554,
+        "language": "en"
+    },
+    {
+        "title": "L' histoire de Thucydide, de la guerre du Peloponnese",
+        "authors": [
+            "Thucydides"
+        ],
+        "pageCount": 1432,
+        "language": "el"
+    },
+    {
+        "title": "L'Odys\u00e9e d'Hom\u00e8re",
+        "authors": [
+            "Homero"
+        ],
+        "pageCount": 434,
+        "language": "el"
+    },
+    {
+        "title": "L'\u00c9tat, modes de production et la carte politique du monde",
+        "authors": [
+            "Marcin Ro\u015bciszewski",
+            "Bronis\u0142aw Czy\u017c",
+            "Jerzy Grzeszczak"
+        ],
+        "pageCount": 202,
+        "language": "en"
+    },
+    {
+        "title": "L'\u00e9tude Exp\u00e9rimentale de L'intelligence",
+        "authors": [
+            "Alfred Binet"
+        ],
+        "pageCount": 307,
+        "language": "en"
+    },
+    {
+        "title": "La Caduta di Costantinopoli: L'eco nel mondo",
+        "authors": [
+            "Agostino Pertusi"
+        ],
+        "pageCount": 584,
+        "language": "el"
+    },
+    {
+        "title": "La Rupture Du Contrat D'agent Commercial",
+        "authors": [
+            "Jean Catoni"
+        ],
+        "pageCount": 228,
+        "language": "en"
+    },
+    {
+        "title": "Land Survey of the Town of Durham, New Hampshire",
+        "authors": [
+            "Carl E. Walker"
+        ],
+        "pageCount": 38,
+        "language": "en"
+    },
+    {
+        "title": "Late Cretaceous -- Early Palaeogene Echinoderms and the K/T Boundary in the Southeast Netherlands and Northeast Belgium",
+        "authors": [
+            "John W. M. Jagt"
+        ],
+        "pageCount": 255,
+        "language": "en"
+    },
+    {
+        "title": "Late Oligocene-Middle Miocene Democricetodon, Spanocricetodon and Karydomys n. gen. from the eastern Mediterranean area",
+        "authors": [
+            "K\u014dnstantinos D. Theocharopoulos"
+        ],
+        "pageCount": 154,
+        "language": "el"
+    },
+    {
+        "title": "Le\u00e7ons theoriques et practiques de langue grecque adoptees par l'universite",
+        "authors": [
+            "Claude Antoine Felix Fremion"
+        ],
+        "pageCount": 282,
+        "language": "el"
+    },
+    {
+        "title": "Libri V-IX. Indices",
+        "authors": [
+            "Herodotus"
+        ],
+        "pageCount": 523,
+        "language": "el"
+    },
+    {
+        "title": "Local Extension of LALR(1) Parser to LALR(k)",
+        "authors": [
+            "Manuel Enrique Bermudez Aguilar"
+        ],
+        "pageCount": 116,
+        "language": "en"
+    },
+    {
+        "title": "Lokativ U Savremenom Srpskohrvatskom Knji\u017eevnom Jeziku",
+        "authors": [
+            "Tatjana Batisti\u0107"
+        ],
+        "pageCount": 222,
+        "language": "en"
+    },
+    {
+        "title": "Luciani Charon, Vitarum auctio, Piscator, recens. et illustr. C. Iacobitz",
+        "authors": [
+            "Lucianus (of Samosata.)"
+        ],
+        "pageCount": 338,
+        "language": "el"
+    },
+    {
+        "title": "Luciani Samosatensis opera: (1852. XVI, 421 p.)",
+        "authors": [
+            "Luciano de Samosata"
+        ],
+        "pageCount": 454,
+        "language": "el"
+    },
+    {
+        "title": "Luciani Toxaris, recens. et illustr. C. Iacobitz",
+        "authors": [
+            "Lucianus (of Samosata.)"
+        ],
+        "pageCount": 272,
+        "language": "el"
+    },
+    {
+        "title": "Lykourgou Logos kata Le\u014dkratous ekdontos kai diorth\u014dsantos A.K., kai gallisti metherm\u0113neusantos F.Th",
+        "authors": [
+            "Lycurgus"
+        ],
+        "pageCount": 408,
+        "language": "el"
+    },
+    {
+        "title": "L\u00b7rodotou AlikarnassL\u00b7os Histori\u014dn logoi 9, epigraphomenoi Mousai. Tou autou ExL\u00b7gL\u00b7sis peri tL\u00b7s HomL\u00b7rou biotL\u00b7s. Herodoti Halicarnassei Historiarum lib. 9, 9 Musarum nominibus inscripti. Eiusdem Narratio de vita Homeri. Cum Vallae interpret. Latina historiarum Herodoti, ab Henr. Stephano recognita. Item cum iconibus structurarum ab Herodoto descriptarum. Ctesiae quaedam de reb. Pers. & Ind",
+        "authors": [
+            "Herodotus"
+        ],
+        "pageCount": 731,
+        "language": "el"
+    },
+    {
+        "title": "M. JOHANNIS RHENII GRAECAE GRAMMATICAE.",
+        "authors": [
+            "Johann Rhenius"
+        ],
+        "pageCount": 480,
+        "language": "el"
+    },
+    {
+        "title": "M. Krito\u0169 to\u0169 Patz\u0113 Tipo\u00fakeitos; sive, Librorum LX Basilicorum summarium",
+        "authors": [
+            "Tipucitus"
+        ],
+        "pageCount": 396,
+        "language": "el"
+    },
+    {
+        "title": "Mac OS X Bible",
+        "authors": [
+            "Samuel A. Litt"
+        ],
+        "pageCount": 948,
+        "language": "en"
+    },
+    {
+        "title": "Malcolm X",
+        "authors": [
+            "Timothy V. Johnson"
+        ],
+        "pageCount": 216,
+        "language": "en"
+    },
+    {
+        "title": "Management Guidelines for IUCN Category V Protected Areas",
+        "authors": [
+            "Adrian Phillips"
+        ],
+        "pageCount": 152,
+        "language": "en"
+    },
+    {
+        "title": "Management in Russian Industry and Agriculture [by] Gregory Bienstock, Solomon M. Schwarz, and Aaron Yugow",
+        "authors": [
+            "Gregory Bienstock"
+        ],
+        "pageCount": 240,
+        "language": "en"
+    },
+    {
+        "title": "Manual of Micropaleontological Stratigraphy",
+        "authors": [
+            "McLean Paleontological Laboratory"
+        ],
+        "pageCount": 248,
+        "language": "en"
+    },
+    {
+        "title": "Mat\u00e9riaux pour l'histoire des math\u00e9matiques au XXe si\u00e8cle",
+        "authors": [
+            "Soci\u00e9t\u00e9 math\u00e9matique de France"
+        ],
+        "pageCount": 302,
+        "language": "en"
+    },
+    {
+        "title": "Mayor's Address ... and Annual Reports",
+        "authors": [
+            "Cambridge (Mass.)"
+        ],
+        "pageCount": 870,
+        "language": "en"
+    },
+    {
+        "title": "Mededelings B.",
+        "authors": [
+            "University of South Africa"
+        ],
+        "pageCount": 368,
+        "language": "en"
+    },
+    {
+        "title": "Megale historia tes Helladas: Archaia 1. 2500-500 p.Ch",
+        "authors": [
+            "Gian\u0113s K\u014dnstantinou Kordatos"
+        ],
+        "pageCount": 478,
+        "language": "el"
+    },
+    {
+        "title": "Megal\u0113 hell\u0113nik\u0113 enkyklopaideia: G - Dekeleia",
+        "authors": [
+            "Vikt\u014dr Dousman\u0113s"
+        ],
+        "pageCount": 964,
+        "language": "el"
+    },
+    {
+        "title": "Meta-Analysis with R",
+        "authors": [
+            "Guido Schwarzer",
+            "James R. Carpenter",
+            "Gerta R\u00fccker"
+        ],
+        "pageCount": 252,
+        "language": "en"
+    },
+    {
+        "title": "Methodologia typopoi\u2212ese\u2212os t\u2212on apostase\u2212on t\u2212on ereun\u2212etik\u2212on erg\u2212on gia ta ell\u2212enika koitasmata",
+        "authors": [
+            "Kyriakou I. Mastor\u2212e"
+        ],
+        "pageCount": 64,
+        "language": "el"
+    },
+    {
+        "title": "Methodos epilog\u2212es diastase\u2212on kannavou gia t\u2212on entopismo phakoeid\u2212on koitasmat\u2212on sto archiko stadio t\u2212on ereun\u2212on",
+        "authors": [
+            "Kyriakou I. Mastor\u2212e"
+        ],
+        "pageCount": 76,
+        "language": "el"
+    },
+    {
+        "title": "Microsoft Visual C++",
+        "authors": [
+            "Beck Zaratian"
+        ],
+        "pageCount": 760,
+        "language": "en"
+    },
+    {
+        "title": "Midwestern Corn Farms: Economic Status and the Potential for Large and Family-sized Units",
+        "authors": [
+            "Kenneth R. Krause",
+            "Leonard R. Kyle"
+        ],
+        "pageCount": 60,
+        "language": "en"
+    },
+    {
+        "title": "Minoan Buildings in Areas B, C, D, and F",
+        "authors": [
+            "Philip P. Betancourt",
+            "K\u014dst\u0113s Davaras"
+        ],
+        "pageCount": 488,
+        "language": "en"
+    },
+    {
+        "title": "Minoan Buildings in Areas B, C, D, and F",
+        "authors": [
+            "Philip P. Betancourt",
+            "K\u014dst\u0113s Davaras"
+        ],
+        "pageCount": 488,
+        "language": "en"
+    },
+    {
+        "title": "Minoan Buildings in Areas B, C, D, and F",
+        "authors": [
+            "Philip P. Betancourt",
+            "K\u014dst\u0113s Davaras"
+        ],
+        "pageCount": 488,
+        "language": "en"
+    },
+    {
+        "title": "Minoan Buildings in Areas B, C, D, and F",
+        "authors": [
+            "Philip P. Betancourt",
+            "K\u014dst\u0113s Davaras"
+        ],
+        "pageCount": 488,
+        "language": "en"
+    },
+    {
+        "title": "Miscellaneous Paper - Ontario Geological Survey",
+        "authors": [
+            "Ontario Geological Survey"
+        ],
+        "pageCount": 278,
+        "language": "en"
+    },
+    {
+        "title": "Modern Greek reader I",
+        "authors": [
+            "Anne Farmakides"
+        ],
+        "pageCount": 280,
+        "language": "el"
+    },
+    {
+        "title": "Mohammed V, King of Morocco",
+        "authors": [
+            "Rom Landau"
+        ],
+        "pageCount": 164,
+        "language": "en"
+    },
+    {
+        "title": "Molecular Dynamics Simulations of Deoxyribonucleic Acids and Repair Enzyme T4 Endonuclease V.",
+        "authors": [
+            "Miroslav Pinak"
+        ],
+        "pageCount": 48,
+        "language": "en"
+    },
+    {
+        "title": "Mortgage Performance and Housing Discrimination",
+        "authors": [
+            "John M. Quigley"
+        ],
+        "pageCount": 20,
+        "language": "en"
+    },
+    {
+        "title": "Moslem Schisms and Sects (al-Fark Bain Al-firak)",
+        "authors": [
+            "\u02bbAbd al-Q\u0101hir Ibn \u1e6c\u0101hir al-Baghd\u0101d\u012b"
+        ],
+        "pageCount": 302,
+        "language": "en"
+    },
+    {
+        "title": "Mrs. J. Comyns Carr's Reminiscences",
+        "authors": [
+            "Alice Vansittart Strettel Carr"
+        ],
+        "pageCount": 328,
+        "language": "en"
+    },
+    {
+        "title": "Mykenisch-griechische Personennamen",
+        "authors": [
+            "Oscar Landau"
+        ],
+        "pageCount": 328,
+        "language": "el"
+    },
+    {
+        "title": "Mysore Meteorological Memoirs ...",
+        "authors": [
+            "Bangalore (India). Meteorological Observatory"
+        ],
+        "pageCount": 518,
+        "language": "en"
+    },
+    {
+        "title": "NIST Measurement Services",
+        "authors": [
+            "Judah Levine",
+            "Michael A. Lombardi",
+            "Andrew N. Novick",
+            "National Institute of Standards and Technology"
+        ],
+        "pageCount": 73,
+        "language": "en"
+    },
+    {
+        "title": "NLL Report TN-F",
+        "authors": [
+            "Nationaal Lucht- en Ruimtevaartlaboratorium (Netherlands)"
+        ],
+        "pageCount": 96,
+        "language": "en"
+    },
+    {
+        "title": "NLR-TN G.",
+        "authors": [
+            "Nationaal Lucht- en Ruimtevaartlaboratorium (Netherlands)"
+        ],
+        "pageCount": 84,
+        "language": "en"
+    },
+    {
+        "title": "NLR-TN W.",
+        "authors": [
+            "Nationaal Lucht- en Ruimtevaartlaboratorium (Netherlands)"
+        ],
+        "pageCount": 58,
+        "language": "en"
+    },
+    {
+        "title": "Neutrosophic Q-fuzzy left N-subgroups of a Near-ring",
+        "authors": [
+            "K. Thirusangu",
+            "S. Poornavel",
+            "R. Vasuki"
+        ],
+        "pageCount": 11,
+        "language": "en"
+    },
+    {
+        "title": "New X-Men",
+        "authors": [
+            "Grant Morrison"
+        ],
+        "pageCount": 116,
+        "language": "en"
+    },
+    {
+        "title": "Nitrogen Supply for Spruce on Infertile Sites",
+        "authors": [
+            "Douglas C. Malcolm"
+        ],
+        "pageCount": 11,
+        "language": "en"
+    },
+    {
+        "title": "Nominations of Robert B. Sims and Robert K. Dawson",
+        "authors": [
+            "United States. Congress. Senate. Committee on Armed Services"
+        ],
+        "pageCount": 160,
+        "language": "en"
+    },
+    {
+        "title": "Nonlinear Coupling and Saturation of R-modes in Newly Born Neutron Stars",
+        "authors": [
+            "Ana Katrin Schenk"
+        ],
+        "pageCount": 290,
+        "language": "en"
+    },
+    {
+        "title": "Notes on Preventive Medicine for Medical Officers, United States Navy",
+        "authors": [
+            "United States. Navy Dept. Bureau of Medicine and Surgery. Division of Preventive Medicine"
+        ],
+        "pageCount": 680,
+        "language": "en"
+    },
+    {
+        "title": "Nouveau dictionnaire Fran\u00e7ais-grec moderne ... Publie par G. Et[ienne] Georgandas",
+        "authors": [
+            "Constantin Varvati"
+        ],
+        "pageCount": 778,
+        "language": "el"
+    },
+    {
+        "title": "Novi Testamenti Biblia Graeca et Latina, critico apparatu aucta edidit Ioseph M. Bover",
+        "authors": [
+            "Jos\u00e9 Mar\u00eda Bover"
+        ],
+        "pageCount": 1640,
+        "language": "el"
+    },
+    {
+        "title": "Nuove note di letteratura biblica e cristiana antica",
+        "authors": [
+            "George Pachymeres",
+            "Giovanni Mercati"
+        ],
+        "pageCount": 748,
+        "language": "el"
+    },
+    {
+        "title": "O Synodikos Tomos e peri aletheias. -(Das Synodenbuch oder \u00fcber die Wahrheit.)",
+        "authors": [
+            "Theokl\u0113tos Pharmakid\u0113s"
+        ],
+        "pageCount": 652,
+        "language": "el"
+    },
+    {
+        "title": "O \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2 \u03c4\u03bf\u03c5 \u0399\u03b2\u03ac\u03bd \u0399\u03bb\u03af\u03c4\u03c2",
+        "authors": [
+            "\u039b\u03ad\u03c9\u03bd \u03a4\u03bf\u03bb\u03c3\u03c4\u03cc\u03b9"
+        ],
+        "pageCount": 200,
+        "language": "el"
+    },
+    {
+        "title": "OECD e-Government Studies OECD e-Government Studies: Turkey 2007",
+        "authors": [
+            "OECD"
+        ],
+        "pageCount": 176,
+        "language": "en"
+    },
+    {
+        "title": "Oats and Barley for Fattening Lambs",
+        "authors": [
+            "Hilton Marshall Briggs"
+        ],
+        "pageCount": 7,
+        "language": "en"
+    },
+    {
+        "title": "Official USAEC Values for Amount of U-235 Isotope in Natural Uranium",
+        "authors": [
+            "U.S. Atomic Energy Commission"
+        ],
+        "pageCount": 4,
+        "language": "en"
+    },
+    {
+        "title": "Ohmic Contacts to N-type Aluminum Gallium Arsenide (Al[subscript X]G\u00e1\u0301[subscript X]As, O[lesser Than Or Equal To]x[lesser Than Or Equal To]0.3) Utilizing Limited Solid-phase Reactions",
+        "authors": [
+            "Eric David Marshall"
+        ],
+        "pageCount": 592,
+        "language": "en"
+    },
+    {
+        "title": "On the Diophantine Equation 2Ax2+B",
+        "authors": [
+            "Olavi Korhonen"
+        ],
+        "pageCount": 30,
+        "language": "en"
+    },
+    {
+        "title": "Opera et S. Cyrilli Alexandrini contra impium Iulianum libri X",
+        "authors": [
+            "Imperator Iulianus (Imperium Romanum)"
+        ],
+        "pageCount": 1392,
+        "language": "el"
+    },
+    {
+        "title": "Opera et S. Cyrilli Alexandrini contra impium Iulianum libri X",
+        "authors": [
+            "Imperator Iulianus (Imperium Romanum)"
+        ],
+        "pageCount": 1392,
+        "language": "el"
+    },
+    {
+        "title": "Operations in Connective K-theory and Associated Cohomology Theories",
+        "authors": [
+            "Gunnar Erik Carlsson"
+        ],
+        "pageCount": 236,
+        "language": "en"
+    },
+    {
+        "title": "Oratores Attici, es recens. I. Bekkeri. [With] Sophist\u014dn tin\u014dn meletai. 4 tom. [in 5 pt.]. [on large papers, cm.26. Wanting the Addenda leaves in vol.1-3].",
+        "authors": [
+            "Oratores Attici"
+        ],
+        "pageCount": 618,
+        "language": "el"
+    },
+    {
+        "title": "Ordenanzas y resoluciones expedidas por la Asamblea Departamental de Bol\u00edvar",
+        "authors": [
+            "Bol\u00edvar (Colombia : Dept.)"
+        ],
+        "pageCount": 268,
+        "language": "el"
+    },
+    {
+        "title": "Oscar W. Baker, an Oral History",
+        "authors": [
+            "Oscar W. Baker"
+        ],
+        "pageCount": 140,
+        "language": "en"
+    },
+    {
+        "title": "P.G. and E. of California",
+        "authors": [
+            "Charles M. Coleman"
+        ],
+        "pageCount": 474,
+        "language": "en"
+    },
+    {
+        "title": "PARM System Manual, Vol. III, Section P",
+        "authors": [
+            "Philip M. Ritz"
+        ],
+        "pageCount": 60,
+        "language": "en"
+    },
+    {
+        "title": "Pamphlets on Physics Belonging to the Library of Dr. Prof. G. Quinke",
+        "authors": [
+            "Georg Hermann Quincke"
+        ],
+        "pageCount": 126,
+        "language": "en"
+    },
+    {
+        "title": "Paper and Its Relation to Printing",
+        "authors": [
+            "Clarence Jay West"
+        ],
+        "pageCount": 322,
+        "language": "en"
+    },
+    {
+        "title": "Papiri greci e latini",
+        "authors": [
+            "Societ\u00e0 italiana per la ricerca dei papiri greci e latini in Egitto"
+        ],
+        "pageCount": 252,
+        "language": "el"
+    },
+    {
+        "title": "Parking: who Pays?",
+        "authors": [
+            "Regional Planning Research, ltd",
+            "Automobile Association (Great Britain)"
+        ],
+        "pageCount": 176,
+        "language": "en"
+    },
+    {
+        "title": "Par\u0153miographi Gr\u00e6ci quorum pars nunc primum ... vulgatur. Ed. T. Gaisford",
+        "authors": [
+            "Paroemiographi Graeci"
+        ],
+        "pageCount": 468,
+        "language": "el"
+    },
+    {
+        "title": "Patrologiae cursus completus",
+        "authors": [
+            "Jacques-Paul Migne"
+        ],
+        "pageCount": 730,
+        "language": "el"
+    },
+    {
+        "title": "Patrologiae cursus completus",
+        "authors": [
+            "Jacques-Paul Migne"
+        ],
+        "pageCount": 556,
+        "language": "el"
+    },
+    {
+        "title": "Patrum apostolicorum S. Clementis Rom., S. Barnabae, S. Ignatii et S. Polycarpi epistolae",
+        "authors": [
+            "Franz Xaver Reithmayr"
+        ],
+        "pageCount": 368,
+        "language": "el"
+    },
+    {
+        "title": "Patterns of Colonization Following Gopher Disturbance and Cultivation in a Sand Prairie Region",
+        "authors": [
+            "Deborah Sue Rogers"
+        ],
+        "pageCount": 358,
+        "language": "en"
+    },
+    {
+        "title": "Paying for Separator Cream at the Creamery",
+        "authors": [
+            "Joseph Lawrence Hills"
+        ],
+        "pageCount": 24,
+        "language": "en"
+    },
+    {
+        "title": "Peri t\u014dn O' herm\u0113neut\u014dn t\u0113s palaias theias graph\u0113s",
+        "authors": [
+            "K\u014dnstantinos Oikonomos"
+        ],
+        "pageCount": 1103,
+        "language": "el"
+    },
+    {
+        "title": "Peza tragoudia K. Zampoun\u0113",
+        "authors": [
+            "C. Zambounis"
+        ],
+        "pageCount": 93,
+        "language": "el"
+    },
+    {
+        "title": "Pherecratis et Eupolidis fragmenta collegit et adnotationem adiecit M. Runkelius",
+        "authors": [
+            "Pherecrates"
+        ],
+        "pageCount": 218,
+        "language": "el"
+    },
+    {
+        "title": "Phetores Graeci, emendatiores ed., annotationibus instruxit C. Walz. 9 voll. [in 10].",
+        "authors": [
+            "Ernst Christian F. Walz"
+        ],
+        "pageCount": 672,
+        "language": "el"
+    },
+    {
+        "title": "Philostratorum Imagines et Callistrati Statu\u00e6 ... Recensuit et commentarium adjecit F. Jacobs. Observationes arch\u00e6ologici pr\u00e6sertim argumenti addidit F. T. Welcker. Gr",
+        "authors": [
+            "Philostratus (the Athenian)"
+        ],
+        "pageCount": 848,
+        "language": "el"
+    },
+    {
+        "title": "Philostratorum Imagines et Callistrati Statu\u00e6. Recens. et comm. adjecit F. Jacobs. Observationes addidit F.T. Welcker",
+        "authors": [
+            "Philostratus (the elder.)"
+        ],
+        "pageCount": 842,
+        "language": "el"
+    },
+    {
+        "title": "Ph\u014dtiou ... ta heuriskomena panta. Photii ... opera omnia, recogn. J.-P. Migne",
+        "authors": [
+            "Photius (patriarch of Constantinople.)"
+        ],
+        "pageCount": 522,
+        "language": "el"
+    },
+    {
+        "title": "Ph\u014dtiou ... ta heuriskomena panta. Photii ... opera omnia, recogn. J.-P. Migne",
+        "authors": [
+            "Photius (patriarch of Constantinople.)"
+        ],
+        "pageCount": 522,
+        "language": "el"
+    },
+    {
+        "title": "Pi-plus Production by K-plus Proton Interactions at 740 Mev/c",
+        "authors": [
+            "James Allen Gaidos"
+        ],
+        "pageCount": 168,
+        "language": "en"
+    },
+    {
+        "title": "Piano concerto in F",
+        "authors": [
+            "Wolfgang Amadeus Mozart"
+        ],
+        "pageCount": 40,
+        "language": "en"
+    },
+    {
+        "title": "Platonis Leges et Epinomis, emendavit et perpetua adnotatione illustr. F. Astius",
+        "authors": [
+            "Plato"
+        ],
+        "pageCount": 540,
+        "language": "el"
+    },
+    {
+        "title": "Ploutarchou ... ta Ethika",
+        "authors": [
+            "Plutarch"
+        ],
+        "pageCount": 840,
+        "language": "el"
+    },
+    {
+        "title": "Plutarchi Agesilaus, Pompeius, Alexander M",
+        "authors": [
+            "Plutarchus"
+        ],
+        "pageCount": 284,
+        "language": "el"
+    },
+    {
+        "title": "Plutarchi Timoleo, Aemilius Paulus, Pelopidas, Marcellus, Aristides, M. Cato Maior",
+        "authors": [
+            "Plutarchus"
+        ],
+        "pageCount": 304,
+        "language": "el"
+    },
+    {
+        "title": "Poetae scenici Graeci. Accedunt perditarum fabularum fragmenta. Recogn. et praefatus est G. Dindorfius",
+        "authors": [
+            "Carl Wilhelm Dindorf"
+        ],
+        "pageCount": 968,
+        "language": "el"
+    },
+    {
+        "title": "Polybii Historiae. Edidit F. Hultoch",
+        "authors": [
+            "Polybius"
+        ],
+        "pageCount": 332,
+        "language": "el"
+    },
+    {
+        "title": "Population Trends in Relation to Resources Development in South Dakota",
+        "authors": [
+            "John Peter Johansen"
+        ],
+        "pageCount": 56,
+        "language": "en"
+    },
+    {
+        "title": "Princip Microeconomics Test B",
+        "authors": [
+            "N. Gregory Mankiw",
+            "Penny Kugler"
+        ],
+        "pageCount": 724,
+        "language": "en"
+    },
+    {
+        "title": "Procheiron, nomon to legomenon h Hexabiblos,... Epitome Iuris Ciuilis quae Legum prochiron et Hexabiblos inscribitur, authore Constantino Harmenopulo... iam prim\u00f9m in lucem aedita cura et studio Theodorici Adamaei Suallembergi",
+        "authors": [
+            "Constantin Harm\u00e9nopoulos"
+        ],
+        "pageCount": 466,
+        "language": "el"
+    },
+    {
+        "title": "Programming in C, 2/e",
+        "authors": [
+            "Ashok N. Kamthane"
+        ],
+        "pageCount": 676,
+        "language": "en"
+    },
+    {
+        "title": "Project K-Steer",
+        "authors": [
+            "Lawrence F. Keller"
+        ],
+        "pageCount": 88,
+        "language": "en"
+    },
+    {
+        "title": "Proton Spectra from the C(n,p)2n Reaction",
+        "authors": [
+            "Albert Haskell Bond"
+        ],
+        "pageCount": 244,
+        "language": "en"
+    },
+    {
+        "title": "Proton Spin Flip in the Reactions \u2212p12\u2212sC(p,p')\u2212p12\u2212sC*(4.44) and \u2212p120\u2212sSn(p,p')\u2212p120\u2212sSn*(1.17)",
+        "authors": [
+            "James J. Kolata"
+        ],
+        "pageCount": 284,
+        "language": "en"
+    },
+    {
+        "title": "Psst-- I Have Something to Tell You, Mi Amor",
+        "authors": [
+            "Ana Castillo"
+        ],
+        "pageCount": 108,
+        "language": "en"
+    },
+    {
+        "title": "Public Hearings, Controversy, and the Written Response",
+        "authors": [
+            "American Society of Planning Officials"
+        ],
+        "pageCount": 16,
+        "language": "en"
+    },
+    {
+        "title": "Pumping Maple Sap from the Bucket to the Gathering Tank",
+        "authors": [
+            "Earl Lee Arnold"
+        ],
+        "pageCount": 20,
+        "language": "en"
+    },
+    {
+        "title": "Q 11:2b-4",
+        "authors": [
+            "Shawn Carruth",
+            "Albrecht Garsky"
+        ],
+        "pageCount": 228,
+        "language": "en"
+    },
+    {
+        "title": "Q 12:33-34",
+        "authors": [
+            "Steven R. Johnson"
+        ],
+        "pageCount": 252,
+        "language": "en"
+    },
+    {
+        "title": "Q Fever",
+        "authors": [
+            "Jim C. Williams",
+            "Herbert A. Thompson"
+        ],
+        "pageCount": 384,
+        "language": "en"
+    },
+    {
+        "title": "Q Fever in Animals and Man in Iowa",
+        "authors": [
+            "Richard A. Tjalma"
+        ],
+        "pageCount": 118,
+        "language": "en"
+    },
+    {
+        "title": "Q of the Earth",
+        "authors": [
+            "Brian J. Mitchell",
+            "Barbara Romanowicz"
+        ],
+        "pageCount": 508,
+        "language": "en"
+    },
+    {
+        "title": "Quantitative Determination of Vitamin B in Spinach and String Beans",
+        "authors": [
+            "E. Charlotte Rogers"
+        ],
+        "pageCount": 44,
+        "language": "en"
+    },
+    {
+        "title": "R Visualizations",
+        "authors": [
+            "David Gerbing"
+        ],
+        "pageCount": 237,
+        "language": "en"
+    },
+    {
+        "title": "R-Calculus, III: Post Three-Valued Logic",
+        "authors": [
+            "Wei Li",
+            "Yuefei Sui"
+        ],
+        "pageCount": 284,
+        "language": "en"
+    },
+    {
+        "title": "R:BASE? for DOS",
+        "authors": [
+            "Susa Condliffe"
+        ],
+        "pageCount": 454,
+        "language": "en"
+    },
+    {
+        "title": "Radiative Exchange Over Arctic Land and Sea",
+        "authors": [
+            "John Joseph Kelley",
+            "Desmond T. Bailey",
+            "Bruce Jerome Lieske"
+        ],
+        "pageCount": 30,
+        "language": "en"
+    },
+    {
+        "title": "Rates of Return: Class I Line-haul Railways of the United States, 1921-1948",
+        "authors": [
+            "Sidney Lincoln Miller",
+            "Virgil Dale Cover"
+        ],
+        "pageCount": 238,
+        "language": "en"
+    },
+    {
+        "title": "Ready-To-Use Social Skills Lessons And Activities For Grades PreK-K (1995 Edition, Layflat Version)",
+        "authors": [
+            "Ruth Weltmann Begun"
+        ],
+        "pageCount": 228,
+        "language": "en"
+    },
+    {
+        "title": "Records in the Action of Robert G. Moore, Master of the Schooner \"Frank S. Hall\" Vs. Steamship \"Bermuda\"",
+        "authors": [
+            "Robert G. Moore (libellant.)"
+        ],
+        "pageCount": 268,
+        "language": "en"
+    },
+    {
+        "title": "Red Water Disease of Cattle (Bacillary Hemoglobinuria)",
+        "authors": [
+            "Edward Records"
+        ],
+        "pageCount": 12,
+        "language": "en"
+    },
+    {
+        "title": "Reminiscences of Henry M. Gleason",
+        "authors": [
+            "Henry Milton Gleason"
+        ],
+        "pageCount": 172,
+        "language": "en"
+    },
+    {
+        "title": "Removal of Spray Residue from Apples",
+        "authors": [
+            "Walter Seneff Hough"
+        ],
+        "pageCount": 24,
+        "language": "en"
+    },
+    {
+        "title": "Report - David W. Taylor Model Basin",
+        "authors": [
+            "David W. Taylor Model Basin"
+        ],
+        "pageCount": 144,
+        "language": "en"
+    },
+    {
+        "title": "Report F",
+        "authors": [
+            "Nationaal Lucht- en Ruimtevaartlaboratorium (Netherlands)"
+        ],
+        "pageCount": 38,
+        "language": "en"
+    },
+    {
+        "title": "Report OP-X.",
+        "authors": [
+            "Eastern Forest Products Laboratory (Canada)"
+        ],
+        "pageCount": 530,
+        "language": "en"
+    },
+    {
+        "title": "Report for the Fiscal Year - Louis W. and Maud Hill Family Foundation",
+        "authors": [
+            "Louis W. and Maud Hill Family Foundation"
+        ],
+        "pageCount": 64,
+        "language": "en"
+    },
+    {
+        "title": "Report of the Supplementary Benefits Commission for the Year Ended ...",
+        "authors": [
+            "Great Britain. Supplementary Benefits Commission"
+        ],
+        "pageCount": 1280,
+        "language": "en"
+    },
+    {
+        "title": "Reports of Cases and Matters Determined by the Supreme Court and Court of Appeals of South Carolina",
+        "authors": [
+            "South Carolina. Supreme Court"
+        ],
+        "pageCount": 570,
+        "language": "en"
+    },
+    {
+        "title": "Research Bulletin",
+        "authors": [
+            "Norman Franklin Childers",
+            "David George White"
+        ],
+        "pageCount": 44,
+        "language": "en"
+    },
+    {
+        "title": "Research Bulletin",
+        "authors": [
+            "Glenn Scott Ray"
+        ],
+        "pageCount": 56,
+        "language": "en"
+    },
+    {
+        "title": "Research Bulletin",
+        "authors": [
+            "Richard Louis Kohls"
+        ],
+        "pageCount": 42,
+        "language": "en"
+    },
+    {
+        "title": "Research Bulletin",
+        "authors": [
+            "R. H. Baker"
+        ],
+        "pageCount": 48,
+        "language": "en"
+    },
+    {
+        "title": "Research in Fisheries",
+        "authors": [
+            "University of Washington. College of Fisheries"
+        ],
+        "pageCount": 408,
+        "language": "en"
+    },
+    {
+        "title": "Restructuration de L'industrie Canadienne",
+        "authors": [
+            "Sunder Magun",
+            "Canada. Industry Canada"
+        ],
+        "pageCount": 91,
+        "language": "en"
+    },
+    {
+        "title": "Review of an Electrical Method for Evaluation of Stress Ratio Required to Cause Liquefaction and Dynamic Modulus",
+        "authors": [
+            "K. Arulanandan",
+            "K. Arulmoli"
+        ],
+        "pageCount": 16,
+        "language": "en"
+    },
+    {
+        "title": "Rigby's Romance",
+        "authors": [
+            "Joseph Furphy"
+        ],
+        "pageCount": 300,
+        "language": "en"
+    },
+    {
+        "title": "Robert W. McCarthy",
+        "authors": [
+            "Robert W. McCarthy"
+        ],
+        "pageCount": 110,
+        "language": "en"
+    },
+    {
+        "title": "Rufus B. Sage",
+        "authors": [
+            "Rufus B. Sage"
+        ],
+        "pageCount": 372,
+        "language": "en"
+    },
+    {
+        "title": "Rural Social Organization in Frederick County, Maryland",
+        "authors": [
+            "Shaw Earl Grigsby",
+            "Harold Charles Hoffsommer"
+        ],
+        "pageCount": 128,
+        "language": "en"
+    },
+    {
+        "title": "Rural Social Organization in Frederick County, Maryland",
+        "authors": [
+            "Shaw Earl Grigsby",
+            "Harold Charles Hoffsommer"
+        ],
+        "pageCount": 128,
+        "language": "en"
+    },
+    {
+        "title": "R\u014dngr\u012ban t\u0101i l\u01e3o",
+        "authors": [
+            "Everett W. Reimer"
+        ],
+        "pageCount": 204,
+        "language": "en"
+    },
+    {
+        "title": "S Corporation Taxation",
+        "authors": [
+            "Robert W Jamison, CPA, PH.D."
+        ],
+        "pageCount": 1578,
+        "language": "en"
+    },
+    {
+        "title": "S. Ioannis Chrysostomi opera graece et latinae, omnia ex edid. fronto Ducaeus",
+        "authors": [
+            "Jean Chrysostome"
+        ],
+        "pageCount": 1046,
+        "language": "el"
+    },
+    {
+        "title": "S. Sudjojono, Visible Soul",
+        "authors": [
+            "Amir Sidharta",
+            "S. Sudjojono"
+        ],
+        "pageCount": 436,
+        "language": "en"
+    },
+    {
+        "title": "SN/G Report on Data Processing Projects in Art: Projects",
+        "authors": [
+            "Laura Corti"
+        ],
+        "pageCount": 668,
+        "language": "en"
+    },
+    {
+        "title": "School on Algebraic K-theory and Its Applications",
+        "authors": [
+            "Max Karoubi",
+            "A. O. Kuku"
+        ],
+        "pageCount": 552,
+        "language": "en"
+    },
+    {
+        "title": "Scriptorum veterum nova collectio e Vaticanis Codicibus edita ab A. Maio",
+        "authors": [
+            "Cardinal Angelo MAI"
+        ],
+        "pageCount": 780,
+        "language": "el"
+    },
+    {
+        "title": "Sea-water Intrusion in California: Appendix B, Report by Los Angeles County Flood Control District on investigational work for prevention and control of sea water intrusion, west coast basin experimental project, Los Angeles County (March 1957)",
+        "authors": [
+            "California. Department of Water Resources"
+        ],
+        "pageCount": 276,
+        "language": "en"
+    },
+    {
+        "title": "Searching for a Past",
+        "authors": [
+            "Jayne E. Schooler"
+        ],
+        "pageCount": 222,
+        "language": "en"
+    },
+    {
+        "title": "Selected Socio-economic Factors Influence on Red Meat Consumption in the Baltimore-Washington Metropolitan Area",
+        "authors": [
+            "Russell F. McDonald"
+        ],
+        "pageCount": 52,
+        "language": "en"
+    },
+    {
+        "title": "Selected Works of Thomas H. Huxley: Methods and results.- [v. 2] Darwininana.- [v. 3] Science and education.- [v. 4] Science and Hebrew tradition.- [v. 5] Science and Christian tradition.- [v. 6] Hume, with helps to the study of Berkeley.- [v. 7] Man's place in nature and other anthropological essays.- [v. 8] Discourses, biological and geological.- [v. 9] Evolution and ethics, and other essays",
+        "authors": [
+            "Thomas Henry Huxley"
+        ],
+        "pageCount": 474,
+        "language": "en"
+    },
+    {
+        "title": "Sexti Empirici Opera: Adversus mathematicos libros 1-6 continens, ed. J. Mau. Indices ad v. 1-3 adiecit K. Jan\u00e1\u010dek",
+        "authors": [
+            "Sextus (Empiricus.)"
+        ],
+        "pageCount": 418,
+        "language": "el"
+    },
+    {
+        "title": "Sinfonia in D (G 4) for trumpet, strings and continuo",
+        "authors": [
+            "Giuseppe Torelli"
+        ],
+        "pageCount": 20,
+        "language": "en"
+    },
+    {
+        "title": "Skeletal Biomineralization: Patterns, Processes and Evolutionary Trends",
+        "authors": [
+            "J.G. Carter"
+        ],
+        "pageCount": 318,
+        "language": "en"
+    },
+    {
+        "title": "Small-scale Spatial Fluctuations in the Soft X-ray Background",
+        "authors": [
+            "Kip D. Kuntz"
+        ],
+        "pageCount": 896,
+        "language": "en"
+    },
+    {
+        "title": "So You're Planning an Outdoor Recreation Business",
+        "authors": [
+            "Howard Rankin Alden"
+        ],
+        "pageCount": 16,
+        "language": "en"
+    },
+    {
+        "title": "Socraticorum reliquiae",
+        "authors": [
+            "Gabriele Giannantoni"
+        ],
+        "pageCount": 346,
+        "language": "el"
+    },
+    {
+        "title": "Some Legal Aspects of Life Insurance Trusts",
+        "authors": [
+            "Guy Bertram Horton"
+        ],
+        "pageCount": 64,
+        "language": "en"
+    },
+    {
+        "title": "Some Opinions and Papers of Stephen J. Field",
+        "authors": [
+            "Stephen Johnson Field"
+        ],
+        "pageCount": 562,
+        "language": "en"
+    },
+    {
+        "title": "Some Properties and Reactions of B-trifluoro-, B-trichloro-, and B-tribromo-borazine",
+        "authors": [
+            "Charles Walter John Scaife"
+        ],
+        "pageCount": 306,
+        "language": "en"
+    },
+    {
+        "title": "Sonata in D (G. 5) for trumpet, strings and continuo",
+        "authors": [
+            "Giuseppe Torelli"
+        ],
+        "pageCount": 162,
+        "language": "en"
+    },
+    {
+        "title": "Sonatas for violin and basso continuo: G minor",
+        "authors": [
+            "George Frideric Handel"
+        ],
+        "pageCount": 166,
+        "language": "en"
+    },
+    {
+        "title": "Sophoclis Tragoediae. Recognovit ac brevi annotatione scholarum in usum instruxit F. Nevius",
+        "authors": [
+            "Sophocles"
+        ],
+        "pageCount": 730,
+        "language": "el"
+    },
+    {
+        "title": "Sophoclis tragoediae, recens. et explanavit E. Wunderus. (Bibl. Gr., curantibus F. Iacobs et V.C.F. Rost. Poetarum, vol.9,10). Vol.1, sect.1 continens Philoctetam. Vol.1, sect.2 continens Oedipum regem",
+        "authors": [
+            "Sophocles"
+        ],
+        "pageCount": 184,
+        "language": "el"
+    },
+    {
+        "title": "Sophoclis tragoediae, recens. et explanavit E. Wunderus. (Bibl. Gr., curantibus F. Iacobs et V.C.F. Rost. Poetarum, vol.9,10). Vol.1, sect.1 continens Philoctetam. Vol.1, sect.2 continens Oedipum regem",
+        "authors": [
+            "Sophocles"
+        ],
+        "pageCount": 184,
+        "language": "el"
+    },
+    {
+        "title": "Sophoclis tragoediae, recens. et explanavit E. Wunderus. (Bibl. Gr., curantibus F. Iacobs et V.C.F. Rost. Poetarum, vol.9,10). Vol.1, sect.1 continens Philoctetam. Vol.2, sect.3 continens Trachinias",
+        "authors": [
+            "Sophocles"
+        ],
+        "pageCount": 200,
+        "language": "el"
+    },
+    {
+        "title": "Sophoclis tragoediae, recogn. ac brevi annotatione instruxit F. Nevius",
+        "authors": [
+            "Sophocles"
+        ],
+        "pageCount": 774,
+        "language": "el"
+    },
+    {
+        "title": "Sophokleous Oidipous turannos. Sophoclis Oedipus tyrannus ex recens. P. Elmsley, qui et annotationes suas adjecit",
+        "authors": [
+            "Sophocles"
+        ],
+        "pageCount": 120,
+        "language": "el"
+    },
+    {
+        "title": "Sophokl\u0113s. Sophoclis trag\u0153di\u00e6 superstites et deperditarum fragmenta, ex recens. G. Dindorfii",
+        "authors": [
+            "Sophocles"
+        ],
+        "pageCount": 476,
+        "language": "el"
+    },
+    {
+        "title": "Sophokl\u0113s. Sophoclis trag\u0153di\u00e6 superstites et deperditarum fragmenta, ex recens. G. Dindorfii. Ed",
+        "authors": [
+            "Sophocles"
+        ],
+        "pageCount": 662,
+        "language": "el"
+    },
+    {
+        "title": "Special Report ...",
+        "authors": [
+            "Great Britain. Parliament. House of Commons. Select Committee on Nationalised Industries"
+        ],
+        "pageCount": 52,
+        "language": "en"
+    },
+    {
+        "title": "Specification of a CAD 1 Neutral File for CAD Geometry",
+        "authors": [
+            "Ernst G. Schlechtendahl"
+        ],
+        "pageCount": 264,
+        "language": "en"
+    },
+    {
+        "title": "Specification of a CAD 1 Neutral File for CAD Geometry",
+        "authors": [
+            "Ernst G. Schlechtendahl"
+        ],
+        "pageCount": 264,
+        "language": "en"
+    },
+    {
+        "title": "Spectral Reflectance by Solids of Carbon K Radiation",
+        "authors": [
+            "Ralph F. Wuerker"
+        ],
+        "pageCount": 494,
+        "language": "en"
+    },
+    {
+        "title": "Spicilegium SS. Patrum Ut Et Haereticorum, Seculi post Christum natum I. II. & III.",
+        "authors": [
+            "Joannes Ernestus Grabe"
+        ],
+        "pageCount": 396,
+        "language": "el"
+    },
+    {
+        "title": "Spread F and Its Effects Upon Radiowave Propagation and Communication",
+        "authors": [
+            "Philip Newman"
+        ],
+        "pageCount": 642,
+        "language": "en"
+    },
+    {
+        "title": "Spring Wheat Production and Varieties for Wyoming",
+        "authors": [
+            "Glen Hartman"
+        ],
+        "pageCount": 44,
+        "language": "en"
+    },
+    {
+        "title": "Stanley K. Hornbeck and the Far East, 1931-1941",
+        "authors": [
+            "Kenneth G. McCarty"
+        ],
+        "pageCount": 598,
+        "language": "en"
+    },
+    {
+        "title": "Statistiques de l'enseignement",
+        "authors": [
+            "Qu\u00e9bec (Province). Dept. of Education. Service de l'informatique"
+        ],
+        "pageCount": 152,
+        "language": "el"
+    },
+    {
+        "title": "Statutes of the Province of Quebec Passed in the Session Held in the ... Year of the Reign",
+        "authors": [
+            "Qu\u00e9bec (Province)."
+        ],
+        "pageCount": 1644,
+        "language": "en"
+    },
+    {
+        "title": "Student Study Guide for Calculus, Second Edition, [by] J. Douglas Faires and Barbara T. Faires",
+        "authors": [
+            "Phillip Schmidt"
+        ],
+        "pageCount": 578,
+        "language": "en"
+    },
+    {
+        "title": "Student\u2019s Guide to Calculus by J. Marsden and A. Weinstein",
+        "authors": [
+            "Frederick H. Soon"
+        ],
+        "pageCount": 294,
+        "language": "en"
+    },
+    {
+        "title": "Studi nelle scienze giuridiche e sociali",
+        "authors": [
+            "Universit\u00e0 di Pavia. Istituto di esercitazioni nelle scienze giuridiche e sociali"
+        ],
+        "pageCount": 474,
+        "language": "el"
+    },
+    {
+        "title": "Studies of American Interests in the War and the Peace",
+        "authors": [
+            "Council on Foreign Relations"
+        ],
+        "pageCount": 412,
+        "language": "en"
+    },
+    {
+        "title": "Study of Earth Noise on Land and Sea Bottom",
+        "authors": [
+            "Hugh Bradner",
+            "Richard A. Haubrich",
+            "Walter Heinrich Munk"
+        ],
+        "pageCount": 344,
+        "language": "en"
+    },
+    {
+        "title": "Subregional Variability of Adjustment Factors of Rural Families in the South",
+        "authors": [
+            "Seung Gyu Moon"
+        ],
+        "pageCount": 62,
+        "language": "en"
+    },
+    {
+        "title": "Syllabus on State and Local Taxation in California",
+        "authors": [
+            "University of California, Berkeley. Department of Continuing Education of the Bar"
+        ],
+        "pageCount": 178,
+        "language": "en"
+    },
+    {
+        "title": "Synchron\u0113 Hell\u0113nik\u0113 politik\u0113 historia: 1862-1917, apo t\u0113n en Athenais v' syneleus\u0113 st\u0113n ekthronis\u0113 tou K\u014dnstantinou Glyxmpournk",
+        "authors": [
+            "Paulos B. Petrid\u0113s",
+            "Paulos V. Petrid\u0113s"
+        ],
+        "pageCount": 404,
+        "language": "el"
+    },
+    {
+        "title": "Synopsis evangelica, recens. C. Tischendorf",
+        "authors": [
+            "Lobegott Friedrich Constantin Tischendorf"
+        ],
+        "pageCount": 310,
+        "language": "el"
+    },
+    {
+        "title": "Systematics and Evolutionary Relationships of Andean Phyllotine and Akodontine Rodents",
+        "authors": [
+            "Angel Oyarzun Spotorno"
+        ],
+        "pageCount": 470,
+        "language": "en"
+    },
+    {
+        "title": "T'agn\u014dsta chronia",
+        "authors": [
+            "Andreas Theod\u014drou Drakak\u0113s"
+        ],
+        "pageCount": 102,
+        "language": "el"
+    },
+    {
+        "title": "T. Cullen Young",
+        "authors": [
+            "Peter Glover Forster"
+        ],
+        "pageCount": 282,
+        "language": "en"
+    },
+    {
+        "title": "Table of Arc Tan X",
+        "authors": [
+            "Mathematical Tables Project (U.S.)"
+        ],
+        "pageCount": 202,
+        "language": "en"
+    },
+    {
+        "title": "Tableau des isles britanniques et de leurs productions, \u00e0 l'usage de la jeunesse destin\u00e9e au commerce. Par M. Danzel ..",
+        "authors": [
+            "Nicolas Alexandre Danzel"
+        ],
+        "pageCount": 52,
+        "language": "el"
+    },
+    {
+        "title": "Tarantine Terracotta Moulds and Reliefs in the J. Paul Getty Museum",
+        "authors": [
+            "Bonnie M. Kingsley"
+        ],
+        "pageCount": 1078,
+        "language": "en"
+    },
+    {
+        "title": "Tax Planning Techniques for the Closely Held Corporation",
+        "authors": [
+            "Edward A. Stoeber"
+        ],
+        "pageCount": 366,
+        "language": "en"
+    },
+    {
+        "title": "Teacher Supply and Demand in California, 1970-1980 /prepared by Robert J. Gardner",
+        "authors": [
+            "Robert J. Gardner"
+        ],
+        "pageCount": 72,
+        "language": "en"
+    },
+    {
+        "title": "Technical C Programming",
+        "authors": [
+            "Vincent Kassab"
+        ],
+        "pageCount": 408,
+        "language": "en"
+    },
+    {
+        "title": "Technical Paper[s]",
+        "authors": [
+            "Pennsylvania State University. Mineral Industries Experiment Station"
+        ],
+        "pageCount": 396,
+        "language": "en"
+    },
+    {
+        "title": "Teori\u0361a Tret\u02b9oho Rymu: Teorii\u0361a III i shli\u0361akhy rosi\u012ds\u02b9ko\u00ef istoriohrai\u012d",
+        "authors": [
+            "T\u0361Serkovno-arkheografichna komisii\u0361a Apostol\u02b9s\u02b9koho vizutatora dli\u0361a Ukra\u00efnt\u0361siv u Zakhidni i Evropi"
+        ],
+        "pageCount": 44,
+        "language": "en"
+    },
+    {
+        "title": "Text of \"A\" Papers from the Summer Meeting, IEEE Power Engineering Society, Portland, Oregon, July 18-23, 1976",
+        "authors": [
+            "IEEE Power Engineering Society"
+        ],
+        "pageCount": 844,
+        "language": "en"
+    },
+    {
+        "title": "The 401 (k) Millionaire",
+        "authors": [
+            "Knute Iwaszko",
+            "Brian O'Connell"
+        ],
+        "pageCount": 248,
+        "language": "en"
+    },
+    {
+        "title": "The Allied Air Campaign Against Hitler's U-boats",
+        "authors": [
+            "Timothy S Good"
+        ],
+        "pageCount": 354,
+        "language": "en"
+    },
+    {
+        "title": "The American Freshman",
+        "authors": [
+            "Cooperative Institutional Research Program (U.S.)"
+        ],
+        "pageCount": 196,
+        "language": "en"
+    },
+    {
+        "title": "The Beam-foil X-ray Spectra of Highly Ionized Neon-like Rhodium, Lanthanum and Gold",
+        "authors": [
+            "Gordon Andrew Chandler"
+        ],
+        "pageCount": 450,
+        "language": "en"
+    },
+    {
+        "title": "The Best Books: Class A, Theology. B, Mythology and folklore. C, Philosophy. 1910",
+        "authors": [
+            "William Swan Sonnenschein"
+        ],
+        "pageCount": 470,
+        "language": "en"
+    },
+    {
+        "title": "The Book of Gems",
+        "authors": [
+            "Samuel Carter Hall"
+        ],
+        "pageCount": 304,
+        "language": "en"
+    },
+    {
+        "title": "The Breeding Cycle in the Bank Swallow (Riparia Riparia L.)",
+        "authors": [
+            "Arnold Jerome Petersen"
+        ],
+        "pageCount": 276,
+        "language": "en"
+    },
+    {
+        "title": "The Chemistry and Immunology of the J Substance",
+        "authors": [
+            "James Akira Hayashi"
+        ],
+        "pageCount": 152,
+        "language": "en"
+    },
+    {
+        "title": "The Commentary of Origen on S. John's Gospel",
+        "authors": [
+            "A. E. Brooke"
+        ],
+        "pageCount": 364,
+        "language": "el"
+    },
+    {
+        "title": "The Day I Met a Lion",
+        "authors": [
+            "MacKinlay Kantor"
+        ],
+        "pageCount": 368,
+        "language": "en"
+    },
+    {
+        "title": "The Edwin J. Beinecke Collection of Robert Louis Stevenson",
+        "authors": [
+            "Edwin John Beinecke",
+            "Gertrude Hills"
+        ],
+        "pageCount": 40,
+        "language": "en"
+    },
+    {
+        "title": "The Effects of Tyrosine, P-hydroxyphenylacetic Acid, P-cresol and Bacitracin Methylene Disalicylate on the Growth of Weanling Pigs",
+        "authors": [
+            "Isaias G. Lumanta"
+        ],
+        "pageCount": 436,
+        "language": "en"
+    },
+    {
+        "title": "The Emergence of Israel in Canaan",
+        "authors": [
+            "Baruch Halpern"
+        ],
+        "pageCount": 376,
+        "language": "en"
+    },
+    {
+        "title": "The Evolution Man, Or, How I Ate My Father",
+        "authors": [
+            "Roy Lewis"
+        ],
+        "pageCount": 234,
+        "language": "en"
+    },
+    {
+        "title": "The Farmer's Part in Cooperative Marketing",
+        "authors": [
+            "Ward Willard Fetrow"
+        ],
+        "pageCount": 32,
+        "language": "en"
+    },
+    {
+        "title": "The G-Plan Revolution",
+        "authors": [
+            "Basil Hyman",
+            "Steven Braggs"
+        ],
+        "pageCount": 232,
+        "language": "en"
+    },
+    {
+        "title": "The Indispensable F. Scott Fitzgerald",
+        "authors": [
+            "Francis Scott Fitzgerald"
+        ],
+        "pageCount": 882,
+        "language": "en"
+    },
+    {
+        "title": "The J-integral as a Fracture Parameter",
+        "authors": [
+            "J. H. Giovanola"
+        ],
+        "pageCount": 682,
+        "language": "en"
+    },
+    {
+        "title": "The J. Paul Getty Museum Journal",
+        "authors": [
+            "J. Paul Getty Museum"
+        ],
+        "pageCount": 252,
+        "language": "en"
+    },
+    {
+        "title": "The K0K\u03040 System",
+        "authors": [
+            "Georges Charpak",
+            "Michel Gourdin"
+        ],
+        "pageCount": 138,
+        "language": "en"
+    },
+    {
+        "title": "The Madras Village Panchayats Act, 1950 (act No. X of 1950)",
+        "authors": [
+            "Madras (India)",
+            "R. Srinivasan"
+        ],
+        "pageCount": 372,
+        "language": "en"
+    },
+    {
+        "title": "The Marine Paintings of Carl G. Evers",
+        "authors": [
+            "Carl G. Evers"
+        ],
+        "pageCount": 108,
+        "language": "en"
+    },
+    {
+        "title": "The New navy list, compiled by C. Haultain [and] (J. Allen)",
+        "authors": [
+            "Joseph Allen (of Greenwich hosp)",
+            "Charles Haultain"
+        ],
+        "pageCount": 696,
+        "language": "en"
+    },
+    {
+        "title": "The O.I.C. Swine Breeders' Association Record",
+        "authors": [
+            "O.I.C. Swine Breeders' Association"
+        ],
+        "pageCount": 268,
+        "language": "en"
+    },
+    {
+        "title": "The Original Letters of Robert R. Livingston, 1801-1803, Written During His Negotiations of the Purchase of Louisiana",
+        "authors": [
+            "Robert R. Livingston"
+        ],
+        "pageCount": 126,
+        "language": "en"
+    },
+    {
+        "title": "The Papers of James Madison: 1 Jan.-30 Apr. 1783",
+        "authors": [
+            "James Madison"
+        ],
+        "pageCount": 596,
+        "language": "en"
+    },
+    {
+        "title": "The Penguin Dictionary of Proverbs",
+        "authors": [
+            "Rosalind Fergusson"
+        ],
+        "pageCount": 392,
+        "language": "en"
+    },
+    {
+        "title": "The Physics of Medical X-ray Imaging",
+        "authors": [
+            "Bruce H. Hasegawa"
+        ],
+        "pageCount": 327,
+        "language": "en"
+    },
+    {
+        "title": "The Possible Role of P-glycoprotein in the Distribution of Clarithromycin to the Middle Ear",
+        "authors": [
+            "Zhihong Li (M.S.)"
+        ],
+        "pageCount": 458,
+        "language": "en"
+    },
+    {
+        "title": "The Register of the Cecil B. DeMille Archives",
+        "authors": [
+            "Harold B. Lee Library"
+        ],
+        "pageCount": 498,
+        "language": "en"
+    },
+    {
+        "title": "The Sale Value of Flue-cured Tobacco Allotments",
+        "authors": [
+            "Frank Herman Maier"
+        ],
+        "pageCount": 64,
+        "language": "en"
+    },
+    {
+        "title": "The Synthesis of Prostaglandins",
+        "authors": [
+            "Abhijit\u0332 Mitra"
+        ],
+        "pageCount": 472,
+        "language": "en"
+    },
+    {
+        "title": "The Teaching of Social Studies, for B.T., B. ED. and M. ED. Students",
+        "authors": [
+            "S. K. Kochhar"
+        ],
+        "pageCount": 264,
+        "language": "en"
+    },
+    {
+        "title": "The Tokio Soybean",
+        "authors": [
+            "Charles Ansel Mooers"
+        ],
+        "pageCount": 18,
+        "language": "en"
+    },
+    {
+        "title": "The Value of Scabby Potatoes",
+        "authors": [
+            "Benjamin Franklin Lutman"
+        ],
+        "pageCount": 24,
+        "language": "en"
+    },
+    {
+        "title": "The Wicked Wit of John F. Kennedy",
+        "authors": [
+            "John F. Kennedy",
+            "Dominique Enright"
+        ],
+        "pageCount": 174,
+        "language": "en"
+    },
+    {
+        "title": "Themistii Euphradae Orationes aliquot non edit\u00e6 cum interpretatione P. Pantini et viri eruditi notis. Gr. and Lat",
+        "authors": [
+            "Euphrada THEMISTIUS"
+        ],
+        "pageCount": 172,
+        "language": "el"
+    },
+    {
+        "title": "Theod\u014drou tou Balsam\u014dn ... ta heuriskomena panta. Theodori Balsamonis ... opera ... omnia. Accedunt J. Zonar\u00e6 et Aristeni commentaria in Canones ss. Apostolorum. Recogn. J.-P. Migne",
+        "authors": [
+            "Theodoros Balsamon (patriarch of Antioch.)"
+        ],
+        "pageCount": 720,
+        "language": "el"
+    },
+    {
+        "title": "Theologia & ontologia tou P. Tillich",
+        "authors": [
+            "Le\u014dnidas K. Bartzeli\u014dt\u0113s"
+        ],
+        "pageCount": 52,
+        "language": "el"
+    },
+    {
+        "title": "Theophilos Ka\u00efr\u0113s, K\u014dnstantinos M. Koumas",
+        "authors": [
+            "Giann\u0113s Karas"
+        ],
+        "pageCount": 224,
+        "language": "el"
+    },
+    {
+        "title": "Thesaurus graecae poese[o]s siue Lexicon graeco-prosodiacum ; versus, et synonyma ... epitheta, phrases, descriptiones, etc ... De poesi, seu prosodia graecorum tractatus",
+        "authors": [
+            "Thomas Morell"
+        ],
+        "pageCount": 676,
+        "language": "el"
+    },
+    {
+        "title": "Thesaurus graecae poese[o]s siue Lexicon graeco-prosodiacum ; versus, et synonyma ... epitheta, phrases, descriptiones, etc ... De poesi, seu prosodia graecorum tractatus",
+        "authors": [
+            "Thomas Morell"
+        ],
+        "pageCount": 676,
+        "language": "el"
+    },
+    {
+        "title": "Thinking about Local Living Wage Requirements",
+        "authors": [
+            "Timothy J. Bartik"
+        ],
+        "pageCount": 52,
+        "language": "en"
+    },
+    {
+        "title": "Thoukudid\u0113s. Thucydidis historia belli Peloponnesiaci, cum nova tr. Lat. F. Haasii . Accedunt scholia Gr\u00e6ca",
+        "authors": [
+            "Thucydides"
+        ],
+        "pageCount": 558,
+        "language": "el"
+    },
+    {
+        "title": "Thucydidis Historiae: Libri I-IV",
+        "authors": [
+            "Thucydides"
+        ],
+        "pageCount": 338,
+        "language": "el"
+    },
+    {
+        "title": "Titi Flavi Clementis ... opera omnia, recogn. R. Klotz",
+        "authors": [
+            "Titus Flavius Clemens (of Alexandria.)"
+        ],
+        "pageCount": 396,
+        "language": "el"
+    },
+    {
+        "title": "To oikoumeniko Vyzantino kratos kai h\u0113 emphanis\u0113 tou Islam, 518-717 m. Ch",
+        "authors": [
+            "Alex\u0113s G. K. Savvid\u0113s"
+        ],
+        "pageCount": 298,
+        "language": "el"
+    },
+    {
+        "title": "Tou makariou The\u014ddor\u0113tou ... hapanta. B. Theodoreti ... opera omnia, ex recens. I. Sirmondi, denuo ed., Gr. e codicibus locupletauit, versionem Lat. recogn. et variantes lectiones adiecit I.L. Schulze (J.A. Noesselt). 5 tom. [in 10.].",
+        "authors": [
+            "Theodoretus (bp. of Cyrrhus.)"
+        ],
+        "pageCount": 700,
+        "language": "el"
+    },
+    {
+        "title": "Towards Precision Shoemaking: C. & J. Clark Limited and the Development of the British Shoe Industry",
+        "authors": [
+            "Kenneth Hudson"
+        ],
+        "pageCount": 120,
+        "language": "en"
+    },
+    {
+        "title": "Tragoediae: pt. 3. Aeschyli Choephoroe ... notas & glossarium adjecit C:J. Blomfield",
+        "authors": [
+            "Aeschylus"
+        ],
+        "pageCount": 620,
+        "language": "el"
+    },
+    {
+        "title": "Tu en hagiois patros Isid\u014dru tu P\u0113lusi\u014dtu epistolai anekdotoi. S. Isidori Pelvsiotae Epistolae Hactenvs In-editae De locis S. Scripturae moribusque formandis",
+        "authors": [
+            "Isidorus (Pelusiota)"
+        ],
+        "pageCount": 352,
+        "language": "el"
+    },
+    {
+        "title": "T\u014dn basilik\u014dn Biblia X'. Basilik\u014dn libri 60. In 7. tomos diuisi. Carolus Annibal Fabrotus antecessorum Aquisextiensium decanus Latin\u00e8 vertit, & Gr\u00e6c\u00e8 edidit ex bibliotheca regis christianissimi. [Tomus 1.-7.] - Parisiis sumptibus Sebastiani Cramoisy architypographi regis & regin\u00e6 regentis, et Gabrielis Cramoisy. Vi\u00e2 Iacob\u00e6\u00e2, sub Ciconiis, 1647",
+        "authors": [
+            "Charles Annibal Fabrot"
+        ],
+        "pageCount": 916,
+        "language": "el"
+    },
+    {
+        "title": "U-Statistics",
+        "authors": [
+            "A J. Lee"
+        ],
+        "pageCount": 225,
+        "language": "en"
+    },
+    {
+        "title": "U.S. Tax Cases",
+        "authors": [
+            "Commerce Clearing House"
+        ],
+        "pageCount": 1558,
+        "language": "en"
+    },
+    {
+        "title": "Un vieux texte basque du xvii-e si\u00e8cle",
+        "authors": [
+            "Julien Vinson"
+        ],
+        "pageCount": 56,
+        "language": "el"
+    },
+    {
+        "title": "Understanding Economics",
+        "authors": [
+            "Mark A. Lovewell"
+        ],
+        "pageCount": 484,
+        "language": "en"
+    },
+    {
+        "title": "University of California Publications in Seismology ...",
+        "authors": [
+            "University of California, Berkeley"
+        ],
+        "pageCount": 692,
+        "language": "en"
+    },
+    {
+        "title": "Urban Transport X",
+        "authors": [
+            "C. A. Brebbia",
+            "Lal Chand Wadhwa"
+        ],
+        "pageCount": 944,
+        "language": "en"
+    },
+    {
+        "title": "Utilization of Home Grown Feeds in Fattening Steers in the Trans-Pecos Region",
+        "authors": [
+            "John H. Jones",
+            "John McKinley Jones",
+            "John Jasper Bayles"
+        ],
+        "pageCount": 60,
+        "language": "en"
+    },
+    {
+        "title": "V/STOL",
+        "authors": [
+            "Roy Braybrook"
+        ],
+        "pageCount": 232,
+        "language": "en"
+    },
+    {
+        "title": "Varieties of Cotton in Northwest Texas",
+        "authors": [
+            "Robert Earl Karper"
+        ],
+        "pageCount": 66,
+        "language": "en"
+    },
+    {
+        "title": "Vasilik\u0113 I: Hai anaskaphai Seager 1903-1906. H\u0113 melet\u0113 Sinou 1966",
+        "authors": [
+            "Ant\u014dnios A. Z\u014d\u0113s"
+        ],
+        "pageCount": 206,
+        "language": "el"
+    },
+    {
+        "title": "Visit to a Small Planet",
+        "authors": [
+            "Gore Vidal"
+        ],
+        "pageCount": 196,
+        "language": "en"
+    },
+    {
+        "title": "Vita B. Ignatii Societatis Iesu Fundatoris",
+        "authors": [
+            "Pedro de Ribadeneyra"
+        ],
+        "pageCount": 12,
+        "language": "el"
+    },
+    {
+        "title": "Vita M. Bruti",
+        "authors": [
+            "Plutarchus"
+        ],
+        "pageCount": 140,
+        "language": "el"
+    },
+    {
+        "title": "Vita S. Antonii eremitae a D. Athanasio Grece scripta, e codice Boico nunc primum edita. Cum Dauidis Hoeschelij Augustani interpretatione ac notis",
+        "authors": [
+            "Athanasius"
+        ],
+        "pageCount": 163,
+        "language": "el"
+    },
+    {
+        "title": "Vitamin D Toxicity in Growing Pigs",
+        "authors": [
+            "Chijoke Nwankwo Chineme"
+        ],
+        "pageCount": 384,
+        "language": "en"
+    },
+    {
+        "title": "W. Pape's Handw\u00f6rterbuch der griechischen Sprache",
+        "authors": [
+            "Wilhelm Pape"
+        ],
+        "pageCount": 1416,
+        "language": "el"
+    },
+    {
+        "title": "Werke: Bd. Die Kirchengeschichte, hrsg. von E. Schwartz. Die lateinische \u00dcbersetzung des Rufinus, bearb. von T. Mommsen. 3 v",
+        "authors": [
+            "Eusebius (of Caesarea, Bishop of Caesarea)"
+        ],
+        "pageCount": 556,
+        "language": "el"
+    },
+    {
+        "title": "Werke: Bd. Die Praeparatio evangelica, hrsg. von K. Mras. v",
+        "authors": [
+            "Eusebius (of Caesarea, Bishop of Caesarea)"
+        ],
+        "pageCount": 614,
+        "language": "el"
+    },
+    {
+        "title": "What Price for this Land?",
+        "authors": [
+            "Norris J. Anderson"
+        ],
+        "pageCount": 15,
+        "language": "en"
+    },
+    {
+        "title": "Why Don't We Do Something Different?",
+        "authors": [
+            "Carolyn C. Moore"
+        ],
+        "pageCount": 204,
+        "language": "en"
+    },
+    {
+        "title": "William J. Gedney's The Tai Dialect of Lungming",
+        "authors": [
+            "William J. Gedney"
+        ],
+        "pageCount": 1236,
+        "language": "en"
+    },
+    {
+        "title": "William J. Gedney's the Yay Language",
+        "authors": [
+            "William J. Gedney"
+        ],
+        "pageCount": 818,
+        "language": "en"
+    },
+    {
+        "title": "Winston S. Churchill: 1914-1916, the challenge of war. Companion. pt. 1. July 1914-April 1915. pt. 2. May 1915-December 1916",
+        "authors": [
+            "Randolph Spencer Churchill"
+        ],
+        "pageCount": 1074,
+        "language": "en"
+    },
+    {
+        "title": "Wire Stem of Cabbage",
+        "authors": [
+            "Levi Otto Gratz"
+        ],
+        "pageCount": 76,
+        "language": "en"
+    },
+    {
+        "title": "X-ray Binaries",
+        "authors": [
+            "Elihu Boldt",
+            "Yoji Kondo"
+        ],
+        "pageCount": 757,
+        "language": "en"
+    },
+    {
+        "title": "X-ray Diffraction Studies of Grain Boundary Structure in FCC Metals",
+        "authors": [
+            "Keith Raymond Milkove"
+        ],
+        "pageCount": 934,
+        "language": "en"
+    },
+    {
+        "title": "X-ray Technology",
+        "authors": [
+            "Charles A. Jacobi",
+            "Donald E. Hagen"
+        ],
+        "pageCount": 426,
+        "language": "en"
+    },
+    {
+        "title": "Xenophon's Anabasis ... Erkl\u00e4rt von F. Vollbrecht. ... Zweite ... vermehrte Auflage. Gr",
+        "authors": [
+            "Xenophon"
+        ],
+        "pageCount": 212,
+        "language": "el"
+    },
+    {
+        "title": "Xenophon's Denkb\u00fccher \u00fcber Sokrates, erkl\u00e4rt von R. K\u00fchner. Gr",
+        "authors": [
+            "Xenophon"
+        ],
+        "pageCount": 232,
+        "language": "el"
+    },
+    {
+        "title": "Xenophons Anabasis, zum Schulgebrauche herausg. von K. Matthi\u00e4",
+        "authors": [
+            "Xenophon (of Athens.)"
+        ],
+        "pageCount": 460,
+        "language": "el"
+    },
+    {
+        "title": "Xenophontis Opera omnia recensuit et commentariis in usum scholarum instruxit M. Frideric. August. Bornemann, ..",
+        "authors": [
+            "Xenophon"
+        ],
+        "pageCount": 702,
+        "language": "el"
+    },
+    {
+        "title": "Ymnos, Coro, pf, F-Dur - BSB Mus.ms. 3532",
+        "authors": [
+            "Raffaele Parisini"
+        ],
+        "pageCount": 24,
+        "language": "el"
+    },
+    {
+        "title": "Your Child and X-rays",
+        "authors": [
+            "Avice M. O'Connell",
+            "Norma Leonardi Leone"
+        ],
+        "pageCount": 113,
+        "language": "en"
+    },
+    {
+        "title": "Zeszyty naukowe Szko\u0142y G\u0142ownej Planowania i Statystyki",
+        "authors": [
+            "Szko\u0142a G\u0142\u00f3wna Planowania i Statystyki (Warsaw, Poland)"
+        ],
+        "pageCount": 1170,
+        "language": "en"
+    },
+    {
+        "title": "pt. 1-2. Uomini politici, patrioti e pubblicisti",
+        "authors": [
+            "Onorato Roux"
+        ],
+        "pageCount": 336,
+        "language": "el"
+    },
+    {
+        "title": "the American Language ",
+        "authors": [
+            "Mr. Mencken, Robert Shoemaker "
+        ],
+        "pageCount": 820,
+        "language": "en"
+    },
+    {
+        "title": "\u00c6schinis ... Opera, etc. (H. Wolfii Prooemium, etc.) Gr",
+        "authors": [
+            "Aeschines"
+        ],
+        "pageCount": 284,
+        "language": "el"
+    },
+    {
+        "title": "\u0392\u03bb\u03b1\u03bd\u03c4\u03af\u03bc\u03b9\u03c1 \u03a0\u03bf\u03cd\u03c4\u03b9\u03bd. \u039f \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2 \u03b4\u03af\u03c7\u03c9\u03c2 \u03c0\u03c1\u03cc\u03c3\u03c9\u03c0\u03bf",
+        "authors": [
+            "Masha Gessen"
+        ],
+        "pageCount": 432,
+        "language": "el"
+    },
+    {
+        "title": "\u0394\u03bf\u03ba\u03af\u03bc\u03b1\u03c3\u03b5 \u03c4\u03bf \u03cc\u03c0\u03bb\u03bf \u03c0\u03bf\u03c5 \u03ba\u03b1\u03bd\u03b5\u03af\u03c2 \u03b4\u03b5\u03bd \u03c3\u03bf\u03c5 \u03ad\u03bc\u03b1\u03b8\u03b5 Q-MIND",
+        "authors": [
+            "\u03a4\u03ac\u03ba\u03b7\u03c2 \u03a0\u03ad\u03c1\u03ba\u03b9\u03b6\u03b1\u03c2"
+        ],
+        "pageCount": 84,
+        "language": "el"
+    },
+    {
+        "title": "\u0395\u03c0\u03b1\u03b9\u03bd\u03bf\u03c2 \u0399\u03c9\u03ac\u03bd\u03bd\u03bf\u03c5 \u039a. \u03a0\u03b1\u03c0\u03b1\u03b4\u03b7\u03bc\u03b7\u03c4\u03c1\u03af\u03bf\u03c5",
+        "authors": [
+            "\u0392\u03b1\u03c3\u03b9\u03bb\u03b5\u03b9\u03bf\u03c2 \u03a7 \u03a0\u03b5\u03c4\u03c1\u03b1\u03ba\u03bf\u03c2"
+        ],
+        "pageCount": 492,
+        "language": "el"
+    },
+    {
+        "title": "\u0395\u1f50\u03c1\u03b9\u03c0\u03b9\u03b4\u03bf\u03c5 \u039c\u03b7\u03b4\u03b5\u03b9\u03b1 ... Edidit R. Porson. Editio nova, cui selecta Schaeferi, Pflugkii, Klotzii aliorumque animadversiones adsperguntur",
+        "authors": [
+            "Euripides"
+        ],
+        "pageCount": 108,
+        "language": "el"
+    },
+    {
+        "title": "\u0395\u1f50\u03c1\u03b9\u03c0\u03b9\u03b4\u03bf\u03c5 \u03a6\u03bf\u03b9\u03bd\u03b9\u03c3\u03c3\u03b1\u03b9 ... Edidit R. Porson. Editio nova, cui select\u00e6 Schaeferi, Klotzii, aliorumque animadversiones adsperguntur",
+        "authors": [
+            "Euripides"
+        ],
+        "pageCount": 124,
+        "language": "el"
+    },
+    {
+        "title": "\u0395\u1f50\u03c1\u03b9\u03c0\u03b9\u03b4\u03bf\u03c5 \u03a6\u03bf\u03b9\u03bd\u03b9\u03c3\u03c3\u03b1\u03b9. ... Edidit R. Porson",
+        "authors": [
+            "Euripides"
+        ],
+        "pageCount": 102,
+        "language": "el"
+    },
+    {
+        "title": "\u0395\u1f50\u03c1\u03b9\u03c0\u03b9\u03b4\u03bf\u03c5 \u1f48\u03c1\u03b5\u03c3\u03c4\u03b7\u03c2 ... brevibus notis ... instructa ... Edidit R. Porson",
+        "authors": [
+            "Euripides"
+        ],
+        "pageCount": 96,
+        "language": "el"
+    },
+    {
+        "title": "\u0397 \u0391\u03b8\u03b7\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b1 \u03bc\u03b1\u03c4\u03b9\u03b1 \u03c4\u03c9\u03bd \u03b6\u03c9\u03b3\u03c1\u03b1\u03c6\u03c9\u03bd \u03c0\u03b5\u03c1\u03b9\u03b7\u03b3\u03b7\u03c4\u03c9\u03bd",
+        "authors": [
+            "\u03a6\u03b1\u03bd\u03b7-\u039c\u03b1\u03c1\u03b9\u03b1 \u03a4\u03c3\u03b9\u03b3\u03ba\u03b1\u03ba\u03bf\u03c5"
+        ],
+        "pageCount": 218,
+        "language": "el"
+    },
+    {
+        "title": "\u0397 \u03b7\u03bb\u03b5\u03ba\u03c4\u03c1\u03b9\u03ba\u03b7 \u03b1\u03b3\u03c9\u03b3\u03b9\u03bc\u03bf\u03c4\u03b7\u03c3 \u03c4\u03c9\u03bd \u03c3\u03c4\u03b5\u03c1\u03b5\u03c9\u03bd \u03c0\u03b1\u03c1\u03b1\u03c6\u03b9\u03bd\u03c9\u03bd & \u03b7 \u03b5\u03c0\u03b9\u03b4\u03c1\u03b1\u03c3\u03b9\u03c3 \u03b5\u03c0' \u03b1\u03c5\u03c4\u03b7\u03c3 \u03c4\u03b7\u03c3 \u03b1\u03ba\u03c4\u03b9\u03bd\u03bf\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3 Roentgen",
+        "authors": [
+            "\u0391\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03bf\u03c5 \u03a3 \u03a0\u03b1\u03c0\u03b1\u03b6\u03b7"
+        ],
+        "pageCount": 126,
+        "language": "el"
+    },
+    {
+        "title": "\u039b\u03bf\u03b3\u03bf\u03c2 \u039a. \u0391\u03c3\u03c9\u03c0\u03b9\u03bf\u03c5 \u03c0\u03b1\u03c1\u03b1\u03b4\u03b9\u03b4\u03bf\u03bd\u03c4\u03bf\u03c2 \u03c4\u03b7\u03bd \u03b4\u03b5\u03c5\u03c4\u03b5\u03c1\u03b1\u03bd \u03b1\u03c5\u03c4\u03bf\u03c5 \u03c0\u03c1\u03c5\u03c4\u03b1\u03bd\u03b5\u03b9\u03b1\u03bd",
+        "authors": [
+            "K. Asopios"
+        ],
+        "pageCount": 106,
+        "language": "el"
+    },
+    {
+        "title": "\u039c\u03bf\u03bd\u03c4\u03ad\u03c1\u03bd\u03b1 \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u039a\u03bf\u03c5\u03b6\u03af\u03bd\u03b1",
+        "authors": [
+            "\u039c\u03b9\u03c7\u03ac\u03bb\u03b7\u03c2 \u039d\u03c4\u03bf\u03c5\u03bd\u03ad\u03c4\u03b1\u03c2"
+        ],
+        "pageCount": 410,
+        "language": "el"
+    },
+    {
+        "title": "\u039e. \u039a\u03c5\u03c1\u03bf\u03c5 \u1f08\u03bd\u03b1\u03b2\u03b1\u03c3\u03b9\u03c2. Mit erkl\u00e4renden Anmerkungen ... herausgegeben von G. Graff. Gr",
+        "authors": [
+            "Xenophon"
+        ],
+        "pageCount": 340,
+        "language": "el"
+    },
+    {
+        "title": "\u039e\u03b5\u03bd\u03bf\u03c6\u03c9\u03bd\u03c4\u03bf\u03c2 \u1f08\u03bd\u03b1\u03b2\u03b1\u03c3\u03b9\u03c2 \u039a\u03c5\u03c1\u03bf\u03c5. X. de Cyri expeditione commentarii. Recensuit J. G. Schneider. Gr",
+        "authors": [
+            "Xenophon"
+        ],
+        "pageCount": 524,
+        "language": "el"
+    },
+    {
+        "title": "\u03a1\u03c9\u03bc\u03b1\u03ca\u03ba\u03ae \u03ba\u03b1\u03b9 \u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03c7\u03c1\u03b9\u03c3\u03c4\u03b9\u03b1\u03bd\u03b9\u03ba\u03ae \u03c5\u03b1\u03bb\u03bf\u03c5\u03c1\u03b3\u03af\u03b1",
+        "authors": [
+            "\u0391\u03bd\u03b1\u03c3\u03c4\u03ac\u03c3\u03b9\u03bf\u03c2 \u0391\u03bd\u03c4\u03c9\u03bd\u03ac\u03c1\u03b1\u03c2"
+        ],
+        "pageCount": 618,
+        "language": "el"
+    },
+    {
+        "title": "\u03a1\u03c9\u03bc\u03b1\u03ca\u03ba\u03ae \u03ba\u03b1\u03b9 \u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03c7\u03c1\u03b9\u03c3\u03c4\u03b9\u03b1\u03bd\u03b9\u03ba\u03ae \u03c5\u03b1\u03bb\u03bf\u03c5\u03c1\u03b3\u03af\u03b1",
+        "authors": [
+            "\u0391\u03bd\u03b1\u03c3\u03c4\u03ac\u03c3\u03b9\u03bf\u03c2 \u0391\u03bd\u03c4\u03c9\u03bd\u03ac\u03c1\u03b1\u03c2"
+        ],
+        "pageCount": 618,
+        "language": "el"
+    },
+    {
+        "title": "\u03a4\u03b5\u03c7\u03bd\u03b7 \u1fe5\u03b7\u03c4\u03bf\u03c1\u03b9\u03ba\u03b7\u03c2 ... Arte di Retorica di F. Scuffi, etc",
+        "authors": [
+            "Phrankiskos SKOUPHOS"
+        ],
+        "pageCount": 522,
+        "language": "el"
+    },
+    {
+        "title": "\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u062d\u062c\u0627\u062c \u0648\u0627\u0644\u0623\u0639\u064a\u0627\u0646 \u0648\u0627\u0644\u0645\u062d\u0627\u0634\u064a: \u062f\u0631\u0627\u0633\u0627\u062a \u0641\u064a \u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0642\u062f\u0633 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a \u0648\u0627\u0644\u062b\u0642\u0627\u0641\u064a",
+        "authors": [
+            "\u062a\u0645\u0627\u0631\u064a\u060c \u0633\u0644\u064a\u0645"
+        ],
+        "pageCount": 236,
+        "language": "en"
+    },
+    {
+        "title": "\u1f29\u03c1\u03bf\u03b4\u03bf\u03c4\u03bf\u03c5 \u1f09\u03bb\u03b9\u03ba\u03b1\u03c1\u03bd\u03b1\u03c3\u03c3\u03b7\u03bf\u03c2 \u1f39\u03c3\u03c4\u03bf\u03c1\u03b9\u03c9\u03bd \u03bb\u03bf\u03b3\u03bf\u03b9 \u1f10\u03bd\u03bd\u03b5\u03b1 ... ex recensione J. Schweigh\u00e6useri ... Accedunt Geographi\u00e6 et Uranologi\u00e6 Herodote\u00e6 specimina a G. G. Bredow; T. C. Breiger Commentatio de difficilioribus quibusdam Asi\u00e6 Herodote\u00e6; Asi\u00e6 Herodote\u00e6 difficiliora, auctore C. G. H. Fr\u00f6mmichen; J. F. Hennicke Commentatio de Geographia Afric\u00e6 Herodotea: itemque summaria, scholia, etc. (Latine, ex versione J. Schweighaeuser, etc.).",
+        "authors": [
+            "Herodotus"
+        ],
+        "pageCount": 572,
+        "language": "el"
+    },
+    {
+        "title": "\u1f38\u03c9\u03b1\u03bd\u03bd\u03bf\u03c5 \u1f08\u03bb\u03b5\u03be\u03b1\u03bd\u03b4\u03c1\u03b5\u03c9\u03c2 \u03c4\u03bf\u03bd\u03b9\u03ba\u03b1 \u03c0\u03b1\u03c1\u03b1\u03b3\u03b3\u03b5\u03bb\u03bc\u03b1\u03c4\u03b1. \u0391\u1f30\u03bb\u03b9\u03bf\u03c5 \u1f29\u03c1\u03c9\u03b4\u03b9\u03b1\u03bd\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9 \u03c3\u03c7\u03b7\u03bc\u03b1\u03c4\u03c9\u03bd. Edidit G. Dindorfius",
+        "authors": [
+            "John Philoponus"
+        ],
+        "pageCount": 112,
+        "language": "el"
+    },
+    {
+        "title": "\u1f49\u03bc\u03b7\u03c1\u03bf\u03c5 \u1f38\u03bb\u03b9\u03b1\u03c2. Ad optimas editiones recensita cura G. Veitch, etc",
+        "authors": [
+            "Homer"
+        ],
+        "pageCount": 272,
+        "language": "el"
+    },
+    {
+        "title": "\u201cSancti Isidori Pelusiotae \u201dDe interpretatione divinae Scripturae epistolarum libri V",
+        "authors": [
+            "Isidorus Pelusiota"
+        ],
+        "pageCount": 930,
+        "language": "el"
     }
 ]

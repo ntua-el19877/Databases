@@ -28,9 +28,13 @@ def add_v(term,maxres=40):
                 try:
                     title = book["volumeInfo"]["title"]
                     authors = book["volumeInfo"]["authors"]
+                    pageCount=book["volumeInfo"]["pageCount"]
+                    language=book["volumeInfo"]["language"]
                     # categories = book["volumeInfo"]["categories"]
                     my_dict["title"]=title
                     my_dict["authors"]=authors
+                    my_dict["pageCount"]=pageCount
+                    my_dict["language"]=language
                     # my_dict["categories"]=categories
                     dataold.append(my_dict)
                 except:
@@ -45,8 +49,11 @@ def add_v(term,maxres=40):
             print("Error:", response.status_code)
             print("Reason:", response.text)
         # Write the JSON data to the file
+        dataold.sort(key=lambda x: x['title'])
         json.dump(dataold, file, indent=4)
 
     print("Values added to the JSON file:", output_file)
 
-add_v('a')
+stri='a'
+for i in range(24):
+    add_v(chr(ord(stri) + i))
