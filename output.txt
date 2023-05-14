@@ -1,0 +1,1776 @@
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('0','','Frank Miller','9551154901065','1852','True','http://books.google.com/books/content?id=yiZuAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('1','  ','Michalis Ntounetas','9791220274029','410','True','http://books.google.com/books/content?id=MOMhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','el')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('2','   ','Metaichmio Publications','9786180302950','183','True','http://books.google.com/books/content?id=b7KTCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','el')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('3','     ','Patakis','9789601655932','192','True','http://books.google.com/books/content?id=tJ0PDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','el')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('4','         ','Frank Brown','9563896857030','236','True','http://books.google.com/books/content?id=AOIuAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('5','        QMIND','Stamatis Perkizas','9791220291989','84','True','http://books.google.com/books/content?id=VngpEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','el')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('6',' .    ','Patakis','9789601647869','432','True','http://books.google.com/books/content?id=xOIcDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','el')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('7','3D Human Modeling and Animation','Wiley','8866420062872','356','True','http://books.google.com/books/content?id=aq_uAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('8','401k Day Trading','John Wiley  Sons','9781118128237','320','True','http://books.google.com/books/content?id=p-ii1mXpMPYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('9','A Child at Gunpoint','Henry Brown','8144988795482','198','True','http://books.google.com/books/content?id=KbUWAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('10','A Christian View of Islam','Faith Meets Faith','9261001780280','244','True','http://books.google.com/books/content?id=E0kqAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('11','A Comprehensive Treatment of qCalculus','Springer Science  Business Media','9783034804318','492','True','http://books.google.com/books/content?id=oBGTUDVyC8cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('12','A Concise History of Buddhism','Windhorse Publications UK','9644410207266','284','True','http://books.google.com/books/content?id=Be4GAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('13','A Data Scientists Guide to Acquiring Cleaning and Managing Data in R','John Wiley  Sons','9781119080022','310','True','http://books.google.com/books/content?id=pj9NDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('14','A First Course in Statistical Programming with R','Cambridge University Press','9781316715246','121','True','http://books.google.com/books/content?id=q9ugDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('15','A Grammar of Dne Suin Chipewyan','Educa Books','2031557188235','492','True','http://books.google.com/books/content?id=H88aAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('16','A Libri VIIIXI. B Epitome','Walter de Gruyter GmbH  Co KG','9783110567397','536','True','http://books.google.com/books/content?id=qBTzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','el')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('17','A Model of Human Occupation','Grace Davis','5126893052395','406','True','http://books.google.com/books/content?id=vsVrAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('18','A Naturalists Shetland','Helm','7139455050180','572','True','http://books.google.com/books/content?id=qqsfAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('19','A Pacific Cruise','Frank Brown','4725066806997','270','True','http://books.google.com/books/content?id=hO0VAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('20','A Practical Guide to Clinical Bacteriology','Wiley','4298154807707','216','True','http://books.google.com/books/content?id=grJpAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('21','A Renegade in Springtime','Ivy Brown','5974564577982','210','True','http://books.google.com/books/content?id=V3BbAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('22','A Review of the Principal Questions in Morals','Ivy Miller','5039203967848','370','True','http://books.google.com/books/content?id=6pR9AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('23','A Room of Ones Own','Macmillan Reference USA','3545907627789','158','True','http://books.google.com/books/content?id=zqonAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('24','A Sourcebook for Mental Health Measures Incorporating the Final Report on A Taxonomy of Datacollecting Devices','Henry Davis','3272321548685','486','True','http://books.google.com/books/content?id=S0l9AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('25','A Taste of Blood','Frank Miller','7276773002950','276','True','http://books.google.com/books/content?id=UToIAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('26','Adolescence','Grace Miller','1982251012301','1022','True','http://books.google.com/books/content?id=i8YsAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('27','African American Clinical Psychologists Qsort Conceptualizations of Optimal Mental Health','Ivy Miller','1309657337323','300','True','http://books.google.com/books/content?id=yUUdAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('28','American Cowboy','Henry Brown','3085599835578','124','True','http://books.google.com/books/content?id=x-oCAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('29','Americas Black Sea Fleet','Naval Institute Press','9781612513027','400','True','http://books.google.com/books/content?id=Y72rtTlfGgAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('30','Analyzing Sensory Data with R','CRC Press','9781466565739','374','True','http://books.google.com/books/content?id=UOusBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('31','Angina Pectoris with Normal Coronary Arteries Syndrome X','Springer','6408136838343','310','True','http://books.google.com/books/content?id=zxlsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('32','Animal Migration','Infobase Publishing','9781604131277','121','True','http://books.google.com/books/content?id=ygfS58gXB9oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('33','Annual Book of ASTM Standards','Grace Davis','3015208183328','1168','True','http://books.google.com/books/content?id=T9PVAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('34','Annual Report of the Meteorological Observatory of the Government General of Korea','Frank Miller','2466860905834','206','True','http://books.google.com/books/content?id=byAmgC-WmhYC&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('35','Appellate Courts','LexisNexisMatthew Bender','4896766261707','1198','True','http://books.google.com/books/content?id=ku1EAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('36','Appendix to the Journals of the House of Representatives of New Zealand','Ivy Davis','8759565854324','1374','True','http://books.google.com/books/content?id=K6lCAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('37','Applied Radiology','Henry Davis','6532451191901','1036','True','http://books.google.com/books/content?id=47tOAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('38','Astronomical and Magnetical and Meteorological Observations','Ivy Miller','4698191979332','1294','True','http://books.google.com/books/content?id=InkgAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('39','Atlanta','Ivy Wilson','9637421545163','184','True','http://books.google.com/books/content?id=G-ECAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('40','Atom','Henry Wilson','2010699653120','582','True','http://books.google.com/books/content?id=5ldUAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('41','Autoaesthetics','Humanities Press International','1777594814097','442','True','http://books.google.com/books/content?id=txvXAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('42','BBSs for Dummies','For Dummies','9781568849003','406','True','http://books.google.com/books/content?id=rVpOFlV1MPYC&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('43','Basics of Matrix Algebra for Statistics with R','CRC Press','9781315360058','159','True','http://books.google.com/books/content?id=7H10DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('44','Bernice P. Bishop Museum Bulletin','Frank Brown','2395224225394','52','True','http://books.google.com/books/content?id=I_8rAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('45','Best of Sydney J. Bounds','Wildside Press LLC','9781587155161','240','True','http://books.google.com/books/content?id=_EopbRWZx_8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('46','Better Xray Interpretation','Springhouse Publishing Company','4389437350145','376','True','http://books.google.com/books/content?id=0oVrAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('47','Bishop Jonas H. Martin','Henry Wilson','5589046577431','312','True','http://books.google.com/books/content?id=q-A1AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('48','Black Enterprise','Frank Miller','4624646361808','116','True','http://books.google.com/books/content?id=u-0rvhOztQgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('49','Blake','Ivy Wilson','1366293907529','260','True','http://books.google.com/books/content?id=mdQoAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('50','Bonnin and Morris of Philadelphia','University of North Carolina Press','7705358103082','136','True','http://books.google.com/books/content?id=mqwGAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('51','Boys Life','Henry Brown','8212823901761','40','True','http://books.google.com/books/content?id=w-WG3SDWpk0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('52','Bridge Deck Service Life Prediction and Costs','Frank Brown','1232828505945','88','True','http://books.google.com/books/content?id=FhNRAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('53','Buildings','Frank Miller','5331119165771','1502','True','http://books.google.com/books/content?id=PegdAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('54','Bulletin of the American Association of Petroleum Geologists','Frank Miller','8028533828720','1264','True','http://books.google.com/books/content?id=pu8PAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('55','Bulletin of the New York Academy of Medicine','Frank Wilson','2704390816196','663','True','http://books.google.com/books/content?id=p_caAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('56','C and the 8051 Hardware modular programming and multitasking','Prentice Hall','4841305153067','474','True','http://books.google.com/books/content?id=g6swAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('57','CC Programmers Reference','Programmers Reference','2520166605403','420','True','http://books.google.com/books/content?id=f6FQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('58','Cahiers lisabthains','Ivy Brown','2671351471974','434','True','http://books.google.com/books/content?id=jroWAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('59','Canon EOS Digital Rebel XTi Digital Field Guide','Frank Wilson','8759903018152','263','True','None','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('60','Cases and Materials on International Law','Frank Miller','1340099544672','608','True','http://books.google.com/books/content?id=CyUrAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('61','Census of England and Wales. 1911 ...','Henry Miller','7937062486700','1186','True','http://books.google.com/books/content?id=R2IVAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('62','Certain Notions of SingleValued Neutrosophic KAlgebras','Infinite Study','2837946412411','15','True','http://books.google.com/books/content?id=m2WdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('63','Chasing Metaphors','Frank Davis','9646077061523','29','True','None','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('64','Cincinnati Magazine','Ivy Davis','3278547010183','80','True','http://books.google.com/books/content?id=E-sCAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('65','Citizen Engineer','PrenticeHall PTR','3698971154391','296','True','http://books.google.com/books/content?id=bhlDAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('66','Climatological Data for the United States by Sections','Henry Wilson','3696611112280','1042','True','http://books.google.com/books/content?id=GhbxemigBWAC&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('67','Cold War Broadcasting','Central European University Press','9789639776807','612','True','http://books.google.com/books/content?id=y7ZqGe7BVLsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('68','College Algebra','BrooksCole Publishing Company','9151729727519','512','True','http://books.google.com/books/content?id=LangAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('69','Coming to Terms with Security','UN','6103994878931','540','True','http://books.google.com/books/content?id=Db-bAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('70','Common Core Connections Language Arts Grade K','CarsonDellosa Publishing','9781624427923','101','True','http://books.google.com/books/content?id=0RKpAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('71','Commonwealth Arbitration Reports','Ivy Miller','8724568065466','968','True','http://books.google.com/books/content?id=qm9PAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('72','Communications from the David Dunlap Observatory','Ivy Miller','9326129851972','496','True','http://books.google.com/books/content?id=bu8zAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('73','Compendium of Official Life Insurance Reports','Grace Davis','8487457611897','256','True','http://books.google.com/books/content?id=mFsRAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('74','Competition Science Vision','Henry Brown','4364998400437','136','True','http://books.google.com/books/content?id=K-gDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('75','Complex Networks  Their Applications X','Springer Nature','9783030934095','896','True','http://books.google.com/books/content?id=DWVXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('76','Compte Rendu Du Symposium Sur Lanalyse de la Sret Des Dpts de Dchets Radioactifs','Organisation de coopration et de dveloppement conomiques  Organisation for Economic Cooperation and Development','8900329551947','1054','True','http://books.google.com/books/content?id=4otFw-fjRnsC&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('77','Corpus Juris Secundum','Grace Wilson','6939338732358','928','True','http://books.google.com/books/content?id=S_EnAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('78','Croissance de Lindustrie Mondiale','Henry Wilson','9441525478711','766','True','http://books.google.com/books/content?id=--SHn4GFTdAC&printsec=frontcover&img=1&zoom=1&source=gbs_api','el')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('79','D. Wayne the HighRolling and Fast Times of Americas Premier Horse Trainer','McGraw Hill Professional','9780071387378','406','True','http://books.google.com/books/content?id=9OQg3Sm6BAYC&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('80','Data Analysis with R Second Edition','Packt Publishing Ltd','9781788397339','570','True','http://books.google.com/books/content?id=rL1TDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('81','Delamination and Shoving of Asphalt Concrete Layers Containing Baghouse Fines','Grace Miller','1848029698793','180','True','http://books.google.com/books/content?id=gwxRAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('82','Demography and Natural History of the Common Fruit Bat Artibeus Jamaicensis on Barro Colorado Island Panama','Smithsonian Books DC','5688278801063','184','True','http://books.google.com/books/content?id=791WJOkd13EC&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('83','Descendants  Ancestors of Johann Heinrich Listermann of Heiligenstadt Provinz Sachsen Germany 17721864 and His Wife Regina Wedekind of Siemerode Provinz Sachsen Germany 17781825','Grace Wilson','9057912401923','888','True','http://books.google.com/books/content?id=xm0bAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('84','Development and Implementation of a Qualityassured Peerinstructional Model','Grace Wilson','6537021263572','86','True','http://books.google.com/books/content?id=Bq8p7buQY-8C&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('85','Dont Explain','Frank Brown','9861839704042','98','True','http://books.google.com/books/content?id=s05bAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('86','Dont Just Stand There','New York  McKay','4125943121448','324','True','http://books.google.com/books/content?id=uVFKAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('87','Dont Let Your Emotions Run Your Life','ReadHowYouWant.com','9781458755957','318','True','http://books.google.com/books/content?id=lNEOscU1_rIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('88','Driving Over a Cliff','AddisonWesley','9812532554065','296','True','http://books.google.com/books/content?id=5EkdAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('89','EC Competition Law Handbook','Frank Wilson','9781847032416','724','True','http://books.google.com/books/content?id=78ZRAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('90','Earth Resources','Grace Davis','8309360051278','602','True','http://books.google.com/books/content?id=F71WfTfv2oIC&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('91','Ebony','Ivy Davis','2651179565399','136','True','http://books.google.com/books/content?id=k-xzFES8bWcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('92','Ecole Dt de Probabilits de SaintFlour XVXVII 198587','Henry Davis','6315965935063','482','True','http://books.google.com/books/content?id=a_Y_AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('93','Economic Atlas of the Soviet Union','Ann Arbor U. of Michigan P','9049420001091','108','True','http://books.google.com/books/content?id=mP0lAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('94','Educational Yearbook of the International Institute of Teachers College Columbia University','Grace Wilson','1413760988338','716','True','http://books.google.com/books/content?id=HBwWAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('95','Effects of Canopy Shape on Lowspeed Aerodynamic Characteristics of a 550 Swept Parawing with Largediameter Leading Edges','Frank Davis','1105123347128','110','True','http://books.google.com/books/content?id=2QYoyIQ292YC&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('96','Efficient Characterization of Proteinprotein Interfaces Involved in Cellular Signaling','Ivy Davis','5666059944644','103','True','http://books.google.com/books/content?id=OESmxWkmhWkC&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('97','Elections A to Z','CQRoll Call Group Books','5282140216505','586','True','http://books.google.com/books/content?id=UbMbAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('98','Emergency Responders Guide to Chemical Reactivity and Compatibility','McGrawHill Professional Publishing','7822381712402','586','True','http://books.google.com/books/content?id=a2JRAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('99','Encyclopedia of Polymer Science and Technology','Ivy Brown','9876804639131','776','True','http://books.google.com/books/content?id=1EZaAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('100','Environment and Planning','Henry Davis','8504020618231','1044','True','http://books.google.com/books/content?id=6xwnAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('101','Extrusion','ASM InternationalOH','8474777282341','482','True','http://books.google.com/books/content?id=sPBTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('102','F102 Delta Dagger Units','Bloomsbury Publishing','9781472840684','97','True','http://books.google.com/books/content?id=MfWvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('103','FEMS Microbiology Letters','Ivy Miller','1950511188018','846','True','http://books.google.com/books/content?id=mkSFAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('104','Federal Income Taxation of S Corporations','Warren Gorham  Lamont','8528345423649','1638','True','http://books.google.com/books/content?id=j_JDAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('105','Firmly I Believe','Canterbury Press Norwich','6256712895398','196','True','http://books.google.com/books/content?id=uDAsAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('106','Fishes of the Yukon Coast','Frank Miller','6722971579716','144','True','http://books.google.com/books/content?id=0QwIAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('107','Fundamentals of Structured Programming Using FORTRAN with SFk and WATFIVS','Reston Va.  Reston Publishing Company','9780879093037','370','True','http://books.google.com/books/content?id=180WbYLy0dwC&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('108','GPCR Signaling in Cancer','Academic Press','9780128202319','164','True','http://books.google.com/books/content?id=4HfLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('109','GameAxis Unwired','Ivy Wilson','1693107216640','104','True','http://books.google.com/books/content?id=u-oDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('110','Gen E','Henry Brown','3569205998772','370','True','http://books.google.com/books/content?id=JEHyAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('111','Genius Bboy Cynics Getting Weeded in the Garden of Delights','New Mouth from the Dirty South','3417809227123','128','True','http://books.google.com/books/content?id=1RFbAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('112','Geochemical Modelling of Igneous Processes  Principles And Recipes in R Language','Springer','9783662467923','346','True','http://books.google.com/books/content?id=lJeKCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('113','George C. Marshall','Viking Adult','8539426932456','728','True','http://books.google.com/books/content?id=YiR3AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('114','Germans to America','Henry Davis','1132360112630','752','True','http://books.google.com/books/content?id=Owx2AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('115','H  ','Patakis','9789601657660','400','True','http://books.google.com/books/content?id=lDdLDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','el')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('116','H    ',' ','9789600308297','320','True','http://books.google.com/books/content?id=PoR2BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','el')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('117','H ercury ',' ','9789605725396','418','True','http://books.google.com/books/content?id=-wKfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','el')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('118','HWM','Ivy Davis','2654567963171','168','True','http://books.google.com/books/content?id=H-sDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('119','Haiti a Slave Revolution','Henry Davis','9165863283752','262','True','http://books.google.com/books/content?id=j5JtAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('120','Handbook of Heating Ventilating and Air Conditioning','Transatlantic Arts','1540271234257','344','True','http://books.google.com/books/content?id=w_TmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('121','Historical Cultures and Geography 16001750','Continuum','9781855069985','0','True','None','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('122','Hollywood Shot by Shot','Aldine De Gruyter','9780202303444','292','True','http://books.google.com/books/content?id=WQJ_QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('123','Human Rights in the World','Grace Brown','6295929594571','266','True','http://books.google.com/books/content?id=aK4sAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('124','Hydrographic and Nutrient Data from RV Knorr Cruise 73 Leg 2','Grace Wilson','6933746586265','77','True','http://books.google.com/books/content?id=8vAuAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('125','I Am Roe','HarperCollins Publishers','1187237633355','232','True','http://books.google.com/books/content?id=hB8qAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('126','I Can Tell it Now','New York  Dutton','6249327269183','382','True','http://books.google.com/books/content?id=m-1HAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('127','I Love to Tell the Story','Berkley Trade','9780425172308','230','True','http://books.google.com/books/content?id=C3ymI9-b_tUC&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('128','INDIAN AIR FORCE AIRMEN GROUP X  Y TECHNICAL  NONTECHINCAL TRADES EXAM 25 PRACTICE SETS REVISED 2021','Prabhat Prakashan','9789353226152','333','True','http://books.google.com/books/content?id=5FmxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('129','Im Not Stressed','Random House India','9788184002287','288','True','http://books.google.com/books/content?id=1EV12S4PnUIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('130','Im With the Band','AC Black','9781472526885','80','True','http://books.google.com/books/content?id=aWMBAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('131','In Porphyrii Isagogen sive V voces','Walter de Gruyter GmbH  Co KG','9783111434520','178','True','http://books.google.com/books/content?id=i-gIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','el')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('132','Infinite Nature','University of Chicago Press','9780226359441','273','True','http://books.google.com/books/content?id=1gOZ1K3CyQAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('133','Insects and Their Beneficial Microbes','Princeton University Press','9780691236230','352','True','http://books.google.com/books/content?id=wo1SEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('134','Interval Valued QFuzzy Multiparameterized Soft Set and its Application','Infinite Study','3918079666783','18','True','http://books.google.com/books/content?id=Drg9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('135','Introducing Monte Carlo Methods with R','Springer Science  Business Media','9781441915764','297','True','http://books.google.com/books/content?id=TeRHAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('136','Introduction to the Theory of Differential Equations with Deviating Arguments','Ivy Miller','5615187772836','128','True','http://books.google.com/books/content?id=r8hPAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('137','Investigation of the Assassination of President John F. Kennedy. Hearings Before the Presidents Commission on the Assassination of President Kennedy...','Grace Brown','4326469634306','350','True','http://books.google.com/books/content?id=afT5uRFn7n8C&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('138','Italian Medals C.15301600 in British Public Collections Text','British Museum Publications Limited','6958589867093','554','True','http://books.google.com/books/content?id=ZIjpAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('139','J. Hillis Miller and the Possibilities of Reading','Bloomsbury Publishing USA','9781441107145','176','True','http://books.google.com/books/content?id=28CoAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('140','J. Krishnamurti A Life of Compassion beyond Boundaries','Pan Macmillan','9789389109658','392','True','http://books.google.com/books/content?id=LyHnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('141','John F. Kennedy Center','Grace Miller','4304671970401','36','True','http://books.google.com/books/content?id=_yQTAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('142','John Ruskin Or The Ambiguities of Abundance','Cambridge  Harvard University Press','3319786072993','432','True','http://books.google.com/books/content?id=8Wu6AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('143','John Xntus','Ivy Brown','3399460239022','296','True','http://books.google.com/books/content?id=3zO4AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('144','Kenya Gazette','Grace Davis','6064465103869','23','True','http://books.google.com/books/content?id=W-BR4_NYXZgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('145','Kenya National Assembly Official Record Hansard','Ivy Wilson','9739398636331','19','True','http://books.google.com/books/content?id=k-CVQRExEgkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('146','Koen Wessing','Henry Brown','7418805106957','175','True','http://books.google.com/books/content?id=W_pLAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('147','Kriegsmarine Uboats 193945 1','Bloomsbury Publishing','9781780966144','77','True','http://books.google.com/books/content?id=8r2HCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('148','Ktheory','CRC Press','9780429973178','138','True','http://books.google.com/books/content?id=f1NPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('149','Ktheory and Algebraic Geometry','American Mathematical Soc.','9780821803400','444','True','http://books.google.com/books/content?id=rNIBCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('150','Le Muson','Ivy Miller','9824832976023','630','True','http://books.google.com/books/content?id=sxULAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('151','Learning to Think in a Math Lab','Grace Davis','5574651483601','53','True','http://books.google.com/books/content?id=254oAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('152','Library Journal','Frank Brown','2707164321036','1894','True','http://books.google.com/books/content?id=B9bgAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('153','Libri VIX. Indices','Walter de Gruyter','9783110965919','523','True','http://books.google.com/books/content?id=AqwFCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','el')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('154','Linking K2 Literacy and the Common Core','Capstone','9781625216212','224','True','http://books.google.com/books/content?id=33WfAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('155','Lippincott Manual of Medical  Surgical Nursing Adaptation of Nettina Lippincott Manual of Nursing','Wolters kluwer india Pvt Ltd','9789351295747','1290','True','http://books.google.com/books/content?id=pDnvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('156','M Programming A Comprehensive Guide','Elsevier','9780080510514','407','True','http://books.google.com/books/content?id=Ja3W4Zsv4ykC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('157','MAXImin','Fundacio Joan Miro','1148370656620','168','True','http://books.google.com/books/content?id=EEBCAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('158','MLibraries 3','Facet Publishing','9781856047760','241','True','http://books.google.com/books/content?id=nsxqDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('159','MTheory and Quantum Geometry','Springer Science  Business Media','9780792364740','482','True','http://books.google.com/books/content?id=5i0EGSjAwpoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('160','Mac OS X Bible','Visual','4582574523138','948','True','http://books.google.com/books/content?id=fIruAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('161','Management Guidelines for IUCN Category V Protected Areas','World Conservation Union','2426428629439','152','True','http://books.google.com/books/content?id=crksAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('162','Manufacturing Worldwide','Gale Research International Limited','9780810396814','844','True','http://books.google.com/books/content?id=EdKZAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('163','Masonic Beginnings in California and Hawaii','Ivy Davis','7113904924341','106','True','http://books.google.com/books/content?id=lL5OAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('164','Matriaux pour lhistoire des mathmatiques au XXe sicle','SMF','7188724870955','302','True','http://books.google.com/books/content?id=B-PuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('165','McJunkina Family of Memories','Ivy Wilson','1697041961287','204','True','http://books.google.com/books/content?id=I29VAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('166','Mededelings B.','Henry Miller','2003964312209','368','True','http://books.google.com/books/content?id=zEMoAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('167','MetaAnalysis with R','Springer','9783319214160','252','True','http://books.google.com/books/content?id=HQO0CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('168','Microsoft Word 2000 Made Easy','Grace Wilson','9780130129512','724','True','http://books.google.com/books/content?id=-lp65AgcLT0C&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('169','Minoan Buildings in Areas B C D and F','Anniversary Collection','9691608144972','488','True','http://books.google.com/books/content?id=K6xMAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('170','Monthly Statistics of the Foreign Trade of India','Frank Wilson','8501780612168','964','True','http://books.google.com/books/content?id=4A8YAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('171','Mother Jones Magazine','Frank Davis','5884334891597','60','True','http://books.google.com/books/content?id=n-cDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('172','My Desire for History','UNC Press Books','9780807877982','344','True','http://books.google.com/books/content?id=8mJN7pcpERAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('173','NAGC PreKGrade 12 Gifted Education Programming Standards','Routledge','9781000494860','396','True','http://books.google.com/books/content?id=WzRYEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('174','Negligence and Compensation Cases Annotated','Henry Miller','6516686573593','824','True','http://books.google.com/books/content?id=6OUvAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('175','Neurologia Medicochirurgica','Henry Davis','9178844790810','760','True','http://books.google.com/books/content?id=UYpRAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('176','Neutrosophic Qfuzzy left Nsubgroups of a Nearring','Infinite Study','6600682357740','11','True','http://books.google.com/books/content?id=zxFPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('177','New South Wales Law Reports','Henry Brown','8080845260763','796','True','http://books.google.com/books/content?id=fTVPAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('178','New XMen','Henry Brown','3104254261303','116','True','http://books.google.com/books/content?id=OX8qAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('179','New York Magazine','Grace Brown','3638936878126','212','True','http://books.google.com/books/content?id=T-MCAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('180','Nonlinear Coupling and Saturation of Rmodes in Newly Born Neutron Stars','Grace Wilson','3163524505950','290','True','http://books.google.com/books/content?id=ioxTAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('181','Numerical Determination of Spheroidal Wave Function Eigenvalues and Expansion Coefficients','Henry Davis','8673076898058','186','True','http://books.google.com/books/content?id=B98IAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('182','Numerical Methods','Pearson','5563430032597','680','True','http://books.google.com/books/content?id=99RFAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('183','O    ',' ','9789600310092','200','True','http://books.google.com/books/content?id=e4x2BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','el')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('184','OECD eGovernment Studies OECD eGovernment Studies Turkey 2007','OECD Publishing','9789264028449','176','True','http://books.google.com/books/content?id=bSaHAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('185','Occupational Toxicants','WileyVCH','2144813662834','374','True','http://books.google.com/books/content?id=68UhAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('186','Of Children','Belmont Calif.  Wadsworth Publishing Company','3346935661270','648','True','http://books.google.com/books/content?id=L6I4AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('187','Ohio River Basin Comprehensive Survey. Volume III. Appendix B. Projective Economic Study','Grace Davis','7069154554798','468','True','http://books.google.com/books/content?id=0FAsAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('188','Old Cemetery Burials of Milwaukee County Wisconsin','Ivy Brown','7624828405223','331','True','http://books.google.com/books/content?id=CB0rAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('189','OldHouse Journal','Grace Wilson','6622279765650','132','True','http://books.google.com/books/content?id=k-af0BaxVFIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('190','On the Fabric of the Human Body','Norman Publishing','8134928327869','330','True','http://books.google.com/books/content?id=IDgQAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('191','Ontologies','Springer','6873070473893','832','True','http://books.google.com/books/content?id=fKgfAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('192','Packing and Covering in Combinatorics','Ivy Wilson','1930419257722','344','True','http://books.google.com/books/content?id=_O7uAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('193','Pennsylvania Fiduciary Reporter','Ivy Miller','9806574967027','700','True','http://books.google.com/books/content?id=0HFOAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('194','Philosophical Letters of David K. Lewis','Oxford University Press','9780192597618','480','True','http://books.google.com/books/content?id=sIYEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('195','Physica B  C.','Ivy Brown','4809667841622','592','True','http://books.google.com/books/content?id=3njyAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('196','Popular Mechanics','Grace Wilson','8246360583092','332','True','http://books.google.com/books/content?id=x-EDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('197','Precambrian Geology of India','Oxford University Press USA','5759712841309','248','True','http://books.google.com/books/content?id=D9tPAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('198','Presidential System a Better Alternative  by Jashwant B. Mehta  Illustrations Vasant Halbe','Frank Davis','9504996385396','102','True','http://books.google.com/books/content?id=hv8lAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('199','Princess KGaris Fraser Island','Ivy Davis','9780958103404','282','True','http://books.google.com/books/content?id=2tqPVekm6vMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('200','Problems and Materials on Decedents Estates and Trusts','Aspen Publishers','2601654562384','1222','True','http://books.google.com/books/content?id=z6c8AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('201','Proceedings of the Royal Irish Academy','Grace Miller','6728239241359','1080','True','http://books.google.com/books/content?id=184ZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('202','Programming in C 2e','Pearson Education India','9788131760314','676','True','http://books.google.com/books/content?id=UoN_r_NMR_EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('203','Project Abstracts','Henry Miller','6231325852881','356','True','http://books.google.com/books/content?id=dOKxSjTsyZcC&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('204','Psst I Have Something to Tell You Mi Amor','Wings Press TX','2163166352997','108','True','http://books.google.com/books/content?id=b69yAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('205','Public and Local Acts of the Legislature of the State of Michigan','Henry Wilson','3913255927944','134','True','http://books.google.com/books/content?id=XnAyAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('206','Q 112b4','Peeters Publishers','9789068317886','228','True','http://books.google.com/books/content?id=OtSDe8jt96AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('207','Q 123334','Peeters Publishers','9789042919495','252','True','http://books.google.com/books/content?id=H2pm6MDK9IIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('208','Q Fever','CRC Press','9780849359835','384','True','http://books.google.com/books/content?id=eIp99ciJsEEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('209','Q of the Earth','Springer Science  Business Media','9783764360498','508','True','http://books.google.com/books/content?id=HzZ1vZ-iBRwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('210','R Visualizations','CRC Press','9780429894923','237','True','http://books.google.com/books/content?id=MXzgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('211','RBASE for DOS','Henry Wilson','8901156213132','454','True','http://books.google.com/books/content?id=UM1XAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('212','RCalculus III Post ThreeValued Logic','Springer Nature','9789811942709','284','True','http://books.google.com/books/content?id=J_ycEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('213','Railroadhighway Grade Crossing Signal Visibility Improvement Program','Grace Miller','3802292473997','90','True','http://books.google.com/books/content?id=Ug46AQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('214','ReadyToUse Social Skills Lessons And Activities For Grades PreKK 1995 Edition Layflat Version','JosseyBass','3565147072972','228','True','http://books.google.com/books/content?id=7mIQAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('215','Remediation of r for SpeechLanguage Pathologists','Plural Publishing','9781635503029','228','True','http://books.google.com/books/content?id=lrw0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('216','Reports','Grace Miller','9751276392978','920','True','http://books.google.com/books/content?id=1a4iAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('217','Reports and Memoranda','Ivy Wilson','8671805224539','451','True','http://books.google.com/books/content?id=dQqjLuGPI60C&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('218','Restructuration de Lindustrie Canadienne','Industrie Canada','3943695617396','91','True','http://books.google.com/books/content?id=sgJQAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('219','Role of the Cerebellum and Basal Ganglia in Voluntary Movement','Henry Brown','5184463008167','314','True','http://books.google.com/books/content?id=3etqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('220','S Corporation Taxation','CCH Incorporated','9780808018162','1578','True','http://books.google.com/books/content?id=V_BDAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('221','S. Ioannis Chrysostomi opera graece et latinae omnia ex edid. fronto Ducaeus','Ivy Miller','2454378068635','1046','True','http://books.google.com/books/content?id=R9lnH82VrOMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','el')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('222','S.C.','Frank Davis','8660426744845','538','True','http://books.google.com/books/content?id=aMQaAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('223','SPIN','Grace Brown','9838982525206','72','True','http://books.google.com/books/content?id=w-1-NqaOaKsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('224','Sessional Papers','Grace Wilson','8185060971991','385','True','http://books.google.com/books/content?id=PqY5AQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('225','Sessional Papers Printed by Order of the House of Lords Minutes of Proceedings ... Public Bills ... Reports from Committees ... Miscellaneous','Frank Davis','2652024723935','1180','True','http://books.google.com/books/content?id=OJo4AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('226','Sessional Papers of the Dominion of Canada','Grace Miller','6230372318390','1124','True','http://books.google.com/books/content?id=4KQzAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('227','Skeletal Biomineralization Patterns Processes and Evolutionary Trends','Springer','9501375105028','318','True','http://books.google.com/books/content?id=B1gXAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('228','Social Groups and the Effectiveness of Protests','Henry Brown','7731882405091','61','True','None','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('229','Some Applications of Topological KTheory','Elsevier','9780080871561','316','True','http://books.google.com/books/content?id=GpUhxI8rNSQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('230','Southern Reporter','Henry Davis','4304190606748','762','True','http://books.google.com/books/content?id=B9g7AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('231','Statistical Report on the External Trade of New Zealand','Ivy Wilson','5111315599553','268','True','http://books.google.com/books/content?id=Y3ByPEUBNjIC&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('232','Statistics of Ohio Libraries','Ivy Davis','6914511695159','436','True','http://books.google.com/books/content?id=mReI6U81masC&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('233','Stop the 401k Ripoff','BookPros LLC','9781934454077','226','True','http://books.google.com/books/content?id=wpRyUuGqnpUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('234','Students Guide to Calculus by J. Marsden and A. Weinstein','Springer Science  Business Media','9781461249702','294','True','http://books.google.com/books/content?id=iR8LCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('235','Supplement to the World Trade Annual','Frank Brown','3943752617785','1832','True','http://books.google.com/books/content?id=gbjR0X1XP1oC&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('236','Taxation a Radical Approach','Ivy Wilson','5991323022866','146','True','http://books.google.com/books/content?id=UyctAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('237','Technical Papers','Frank Brown','7684838184946','396','True','http://books.google.com/books/content?id=KydWAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('238','Techniques for Low Altitude Navigation','Ivy Miller','7124399614789','36','True','http://books.google.com/books/content?id=5pMKzz1p-iIC&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('239','The 401 k Millionaire','Villard Books','8255530021859','248','True','http://books.google.com/books/content?id=U94JAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('240','The Alcalde','Henry Miller','6384227281860','52','True','http://books.google.com/books/content?id=c-MDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('241','The Allied Air Campaign Against Hitlers Uboats','Frontline Books','9781399096508','354','True','http://books.google.com/books/content?id=rMSAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('242','The American Journal of Occupational Therapy','Grace Brown','3755193584417','604','True','http://books.google.com/books/content?id=6MIhAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('243','The Bedford Hours','Grace Wilson','1010290715410','152','True','http://books.google.com/books/content?id=IZTrAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('244','The Budget Report of the State Board of Finance and Control to the General Assembly Session of 1929 1937','Grace Brown','7534286894606','422','True','http://books.google.com/books/content?id=DfEhAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('245','The Buying Guide for Fresh Fruits Vegetables Herbs and Nuts','Castle  Cooke Incorporated','9813175634418','144','True','http://books.google.com/books/content?id=7s9XAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('246','The Canadian Forum','Henry Brown','6416056273943','432','True','http://books.google.com/books/content?id=T5YYAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('247','The Classic Fantasy Collection','Arcturus Publishing','9781788286541','934','True','http://books.google.com/books/content?id=IQAvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('248','The Decca Hillbilly Discography 19271945','Greenwood','2797092866905','456','True','http://books.google.com/books/content?id=NJJHAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('249','The English Catalogue of Books annual','Ivy Brown','6044305496137','124','True','http://books.google.com/books/content?id=au0aAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('250','The Evolution Man Or How I Ate My Father','Pantheon Books','7941773021744','234','True','http://books.google.com/books/content?id=5PhaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('251','The Flying Us Last Stand','BoD  Books on Demand','9783368312831','290','True','http://books.google.com/books/content?id=p2qYEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('252','The Foundations of Sovereignty Works of Harold J. Laski','Routledge','9781317586838','336','True','http://books.google.com/books/content?id=HxshBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('253','The GPlan Revolution','BoothClibborn','8949849722989','232','True','http://books.google.com/books/content?id=2GRJAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('254','The Global Coastal Ocean','Wiley','9232058634357','640','True','http://books.google.com/books/content?id=Y2dFAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('255','The J. Paul Getty Museum Journal','Frank Wilson','2736708651689','252','True','http://books.google.com/books/content?id=varrAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('256','The Johannes Weertman Symposium','Tms','2428169351644','500','True','http://books.google.com/books/content?id=KrRRAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('257','The Kellers of Talheim and New Berlin','Henry Davis','2987671487424','248','True','http://books.google.com/books/content?id=nyBWAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('258','The Lasater Philosophy of Cattle Raising','University of Texas Press','8982076236044','90','True','http://books.google.com/books/content?id=au8qAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('259','The Life of Jos Mara Sobral','Springer','9783319672687','336','True','http://books.google.com/books/content?id=j7M4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('260','The Mystery of M. Felix','DigiCat','2192247280910','421','True','http://books.google.com/books/content?id=m5CKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('261','The OECD STAN Database for Industrial Analysis','OECD','9892693058494','374','True','http://books.google.com/books/content?id=nlZdfr7u2qIC&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('262','The Official Guide of the Railways and Steam Navigation Lines of the United States Puerto Rico Canada Mexico and Cuba','Ivy Davis','1113751240401','1338','True','http://books.google.com/books/content?id=eX9MFNw59YwC&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('263','The Papers of James Madison 1 Jan.30 Apr. 1783','Ivy Miller','9751538530418','596','True','http://books.google.com/books/content?id=cxrVAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('264','The Penguin Dictionary of Proverbs','Penguin Group','1484534960126','392','True','http://books.google.com/books/content?id=yqojAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('265','The Publications of the Surtees Society','Frank Brown','8215604117228','444','True','http://books.google.com/books/content?id=UqowAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('266','The Resource Curse in a Postcommunist Regime','Ashgate Publishing','7307062155507','208','True','http://books.google.com/books/content?id=USmOAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('267','The Rotarian','Grace Brown','7685750981929','64','True','http://books.google.com/books/content?id=W-st0JcEKnsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('268','The SAP R3 Guide to EDI and Interfaces','Springer Science  Business Media','9783322901750','148','True','http://books.google.com/books/content?id=4EMBCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('269','The Spirit of Missions','Henry Wilson','6106383170036','880','True','http://books.google.com/books/content?id=IrvSAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('270','The Unconscious in Prousts A la Recherche Du Temps Perdu','Peter Lang Gmbh Internationaler Verlag Der Wissenschaften','6711177826582','284','True','http://books.google.com/books/content?id=iF4dAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('271','The Volume of Corporate Bond Financing Since 1900','Grace Wilson','5672862623906','474','True','http://books.google.com/books/content?id=Idg9AAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('272','The Wicked Wit of John F. Kennedy','Michael OMara Books','9109262824846','174','True','http://books.google.com/books/content?id=r4hZAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('273','The William O. and Mary C. Crowther Family','Grace Davis','8895580895872','328','True','http://books.google.com/books/content?id=Q29FAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('274','The Winds of Time and Other Stories','Grace Wilson','9781413493986','60','True','http://books.google.com/books/content?id=1Xs6lVgIglMC&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('275','Theres a War to Be Won','Ballantine Books','2939647381798','670','True','http://books.google.com/books/content?id=7EQpAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('276','Thomas F. Torrance','Routledge','9781317010470','423','True','http://books.google.com/books/content?id=S86XCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('277','Tradition and Innovation in Later Medieval English Manuscripts','Frank Davis','6756674202507','216','True','http://books.google.com/books/content?id=mQDsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('278','U Cant Make This Stuff Up','Xlibris Corporation','9781514488096','622','True','http://books.google.com/books/content?id=Y7u2DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('279','U.S. Tax Cases','Frank Miller','4956128561054','1558','True','http://books.google.com/books/content?id=9EsYAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('280','UStatistics','Routledge','9781351405850','225','True','http://books.google.com/books/content?id=YC2NDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('281','Understanding Economics','Whitby ON  McGrawHill Ryerson','9780070954922','484','True','http://books.google.com/books/content?id=3bVNXd2I9o8C&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('282','United States Code Annotated','Henry Davis','6983563919572','988','True','http://books.google.com/books/content?id=nWQoAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('283','United States Supreme Court Reports','Frank Miller','2895579616136','1184','True','http://books.google.com/books/content?id=0E8pAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('284','Unneutral Ireland','Oxford University Press USA','1647918438797','388','True','http://books.google.com/books/content?id=Y2HfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('285','Urban Transport X','WIT Press UK','9596900244742','944','True','http://books.google.com/books/content?id=1wK3AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('286','Watching MASH Watching America','McFarland','9780786417018','288','True','http://books.google.com/books/content?id=CMPx-jksa6IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('287','Water Resources Data','Henry Miller','7770466724868','310','True','http://books.google.com/books/content?id=zVBYAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('288','Weekly World News','Grace Brown','3190891609301','44','True','http://books.google.com/books/content?id=w-8DAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('289','Wests Federal Supplement','Frank Miller','8539482063578','1564','True','http://books.google.com/books/content?id=nTRLAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('290','William J. Gedneys The Tai Dialect of Lungming','U of M Center for South East Asian Studi','5719839280898','1236','True','http://books.google.com/books/content?id=Xg4OAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('291','William J. Gedneys the Yay Language','U of M Center for South East Asian Studi','6395192744828','818','True','http://books.google.com/books/content?id=CH3ZAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('292','Wisconsin Administrative Register','Henry Wilson','5675895687378','521','True','http://books.google.com/books/content?id=iOxNAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('293','World Military Helicopters','Janes Information Group','4688679909116','192','True','http://books.google.com/books/content?id=wXpDAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('294','Writing MSDOS Device Drivers','AddisonWesley Professional','1398579101378','592','True','http://books.google.com/books/content?id=2XshAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api','en')
+;
+
+Insert into Book
+(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)
+Values
+('295','Yoga Journal','Frank Wilson','9512115046195','152','True','http://books.google.com/books/content?id=W-kDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api','en')
+;
+

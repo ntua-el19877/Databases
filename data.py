@@ -170,20 +170,20 @@ def get_data_to_txt():
         for i,book in enumerate(data):
             book_id = i
             title = replace_special_characters(book.get("title", "*"))
-            publisher = replace_special_characters(book.get("Publisher", "*"))
-            isbn = book.get("ISBN", "*")
-            num_of_pages = book.get("NumOfPages", "*")
-            summary = replace_special_characters(book.get("Summary", "*"))
-            inventory = book.get("Inventory", "*")
-            image = book.get("Image", "*")
-            language = book.get("Language", "*")
-            keywords = replace_special_characters(book.get("Keywords", "*"))
+            publisher = replace_special_characters(book.get("publisher", "*"))
+            isbn = book.get("isbn", "*")
+            num_of_pages = book.get("pageCount", "*")
+            # summary = replace_special_characters(book.get("summary", "*"))
+            inventory = book.get("Inventory", "True")
+            image = book.get("thumbnail", "*")
+            language = book.get("language", "*")
+            # keywords = replace_special_characters(book.get("keywords", "*"))
 
             # Write the formatted data to the output file
             file.write("Insert into Book\n")
-            file.write("(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Summary`,`Inventory`,`Image`,`Language`,`Keywords`)\n")
+            file.write("(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)\n")
             file.write("Values\n")
-            file.write(f"('{book_id}','{title}','{publisher}','{isbn}','{num_of_pages}','{summary}','{inventory}','{image}','{language}','{keywords}')\n")
+            file.write(f"('{book_id}','{title}','{publisher}','{isbn}','{num_of_pages}','{inventory}','{image}','{language}')\n")
             file.write(";\n\n")
 
     print("Data exported to", output_file)
@@ -200,7 +200,7 @@ def get_data_to_txt():
 #     add_v(chr(ord(stri) + i))
 
 # #for testing add 40 values
-add_v('a')
+# add_v('a')
 
 # # Call the function to remove duplicate books by ISBN
 remove_duplicates_by_isbn()
