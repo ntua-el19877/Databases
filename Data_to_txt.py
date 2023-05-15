@@ -28,9 +28,9 @@ def book_to_text():
         book_titles=[]
         for i, book in enumerate(data):
             book_id = i+1
-            title = replace_special_characters2(book.get("title", "*"))
+            title = replace_special_characters(book.get("title", "*"))
             book_titles.append(title)
-            publisher = replace_special_characters2(book.get("publisher", "*"))
+            publisher = replace_special_characters(book.get("publisher", "*"))
             isbn = book.get("isbn", "*")
             num_of_pages = book.get("pageCount", "*")
             inventory = book.get("Inventory", "True")
@@ -70,9 +70,9 @@ def author_to_text():
         for i, book in enumerate(data):
             authors=book.get("authors")
             for j,auth in enumerate(authors):
-                if not auth in allauth:
+                if not replace_special_characters(auth) in allauth:
                     AuthorID=len(allauth)+1
-                    allauth.append(auth)
+                    allauth.append(replace_special_characters(auth))
                     file.write("Insert into Author\n")
                     file.write("(`AuthorID`,`AuthorName`)\n")
                     file.write("Values\n")
@@ -107,13 +107,61 @@ def book_author_to_text(all_book_titles,all_authors):
     return book_authors
 
 
+def category_to_text():
+    input_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\output.json"
+    output_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\Category.txt"
+
+    with open(input_file, "r") as file:
+        data = json.load(file)
+
+    with open(output_file, "w", encoding="utf-8") as file:
+        all_categories=[]
+        for i, book in enumerate(data):
+            categories=book.get("categories")
+            for j,categ in enumerate(categories):
+                if not replace_special_characters(categ) in all_categories:
+                    CategoryID=len(all_categories)+1
+                    all_categories.append(replace_special_characters(categ))
+                    file.write("Insert into Category\n")
+                    file.write("(`CategoryID`,`CategoryName`)\n")
+                    file.write("Values\n")
+                    file.write(f"('{CategoryID}','{categ}')\n")
+                    file.write(";\n\n")
+    print("Data exported to", output_file)
+    return all_categories
+
+def book_category_to_text(all_book_titles,all_categories):
+    input_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\output.json"
+    output_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\Book_Category.txt"
+
+    with open(input_file, "r") as file:
+        data = json.load(file)
+
+    with open(output_file, "w", encoding="utf-8") as file:
+        Book_Categories=[]
+        for i, book in enumerate(data):
+            title=replace_special_characters(book.get("title"))
+            BookID=all_book_titles.index(title)+1
+            categories=book.get("categories")
+            for categ in categories:
+                CatId=all_categories.index(replace_special_characters(categ))+1
+
+                file.write("Insert into Book_Category\n")
+                file.write("(`BookID`,`CategoryID`)\n")
+                file.write("Values\n")
+                file.write(f"('{BookID}','{CatId}')\n")
+                file.write(";\n\n")
+                Book_Categories.append((BookID,CatId))
+    print("Data exported to", output_file)
+    return Book_Categories
+
+
 #only ren once
 all_book_titles=book_to_text()
 # for i,val in enumerate(book_titles):
 #     print(f"ID: {i+1} Book: {val}")
 # print("===================")
 
-#get author text
 all_authors=author_to_text()
 # for i,val in enumerate(all_authors):
 #     print(f"ID: {i+1} Author: {val}")
@@ -123,3 +171,10 @@ all_book_authors=book_author_to_text(all_book_titles,all_authors)
 # for i,val in enumerate(all_book_authors):
 #     print(f"Book_Author: {val}")
 # print("===================")
+
+all_categories=category_to_text()
+# for i,val in enumerate(all_categories):
+#     print(f"ID: {i+1} Categorie: {val}")
+# print("===================")
+
+all_book_categories=book_category_to_text(all_book_titles,all_categories)
