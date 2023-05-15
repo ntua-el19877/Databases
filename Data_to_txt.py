@@ -171,7 +171,7 @@ def keywords_to_text():
                     CategoryID=len(all_categories)+1
                     all_categories.append(replace_special_characters(categ))
                     file.write("Insert into Keyword\n")
-                    file.write("(`KeywordsID`,`Keywords`)\n")
+                    file.write("(`KeywordsID`,`KeywordName`)\n")
                     file.write("Values\n")
                     file.write(f"('{CategoryID}','{categ}')\n")
                     file.write(";\n\n")
@@ -203,18 +203,42 @@ def book_keywords_to_text(all_book_titles,all_categories):
     print("Data exported to", output_file)
     return Book_Categories
 
-all_book_titles=book_to_text()
+def summary_to_text():
+    input_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\output.json"
+    output_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\Summary.txt"
 
-all_authors=author_to_text()
+    with open(input_file, "r") as file:
+        data = json.load(file)
 
-all_book_authors=book_author_to_text(all_book_titles,all_authors)
+    with open(output_file, "w", encoding="utf-8") as file:
+        all_categories=[]
+        for i, book in enumerate(data):
+            categories=book.get("keywords")
+            summary=book.get("summary")
+            all_categories.append(replace_special_characters(summary))
+            file.write("Insert into Summary\n")
+            file.write("(`BookID`,`Summary`)\n")
+            file.write("Values\n")
+            file.write(f"('{i+1}','{summary}')\n")
+            file.write(";\n\n")
+    print("Data exported to", output_file)
+    return all_categories
 
-all_categories=category_to_text()
+#===================================================
 
-all_book_categories=book_category_to_text(all_book_titles,all_categories)
+# all_book_titles=book_to_text()
 
-all_keywords=keywords_to_text()
+# all_authors=author_to_text()
 
-all_book_keywords=book_keywords_to_text(all_book_titles,all_keywords)
+# all_book_authors=book_author_to_text(all_book_titles,all_authors)
 
+# all_categories=category_to_text()
+
+# all_book_categories=book_category_to_text(all_book_titles,all_categories)
+
+# all_keywords=keywords_to_text()
+
+# all_book_keywords=book_keywords_to_text(all_book_titles,all_keywords)
+
+all_summary=summary_to_text()
 
