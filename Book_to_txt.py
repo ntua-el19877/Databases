@@ -19,14 +19,14 @@ def replace_special_characters2(string):
 
 def get_data_to_txt2():
     input_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\output.json"
-    output_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\output.txt"
+    output_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\Book.txt"
 
     with open(input_file, "r") as file:
         data = json.load(file)
 
     with open(output_file, "w", encoding="utf-8") as file:
         for i, book in enumerate(data):
-            book_id = i
+            book_id = i+1
             title = replace_special_characters2(book.get("title", "*"))
             publisher = replace_special_characters2(book.get("publisher", "*"))
             isbn = book.get("isbn", "*")
