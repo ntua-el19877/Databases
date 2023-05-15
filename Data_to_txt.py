@@ -155,26 +155,66 @@ def book_category_to_text(all_book_titles,all_categories):
     print("Data exported to", output_file)
     return Book_Categories
 
+def keywords_to_text():
+    input_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\output.json"
+    output_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\Keyword.txt"
 
-#only ren once
+    with open(input_file, "r") as file:
+        data = json.load(file)
+
+    with open(output_file, "w", encoding="utf-8") as file:
+        all_categories=[]
+        for i, book in enumerate(data):
+            categories=book.get("keywords")
+            for j,categ in enumerate(categories):
+                if not replace_special_characters(categ) in all_categories:
+                    CategoryID=len(all_categories)+1
+                    all_categories.append(replace_special_characters(categ))
+                    file.write("Insert into Keyword\n")
+                    file.write("(`KeywordsID`,`Keywords`)\n")
+                    file.write("Values\n")
+                    file.write(f"('{CategoryID}','{categ}')\n")
+                    file.write(";\n\n")
+    print("Data exported to", output_file)
+    return all_categories
+
+def book_keywords_to_text(all_book_titles,all_categories):
+    input_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\output.json"
+    output_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\Book_Keyword.txt"
+
+    with open(input_file, "r") as file:
+        data = json.load(file)
+
+    with open(output_file, "w", encoding="utf-8") as file:
+        Book_Categories=[]
+        for i, book in enumerate(data):
+            title=replace_special_characters(book.get("title"))
+            BookID=all_book_titles.index(title)+1
+            categories=book.get("keywords")
+            for categ in categories:
+                CatId=all_categories.index(replace_special_characters(categ))+1
+
+                file.write("Insert into Book_Keyword\n")
+                file.write("(`BookID`,`KeywordID`)\n")
+                file.write("Values\n")
+                file.write(f"('{BookID}','{CatId}')\n")
+                file.write(";\n\n")
+                Book_Categories.append((BookID,CatId))
+    print("Data exported to", output_file)
+    return Book_Categories
+
 all_book_titles=book_to_text()
-# for i,val in enumerate(book_titles):
-#     print(f"ID: {i+1} Book: {val}")
-# print("===================")
 
 all_authors=author_to_text()
-# for i,val in enumerate(all_authors):
-#     print(f"ID: {i+1} Author: {val}")
-# print("===================")
 
 all_book_authors=book_author_to_text(all_book_titles,all_authors)
-# for i,val in enumerate(all_book_authors):
-#     print(f"Book_Author: {val}")
-# print("===================")
 
 all_categories=category_to_text()
-# for i,val in enumerate(all_categories):
-#     print(f"ID: {i+1} Categorie: {val}")
-# print("===================")
 
 all_book_categories=book_category_to_text(all_book_titles,all_categories)
+
+all_keywords=keywords_to_text()
+
+all_book_keywords=book_keywords_to_text(all_book_titles,all_keywords)
+
+
