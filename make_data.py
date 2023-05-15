@@ -62,7 +62,7 @@ def add_v(search_terms, start_index=0, maxres=40):
                     
                     volume_info = book.get("volumeInfo", {})
                     title = volume_info.get("title")
-                    title=replace_special_characters(title)
+                    title=(title)
                     try:
                         authors = volume_info.get("authors", [])
                         if len(authors)==0:
@@ -94,16 +94,16 @@ def add_v(search_terms, start_index=0, maxres=40):
                             break
                     if isbn==None:
                         isbn=random_number = random.randint(10**12, (10**13)-1)
-                    summary = replace_special_characters(volume_info.get("description"))
+                    summary = volume_info.get("description")
                     categories = volume_info.get("categories", [])
                     image_links = volume_info.get("imageLinks", {})
                     thumbnail = image_links.get("thumbnail")
 
                     # Extract keywords from relevant fields
-                    book_keywords = [replace_special_characters(keyword.lower()) for keyword in title.split()]
-                    book_keywords.extend([replace_special_characters(author.lower()) for author in authors])
-                    book_keywords.extend([replace_special_characters(word.lower()) for word in summary.split() if len(word) > 2])
-                    book_keywords.extend([replace_special_characters(category.lower()) for category in categories])
+                    book_keywords = [(keyword.lower()) for keyword in title.split()]
+                    book_keywords.extend([(author.lower()) for author in authors])
+                    book_keywords.extend([(word.lower()) for word in summary.split() if len(word) > 2])
+                    book_keywords.extend([(category.lower()) for category in categories])
 
                     keywords.extend(book_keywords)
                     
@@ -188,16 +188,13 @@ def get_data_to_txt():
 
     print("Data exported to", output_file)
 
-#add 40*24 values
-# stri='a'
-# for j in range(3):
-#     for i in range(24):
-#         add_v(chr(ord(stri) + i),start_index=j*40)
 
-# #add 40*20 values
-# stri='a'
-# for i in range(24):
-#     add_v(chr(ord(stri) + i))
+
+#add 40*24*5 values
+stri='a'
+for j in range(5):
+    for i in range(24):
+        add_v(chr(ord(stri) + i),start_index=j*40)
 
 # #for testing add 40 values
 # add_v('a')
@@ -209,5 +206,4 @@ remove_duplicates_by_isbn()
 # Usage example:
 book_count = get_book_count()
 
-get_data_to_txt()
 
