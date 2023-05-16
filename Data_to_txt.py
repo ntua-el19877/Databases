@@ -5,6 +5,8 @@ import names
 import re
 import codecs
 
+path='/home/angelos/Documents/GitHub/Databases/'
+# path='C:/Users/Aggelos/Documents/GitHub/Databases/'
 
 def replace_special_characters2(string):
     pattern = r'\\u([0-9a-fA-F]{4})'
@@ -18,8 +20,8 @@ def replace_special_characters2(string):
     return replaced_string
 
 def book_to_text():
-    input_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\output.json"
-    output_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\Book.txt"
+    input_file = path+"output.json"
+    output_file = path+"Data/Book.txt"
 
     with open(input_file, "r") as file:
         data = json.load(file)
@@ -59,8 +61,8 @@ def replace_special_characters(string):
     return replaced_string
 
 def author_to_text():
-    input_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\output.json"
-    output_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\Author.txt"
+    input_file = path+"output.json"
+    output_file = path+"Data/Author.txt"
 
     with open(input_file, "r") as file:
         data = json.load(file)
@@ -82,8 +84,8 @@ def author_to_text():
     return allauth
 
 def book_author_to_text(all_book_titles,all_authors):
-    input_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\output.json"
-    output_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\Book_Author.txt"
+    input_file = path+"output.json"
+    output_file = path+"Data/Book_Author.txt"
 
     with open(input_file, "r") as file:
         data = json.load(file)
@@ -108,8 +110,8 @@ def book_author_to_text(all_book_titles,all_authors):
 
 
 def category_to_text():
-    input_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\output.json"
-    output_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\Category.txt"
+    input_file = path+"output.json"
+    output_file = path+"Data/Category.txt"
 
     with open(input_file, "r") as file:
         data = json.load(file)
@@ -131,8 +133,8 @@ def category_to_text():
     return all_categories
 
 def book_category_to_text(all_book_titles,all_categories):
-    input_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\output.json"
-    output_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\Book_Category.txt"
+    input_file = path+"output.json"
+    output_file = path+"Data/Book_Category.txt"
 
     with open(input_file, "r") as file:
         data = json.load(file)
@@ -156,8 +158,8 @@ def book_category_to_text(all_book_titles,all_categories):
     return Book_Categories
 
 def keywords_to_text():
-    input_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\output.json"
-    output_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\Keyword.txt"
+    input_file = path+"output.json"
+    output_file = path+"Data/Keyword.txt"
 
     with open(input_file, "r") as file:
         data = json.load(file)
@@ -179,8 +181,8 @@ def keywords_to_text():
     return all_categories
 
 def book_keywords_to_text(all_book_titles,all_categories):
-    input_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\output.json"
-    output_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\Book_Keyword.txt"
+    input_file = path+"output.json"
+    output_file = path+"Data/Book_Keyword.txt"
 
     with open(input_file, "r") as file:
         data = json.load(file)
@@ -204,8 +206,8 @@ def book_keywords_to_text(all_book_titles,all_categories):
     return Book_Categories
 
 def summary_to_text():
-    input_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\output.json"
-    output_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\Summary.txt"
+    input_file = path+"output.json"
+    output_file = path+"Data/Summary.txt"
 
     with open(input_file, "r") as file:
         data = json.load(file)
@@ -224,24 +226,60 @@ def summary_to_text():
     print("Data exported to", output_file)
     return all_categories
 
+num_of_students=500
+num_of_schools=5
 
 def user_to_text():
-    output_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\User.txt"
+    output_file = path+"Data/User.txt"
 
     with open(output_file, "w", encoding="utf-8") as file:
         all_categories=[]
-        for i in range(200):
-            SchoolID=random.randint(1, 5)
+        all_operators=[]
+        for i in range(num_of_students):
+            SchoolID=random.randint(1, num_of_schools)
             Password=random.randint(10**12, (10**13)-1)
-            Roles=['Administrator',"Operator",'Student','Professor']
+            Roles=['Administrator',"Student",
+                   'Student','Student','Student',
+                   'Student','Student','Student',
+                   'Student','Professor']
             Role=random.choice(Roles)
             FirstName=names.get_first_name()
             Username=FirstName+str(random.randint(100, 999))
             LastName=names.get_last_name()
+            if num_of_students-i-1<num_of_schools:
+                Role='Operator'
+                SchoolID=num_of_schools+1-(num_of_students-i)
+                all_operators.append(FirstName+' '+LastName)
             file.write("Insert into User\n")
             file.write("(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)\n")
             file.write("Values\n")
             file.write(f"('{i+1}','{SchoolID}','{Username}','{Password}','{Role}','{FirstName}','{LastName}')\n")
+            file.write(";\n\n")
+    print("Data exported to", output_file)
+    return all_categories,all_operators
+
+def school_to_text(all_lib_operators):
+    output_file = path+"Data/School.txt"
+
+    with open(output_file, "w", encoding="utf-8") as file:
+        all_categories=[]
+        for i in range(num_of_schools):
+
+            Fir=['Cape Coral','Riverdale','Pinewood','Lakewood','Livanates']
+            Sec=['Institute','School of Fine Arts','High','Technical School']
+            SchoolName=random.choice(Fir)+' '+random.choice(Sec)
+            Fir=['2969 Charmaine Lane','2537 Commerce Boulevard','2066 North Bend River Road']
+            Sec=['Patricia','Paris','Somerset']
+            Thi=['79373','68669','78234']
+            Address=random.choice(Fir)+','+random.choice(Thi)
+            City=random.choice(Sec)
+            PhoneNumber=random.randint(6_970_000_000, 6_979_999_999)
+            Email=SchoolName+'@'+'mail.com'
+            SchoolDirectorFullName=names.get_full_name()
+            file.write("Insert into School\n")
+            file.write("(`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)\n")
+            file.write("Values\n")
+            file.write(f"('{i+1}','{SchoolName}','{Address}','{City}','{PhoneNumber}','{Email}','{all_lib_operators[i]}','{SchoolDirectorFullName})\n")
             file.write(";\n\n")
     print("Data exported to", output_file)
     return all_categories
@@ -264,4 +302,6 @@ def user_to_text():
 
 # all_summary=summary_to_text()
 
-all_users=user_to_text()
+all_users,all_operators=user_to_text()
+
+all_schools=school_to_text(all_operators)

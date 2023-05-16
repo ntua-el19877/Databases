@@ -1,0 +1,30 @@
+Insert into School
+(`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)
+Values
+('1','Lakewood Institute','2537 Commerce Boulevard,78234','Patricia','6977678076','Lakewood Institute@mail.com','Michael Fye','Mike Taylor)
+;
+
+Insert into School
+(`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)
+Values
+('2','Lakewood High','2066 North Bend River Road,68669','Paris','6978300329','Lakewood High@mail.com','Shannon Cantu','Bess Ryant)
+;
+
+Insert into School
+(`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)
+Values
+('3','Lakewood School of Fine Arts','2066 North Bend River Road,79373','Patricia','6977226873','Lakewood School of Fine Arts@mail.com','Enriqueta Bentley','Doris Vazquez)
+;
+
+Insert into School
+(`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)
+Values
+('4','Pinewood Technical School','2066 North Bend River Road,68669','Paris','6979755166','Pinewood Technical School@mail.com','John Mckamey','Seth Weaver)
+;
+
+Insert into School
+(`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)
+Values
+('5','Pinewood Technical School','2537 Commerce Boulevard,78234','Paris','6977827222','Pinewood Technical School@mail.com','Richard Lamy','Steven Welch)
+;
+
