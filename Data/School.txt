@@ -1,30 +1,30 @@
 Insert into School
 (`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)
 Values
-('1','Lakewood Institute','2537 Commerce Boulevard,78234','Patricia','6977678076','Lakewood Institute@mail.com','Michael Fye','Mike Taylor)
+('1','Riverdale High','2066 North Bend River Road,68669','Somerset','6977720216','Riverdale High@mail.com','Alberta Durkin','John Williamson)
 ;
 
 Insert into School
 (`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)
 Values
-('2','Lakewood High','2066 North Bend River Road,68669','Paris','6978300329','Lakewood High@mail.com','Shannon Cantu','Bess Ryant)
+('2','Lakewood High','2537 Commerce Boulevard,79373','Paris','6973020773','Lakewood High@mail.com','Ethel Lambrakis','Jesus Wood)
 ;
 
 Insert into School
 (`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)
 Values
-('3','Lakewood School of Fine Arts','2066 North Bend River Road,79373','Patricia','6977226873','Lakewood School of Fine Arts@mail.com','Enriqueta Bentley','Doris Vazquez)
+('3','Pinewood High','2969 Charmaine Lane,79373','Somerset','6979545432','Pinewood High@mail.com','Ashley Williams','James Byrd)
 ;
 
 Insert into School
 (`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)
 Values
-('4','Pinewood Technical School','2066 North Bend River Road,68669','Paris','6979755166','Pinewood Technical School@mail.com','John Mckamey','Seth Weaver)
+('4','Livanates High','2969 Charmaine Lane,79373','Somerset','6974311364','Livanates High@mail.com','James Brown','Jacob Baldwin)
 ;
 
 Insert into School
 (`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)
 Values
-('5','Pinewood Technical School','2537 Commerce Boulevard,78234','Paris','6977827222','Pinewood Technical School@mail.com','Richard Lamy','Steven Welch)
+('5','Pinewood School of Fine Arts','2537 Commerce Boulevard,68669','Somerset','6977423759','Pinewood School of Fine Arts@mail.com','Thomas Kubis','Michael Martin)
 ;
 

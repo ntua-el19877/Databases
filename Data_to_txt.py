@@ -4,6 +4,7 @@ import json
 import names
 import re
 import codecs
+import secrets
 
 path='/home/angelos/Documents/GitHub/Databases/'
 # path='C:/Users/Aggelos/Documents/GitHub/Databases/'
@@ -235,28 +236,34 @@ def user_to_text():
     with open(output_file, "w", encoding="utf-8") as file:
         all_categories=[]
         all_operators=[]
-        for i in range(num_of_students):
-            SchoolID=random.randint(1, num_of_schools)
-            Password=random.randint(10**12, (10**13)-1)
-            Roles=['Administrator',"Student",
-                   'Student','Student','Student',
-                   'Student','Student','Student',
-                   'Student','Professor']
-            Role=random.choice(Roles)
-            FirstName=names.get_first_name()
-            Username=FirstName+str(random.randint(100, 999))
-            LastName=names.get_last_name()
-            if num_of_students-i-1<num_of_schools:
-                Role='Operator'
-                SchoolID=num_of_schools+1-(num_of_students-i)
-                all_operators.append(FirstName+' '+LastName)
-            file.write("Insert into User\n")
-            file.write("(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)\n")
-            file.write("Values\n")
-            file.write(f"('{i+1}','{SchoolID}','{Username}','{Password}','{Role}','{FirstName}','{LastName}')\n")
-            file.write(";\n\n")
+        all_admins=[]
+        for i in range(num_of_schools):
+            for j in range(100):
+
+                Password=secrets.token_urlsafe(13)
+                Roles=['Professor',"Student",
+                    'Student','Student','Student',
+                    'Student','Student','Student',
+                    'Student','Professor']
+                Role=random.choice(Roles)
+                FirstName=names.get_first_name()
+                Username=FirstName+str(random.randint(100, 999))
+                all_categories.append(Username)
+                LastName=names.get_last_name()
+                if j==98:
+                    Role='Operator'
+                    all_operators.append(FirstName+' '+LastName)
+                elif j==99:
+                    Role='Administrator'
+                    all_admins.append(FirstName+' '+LastName)
+                file.write("Insert into User\n")
+                file.write("(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)\n")
+                file.write("Values\n")
+                file.write(f"('{j+1}','{i+1}','{Username}','{Password}','{Role}','{FirstName}','{LastName}')\n")
+                file.write(";\n\n")
+        L=all_admins+all_operators
     print("Data exported to", output_file)
-    return all_categories,all_operators
+    return all_categories,L
 
 def school_to_text(all_lib_operators):
     output_file = path+"Data/School.txt"
@@ -279,11 +286,31 @@ def school_to_text(all_lib_operators):
             file.write("Insert into School\n")
             file.write("(`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)\n")
             file.write("Values\n")
-            file.write(f"('{i+1}','{SchoolName}','{Address}','{City}','{PhoneNumber}','{Email}','{all_lib_operators[i]}','{SchoolDirectorFullName})\n")
+            file.write(f"('{i+1}','{SchoolName}','{Address}','{City}','{PhoneNumber}','{Email}','{all_lib_operators[i+num_of_schools]}','{SchoolDirectorFullName})\n")
             file.write(";\n\n")
     print("Data exported to", output_file)
     return all_categories
 
+
+def borrowercard_to_text(all_users):
+    output_file = path+"Data/BorrowerCard.txt"
+
+    with open(output_file, "w", encoding="utf-8") as file:
+        all_categories=[]
+        count=0
+        for i,user in enumerate(all_users):
+            count+=1
+            UserID=count
+            if not count>98:
+                file.write("Insert into BorrowerCard\n")
+                file.write("(`BorrowerCardID`,`UserID`)\n")
+                file.write("Values\n")
+                file.write(f"('{random.randint(10**12, (10**13)-1)}','{UserID}')\n")
+                file.write(";\n\n")
+            elif count==100:
+                count=0
+    print("Data exported to", output_file)
+    return all_categories
 #===================================================
 
 # all_book_titles=book_to_text()
@@ -302,6 +329,8 @@ def school_to_text(all_lib_operators):
 
 # all_summary=summary_to_text()
 
-all_users,all_operators=user_to_text()
+all_users,oper_5_admin_5=user_to_text()
 
-all_schools=school_to_text(all_operators)
+all_schools=school_to_text(oper_5_admin_5)
+
+all_borrowercards=borrowercard_to_text(all_users)
