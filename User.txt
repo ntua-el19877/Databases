@@ -1,0 +1,1200 @@
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('1','2','Ethel473','4456117777047','Student','Ethel','Kappler')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('2','4','Clint980','3915698316657','Operator','Clint','Miller')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('3','3','Paul259','2318661542910','Operator','Paul','Clark')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('4','3','Francis705','1324140423184','Student','Francis','Walton')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('5','1','Jose804','4717245778263','Professor','Jose','Bailey')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('6','2','Jasmine843','4590189894242','Operator','Jasmine','Holland')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('7','2','Matthew911','9777583183377','Student','Matthew','Sarette')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('8','5','Julia475','8197754772006','Professor','Julia','Wilson')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('9','5','Amada876','4538251613425','Operator','Amada','Garett')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('10','3','James117','8108237122632','Operator','James','Jeffery')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('11','1','John349','5318015905391','Professor','John','Funches')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('12','4','Sonya954','7965941955180','Student','Sonya','Heefner')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('13','4','Frances169','8829591313189','Student','Frances','Castaneda')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('14','2','Andrea150','9477764081565','Student','Andrea','Marquardt')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('15','3','Laurinda265','9749556345595','Operator','Laurinda','Nicolas')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('16','4','Elizabeth512','7575828897284','Administrator','Elizabeth','Klein')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('17','4','Joseph729','6581640488147','Student','Joseph','Moore')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('18','3','Major112','8801105497529','Administrator','Major','Mccreery')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('19','5','Valerie674','4267282679348','Professor','Valerie','Belk')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('20','5','Priscilla710','6612050554967','Professor','Priscilla','Hoag')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('21','4','Kimberly982','4710272977315','Administrator','Kimberly','Baker')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('22','4','Christopher866','4052698337841','Professor','Christopher','Bilyeu')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('23','3','Derrick529','1106182029562','Operator','Derrick','Leth')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('24','2','Raymond882','6244828501250','Student','Raymond','Ramirez')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('25','1','Kenneth590','3480324426799','Professor','Kenneth','Jones')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('26','3','David717','1790817559208','Operator','David','Wolford')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('27','3','Bonnie308','8299202732303','Administrator','Bonnie','Hedgepeth')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('28','1','Lauren165','6985699152294','Student','Lauren','Smith')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('29','2','Ernesto829','8137429342741','Operator','Ernesto','Hookano')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('30','2','Irving817','5890947479158','Administrator','Irving','Scorgie')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('31','1','Gladys303','7057174740912','Professor','Gladys','Riebau')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('32','3','Lance858','6094119788102','Professor','Lance','Boone')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('33','3','Joanne859','6296179925439','Student','Joanne','Kelly')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('34','4','Tracy320','5993844264550','Operator','Tracy','Perez')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('35','3','Heather671','6782621551506','Administrator','Heather','Parrott')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('36','5','William143','5614166199969','Professor','William','Prucha')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('37','2','Steven663','3190543209398','Professor','Steven','Smith')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('38','4','Mary634','1153780583934','Operator','Mary','Sclavi')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('39','3','Michael440','1495128623020','Administrator','Michael','Aveado')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('40','3','Louis177','9293221561264','Professor','Louis','Craven')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('41','2','Socorro208','9149314001123','Professor','Socorro','Scott')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('42','2','Jimmy690','8845031047573','Student','Jimmy','Blau')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('43','5','Dennis359','1136172726548','Operator','Dennis','Carrion')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('44','1','Malinda347','6040349689407','Operator','Malinda','Duck')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('45','1','Marilyn792','6471381609929','Professor','Marilyn','Dials')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('46','1','Keith389','9216703116036','Professor','Keith','Mathis')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('47','4','Douglas193','3706278639876','Professor','Douglas','Lachley')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('48','3','Maxine291','4203889959457','Student','Maxine','Benedict')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('49','1','Maritza711','4338965291332','Student','Maritza','Valencia')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('50','1','Wilfred965','8238001208402','Administrator','Wilfred','Compton')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('51','4','Susan860','7648527062682','Professor','Susan','Harris')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('52','3','Richard970','5259280517169','Professor','Richard','Torbus')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('53','4','Thomas270','7258904466770','Student','Thomas','Tennyson')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('54','3','Jean365','6627118687536','Professor','Jean','Hovey')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('55','1','Wm756','1579690900596','Operator','Wm','Windley')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('56','1','Roxie720','1687559440186','Professor','Roxie','Cuevas')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('57','1','Robert856','9572423701413','Professor','Robert','Faines')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('58','2','Jeanelle173','3783118199304','Administrator','Jeanelle','Kiani')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('59','1','Danielle419','6896139738159','Administrator','Danielle','Fortney')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('60','4','Kathryn702','5784762873019','Student','Kathryn','Miller')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('61','5','Frank137','7363381840778','Student','Frank','Dixon')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('62','5','Sheila138','3790391462705','Operator','Sheila','Bowers')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('63','5','Scott755','3099779651539','Student','Scott','Cole')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('64','2','Scott379','2181373594551','Administrator','Scott','Franklin')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('65','1','Carmela307','2564251611698','Student','Carmela','Weston')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('66','4','Nathaniel499','5604149401636','Administrator','Nathaniel','Landes')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('67','4','Sheryl486','9414668556198','Operator','Sheryl','Prude')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('68','5','Barbara145','8403875995425','Student','Barbara','Tague')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('69','4','Heather670','1260950476981','Professor','Heather','Ramirez')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('70','5','Amelia579','7015522726938','Student','Amelia','Kellam')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('71','5','Steve374','5111771144753','Operator','Steve','Harden')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('72','3','Odell736','6809949215812','Operator','Odell','Flores')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('73','5','Roberta293','4551207470079','Professor','Roberta','Waugh')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('74','5','Bessie476','6535404877819','Student','Bessie','Moran')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('75','1','Lawrence187','5458903041957','Administrator','Lawrence','Davis')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('76','1','Bobby461','5255628113880','Professor','Bobby','Olsen')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('77','3','Opal280','2224460729569','Student','Opal','Riddick')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('78','3','Kenneth857','4249254636174','Operator','Kenneth','Roule')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('79','5','Jason328','4809818355777','Administrator','Jason','Jordan')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('80','5','Karl362','2704094646278','Professor','Karl','Grisham')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('81','1','Jessie742','2106224309947','Administrator','Jessie','Vega')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('82','5','Tyler402','3563838833590','Professor','Tyler','Newton')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('83','1','Edna256','2331347899332','Student','Edna','Spiers')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('84','4','Alice167','7155616459700','Professor','Alice','Ficklin')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('85','3','Gayle655','6886396234930','Professor','Gayle','Costa')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('86','1','Tiffany998','9759412977522','Administrator','Tiffany','Rouse')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('87','1','Matthew482','4378176979189','Professor','Matthew','Nelson')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('88','4','Aida761','8043475714512','Student','Aida','Crowder')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('89','3','Melvin709','8337348258676','Student','Melvin','Wooten')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('90','3','Charles506','2706517394323','Student','Charles','Emig')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('91','4','Betty170','7797893670638','Administrator','Betty','Smith')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('92','2','Taylor225','5672683611091','Professor','Taylor','Mcdonald')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('93','5','Terrence175','9843297424874','Student','Terrence','Fulton')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('94','1','Toni562','2578011577607','Professor','Toni','Miller')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('95','1','Charles257','3791133104179','Operator','Charles','Blanchard')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('96','2','Charles214','6927845787154','Operator','Charles','Vazquez')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('97','1','Brian323','3458008834359','Student','Brian','Vinson')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('98','2','Angela550','5512395375118','Professor','Angela','Rodriguez')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('99','2','Laurie551','9828753879091','Administrator','Laurie','Haile')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('100','4','Jeannette933','4496155826236','Administrator','Jeannette','Danger')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('101','1','Christin542','3112594998244','Student','Christin','Mcdonald')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('102','1','Jake580','7934278056607','Professor','Jake','Struck')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('103','1','Joseph237','4604095644709','Professor','Joseph','Heard')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('104','1','Samuel786','2736341433742','Professor','Samuel','Sullivan')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('105','2','Samuel805','2766167381696','Operator','Samuel','Evans')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('106','5','Harold247','1816166711429','Professor','Harold','Grier')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('107','4','Harry991','7259482111522','Student','Harry','Brown')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('108','2','Roger301','6167495466235','Operator','Roger','Pittman')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('109','1','Colin842','4637750062070','Student','Colin','Lassiter')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('110','5','Anthony656','6542148443722','Student','Anthony','Nunez')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('111','2','James645','5044583440709','Professor','James','Snyder')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('112','5','Juan256','8639766960867','Professor','Juan','Vass')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('113','5','John644','9375461740765','Operator','John','Lee')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('114','5','Christopher973','3611889551225','Operator','Christopher','Degiulio')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('115','4','Robert870','5504076163653','Administrator','Robert','Guercio')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('116','1','Shannon783','7964122116516','Professor','Shannon','Huffman')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('117','1','Terry280','4282617858718','Student','Terry','Novak')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('118','5','Concepcion365','4455903631389','Operator','Concepcion','Austin')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('119','4','Terry250','3396899307080','Administrator','Terry','Weigand')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('120','1','Ashley674','4061677031628','Student','Ashley','Johnson')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('121','5','Rebecca157','2562716621009','Professor','Rebecca','Millis')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('122','3','Christopher935','3301524723626','Professor','Christopher','Harper')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('123','3','Robert648','5497127137025','Student','Robert','Martinez')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('124','2','Chang799','7842518950342','Administrator','Chang','Weiss')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('125','4','Mary986','3154282144276','Administrator','Mary','Owens')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('126','5','Florence954','9813415565759','Professor','Florence','Oconnor')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('127','1','Robert470','9509876601779','Operator','Robert','Woodlock')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('128','4','Barry763','1083658439104','Student','Barry','Ulcena')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('129','3','Chris974','3427610367940','Operator','Chris','Pelletier')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('130','3','Everett201','6843269780597','Administrator','Everett','Pepper')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('131','2','Julian425','2102735784694','Student','Julian','Gaudino')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('132','2','Paul862','6946678709902','Student','Paul','Goetz')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('133','4','Debbie634','7289851835445','Professor','Debbie','Crieghton')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('134','2','Andrew760','3723863180164','Student','Andrew','Grubbs')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('135','1','Shaun240','1742404353992','Administrator','Shaun','Carney')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('136','4','Victor917','7882618871656','Administrator','Victor','Gravel')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('137','3','Adelaida696','6629972900596','Student','Adelaida','Maenpaa')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('138','4','Earnest144','4901672219681','Administrator','Earnest','Harmon')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('139','1','Jimmy982','7949452577359','Administrator','Jimmy','Ross')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('140','4','Felix287','1121927846234','Professor','Felix','Bellocchio')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('141','3','Ciara751','2149752802509','Student','Ciara','Sharp')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('142','3','Jazmine149','2770492076961','Student','Jazmine','Eakin')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('143','2','Lynn647','8482404966070','Operator','Lynn','Harvey')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('144','2','Jean183','2155946816494','Student','Jean','Damico')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('145','1','Carol614','2733266744620','Administrator','Carol','Belizaire')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('146','3','Jon933','9490926188064','Student','Jon','Brown')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('147','4','James581','4449107206022','Professor','James','Hutchinson')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('148','1','Daniel820','2157763905659','Professor','Daniel','Weaver')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('149','3','Melba171','3608040636713','Operator','Melba','Cline')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('150','3','Dorian303','1957026597626','Student','Dorian','Josephson')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('151','5','Vanessa127','8123833157896','Professor','Vanessa','Leon')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('152','3','Sharon697','8293233859113','Administrator','Sharon','Turner')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('153','1','Daniel727','4696793374741','Professor','Daniel','Feuer')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('154','1','Neva510','2631530164023','Administrator','Neva','Toon')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('155','3','Elsa453','7100635427148','Student','Elsa','Hicks')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('156','4','Alan480','4658028256529','Professor','Alan','Fernandez')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('157','2','Jason520','2391875299277','Professor','Jason','Defalco')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('158','2','Spencer881','3915857771350','Professor','Spencer','Hosea')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('159','3','Jessica892','3063176949019','Administrator','Jessica','England')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('160','5','Iva807','1947688934446','Professor','Iva','Francis')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('161','4','Virginia582','9396322786223','Administrator','Virginia','Alaimo')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('162','3','Jesse597','7538788930870','Operator','Jesse','Rollefson')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('163','3','Lasonya335','7057495457229','Professor','Lasonya','Morant')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('164','1','Lori911','3775760951109','Administrator','Lori','Sykes')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('165','5','Annette299','4242807818772','Professor','Annette','Hart')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('166','2','Martin832','3507075276909','Student','Martin','Terrell')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('167','1','Karen689','9061527745830','Professor','Karen','Franco')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('168','3','Cathy711','6454528406301','Student','Cathy','Terrance')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('169','2','Charles829','1371444661969','Administrator','Charles','Na')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('170','1','Patricia972','1122186615322','Student','Patricia','Douglas')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('171','1','Kevin630','7432748207067','Student','Kevin','Gause')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('172','3','Cheryl982','1155281984774','Operator','Cheryl','Guajardo')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('173','3','Yesenia723','5771788686734','Operator','Yesenia','Baker')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('174','3','Betty914','6595557568176','Professor','Betty','Steffen')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('175','4','Bret460','2041395664070','Professor','Bret','Ralph')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('176','5','William402','5794912351300','Administrator','William','Morgan')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('177','2','Dewey545','3897143066243','Operator','Dewey','Rubalcava')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('178','5','Mary758','2971019438705','Administrator','Mary','Lozano')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('179','4','Carol391','9331530682082','Operator','Carol','Silvers')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('180','4','Fermin658','6866524484912','Administrator','Fermin','Gerke')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('181','1','Dan230','4956993914329','Professor','Dan','Stine')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('182','5','Jimmy910','6167642261247','Operator','Jimmy','Ellison')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('183','2','Barbara593','8852826462084','Student','Barbara','Varner')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('184','4','Laura637','2814807390262','Student','Laura','Veilleux')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('185','4','Benedict239','9761953279869','Professor','Benedict','Smith')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('186','3','Virginia269','2730546691904','Administrator','Virginia','Ratchford')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('187','3','James206','7720029956340','Student','James','Schmidt')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('188','3','Herbert933','4755040560541','Operator','Herbert','Mccauley')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('189','2','Israel580','1580830185571','Operator','Israel','Manzo')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('190','5','Anthony531','1271800726231','Professor','Anthony','Jones')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('191','5','Christina356','4852760219600','Operator','Christina','Fraser')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('192','1','Frank648','7705185806871','Operator','Frank','Malone')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('193','4','Debra236','4187850310098','Student','Debra','Guzman')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('194','2','Tina506','6625904954021','Professor','Tina','Jones')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('195','4','Kimberly833','5810372948343','Professor','Kimberly','Dent')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('196','2','Linwood379','5989284100206','Professor','Linwood','Branscum')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('197','1','Joann680','6736363101794','Student','Joann','Bourgeois')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('198','4','Barbara673','2595027053920','Student','Barbara','Thornberg')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('199','3','Robert302','7541548628805','Professor','Robert','Stancill')
+;
+
+Insert into User
+(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)
+Values
+('200','5','Randall447','6436581222240','Student','Randall','Russell')
+;
+

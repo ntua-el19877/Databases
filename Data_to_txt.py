@@ -224,6 +224,28 @@ def summary_to_text():
     print("Data exported to", output_file)
     return all_categories
 
+
+def user_to_text():
+    output_file = "C:\\Users\\Aggelos\\Documents\\GitHub\\Databases\\User.txt"
+
+    with open(output_file, "w", encoding="utf-8") as file:
+        all_categories=[]
+        for i in range(200):
+            SchoolID=random.randint(1, 5)
+            Password=random.randint(10**12, (10**13)-1)
+            Roles=['Administrator',"Operator",'Student','Professor']
+            Role=random.choice(Roles)
+            FirstName=names.get_first_name()
+            Username=FirstName+str(random.randint(100, 999))
+            LastName=names.get_last_name()
+            file.write("Insert into User\n")
+            file.write("(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`)\n")
+            file.write("Values\n")
+            file.write(f"('{i+1}','{SchoolID}','{Username}','{Password}','{Role}','{FirstName}','{LastName}')\n")
+            file.write(";\n\n")
+    print("Data exported to", output_file)
+    return all_categories
+
 #===================================================
 
 # all_book_titles=book_to_text()
@@ -240,5 +262,6 @@ def summary_to_text():
 
 # all_book_keywords=book_keywords_to_text(all_book_titles,all_keywords)
 
-all_summary=summary_to_text()
+# all_summary=summary_to_text()
 
+all_users=user_to_text()
