@@ -6,8 +6,8 @@ import re
 import codecs
 import secrets
 
-path='/home/angelos/Documents/GitHub/Databases/'
-# path='C:/Users/Aggelos/Documents/GitHub/Databases/'
+# path='/home/angelos/Documents/GitHub/Databases/'
+path='C:/Users/Aggelos/Documents/GitHub/Databases/'
 
 def replace_special_characters2(string):
     pattern = r'\\u([0-9a-fA-F]{4})'
