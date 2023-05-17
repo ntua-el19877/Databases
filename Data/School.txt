@@ -1,30 +1,30 @@
 Insert into School
 (`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)
 Values
-('1','Riverdale High','2066 North Bend River Road,68669','Somerset','6977720216','Riverdale High@mail.com','Alberta Durkin','John Williamson)
+('1','Pinewood High','2066 North Bend River Road,68669','Patricia','6975360621','Pinewood High@mail.com','Jacob Smith','Nicholas Austin)
 ;
 
 Insert into School
 (`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)
 Values
-('2','Lakewood High','2537 Commerce Boulevard,79373','Paris','6973020773','Lakewood High@mail.com','Ethel Lambrakis','Jesus Wood)
+('2','Cape Coral School of Fine Arts','2969 Charmaine Lane,68669','Somerset','6977974963','Cape Coral School of Fine Arts@mail.com','Kimberly Nagura','Sharon Parra)
 ;
 
 Insert into School
 (`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)
 Values
-('3','Pinewood High','2969 Charmaine Lane,79373','Somerset','6979545432','Pinewood High@mail.com','Ashley Williams','James Byrd)
+('3','Cape Coral High','2969 Charmaine Lane,68669','Somerset','6979368167','Cape Coral High@mail.com','Ryan Macchiaroli','Jaimie Stewart)
 ;
 
 Insert into School
 (`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)
 Values
-('4','Livanates High','2969 Charmaine Lane,79373','Somerset','6974311364','Livanates High@mail.com','James Brown','Jacob Baldwin)
+('4','Riverdale School of Fine Arts','2969 Charmaine Lane,78234','Paris','6974211876','Riverdale School of Fine Arts@mail.com','Michael Colony','Richard Sims)
 ;
 
 Insert into School
 (`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)
 Values
-('5','Pinewood School of Fine Arts','2537 Commerce Boulevard,68669','Somerset','6977423759','Pinewood School of Fine Arts@mail.com','Thomas Kubis','Michael Martin)
+('5','Cape Coral Technical School','2537 Commerce Boulevard,78234','Paris','6974837787','Cape Coral Technical School@mail.com','William Trujillo','John Murphy)
 ;
 

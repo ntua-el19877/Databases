@@ -1,2940 +1,2940 @@
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9841750846092','1')
+('1379383084593','1')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9126628289656','2')
+('7962432698352','2')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6765269865897','3')
+('3537426274108','3')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4969260354267','4')
+('6555843679505','4')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1028837504690','5')
+('5651605627335','5')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9531668662099','6')
+('1046886404612','6')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4966147503207','7')
+('7097503945475','7')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7753374116293','8')
+('4646846980822','8')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6125335716506','9')
+('5024943577695','9')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4420298205929','10')
+('7125684752602','10')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7103535519346','11')
+('1820858820716','11')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5834655693560','12')
+('8305223690641','12')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3413511531336','13')
+('9802519564253','13')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3947366286652','14')
+('6852387150448','14')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2969842312165','15')
+('6790353719212','15')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1612632145951','16')
+('9743948251050','16')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1853622221741','17')
+('3080125352677','17')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4943460503435','18')
+('6872507186740','18')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9130977119474','19')
+('1196905483647','19')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4512306724072','20')
+('8992524015242','20')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9245311178867','21')
+('6092537997393','21')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7716159924491','22')
+('5952076005759','22')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5479045270751','23')
+('5689379172060','23')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5659915164894','24')
+('8386483790375','24')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9635000411784','25')
+('7746948394121','25')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6075770452044','26')
+('4309290695492','26')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6796810400952','27')
+('1519314679464','27')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2983705609384','28')
+('7652924205013','28')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6728357809214','29')
+('7764403487407','29')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1570034206330','30')
+('3041184116610','30')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9892507465705','31')
+('9290670023214','31')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1269917457633','32')
+('1093228497956','32')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4108227050732','33')
+('6647615823822','33')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4987036187734','34')
+('1820779273567','34')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1202173693192','35')
+('3587257826731','35')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2735799309233','36')
+('6967818297498','36')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3436816806398','37')
+('2319408663280','37')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9790595577307','38')
+('5514875890863','38')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5432666697871','39')
+('2642464268848','39')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8544978927263','40')
+('5759373534418','40')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8887406206672','41')
+('7794978689616','41')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2148076312345','42')
+('4394173961471','42')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9787543146378','43')
+('7727972483938','43')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8647866428420','44')
+('4503599523562','44')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4075541298729','45')
+('4851212752110','45')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4527986153994','46')
+('4371532707804','46')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1306732160983','47')
+('1265235904056','47')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5254065257916','48')
+('1012687573072','48')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4229823359291','49')
+('8186198535765','49')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3230529934751','50')
+('5265890694240','50')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4842412260119','51')
+('9132455055537','51')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1719456157826','52')
+('1770718416420','52')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5896852363065','53')
+('2195326354242','53')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8629452679612','54')
+('8082987906371','54')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3483972303807','55')
+('2652310963041','55')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8257447635784','56')
+('6087019455356','56')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8258383613664','57')
+('3278662268282','57')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3213624801878','58')
+('4717338847255','58')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2401832028279','59')
+('3758444929819','59')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3080417019583','60')
+('4558824071399','60')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2791746994921','61')
+('9661558345874','61')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6307090384226','62')
+('5576438743283','62')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4746004398702','63')
+('3091022597037','63')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9422832241133','64')
+('8768829088959','64')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7551607134158','65')
+('4309037373171','65')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4587807072080','66')
+('3083229159098','66')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6307989988190','67')
+('7900046474047','67')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9874504236820','68')
+('3110403300018','68')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7227445885055','69')
+('1824350285880','69')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7225465324389','70')
+('3641402216547','70')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1655639953466','71')
+('7046172120932','71')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4185056087390','72')
+('7383693666532','72')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2254875490022','73')
+('9131734492742','73')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5304285586012','74')
+('9386854453228','74')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6675617822581','75')
+('3457878302560','75')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4484289564919','76')
+('5846466543152','76')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9195970615066','77')
+('1935877438002','77')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7892171898261','78')
+('5200352266872','78')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2019602034219','79')
+('9558495317779','79')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9581343884029','80')
+('4806302281515','80')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9820502465521','81')
+('7259914401242','81')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3544272853186','82')
+('6951078495376','82')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6931184392437','83')
+('1941603465384','83')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3172405710013','84')
+('5031058133872','84')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2642106249670','85')
+('6275460603344','85')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7212488512131','86')
+('8341898074564','86')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6505875590551','87')
+('6915470619121','87')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3138607264103','88')
+('4098826016952','88')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2198485846006','89')
+('9847644949435','89')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1178670208406','90')
+('4285228790204','90')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4378480559962','91')
+('3066573754408','91')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9827803955577','92')
+('2093799613165','92')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8449254291632','93')
+('9448611651532','93')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2632053462486','94')
+('6531790765907','94')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9531774269086','95')
+('5379053397690','95')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2817046378712','96')
+('5704832944823','96')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4747510496631','97')
+('8932606112985','97')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8977522359215','98')
+('3573711009733','98')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2382907286679','1')
+('3314766467001','1')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8639271764184','2')
+('9962897139594','2')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1330946767036','3')
+('5031473734025','3')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5973734085671','4')
+('9132360828606','4')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4456964439373','5')
+('1656779151220','5')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2497420002798','6')
+('5736927237442','6')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2992013997061','7')
+('2745492385416','7')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7669222156579','8')
+('2643318090848','8')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6439761592486','9')
+('7769314036497','9')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1220532056847','10')
+('5815998321044','10')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4693654469743','11')
+('8630553051412','11')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6747434122892','12')
+('5490630363577','12')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4683622906596','13')
+('2326201916210','13')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7969855692806','14')
+('7412387756765','14')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2666347437828','15')
+('6693114046329','15')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5830436521673','16')
+('8529465383169','16')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4659007820007','17')
+('6012240547738','17')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3398405718941','18')
+('9530086243932','18')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4085178956878','19')
+('9950449275925','19')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3607420401406','20')
+('9714779677099','20')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1391567033263','21')
+('9152326164665','21')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7471603532226','22')
+('1464622527066','22')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3277041032448','23')
+('4224632587100','23')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7918319476384','24')
+('7066592910024','24')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4806695650614','25')
+('4047543255864','25')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2136933994556','26')
+('3498349865337','26')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3535489019816','27')
+('1682779665482','27')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2069259215273','28')
+('9005693060528','28')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7768446655893','29')
+('3384954131401','29')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3737658219573','30')
+('6634292387823','30')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3323266586561','31')
+('7271091553652','31')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9749596905590','32')
+('3686556316107','32')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2188596133910','33')
+('7447320700849','33')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3957607162218','34')
+('9709424108675','34')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7656332971445','35')
+('3324055440588','35')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3647945882510','36')
+('3333341185786','36')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9571974100993','37')
+('8692494311886','37')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9804364527291','38')
+('8111403002439','38')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6917359000213','39')
+('4109197750726','39')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5723964433047','40')
+('4970515389683','40')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7659281468359','41')
+('6771193528504','41')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1256517792174','42')
+('5896501351303','42')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5943338409015','43')
+('2926685477988','43')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1362637857491','44')
+('7347144181208','44')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5024961282007','45')
+('2589622842915','45')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7148991991514','46')
+('9684231322276','46')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5923340769672','47')
+('8365251106697','47')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2256404013153','48')
+('4817606082515','48')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7964556446383','49')
+('3059571162629','49')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6490732052595','50')
+('3163890193842','50')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1663702523740','51')
+('5412403324223','51')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4378930426379','52')
+('3909660537472','52')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9088800895464','53')
+('2670129768590','53')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8611214543279','54')
+('8882611775873','54')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2239001833275','55')
+('7554864509838','55')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4250405345018','56')
+('2991362977466','56')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3198378707552','57')
+('2823431813480','57')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8050231799570','58')
+('9543527083455','58')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5565155621979','59')
+('9301411015363','59')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1978786816654','60')
+('7741030153782','60')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6246117945008','61')
+('7999829471897','61')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4286343012683','62')
+('9839877464695','62')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6347461376912','63')
+('2486277151936','63')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8659480528206','64')
+('5931408651659','64')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7923526676494','65')
+('6445060122575','65')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1489038447601','66')
+('6319666584473','66')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9206782926648','67')
+('8640878472513','67')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2654126183678','68')
+('4203701855194','68')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9501779594954','69')
+('8499739866044','69')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2511497676715','70')
+('2061294128456','70')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4128734350249','71')
+('3710764444901','71')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1554977148338','72')
+('9388826270757','72')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2485968256131','73')
+('5944758544740','73')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2666689833653','74')
+('5281004721572','74')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6640715635804','75')
+('8236690283986','75')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5271381432004','76')
+('9902874060970','76')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6225298273215','77')
+('5535717273145','77')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3553005020081','78')
+('8736029301244','78')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1220381362742','79')
+('2601574423267','79')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4376799910192','80')
+('5628714965437','80')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4075693273038','81')
+('7396073692082','81')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8412993062964','82')
+('4050740962140','82')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1206011285585','83')
+('5174208198230','83')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4723279877923','84')
+('9475740460363','84')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5539659833394','85')
+('2402374157369','85')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8116162694259','86')
+('2401649885946','86')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7753386868254','87')
+('9600796554319','87')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1432368844215','88')
+('2490782218036','88')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6220406003074','89')
+('6502211662577','89')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3462305399615','90')
+('4439492201231','90')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5266789007007','91')
+('5528182936256','91')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2937079817817','92')
+('8476725733527','92')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7311431626623','93')
+('2254981832805','93')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6905811352573','94')
+('4943867298750','94')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2158492998006','95')
+('8886392622610','95')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8516872334275','96')
+('4388599577434','96')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6295156565936','97')
+('7981139382690','97')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3749824809184','98')
+('7117130207192','98')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5779621045616','1')
+('8159576941887','1')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2607644838345','2')
+('4448137033575','2')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3673190705994','3')
+('7590662588972','3')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3491604271581','4')
+('4679996926458','4')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2364436216238','5')
+('9069102316349','5')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5449187003539','6')
+('3792258080559','6')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1346625829965','7')
+('3901964704935','7')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6814869316338','8')
+('6490819313698','8')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6303897090105','9')
+('7690104576446','9')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5367238665488','10')
+('6828790230867','10')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4921172692125','11')
+('7210089718209','11')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4822211075722','12')
+('6049863242033','12')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6529314350835','13')
+('5804623576886','13')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7382639728004','14')
+('6340225526119','14')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6324197013991','15')
+('6152904776255','15')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2913423264621','16')
+('9572246256585','16')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9995511480883','17')
+('8297695827480','17')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9063380441199','18')
+('7726510528326','18')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8626109093602','19')
+('4639090167985','19')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7134908002008','20')
+('8983256178670','20')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8832875307865','21')
+('7235204612996','21')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2720868503158','22')
+('1579992699018','22')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1478441380445','23')
+('6256147301907','23')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6959321736187','24')
+('3688178575708','24')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5562047929958','25')
+('4062348994587','25')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9186715875045','26')
+('6036892045984','26')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4260153650800','27')
+('6529521755052','27')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4765726248595','28')
+('1928615419572','28')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2116384617043','29')
+('5031839339373','29')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6606564269550','30')
+('1931557211662','30')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2909611476434','31')
+('6259218639681','31')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4292816245686','32')
+('5698608825288','32')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9792451677556','33')
+('4311415774657','33')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3094254684647','34')
+('5311984178429','34')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2157222686918','35')
+('7598522573261','35')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2560291971599','36')
+('9280889447075','36')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6939451522473','37')
+('1368210902515','37')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2897710189378','38')
+('8057582771282','38')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5163894044823','39')
+('6082924714130','39')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2347476278150','40')
+('4945366220597','40')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7710008539744','41')
+('1452853846397','41')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4528280510792','42')
+('1408870507549','42')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5649971802611','43')
+('7851828019497','43')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2132517995054','44')
+('6367982812906','44')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3299256416646','45')
+('1580855831011','45')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1765916496305','46')
+('9751656055064','46')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3568078076126','47')
+('4684356794724','47')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6561488400438','48')
+('7106033233051','48')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7142860390805','49')
+('8822558777392','49')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5511623553101','50')
+('6720991973920','50')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3816715388035','51')
+('1033885749447','51')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3293801528735','52')
+('8507776781066','52')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2357202059398','53')
+('9832457743645','53')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5917725197095','54')
+('9524772400768','54')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8311206699556','55')
+('4157517775423','55')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6247008269321','56')
+('4350578561242','56')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5521180095538','57')
+('7903771457969','57')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9919398292399','58')
+('4929220002473','58')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9156630501031','59')
+('9344595606587','59')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5236181327695','60')
+('7332379925134','60')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1051090081172','61')
+('7689312881272','61')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9978928415628','62')
+('7301081258826','62')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2776600473595','63')
+('8362215481650','63')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8280451832023','64')
+('9253794582274','64')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6736117864586','65')
+('9013056134380','65')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8091407754242','66')
+('7706388025137','66')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7336737971407','67')
+('5826459502884','67')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3848982948926','68')
+('5208696648484','68')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1312956084874','69')
+('2710885344542','69')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3323994869633','70')
+('7705220811280','70')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5373851089962','71')
+('5087394371240','71')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2474097261073','72')
+('8444803787862','72')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5719312098115','73')
+('2770889756325','73')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7854142184717','74')
+('4069583434250','74')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5721948449516','75')
+('6829961578051','75')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3194402677350','76')
+('4958223393835','76')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8134650713248','77')
+('2587965096101','77')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3489434623623','78')
+('7132498947931','78')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1869316391311','79')
+('2978374965596','79')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1675017348280','80')
+('4960627635861','80')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7569945989280','81')
+('8557172652850','81')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3386386196613','82')
+('7301947562727','82')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2712869232633','83')
+('6189580180804','83')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2151926040172','84')
+('7310065068966','84')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6438525536808','85')
+('2922434206736','85')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5425608243746','86')
+('4019978407420','86')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8818788212932','87')
+('2730168749235','87')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5728586704347','88')
+('1611467521544','88')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8144316678021','89')
+('1890267516537','89')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6520307585534','90')
+('6278286338117','90')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3757918336278','91')
+('7468860555618','91')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7498844290337','92')
+('4533728768269','92')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1368212419589','93')
+('1084316542924','93')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6510573981997','94')
+('9114265721971','94')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1808033082239','95')
+('5653639348206','95')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9203178524152','96')
+('9492427347629','96')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7596339729471','97')
+('9084531630606','97')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7220578662942','98')
+('1186009390263','98')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9420564240587','1')
+('3239379699282','1')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2975294766481','2')
+('4698258335184','2')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9334603931541','3')
+('5512174068455','3')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8018934899514','4')
+('3613705615887','4')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6515840760337','5')
+('5290291898663','5')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3993308334117','6')
+('6008507658650','6')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2230799407990','7')
+('5228011487617','7')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1999500952800','8')
+('6174933292636','8')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2834163476557','9')
+('3254074365565','9')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2298665528882','10')
+('2483098054454','10')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1867491427286','11')
+('5582907015807','11')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5314271478131','12')
+('4984757745180','12')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2582746766190','13')
+('6751491673190','13')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5990876204088','14')
+('4486270789574','14')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6772624366146','15')
+('8829089976574','15')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4681706950656','16')
+('9076337319668','16')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1490487501337','17')
+('8645900253052','17')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5468834667305','18')
+('6107368860608','18')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9074002383193','19')
+('6175577657496','19')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8689950466808','20')
+('6175766024790','20')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7382653395636','21')
+('9808395127538','21')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6706078443886','22')
+('1377253394673','22')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5043147797861','23')
+('9661051386151','23')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4063155742465','24')
+('2449667459133','24')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5657263772224','25')
+('6859913375214','25')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4561544540558','26')
+('9518953318181','26')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3709584536250','27')
+('3051086272465','27')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2174592858632','28')
+('8247808948860','28')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5142287156874','29')
+('1864875166855','29')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2042966452485','30')
+('4254908594524','30')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8073707070107','31')
+('1473539585678','31')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1986263480654','32')
+('5660114096058','32')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6077195166182','33')
+('2954213116633','33')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5388379335760','34')
+('2817337860923','34')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8720581884797','35')
+('5797940416475','35')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2513451355247','36')
+('7102383974762','36')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8968120748682','37')
+('1641931721113','37')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9478872631451','38')
+('2261676140137','38')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4291960022163','39')
+('1418573479045','39')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8731878259522','40')
+('3364878896890','40')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1635326885834','41')
+('2271769014966','41')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1966683984158','42')
+('5931849427629','42')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9380404853845','43')
+('1884053545291','43')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6610304374301','44')
+('7679107919267','44')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1985671311915','45')
+('2717788804631','45')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1223123813520','46')
+('6194967134896','46')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7373474092578','47')
+('9564995861240','47')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4103663638229','48')
+('4007652287280','48')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1488249923732','49')
+('5330969621882','49')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9307117652109','50')
+('5384439725448','50')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9407532372296','51')
+('2130550687568','51')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7740408249454','52')
+('1996726782419','52')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6860361977019','53')
+('6851727323496','53')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4285552904586','54')
+('5710024960859','54')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8048004834890','55')
+('4095794238593','55')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1086642713008','56')
+('6984817117503','56')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7413547996732','57')
+('9604626225831','57')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3539250234252','58')
+('8063146301559','58')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3444717074601','59')
+('9508408203580','59')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6597912101196','60')
+('2007759964509','60')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7347996310120','61')
+('3559626279004','61')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1650678126912','62')
+('6014499677211','62')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2815793675525','63')
+('4339246958784','63')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6825420578501','64')
+('9964687908447','64')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9845429167315','65')
+('4224309677787','65')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5728526454843','66')
+('9660128335930','66')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4248490567229','67')
+('2627539803803','67')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9512607452915','68')
+('4495545121615','68')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7468968879870','69')
+('5531714709889','69')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3319965096080','70')
+('2390921171257','70')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6694329598261','71')
+('5236403240242','71')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2560055080813','72')
+('3894839267887','72')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8030474515715','73')
+('1528784590493','73')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5855074067557','74')
+('2594568248401','74')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2022601345301','75')
+('3821409054434','75')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4503686741831','76')
+('5224708711300','76')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4208491268021','77')
+('8188418780656','77')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8923824577458','78')
+('6868417578278','78')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7654626891668','79')
+('3581760484440','79')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9678809121515','80')
+('5736014047351','80')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2969313122184','81')
+('4700364562612','81')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3353671040551','82')
+('8249348427501','82')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7250431715428','83')
+('9579145099664','83')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1041679141024','84')
+('2272549862007','84')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6105535104832','85')
+('4792657667821','85')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8635530341137','86')
+('7549611658129','86')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8784685448663','87')
+('9884459779962','87')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8254069716949','88')
+('6026484702900','88')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6221183592055','89')
+('7284951560268','89')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6104553100108','90')
+('9306229042307','90')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3583521377156','91')
+('9051994799932','91')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6939212484897','92')
+('4965690181551','92')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7325836079700','93')
+('6839840994112','93')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2382978816063','94')
+('7621157474015','94')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8218766198215','95')
+('5970386387646','95')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1278937981099','96')
+('6256612007888','96')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8803893417195','97')
+('1054761975070','97')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8519654636813','98')
+('6436069962429','98')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8280736431728','1')
+('5788690375332','1')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6000634681684','2')
+('8952706161836','2')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6982412772903','3')
+('7745610985217','3')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4162149702028','4')
+('3895263720097','4')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3904120073227','5')
+('9507135199895','5')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4703360070532','6')
+('9475395155582','6')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3454724074816','7')
+('8215759589262','7')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3006295005291','8')
+('1953027653312','8')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7265877303286','9')
+('3770015192529','9')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5716016339036','10')
+('9847485535595','10')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8352999658695','11')
+('4310621902640','11')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9470732934461','12')
+('1316611835011','12')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7582298968812','13')
+('5151990162137','13')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1636911622948','14')
+('2030672593358','14')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6850763324789','15')
+('4962842888508','15')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2622203155183','16')
+('6993688254241','16')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7397211376076','17')
+('6291561476261','17')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9592390221647','18')
+('2791519779837','18')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9859601126639','19')
+('5826127758626','19')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4829703231141','20')
+('1412230924521','20')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9893072256845','21')
+('8133337808452','21')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4548445323799','22')
+('3882397316371','22')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3521508182862','23')
+('1903810834149','23')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5984439852736','24')
+('9556449023354','24')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7367351560079','25')
+('7613617692911','25')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4054714617759','26')
+('5437100665747','26')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9044849219841','27')
+('4019363318008','27')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9741219887038','28')
+('9793833105886','28')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3302561743552','29')
+('9486573562116','29')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5879725663179','30')
+('6608064445377','30')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2862098303694','31')
+('1862323932931','31')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1805889589230','32')
+('5584393730251','32')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5049941035412','33')
+('7704006511069','33')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2145399177451','34')
+('3184187054499','34')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2986725511967','35')
+('3087723635059','35')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3172035509339','36')
+('9785586684702','36')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1154379964352','37')
+('6048644775417','37')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2403927302370','38')
+('7391706060398','38')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7063323269931','39')
+('5403344086232','39')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8891081573013','40')
+('3676944292880','40')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7279445207683','41')
+('6511076780112','41')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5761465905459','42')
+('1712349559345','42')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4005616853658','43')
+('2693059741480','43')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9408408517889','44')
+('7485854993893','44')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1067507481431','45')
+('8831124980537','45')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1190369990509','46')
+('6001253771580','46')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5848797624989','47')
+('8637537616877','47')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6514368946297','48')
+('1556176862053','48')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1340241262511','49')
+('3652782082255','49')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4587542207575','50')
+('9177706708222','50')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1008699699770','51')
+('7249753197091','51')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3905267547397','52')
+('5497998441217','52')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2109233355866','53')
+('4907593740982','53')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9036688942639','54')
+('7824824333588','54')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2625488664651','55')
+('7778425160576','55')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3817914339654','56')
+('2417426337429','56')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7709677353637','57')
+('1424803532929','57')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1199899238914','58')
+('3567573758117','58')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7466565975344','59')
+('8400135008811','59')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6595725060149','60')
+('6729149815776','60')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3663229908756','61')
+('8895116536621','61')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9545003853337','62')
+('3351076058297','62')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8179418427723','63')
+('9210460973675','63')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4108561027957','64')
+('2725409775035','64')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4445180009590','65')
+('2092204069237','65')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3166290585005','66')
+('5540196088625','66')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9221352428594','67')
+('6539535045742','67')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3541032496808','68')
+('9616163491306','68')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3535253423457','69')
+('4326463624761','69')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1377706877145','70')
+('7699959292939','70')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4718563706796','71')
+('4746261597681','71')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6410103607145','72')
+('1920956575717','72')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6251231484484','73')
+('4844520315313','73')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2136456622961','74')
+('1352207013098','74')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7972615111600','75')
+('9210159614655','75')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4633684235443','76')
+('5170356640524','76')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4042170418620','77')
+('4640080701223','77')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8105100138379','78')
+('1865706865263','78')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2992026638626','79')
+('7134460316407','79')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3708432760268','80')
+('5892995299116','80')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4046477341880','81')
+('1049062680640','81')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5359944508056','82')
+('7246241807402','82')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('4045895610472','83')
+('7988989419176','83')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1122142560709','84')
+('4600909884672','84')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9708317951757','85')
+('9535682653201','85')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5269594490805','86')
+('7832556092492','86')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('3232607491703','87')
+('7321809067049','87')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8193540494215','88')
+('7115926471243','88')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('1990949107787','89')
+('6866246431108','89')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2294078280838','90')
+('2322810576430','90')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('9725184549050','91')
+('7605254927389','91')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7544466527155','92')
+('1375536381749','92')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8383934522077','93')
+('2688873040442','93')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('8641707267115','94')
+('3886945531381','94')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('2078936122351','95')
+('2783085932448','95')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('5440187712079','96')
+('8810875562474','96')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('6982727826030','97')
+('4291949348573','97')
 ;
 
 Insert into BorrowerCard
 (`BorrowerCardID`,`UserID`)
 Values
-('7488064409127','98')
+('2947020576630','98')
 ;
 
