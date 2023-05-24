@@ -1,19 +1,19 @@
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('1','1','Humor')
+('1','1','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('2','1','Music')
+('2','1','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('3','1','Music')
+('3','1','Religion')
 ;
 
 Insert into Category
@@ -25,7 +25,7 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('5','1','Computers')
+('5','1','Business & Economics')
 ;
 
 Insert into Category
@@ -37,583 +37,619 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('7','1','Business & Economics')
+('8','1','Documentary photography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('11','1','Private libraries')
+('9','1','Documentary photography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('12','1','Private libraries')
+('10','1','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('13','1','Mathematics')
+('11','1','Galen')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('14','1','Mathematics')
+('12','1','Galen')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('15','1','Buddhism')
+('13','1','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('16','1','Buddhism')
+('14','1','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('17','1','Buddhism')
+('15','1','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('18','1','Computers')
+('16','1','Foreign Language Study')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('19','1','Computers')
+('17','1','Foreign Language Study')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('20','1','Computers')
+('18','1','Foreign Language Study')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('21','1','Boundary element methods')
+('19','1','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('22','1','Computers')
+('20','1','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('23','1','Foreign Language Study')
+('21','1','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('27','1','Medical')
+('22','1','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('28','1','Medical')
+('23','1','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('29','1','Medical')
+('24','1','Models, Psychological')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('30','1','Literary Collections')
+('25','1','Models, Psychological')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('31','1','Religion')
+('26','1','Models, Psychological')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('32','1','Models, Psychological')
+('27','1','Natural history')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('33','1','Models, Psychological')
+('28','1','Natural history')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('34','1','Natural history')
+('29','1','Natural history')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('35','1','Poetry')
+('30','1','Poetry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('36','1','Poetry')
+('31','1','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('37','1','Poetry')
+('32','1','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('38','1','Fiji')
+('33','1','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('39','1','Fiji')
+('34','1','England')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('40','1','Fiji')
+('35','1','Christian ethics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('41','1','Philosophy')
+('36','1','Christian ethics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('42','1','Medical')
+('37','1','Christian ethics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('43','1','Medical')
+('38','1','Prodoxidae')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('44','1','Medical')
+('39','1','Prodoxidae')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('45','1','England')
+('40','1','Prodoxidae')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('46','1','England')
+('41','1','Educational tests and measurements')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('47','1','England')
+('42','1','Educational tests and measurements')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('48','1','Christian ethics')
+('43','1','Organic compounds')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('49','1','Authorship')
+('44','1','Organic compounds')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('50','1','Authorship')
+('45','1','Organic compounds')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('51','1','Educational tests and measurements')
+('46','1','Horror films')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('52','1','Educational tests and measurements')
+('47','1','Horror films')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('53','1','Organic compounds')
+('48','1','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('54','1','Organic compounds')
+('49','1','Executive departments')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('55','1','Organic compounds')
+('50','1','Executive departments')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('56','1','Executive departments')
+('51','1','Aeronautics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('57','1','Aeronautics')
+('52','1','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('58','1','Psychology')
+('53','1','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('59','1','Psychology')
+('54','1','African American psychologists')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('60','1','African American psychologists')
+('55','1','African American psychologists')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('61','1','African American psychologists')
+('56','1','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('62','1','History')
+('57','1','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('63','1','History')
+('58','1','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('65','1','Medical')
+('60','1','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('66','1','Medical')
+('61','1','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('67','1','Computers')
+('62','1','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('68','1','Mathematics')
+('63','1','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('69','1','Philosophy')
+('64','1','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('70','1','Philosophy')
+('65','1','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('71','1','Philosophy')
+('66','1','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('72','1','Medical')
+('67','1','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('73','1','Medical')
+('68','1','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('74','1','Medical')
+('69','1','Animal migration')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('75','1','Animal migration')
+('70','1','Animal migration')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('76','1','Animal migration')
+('71','1','Animal migration')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('77','1','Animal migration')
+('72','1','Materials')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('78','1','Courts')
+('73','1','Materials')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('79','1','Courts')
+('74','1','Materials')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('80','1','Meteorology')
+('75','1','Courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('81','1','Meteorology')
+('76','1','Courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('82','1','Meteorology')
+('77','1','Meteorology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('83','1','Agriculture')
+('78','1','Agriculture')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('84','1','Agriculture')
+('79','1','Appalachian Mountains')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('85','1','Agriculture')
+('80','1','Appalachian Mountains')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('86','1','Appalachian Mountains')
+('81','1','Appellate courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('87','1','Appellate courts')
+('82','1','Appellate courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('88','1','Appellate courts')
+('83','1','New Zealand')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('89','1','Appellate courts')
+('84','1','Diagnostic ultrasonic imaging')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('90','1','New Zealand')
+('85','1','Diagnostic ultrasonic imaging')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('91','1','Diagnostic ultrasonic imaging')
+('86','1','Art, American')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('92','1','History')
+('87','1','Asia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('93','1','History')
+('88','1','Astronomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('94','1','History')
+('89','1','Astronomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('95','1','Art, American')
+('90','1','Astronomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('96','1','Art, American')
+('94','1','Nuclear energy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('97','1','Astronomy')
+('95','1','Nuclear energy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('98','1','Astronomy')
+('96','1','Nuclear energy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('99','1','Astronomy')
+('97','1','Comics & Graphic Novels')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('102','1','Nuclear energy')
+('98','1','Comics & Graphic Novels')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('103','1','Nuclear energy')
+('99','1','Comics & Graphic Novels')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('104','1','Nuclear energy')
+('100','1','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('105','1','Comics & Graphic Novels')
+('101','1','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('106','1','Comics & Graphic Novels')
+('102','1','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('107','1','Computers')
+('104','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('108','1','Computers')
+('105','1','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('112','1','Business & Economics')
+('106','1','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('113','1','Mathematics')
+('107','1','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('114','1','Games & Activities')
+('108','1','Games & Activities')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('115','1','CD-ROMs')
+('109','1','Religion')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('110','1','Religion')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('111','1','Religion')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('112','1','CD-ROMs')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('113','1','CD-ROMs')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('114','1','CD-ROMs')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('115','1','Ethnology')
 ;
 
 Insert into Category
@@ -637,7 +673,7 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('119','1','Fiction')
+('119','1','Medical')
 ;
 
 Insert into Category
@@ -649,115 +685,91 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('121','1','Medical')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
 ('124','1','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('125','1','Technology & Engineering')
+('133','1','Porcelain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('128','1','Porcelain')
+('134','1','Porcelain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('129','1','Porcelain')
+('135','1','Porcelain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('130','1','Bridges, Concrete')
+('136','1','Building')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('131','1','Building')
+('137','1','Building')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('132','1','Petroleum')
+('138','1','Building')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('133','1','Petroleum')
+('139','1','Petroleum')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('134','1','Petroleum')
+('140','1','Petroleum')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('138','1','C (Computer program language)')
+('141','1','C (Computer program language)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('139','1','C (Computer program language)')
+('142','1','C (Computer program language)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('140','1','C (Computer program language)')
+('143','1','C (Computer program language)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('141','1','Computers')
+('144','1','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('142','1','Computers')
+('145','1','English literature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('143','1','Computers')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('144','1','English literature')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('145','1','Mathematics')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('146','1','Mathematics')
+('146','1','English literature')
 ;
 
 Insert into Category
@@ -769,49 +781,61 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
+('148','1','Mathematics')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('149','1','International law')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('150','1','International law')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
 ('151','1','International law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('152','1','England')
+('152','1','Ceramic metals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('153','1','England')
+('153','1','Ceramic metals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('154','1','England')
+('154','1','Ceramic metals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('155','1','Ceramic metals')
+('155','1','Metaphor')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('156','1','Ceramic metals')
+('158','1','Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('157','1','Ceramic metals')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('158','1','Mathematics')
+('159','1','Engineering')
 ;
 
 Insert into Category
@@ -823,31 +847,31 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('161','1','Engineering')
+('161','1','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('162','1','Engineering')
+('162','1','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('163','1','Meteorology')
+('163','1','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('164','1','Psychology')
+('164','1','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('165','1','Mathematics')
+('165','1','Performing Arts')
 ;
 
 Insert into Category
@@ -865,565 +889,547 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('168','1','Performing Arts')
+('168','1','Arms control')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('169','1','Performing Arts')
+('169','1','Music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('170','1','Business & Economics')
+('170','1','Music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('171','1','Business & Economics')
+('171','1','Arbitration, Industrial')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('172','1','Arms control')
+('172','1','Arbitration, Industrial')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('173','1','Music')
+('173','1','Arbitration, Industrial')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('174','1','Education')
+('174','1','Insurance companies')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('175','1','Arbitration, Industrial')
+('175','1','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('176','1','Arbitration, Industrial')
+('176','1','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('177','1','Astronomy')
+('177','1','Atomenergi')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('178','1','Astronomy')
+('178','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('179','1','Astronomy')
+('180','1','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('180','1','Insurance companies')
+('181','1','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('181','1','Insurance companies')
+('182','1','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('183','1','Technology & Engineering')
+('183','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('184','1','Technology & Engineering')
+('184','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('185','1','Technology & Engineering')
+('185','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('186','1','Atomenergi')
+('186','1','Law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('187','1','Atomenergi')
+('187','1','Law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('188','1','Atomenergi')
+('188','1','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('189','1','Psychology')
+('189','1','Industrial statistics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('190','1','Psychology')
+('190','1','Asymmetric synthesis')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('191','1','Homology theory')
+('191','1','Asymmetric synthesis')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('192','1','Homology theory')
+('192','1','Asymmetric synthesis')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('193','1','Homology theory')
+('193','1','Horse racing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('194','1','Education')
+('194','1','Horse racing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('195','1','Education')
+('195','1','Childrens stories')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('196','1','Education')
+('196','1','Childrens stories')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('197','1','Religion')
+('197','1','Childrens stories')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('198','1','Business & Economics')
+('198','1','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('199','1','Business & Economics')
+('199','1','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('200','1','Business & Economics')
+('200','1','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('201','1','Law')
+('201','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('202','1','Law')
+('202','1','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('203','1','Law')
+('203','1','Artibeus jamaicensis')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('204','1','Asymmetric synthesis')
+('204','1','Artibeus jamaicensis')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('205','1','Asymmetric synthesis')
+('205','1','Artibeus jamaicensis')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('206','1','Horse racing')
+('207','1','Cincinnati (Ohio)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('207','1','Horse racing')
+('208','1','Cincinnati (Ohio)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('208','1','Children's stories')
+('209','1','Music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('209','1','Children's stories')
+('210','1','Music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('210','1','Children's stories')
+('211','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('211','1','Asphalt')
+('212','1','Geology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('212','1','Fiction')
+('213','1','Medicine')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('213','1','Fiction')
+('214','1','Medicine')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('214','1','Fiction')
+('215','1','Medicine')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('215','1','Political Science')
+('216','1','Poetry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('216','1','Artibeus jamaicensis')
+('219','1','Automobile industry and trade')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('217','1','Music')
+('220','1','Automobile industry and trade')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('218','1','Geology')
+('221','1','Automobile industry and trade')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('219','1','Geology')
+('223','1','Diffusion processes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('220','1','Geology')
+('224','1','Géographie économique - URSS - Cartes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('221','1','Medicine')
+('225','1','Géographie économique - URSS - Cartes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('222','1','Poetry')
+('226','1','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('223','1','Poetry')
+('227','1','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('224','1','American wit and humor')
+('228','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('225','1','American wit and humor')
+('229','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('226','1','Antitrust law')
+('230','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('227','1','Antitrust law')
+('231','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('228','1','Astronautics in earth sciences')
+('232','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('230','1','Diffusion processes')
+('233','1','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('231','1','Diffusion processes')
+('234','1','Airplanes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('232','1','Géographie économique - URSS - Cartes')
+('235','1','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('233','1','Géographie économique - URSS - Cartes')
+('236','1','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('234','1','Economics')
+('237','1','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('235','1','Self-Help')
+('238','1','Plastics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('236','1','Self-Help')
+('239','1','Plastics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('237','1','Self-Help')
+('240','1','Plastics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('238','1','Education')
+('241','1','Policy sciences')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('239','1','Education')
+('242','1','Policy sciences')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('240','1','Education')
+('243','1','Policy sciences')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('241','1','Education')
+('244','1','Environment science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('242','1','Education')
+('245','1','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('243','1','Education')
+('246','1','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('244','1','Political Science')
+('247','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('245','1','Political Science')
+('248','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('246','1','Plastics')
+('249','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('250','1','Policy sciences')
+('250','1','Metals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('251','1','Environment science')
+('251','1','Metals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('252','1','Environment science')
+('252','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('253','1','Environment science')
+('253','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('254','1','Technology & Engineering')
+('254','1','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('255','1','Technology & Engineering')
+('255','1','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('256','1','Fiction')
+('256','1','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('257','1','Fiction')
+('257','1','Microbiology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('258','1','History')
+('258','1','Microbiology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('259','1','History')
+('259','1','Microbiology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('260','1','History')
+('260','1','Photography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('261','1','Microbiology')
+('261','1','Photography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('262','1','Corporations')
+('262','1','Photography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('263','1','Corporations')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('264','1','Corporations')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('265','1','Biology')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('266','1','Science')
+('263','1','Science')
 ;
 
 Insert into Category
@@ -1435,139 +1441,157 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
+('268','1','Science')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
 ('269','1','Calculus')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('270','1','Technology & Engineering')
+('270','1','Calculus')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('271','1','Technology & Engineering')
+('271','1','Calculus')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('272','1','Beaufort Sea')
+('272','1','Anglo-Catholicism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('281','1','Flower gardening')
+('280','1','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('282','1','Flower gardening')
+('281','1','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('283','1','African Americans')
+('282','1','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('284','1','African Americans')
+('283','1','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('285','1','Science')
+('287','1','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('286','1','Science')
+('288','1','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('287','1','Generals')
+('289','1','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('288','1','Economic development')
+('290','1','African Americans')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('289','1','Economic development')
+('291','1','African Americans')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('290','1','Economic development')
+('292','1','African Americans')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('291','1','Fiction')
+('293','1','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('292','1','Fiction')
+('294','1','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('296','1','Fiction')
+('295','1','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('297','1','Fiction')
+('296','1','Generals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('301','1','Haiti')
+('297','1','Generals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('302','1','Haiti')
+('298','1','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('303','1','Haiti')
+('299','1','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('304','1','Technology & Engineering')
+('300','1','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('305','1','Technology & Engineering')
+('303','1','Economic development')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('304','1','Economic development')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('305','1','Economic development')
 ;
 
 Insert into Category
@@ -1579,667 +1603,631 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('308','1','Geography')
+('307','1','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('309','1','Barkhamsted (Conn.)')
+('308','1','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('310','1','Barkhamsted (Conn.)')
+('309','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('311','1','Mass media')
+('310','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('312','1','Mass media')
+('311','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('313','1','Language Arts & Disciplines')
+('315','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('314','1','Language Arts & Disciplines')
+('316','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('315','1','Hospitals')
+('318','1','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('316','1','Hospitals')
+('319','1','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('317','1','Self-Help')
+('320','1','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('318','1','Self-Help')
+('322','1','Geography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('319','1','Cardiac output')
+('323','1','Geography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('320','1','Cardiac output')
+('324','1','Geography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('321','1','Cardiac output')
+('325','1','Barkhamsted (Conn.)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('322','1','Human rights')
+('326','1','Barkhamsted (Conn.)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('323','1','Human rights')
+('327','1','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('324','1','Human rights')
+('328','1','Mass media')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('325','1','Hydrographic surveying')
+('329','1','Mass media')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('326','1','Hydrographic surveying')
+('330','1','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('327','1','Pro-choice movement')
+('331','1','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('328','1','History, Modern')
+('332','1','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('329','1','Literary Collections')
+('333','1','Hospitals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('330','1','Literary Collections')
+('334','1','Hospitals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('331','1','Literary Collections')
+('335','1','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('332','1','Drama')
+('336','1','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('333','1','Study Aids')
+('337','1','Cardiac output')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('334','1','Study Aids')
+('338','1','Cardiac output')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('335','1','Philosophy')
+('339','1','Cardiac output')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('336','1','Philosophy')
+('340','1','Human rights')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('337','1','Philosophy')
+('341','1','Human rights')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('338','1','Fiction')
+('342','1','Pro-choice movement')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('339','1','Fiction')
+('343','1','Pro-choice movement')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('340','1','Fiction')
+('344','1','History, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('341','1','Science')
+('345','1','History, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('342','1','Nature')
+('346','1','History, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('343','1','Nature')
+('349','1','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('346','1','Travel')
+('350','1','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('347','1','Mathematics')
+('351','1','Drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('348','1','Mathematics')
+('352','1','Drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('349','1','Mathematics')
+('353','1','Drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('350','1','Differential equations')
+('354','1','Study Aids')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('351','1','Presidents')
+('355','1','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('352','1','Antiques & Collectibles')
+('356','1','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('353','1','Literary Criticism')
+('357','1','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('354','1','Literary Criticism')
+('358','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('355','1','Literary Criticism')
+('359','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('356','1','Biography & Autobiography')
+('360','1','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('357','1','Biography & Autobiography')
+('361','1','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('359','1','Economics')
+('362','1','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('360','1','Economics')
+('363','1','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('361','1','Biography & Autobiography')
+('364','1','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('362','1','Biography & Autobiography')
+('365','1','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('363','1','Biography & Autobiography')
+('366','1','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('364','1','Washington (State)')
+('370','1','Travel')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('365','1','Washington (State)')
+('371','1','Functions of real variables')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('366','1','Natural history')
+('372','1','Functions of real variables')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('367','1','Natural history')
+('373','1','Functions of real variables')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('368','1','Mathematics')
+('374','1','Differential equations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('369','1','Mathematics')
+('375','1','Presidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('370','1','Mathematics')
+('376','1','Presidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('374','1','Documentary photography')
+('377','1','Presidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('375','1','Actions and defenses')
+('378','1','Literary Criticism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('376','1','Actions and defenses')
+('379','1','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('377','1','Electronic books')
+('380','1','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('378','1','Electronic books')
+('383','1','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('379','1','Electronic books')
+('384','1','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('380','1','Computation laboratories')
+('385','1','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('381','1','Libraries')
+('386','1','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('382','1','Libraries')
+('387','1','Washington (State)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('383','1','Language Arts & Disciplines')
+('388','1','Washington (State)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('384','1','Language Arts & Disciplines')
+('389','1','Washington (State)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('385','1','Education')
+('390','1','Australia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('386','1','Micronesia')
+('391','1','Australia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('387','1','Micronesia')
+('392','1','Natural history')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('388','1','Micronesia')
+('393','1','Bone wiring (Orthopedics)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('389','1','Medical')
+('394','1','Bone wiring (Orthopedics)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('390','1','City planning')
+('395','1','Bone wiring (Orthopedics)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('391','1','City planning')
+('396','1','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('392','1','Literary Criticism')
+('397','1','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('393','1','Literary Criticism')
+('398','1','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('394','1','Literary Criticism')
+('402','1','Labor laws and legislation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('395','1','Nursing')
+('403','1','Labor laws and legislation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('396','1','English language')
+('404','1','Actions and defenses')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('397','1','English language')
+('405','1','Actions and defenses')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('398','1','English language')
+('406','1','Actions and defenses')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('399','1','Biography & Autobiography')
+('407','1','Asia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('400','1','Biography & Autobiography')
+('408','1','Asia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('401','1','Biography & Autobiography')
+('409','1','Asia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('402','1','Computers')
+('410','1','Electronic books')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('403','1','Computers')
+('411','1','Electronic books')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('404','1','Language Arts & Disciplines')
+('412','1','Electronic books')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('405','1','Mathematics')
+('413','1','Computation laboratories')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('406','1','Art, Modern')
+('414','1','Libraries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('407','1','Art, Modern')
+('415','1','Subject catalogs')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('408','1','Computers')
+('416','1','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('409','1','Environmental protection')
+('417','1','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('410','1','Environmental protection')
+('418','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('411','1','Environmental protection')
+('419','1','Micronesia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('412','1','Business & Economics')
+('420','1','Micronesia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('413','1','Alle lande')
+('421','1','Micronesia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('414','1','Alle lande')
+('422','1','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('415','1','Geometrical models')
+('423','1','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('416','1','Geometrical models')
+('424','1','City planning')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('417','1','Geometrical models')
+('425','1','City planning')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('418','1','Mathematics')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('419','1','South Carolina')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('420','1','South Carolina')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('421','1','Psychology')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('422','1','Psychology')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('423','1','Psychology')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('426','1','COVID-19 (Disease)')
+('426','1','City planning')
 ;
 
 Insert into Category
@@ -2251,1417 +2239,1369 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('428','1','Business')
+('428','1','English language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('429','1','Microsoft Word')
+('429','1','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('430','1','Microsoft Word')
+('430','1','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('431','1','Microsoft Word')
+('431','1','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('432','1','History')
+('432','1','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('433','1','History')
+('433','1','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('434','1','History')
+('434','1','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('435','1','India')
+('435','1','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('436','1','India')
+('436','1','Art, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('438','1','Family & Relationships')
+('437','1','Art, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('439','1','Family & Relationships')
+('438','1','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('440','1','Performing Arts')
+('439','1','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('441','1','Social Science')
+('440','1','Environmental protection')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('442','1','Social Science')
+('441','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('443','1','Education')
+('442','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('444','1','Blake, Anita (Fictitious character)')
+('443','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('445','1','Blake, Anita (Fictitious character)')
+('444','1','Alle lande')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('446','1','Employers' liability')
+('445','1','Alle lande')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('447','1','Employers' liability')
+('446','1','Freemasonry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('448','1','Employers' liability')
+('447','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('449','1','Nervous system')
+('448','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('450','1','Nervous system')
+('449','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('451','1','Nervous system')
+('450','1','Geometrical models')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('453','1','Foreign Language Study')
+('451','1','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('454','1','Foreign Language Study')
+('452','1','South Carolina')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('458','1','Court decisions and opinions')
+('453','1','South Carolina')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('467','1','Spheroidal functions')
+('454','1','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('468','1','Spheroidal functions')
+('455','1','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('469','1','Spheroidal functions')
+('459','1','Wisconsin')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('470','1','Analyse numérique')
+('460','1','Wisconsin')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('476','1','Gynecology')
+('461','1','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('477','1','Gynecology')
+('462','1','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('478','1','Science')
+('463','1','COVID-19 (Disease)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('479','1','Science')
+('464','1','COVID-19 (Disease)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('480','1','Science')
+('465','1','COVID-19 (Disease)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('484','1','Anatomy')
+('466','1','English language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('485','1','Anatomy')
+('467','1','English language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('486','1','Business & Economics')
+('468','1','English language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('487','1','Business & Economics')
+('469','1','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('488','1','Law')
+('470','1','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('489','1','Psychology')
+('471','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('490','1','Psychology')
+('472','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('491','1','Psychology')
+('473','1','India')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('492','1','Analyse combinatoire')
+('477','1','Family & Relationships')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('493','1','Indexes')
+('478','1','Family & Relationships')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('494','1','Business & Economics')
+('479','1','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('495','1','Business & Economics')
+('480','1','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('496','1','Business & Economics')
+('481','1','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('497','1','Philosophy')
+('482','1','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('498','1','Philosophy')
+('483','1','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('499','1','Philosophy')
+('484','1','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('500','1','Philosophy')
+('485','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('501','1','Political Science')
+('486','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('502','1','Political Science')
+('487','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('503','1','Capitalists and financiers')
+('488','1','Blake, Anita (Fictitious character)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('506','1','Geology')
+('489','1','Blake, Anita (Fictitious character)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('507','1','Breast')
+('490','1','Blake, Anita (Fictitious character)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('508','1','Breast')
+('491','1','Gross national product')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('509','1','Breast')
+('492','1','Employers liability')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('510','1','Aboriginal Australians')
+('493','1','Foreign Language Study')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('511','1','Decedents' estates')
+('494','1','Foreign Language Study')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('512','1','Decedents' estates')
+('495','1','Foreign Language Study')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('513','1','Mechanical engineering')
+('496','1','Court decisions and opinions')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('514','1','Science')
+('497','1','Court decisions and opinions')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('515','1','Engineering design')
+('498','1','Court decisions and opinions')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('516','1','C (Computer program language)')
+('499','1','Comic books, strips, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('517','1','C (Computer program language)')
+('505','1','Spheroidal functions')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('518','1','C (Computer program language)')
+('513','1','Gynecology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('519','1','Computers')
+('514','1','Child development')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('520','1','Computers')
+('515','1','Cemeteries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('521','1','Drama')
+('516','1','Cemeteries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('522','1','Drama')
+('520','1','Anatomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('523','1','Law')
+('521','1','Anatomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('524','1','Law')
+('522','1','Anatomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('525','1','Bible')
+('523','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('526','1','Bible')
+('524','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('527','1','Bible')
+('525','1','Law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('528','1','Bible')
+('526','1','Law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('529','1','Science')
+('527','1','Law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('530','1','Computers')
+('528','1','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('531','1','Computers')
+('529','1','Analyse combinatoire')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('532','1','Computers')
+('530','1','Analyse combinatoire')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('533','1','Computers')
+('531','1','Analyse combinatoire')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('534','1','Computers')
+('532','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('535','1','Railroad crossings')
+('533','1','Electronic data processing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('536','1','Education')
+('534','1','Electronic data processing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('537','1','Education')
+('535','1','Estates (Law)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('538','1','Business & Economics')
+('536','1','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('539','1','Business & Economics')
+('537','1','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('540','1','Business & Economics')
+('538','1','Condensed matter')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('541','1','Intellectual cooperation')
+('539','1','Condensed matter')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('542','1','Traffic accidents')
+('540','1','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('545','1','Aeronautics')
+('541','1','Capitalists and financiers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('546','1','Aeronautics')
+('542','1','Capitalists and financiers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('547','1','Aeronautics')
+('543','1','Capitalists and financiers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('548','1','Canada')
+('548','1','Geology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('549','1','Canada')
+('549','1','Geology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('550','1','Canada')
+('550','1','Cabinet system')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('551','1','Religion')
+('551','1','Cabinet system')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('552','1','Religion')
+('552','1','Aboriginal Australians')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('553','1','Religion')
+('553','1','Aboriginal Australians')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('554','1','Basal ganglia')
+('554','1','Aboriginal Australians')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('555','1','Basal ganglia')
+('555','1','Decedents estates')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('556','1','Subchapter S corporations')
+('556','1','Decedents estates')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('560','1','Drama')
+('557','1','Engineering design')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('561','1','Mathematics')
+('558','1','C (Computer program language)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('562','1','Mathematics')
+('559','1','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('563','1','Mathematics')
+('560','1','Bible')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('564','1','Great Britain')
+('561','1','Bible')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('565','1','Great Britain')
+('562','1','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('566','1','Canada')
+('563','1','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('567','1','Canada')
+('564','1','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('568','1','Science')
+('565','1','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('569','1','Science')
+('566','1','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('570','1','Information theory in economics')
+('567','1','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('571','1','Information theory in economics')
+('568','1','Railroad crossings')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('572','1','Business & Economics')
+('569','1','Railroad crossings')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('573','1','Mathematics')
+('570','1','Railroad crossings')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('574','1','Mathematics')
+('571','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('575','1','Law reports, digests, etc')
+('572','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('576','1','Law reports, digests, etc')
+('573','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('577','1','Law reports, digests, etc')
+('574','1','Aeronautics in meteorology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('578','1','New Zealand')
+('575','1','Aeronautics in meteorology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('579','1','Libraries')
+('576','1','Traffic accidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('580','1','Libraries')
+('577','1','Traffic accidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('581','1','Business & Economics')
+('578','1','Traffic accidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('583','1','College students')
+('582','1','Aeronautics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('584','1','College students')
+('583','1','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('585','1','Biochemistry')
+('584','1','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('588','1','Fiction')
+('585','1','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('589','1','Fiction')
+('586','1','Basal ganglia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('590','1','Commerce')
+('587','1','Basal ganglia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('591','1','Commerce')
+('588','1','Basal ganglia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('592','1','Commerce')
+('589','1','Subchapter S corporations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('593','1','Fiction')
+('590','1','Subchapter S corporations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('594','1','Fiction')
+('591','1','Subchapter S corporations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('595','1','History')
+('597','1','Drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('596','1','History')
+('598','1','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('597','1','Taxation')
+('599','1','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('598','1','Great Britain')
+('600','1','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('599','1','Education')
+('601','1','Great Britain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('600','1','Education')
+('602','1','Great Britain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('601','1','Children of clergy')
+('603','1','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('602','1','401(k) plans')
+('604','1','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('603','1','401(k) plans')
+('605','1','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('604','1','401(k) plans')
+('606','1','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('608','1','History')
+('607','1','Information theory in economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('609','1','Occupational therapy')
+('608','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('610','1','Occupational therapy')
+('609','1','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('611','1','Occupational therapy')
+('610','1','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('612','1','History')
+('611','1','New Zealand')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('613','1','History')
+('612','1','Libraries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('614','1','Authors, Irish')
+('613','1','Libraries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('615','1','Fiction')
+('614','1','Libraries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('616','1','Fiction')
+('615','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('617','1','Fiction')
+('616','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('618','1','Fiction')
+('617','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('619','1','Fiction')
+('621','1','College students')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('620','1','Grocery shopping')
+('622','1','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('621','1','Grocery shopping')
+('623','1','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('622','1','Arts')
+('624','1','Ergodic theory')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('623','1','Arts')
+('625','1','Biochemistry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('624','1','Arts')
+('630','1','Commerce')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('625','1','Cooking')
+('631','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('626','1','Cooking')
+('632','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('627','1','Cooking')
+('633','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('628','1','Country music')
+('634','1','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('629','1','Country music')
+('635','1','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('630','1','Philosophy')
+('636','1','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('631','1','Philosophy')
+('637','1','Taxation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('632','1','English literature')
+('638','1','Taxation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('633','1','English literature')
+('639','1','Great Britain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('634','1','English literature')
+('640','1','Great Britain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('635','1','Juvenile Fiction')
+('641','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('636','1','Juvenile Fiction')
+('642','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('637','1','Juvenile Fiction')
+('643','1','Navigation (Aeronautics)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('638','1','Fiction')
+('644','1','Navigation (Aeronautics)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('639','1','Fiction')
+('645','1','Navigation (Aeronautics)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('640','1','Fiction')
+('646','1','Children of clergy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('641','1','Business & Economics')
+('647','1','Children of clergy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('642','1','Political Science')
+('648','1','Children of clergy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('643','1','Political Science')
+('649','1','401(k) plans')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('644','1','Political Science')
+('652','1','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('645','1','Fiction')
+('653','1','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('646','1','Fiction')
+('654','1','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('647','1','Fiction')
+('655','1','Occupational therapy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('648','1','Coasts')
+('656','1','Occupational therapy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('649','1','Coasts')
+('657','1','Occupational therapy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('650','1','Religion')
+('658','1','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('651','1','Religion')
+('659','1','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('652','1','Political Science')
+('660','1','Authors, Irish')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('653','1','Language Arts & Disciplines')
+('661','1','Authors, Irish')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('654','1','Language Arts & Disciplines')
+('662','1','Authors, Irish')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('655','1','Language Arts & Disciplines')
+('663','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('656','1','Language Arts & Disciplines')
+('664','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('657','1','Art')
+('665','1','Nature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('658','1','Art')
+('666','1','Nature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('659','1','Art')
+('667','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('660','1','Science')
+('668','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('661','1','Medical')
+('669','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('662','1','Nuclear energy')
+('670','1','Budget')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('663','1','Cytology')
+('671','1','Budget')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('664','1','Cytology')
+('672','1','Budget')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('665','1','East Lothian (Scotland)')
+('673','1','Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('666','1','East Lothian (Scotland)')
+('674','1','Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('667','1','East Lothian (Scotland)')
+('675','1','Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('668','1','Novelle')
+('676','1','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('669','1','Biography & Autobiography')
+('677','1','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('670','1','Saint Louis (Mo.)')
+('678','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('671','1','Minnesota')
+('679','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('672','1','Juvenile Fiction')
+('680','1','Country music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('673','1','Juvenile Fiction')
+('681','1','Country music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('674','1','Fiction')
+('682','1','Country music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('675','1','Fiction')
+('683','1','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('676','1','Stocks')
+('684','1','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('677','1','Railroads')
+('685','1','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('678','1','Presidents')
+('686','1','English literature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('679','1','Presidents')
+('687','1','English literature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('680','1','Proverbs')
+('688','1','FICTION')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('681','1','Proverbs')
+('689','1','FICTION')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('682','1','Proverbs')
+('690','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('683','1','Biography & Autobiography')
+('691','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('684','1','Biography & Autobiography')
+('692','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('685','1','Great Britain')
+('693','1','Design')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('686','1','Great Britain')
+('694','1','Design')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('687','1','Industrial policy')
+('695','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('688','1','Capitalism')
+('696','1','Coasts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('689','1','Business & Economics')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('690','1','Technology & Engineering')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('691','1','Technology & Engineering')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('692','1','Technology & Engineering')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('693','1','Almanacs, American')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('694','1','Electronic journals')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('695','1','Electronic journals')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('696','1','Social Science')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('697','1','History')
+('697','1','Religion')
 ;
 
 Insert into Category
@@ -3679,733 +3619,1147 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('700','1','Business & Economics')
+('700','1','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('701','1','United States')
+('701','1','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('702','1','United States')
+('702','1','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('703','1','Religion')
+('703','1','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('704','1','Religion')
+('704','1','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('705','1','Religion')
+('705','1','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('709','1','Fiction')
+('706','1','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('710','1','Fiction')
+('707','1','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('711','1','Fiction')
+('708','1','Nuclear energy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('712','1','Religion')
+('709','1','Nuclear energy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('713','1','Religion')
+('710','1','Cytology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('714','1','Religion')
+('714','1','East Lothian (Scotland)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('715','1','Industrialists')
+('715','1','East Lothian (Scotland)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('716','1','Industrialists')
+('716','1','Animal culture')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('717','1','Industrialists')
+('717','1','Animal culture')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('718','1','Medicine')
+('718','1','Animal culture')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('719','1','Medicine')
+('719','1','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('720','1','Medicine')
+('720','1','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('721','1','Psychology')
+('721','1','Architectural drawing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('722','1','Psychology')
+('722','1','Architectural drawing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('723','1','History')
+('723','1','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('724','1','History')
+('724','1','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('725','1','History')
+('725','1','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('726','1','Performing Arts')
+('726','1','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('727','1','Mathematics')
+('727','1','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('728','1','Mathematics')
+('728','1','Minnesota')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('729','1','Canada')
+('729','1','Minnesota')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('730','1','Canada')
+('730','1','Juvenile Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('731','1','United States')
+('731','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('732','1','Law reports, digests, etc')
+('732','1','Stocks')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('733','1','Education')
+('733','1','Stocks')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('734','1','Education')
+('736','1','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('735','1','Granite')
+('737','1','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('736','1','Granite')
+('738','1','Oak Park (Ill.)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('737','1','Business & Economics')
+('739','1','Oak Park (Ill.)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('738','1','Business & Economics')
+('740','1','Industrial productivity')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('739','1','Business & Economics')
+('741','1','Industrial productivity')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('740','1','History')
+('742','1','Presidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('741','1','Biography & Autobiography')
+('743','1','Proverbs')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('742','1','Biography & Autobiography')
+('744','1','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('743','1','Biography & Autobiography')
+('745','1','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('745','1','Asia, Southeastern')
+('746','1','Great Britain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('746','1','Vocational education')
+('747','1','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('747','1','Administrative law')
+('748','1','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('748','1','Administrative law')
+('749','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('749','1','Law reports, digests, etc')
+('751','1','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('750','1','Law reports, digests, etc')
+('752','1','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('751','1','Political Science')
+('753','1','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('752','1','Political Science')
+('754','1','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('753','1','Indexes')
+('755','1','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('754','1','Indexes')
+('756','1','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('755','1','Indexes')
+('757','1','Missions')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('756','1','Political Science')
+('758','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('757','1','DOS device drivers (Computer programs).')
+('759','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('758','1','Indiana')
+('760','1','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('759','1','Indiana')
+('761','1','Subconsciousness in literature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('763','1','Self-Help')
+('762','1','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('764','1','Juvenile Fiction')
+('763','1','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('765','1','Juvenile Fiction')
+('764','1','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('766','1','Juvenile Fiction')
+('765','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('767','1','Biography & Autobiography')
+('766','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('768','1','Biography & Autobiography')
+('767','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('769','1','Medical')
+('768','1','Bonds')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('770','1','Cooking')
+('769','1','Bonds')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('771','1','Fiction')
+('770','1','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('772','1','Fiction')
+('771','1','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('773','1','Fiction')
+('776','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('774','1','Damascus Gate (Jerusalem)')
+('777','1','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('775','1','Damascus Gate (Jerusalem)')
+('778','1','Educational law and legislation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('776','1','Chinese language')
+('779','1','Educational law and legislation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('1','2','Humor')
+('780','1','Alcohols')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('2','2','Humor')
+('781','1','Alcohols')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('3','2','Humor')
+('782','1','Industrialists')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('4','2','Religion')
+('784','1','Illumination of books and manuscripts, English')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('5','2','Music')
+('785','1','Illumination of books and manuscripts, English')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('6','2','Music')
+('786','1','Illumination of books and manuscripts, English')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('7','2','Business & Economics')
+('787','1','Medicine')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('9','2','Private libraries')
+('788','1','Medicine')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('10','2','Private libraries')
+('789','1','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('11','2','Documentary photography')
+('790','1','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('12','2','Documentary photography')
+('791','1','Income tax')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('13','2','Religion')
+('792','1','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('14','2','Mathematics')
+('793','1','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('15','2','Mathematics')
+('794','1','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('16','2','Mathematics')
+('795','1','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('17','2','Buddhism')
+('796','1','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('18','2','Computers')
+('797','1','Ireland')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('19','2','Galen')
+('798','1','Ireland')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('23','2','Medical')
+('799','1','Urban transportation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('24','2','Literary Collections')
+('800','1','Urban transportation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('25','2','Literary Collections')
+('801','1','Urban transportation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('26','2','Literary Collections')
+('802','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('27','2','Religion')
+('803','1','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('28','2','Religion')
+('805','1','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('29','2','Models, Psychological')
+('806','1','Literary Criticism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('30','2','Natural history')
+('807','1','Literary Criticism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('31','2','Natural history')
+('808','1','Literary Criticism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('32','2','Natural history')
+('810','1','Bouyei language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('33','2','Poetry')
+('811','1','Bouyei language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('34','2','Fiji')
+('812','1','Bouyei language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('35','2','Fiji')
+('813','1','Vocational education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('36','2','Fiji')
+('814','1','Administrative law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('37','2','Philosophy')
+('815','1','Administrative law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('38','2','England')
+('816','1','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('39','2','England')
+('817','1','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('40','2','Christian ethics')
+('818','1','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('41','2','Christian ethics')
+('819','1','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('42','2','Christian ethics')
+('820','1','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('43','2','Prodoxidae')
+('821','1','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('44','2','Prodoxidae')
+('822','1','Indexes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('45','2','Authorship')
+('823','1','Indexes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('46','2','Authorship')
+('824','1','Indexes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('47','2','Organic compounds')
+('825','1','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('48','2','Horror films')
+('826','1','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('49','2','Horror films')
+('827','1','DOS device drivers (Computer programs).')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('50','2','Literary Collections')
+('828','1','Indiana')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('51','2','Literary Collections')
+('829','1','Indiana')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('52','2','Adolescence')
+('830','1','Indiana')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('53','2','Psychology')
+('833','1','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('54','2','African American psychologists')
+('834','1','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('55','2','African American psychologists')
+('835','1','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('56','2','African American psychologists')
+('836','1','Juvenile Fiction')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('837','1','Biography & Autobiography')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('838','1','Medical')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('839','1','Medical')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('840','1','Cooking')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('841','1','Fiction')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('842','1','Fiction')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('843','1','Art, Israeli')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('844','1','Art, Israeli')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('845','1','Damascus Gate (Jerusalem)')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('846','1','Damascus Gate (Jerusalem)')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('847','1','Costume')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('848','1','Chinese language')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('849','1','Chinese language')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('850','1','Electronic journals')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('1','2','Religion')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('2','2','Music')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('3','2','Music')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('4','2','Music')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('5','2','Computers')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('6','2','Computers')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('7','2','Computers')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('8','2','Private libraries')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('9','2','Mathematics')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('10','2','Computers')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('11','2','Computers')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('12','2','Computers')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('13','2','Galen')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('14','2','Galen')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('15','2','Boundary element methods')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('16','2','Boundary element methods')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('17','2','Boundary element methods')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('18','2','Medical')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('19','2','Religion')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('20','2','Models, Psychological')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('21','2','Models, Psychological')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('22','2','Models, Psychological')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('23','2','Natural history')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('24','2','Poetry')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('25','2','Poetry')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('26','2','Fiji')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('27','2','Fiji')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('28','2','Philosophy')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('29','2','Philosophy')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('30','2','Medical')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('31','2','England')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('32','2','England')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('33','2','England')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('34','2','Christian ethics')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('35','2','Christian ethics')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('36','2','Christian ethics')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('37','2','Authorship')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('38','2','Educational tests and measurements')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('39','2','Educational tests and measurements')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('40','2','Organic compounds')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('41','2','Horror films')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('42','2','Horror films')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('43','2','Literary Collections')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('44','2','Executive departments')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('45','2','Psychology')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('46','2','History')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('47','2','History')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('48','2','History')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('52','2','Computers')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('53','2','Computers')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('54','2','Mathematics')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('55','2','Mathematics')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('56','2','Philosophy')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('57','2','Philosophy')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('58','2','Philosophy')
 ;
 
 Insert into Category
@@ -4423,919 +4777,931 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('61','2','Medical')
+('61','2','Animal migration')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('62','2','Computers')
+('62','2','Animal migration')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('63','2','Computers')
+('63','2','Animal migration')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('64','2','Computers')
+('64','2','Materials')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('65','2','Computers')
+('65','2','Courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('66','2','Computers')
+('66','2','Courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('67','2','Mathematics')
+('67','2','Courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('68','2','Philosophy')
+('68','2','Meteorology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('69','2','Philosophy')
+('69','2','Meteorology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('70','2','Philosophy')
+('70','2','Meteorology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('71','2','Medical')
+('71','2','Appellate courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('72','2','Medical')
+('72','2','Appellate courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('73','2','Medical')
+('73','2','Diagnostic ultrasonic imaging')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('74','2','Animal migration')
+('74','2','Diagnostic ultrasonic imaging')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('75','2','Animal migration')
+('75','2','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('76','2','Animal migration')
+('76','2','Art, American')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('77','2','Materials')
+('77','2','Asia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('78','2','Materials')
+('78','2','Asia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('79','2','Courts')
+('79','2','Astronomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('80','2','Meteorology')
+('80','2','Astronomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('81','2','Appalachian Mountains')
+('81','2','Astronomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('82','2','Appalachian Mountains')
+('82','2','Aesthetics, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('83','2','Appellate courts')
+('83','2','Aesthetics, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('84','2','Appellate courts')
+('84','2','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('85','2','Diagnostic ultrasonic imaging')
+('85','2','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('86','2','Diagnostic ultrasonic imaging')
+('87','2','Games & Activities')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('87','2','History')
+('88','2','Games & Activities')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('88','2','History')
+('89','2','Games & Activities')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('89','2','History')
+('90','2','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('90','2','Art, American')
+('91','2','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('91','2','Asia')
+('92','2','CD-ROMs')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('92','2','Asia')
+('93','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('93','2','Astronomy')
+('94','2','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('94','2','Astronomy')
+('97','2','Old Order Mennonites')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('97','2','Nuclear energy')
+('100','2','Porcelain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('98','2','Nuclear energy')
+('101','2','Porcelain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('99','2','Comics & Graphic Novels')
+('102','2','Bridges, Concrete')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('100','2','Comics & Graphic Novels')
+('103','2','Building')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('102','2','Business & Economics')
+('104','2','Building')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('103','2','Mathematics')
+('105','2','Building')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('104','2','Religion')
+('106','2','Petroleum')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('105','2','Ethnology')
+('107','2','Petroleum')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('106','2','Fiction')
+('110','2','C (Computer program language)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('107','2','Fiction')
+('111','2','C (Computer program language)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('108','2','Fiction')
+('112','2','C (Computer program language)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('109','2','Medical')
+('113','2','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('110','2','Medical')
+('114','2','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('111','2','Medical')
+('115','2','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('112','2','Technology & Engineering')
+('116','2','English literature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('113','2','Technology & Engineering')
+('117','2','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('114','2','Old Order Mennonites')
+('118','2','International law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('115','2','Old Order Mennonites')
+('119','2','International law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('116','2','Old Order Mennonites')
+('120','2','American drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('124','2','Porcelain')
+('121','2','American drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('125','2','Bridges, Concrete')
+('122','2','American drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('126','2','Bridges, Concrete')
+('123','2','Ceramic metals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('127','2','Bridges, Concrete')
+('124','2','Ceramic metals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('128','2','Building')
+('125','2','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('129','2','Building')
+('126','2','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('130','2','Building')
+('127','2','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('132','2','C (Computer program language)')
+('128','2','Metaphor')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('133','2','Computers')
+('129','2','Metaphor')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('134','2','Computers')
+('130','2','Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('135','2','Mathematics')
+('131','2','Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('136','2','Mathematics')
+('132','2','Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('137','2','Mathematics')
+('133','2','Meteorology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('139','2','International law')
+('134','2','Meteorology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('140','2','International law')
+('135','2','Meteorology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('141','2','American drama')
+('136','2','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('142','2','American drama')
+('137','2','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('143','2','England')
+('138','2','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('144','2','Ceramic metals')
+('139','2','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('145','2','Ceramic metals')
+('140','2','Juvenile Nonfiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('146','2','Ceramic metals')
+('141','2','Juvenile Nonfiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('147','2','Mathematics')
+('142','2','Juvenile Nonfiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('148','2','Mathematics')
+('143','2','Arms control')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('149','2','Metaphor')
+('144','2','Arms control')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('150','2','Metaphor')
+('145','2','Arms control')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('151','2','Metaphor')
+('146','2','Music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('153','2','Engineering')
+('147','2','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('154','2','Meteorology')
+('148','2','Arbitration, Industrial')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('155','2','Meteorology')
+('149','2','Arbitration, Industrial')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('156','2','Meteorology')
+('150','2','Arbitration, Industrial')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('157','2','Psychology')
+('151','2','Insurance companies')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('158','2','Psychology')
+('152','2','Insurance companies')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('159','2','Mathematics')
+('153','2','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('160','2','Performing Arts')
+('154','2','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('161','2','Performing Arts')
+('155','2','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('162','2','Business & Economics')
+('156','2','Atomenergi')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('163','2','Business & Economics')
+('157','2','Atomenergi')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('164','2','Mathematics')
+('160','2','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('165','2','Mathematics')
+('163','2','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('166','2','Mathematics')
+('164','2','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('167','2','Juvenile Nonfiction')
+('165','2','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('168','2','Juvenile Nonfiction')
+('166','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('169','2','Juvenile Nonfiction')
+('167','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('170','2','Arms control')
+('168','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('171','2','Arms control')
+('169','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('172','2','Music')
+('170','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('173','2','Music')
+('171','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('174','2','Arbitration, Industrial')
+('172','2','Industrial statistics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('175','2','Astronomy')
+('173','2','Horse racing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('176','2','Astronomy')
+('174','2','Horse racing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('177','2','Insurance companies')
+('175','2','Horse racing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('178','2','Insurance companies')
+('176','2','Childrens stories')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('179','2','Technology & Engineering')
+('177','2','Childrens stories')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('180','2','Atomenergi')
+('178','2','Childrens stories')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('183','2','Psychology')
+('179','2','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('184','2','Psychology')
+('180','2','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('185','2','Psychology')
+('181','2','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('187','2','Business & Economics')
+('182','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('188','2','Business & Economics')
+('183','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('189','2','Law')
+('184','2','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('190','2','Law')
+('185','2','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('191','2','Law')
+('186','2','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('192','2','Science')
+('188','2','Cincinnati (Ohio)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('193','2','Science')
+('189','2','Cincinnati (Ohio)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('194','2','Science')
+('190','2','Cincinnati (Ohio)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('195','2','Cotton growing')
+('191','2','Music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('196','2','Cotton growing')
+('192','2','Music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('197','2','Industrial statistics')
+('193','2','Music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('198','2','Industrial statistics')
+('194','2','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('199','2','Horse racing')
+('195','2','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('200','2','Children's stories')
+('196','2','Medicine')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('201','2','Children's stories')
+('197','2','Medicine')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('202','2','Children's stories')
+('198','2','Poetry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('203','2','Asphalt')
+('199','2','Poetry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('204','2','Fiction')
+('200','2','American wit and humor')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('205','2','Fiction')
+('201','2','American wit and humor')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('206','2','Political Science')
+('205','2','Automobile industry and trade')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('207','2','Artibeus jamaicensis')
+('206','2','Antitrust law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('208','2','Cincinnati (Ohio)')
+('207','2','Astronautics in earth sciences')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('209','2','Music')
+('208','2','Astronautics in earth sciences')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('210','2','Music')
+('209','2','Astronautics in earth sciences')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('211','2','Education')
+('211','2','Diffusion processes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('212','2','Education')
+('212','2','Géographie économique - URSS - Cartes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('213','2','Education')
+('213','2','Géographie économique - URSS - Cartes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('214','2','Geology')
+('214','2','Géographie économique - URSS - Cartes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('215','2','Geology')
+('215','2','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('216','2','Geology')
+('216','2','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('217','2','Medicine')
+('217','2','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('218','2','Medicine')
+('218','2','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('219','2','American wit and humor')
+('219','2','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('220','2','Antitrust law')
+('220','2','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('221','2','Antitrust law')
+('221','2','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('222','2','Antitrust law')
+('222','2','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('223','2','Astronautics in earth sciences')
+('223','2','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('227','2','Diffusion processes')
+('224','2','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('228','2','Diffusion processes')
+('225','2','Airplanes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('229','2','Diffusion processes')
+('226','2','Airplanes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('230','2','Géographie économique - URSS - Cartes')
+('227','2','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('231','2','Economics')
+('228','2','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('232','2','Self-Help')
+('229','2','Plastics')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('230','2','Plastics')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('232','2','Environment science')
 ;
 
 Insert into Category
@@ -5353,169 +5719,127 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('235','2','Education')
+('235','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('236','2','Education')
+('236','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('237','2','Education')
+('237','2','Photography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('238','2','Computers')
+('238','2','Photography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('239','2','Religion')
+('239','2','Corporations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('240','2','Religion')
+('240','2','Biology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('241','2','Airplanes')
+('241','2','Biology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('242','2','Airplanes')
+('242','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('243','2','Airplanes')
+('243','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('247','2','Political Science')
+('244','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('248','2','Technology & Engineering')
+('248','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('249','2','Technology & Engineering')
+('249','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('250','2','Technology & Engineering')
+('250','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('251','2','Education')
+('251','2','Calculus')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('252','2','Education')
+('252','2','Calculus')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('253','2','Education')
+('253','2','Calculus')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('254','2','Metals')
+('254','2','Anglo-Catholicism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('255','2','Metals')
+('255','2','Beaufort Sea')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('256','2','Metals')
+('263','2','Computer programming')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('257','2','History')
+('264','2','Computer programming')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('258','2','Microbiology')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('259','2','Photography')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('260','2','Corporations')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('261','2','Corporations')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('262','2','Corporations')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('263','2','Biology')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('264','2','Biology')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('265','2','Science')
+('265','2','Computer programming')
 ;
 
 Insert into Category
@@ -5527,655 +5851,631 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('267','2','Science')
+('267','2','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('271','2','Science')
+('268','2','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('272','2','Science')
+('272','2','Flower gardening')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('273','2','Science')
+('273','2','African Americans')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('274','2','Technology & Engineering')
+('274','2','African Americans')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('275','2','Technology & Engineering')
+('275','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('276','2','Technology & Engineering')
+('276','2','Generals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('286','2','Computer programming')
+('277','2','German Americans')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('287','2','Computer programming')
+('278','2','German Americans')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('288','2','Computer programming')
+('279','2','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('289','2','Science')
+('280','2','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('290','2','Science')
+('281','2','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('291','2','Medical')
+('285','2','Greece')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('292','2','Medical')
+('286','2','Economic development')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('294','2','Flower gardening')
+('287','2','Economic development')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('295','2','Entrepreneurship')
+('288','2','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('296','2','African Americans')
+('289','2','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('297','2','African Americans')
+('290','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('298','2','Science')
+('294','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('299','2','Generals')
+('295','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('300','2','Generals')
+('296','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('301','2','German Americans')
+('299','2','Haiti')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('302','2','German Americans')
+('300','2','Haiti')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('303','2','Cooking')
+('301','2','Haiti')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('304','2','Cooking')
+('302','2','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('305','2','Literary Collections')
+('303','2','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('309','2','Greece')
+('304','2','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('310','2','Greece')
+('305','2','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('311','2','Economic development')
+('309','2','Barkhamsted (Conn.)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('312','2','Economic development')
+('310','2','Mass media')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('313','2','Technology & Engineering')
+('311','2','Mass media')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('314','2','Technology & Engineering')
+('312','2','Hospitals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('315','2','Fiction')
+('313','2','Hospitals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('319','2','Fiction')
+('314','2','Hospitals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('320','2','Fiction')
+('315','2','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('321','2','Fiction')
+('316','2','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('324','2','Haiti')
+('317','2','Cardiac output')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('325','2','Haiti')
+('318','2','Human rights')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('326','2','Haiti')
+('319','2','Human rights')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('327','2','Technology & Engineering')
+('320','2','Human rights')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('328','2','Medical')
+('321','2','Hydrographic surveying')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('329','2','Medical')
+('322','2','Hydrographic surveying')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('330','2','Medical')
+('323','2','Pro-choice movement')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('331','2','Geography')
+('324','2','Pro-choice movement')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('332','2','Geography')
+('325','2','History, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('333','2','Geography')
+('327','2','Bible stories, English')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('334','2','Barkhamsted (Conn.)')
+('328','2','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('335','2','Barkhamsted (Conn.)')
+('329','2','Study Aids')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('336','2','Barkhamsted (Conn.)')
+('330','2','Study Aids')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('337','2','Cooking')
+('331','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('338','2','Cooking')
+('332','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('339','2','Mass media')
+('333','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('340','2','Language Arts & Disciplines')
+('334','2','Nature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('341','2','Language Arts & Disciplines')
+('335','2','Nature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('342','2','Language Arts & Disciplines')
+('336','2','Nature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('343','2','Hospitals')
+('337','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('344','2','Hospitals')
+('338','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('345','2','Hospitals')
+('339','2','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('346','2','Self-Help')
+('340','2','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('347','2','Self-Help')
+('344','2','Travel')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('348','2','Self-Help')
+('345','2','Travel')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('349','2','Cardiac output')
+('346','2','Travel')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('350','2','Human rights')
+('347','2','Functions of real variables')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('351','2','Human rights')
+('348','2','Functions of real variables')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('352','2','Human rights')
+('349','2','Differential equations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('353','2','Hydrographic surveying')
+('350','2','Antiques & Collectibles')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('354','2','Hydrographic surveying')
+('351','2','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('355','2','Hydrographic surveying')
+('352','2','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('356','2','Pro-choice movement')
+('353','2','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('357','2','Pro-choice movement')
+('354','2','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('358','2','Pro-choice movement')
+('358','2','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('359','2','History, Modern')
+('359','2','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('360','2','History, Modern')
+('360','2','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('361','2','History, Modern')
+('361','2','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('363','2','Bible stories, English')
+('362','2','Washington (State)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('364','2','Bible stories, English')
+('363','2','Australia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('365','2','Bible stories, English')
+('364','2','Natural history')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('366','2','Literary Collections')
+('365','2','Natural history')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('367','2','Literary Collections')
+('366','2','Natural history')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('368','2','Drama')
+('367','2','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('369','2','Study Aids')
+('368','2','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('370','2','Study Aids')
+('369','2','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('371','2','Study Aids')
+('370','2','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('372','2','Philosophy')
+('371','2','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('373','2','Fiction')
+('377','2','Documentary photography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('374','2','Fiction')
+('378','2','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('375','2','Nature')
+('379','2','Asia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('376','2','Nature')
+('380','2','Asia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('377','2','Social Science')
+('381','2','Computation laboratories')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('378','2','Social Science')
+('382','2','Subject catalogs')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('379','2','Science')
+('383','2','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('380','2','Science')
+('384','2','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('381','2','Computers')
+('385','2','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('382','2','Computers')
+('386','2','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('383','2','Mathematics')
+('387','2','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('384','2','Mathematics')
+('388','2','Micronesia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('385','2','Mathematics')
+('389','2','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('386','2','Functions of real variables')
+('390','2','City planning')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('387','2','Functions of real variables')
+('391','2','City planning')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('388','2','Functions of real variables')
+('392','2','City planning')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('389','2','Differential equations')
+('393','2','Nursing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('390','2','Differential equations')
+('394','2','Nursing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('391','2','Differential equations')
+('395','2','Nursing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('392','2','Antiques & Collectibles')
+('396','2','English language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('393','2','Antiques & Collectibles')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('394','2','Literary Criticism')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('395','2','Literary Criticism')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('396','2','Biography & Autobiography')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('397','2','Biography & Autobiography')
+('397','2','English language')
 ;
 
 Insert into Category
@@ -6187,1219 +6487,1207 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('399','2','History')
+('399','2','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('400','2','Economics')
+('400','2','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('401','2','Biography & Autobiography')
+('401','2','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('402','2','Washington (State)')
+('402','2','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('403','2','Washington (State)')
+('403','2','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('404','2','Australia')
+('404','2','Art, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('405','2','Australia')
+('405','2','Art, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('406','2','Australia')
+('406','2','Art, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('407','2','Natural history')
+('407','2','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('408','2','Natural history')
+('408','2','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('409','2','Natural history')
+('409','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('410','2','Bone wiring (Orthopedics)')
+('410','2','Alle lande')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('411','2','Bone wiring (Orthopedics)')
+('411','2','Alle lande')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('412','2','Mathematics')
+('412','2','Alle lande')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('413','2','Mathematics')
+('413','2','Freemasonry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('414','2','Mathematics')
+('414','2','Freemasonry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('415','2','Mathematics')
+('415','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('416','2','Mathematics')
+('416','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('417','2','Mathematics')
+('417','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('423','2','Documentary photography')
+('418','2','Geometrical models')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('424','2','Documentary photography')
+('419','2','South Carolina')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('425','2','History')
+('420','2','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('426','2','History')
+('421','2','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('427','2','History')
+('425','2','Wisconsin')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('428','2','Labor laws and legislation')
+('426','2','Wisconsin')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('429','2','Labor laws and legislation')
+('427','2','Wisconsin')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('430','2','Labor laws and legislation')
+('428','2','English language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('431','2','Electronic books')
+('429','2','Business')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('432','2','Electronic books')
+('430','2','Microsoft Word')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('433','2','Electronic books')
+('431','2','Microsoft Word')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('434','2','Libraries')
+('432','2','Microsoft Word')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('435','2','Libraries')
+('433','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('436','2','History')
+('434','2','Family & Relationships')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('437','2','History')
+('435','2','Family & Relationships')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('438','2','Language Arts & Disciplines')
+('436','2','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('439','2','Language Arts & Disciplines')
+('437','2','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('440','2','Language Arts & Disciplines')
+('438','2','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('441','2','Micronesia')
+('439','2','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('442','2','Micronesia')
+('440','2','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('443','2','Micronesia')
+('441','2','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('444','2','Medical')
+('442','2','Computer science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('445','2','City planning')
+('443','2','Computer science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('446','2','Nursing')
+('444','2','Computer science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('447','2','Nursing')
+('445','2','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('448','2','English language')
+('446','2','Blake, Anita (Fictitious character)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('449','2','English language')
+('447','2','Blake, Anita (Fictitious character)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('450','2','Biography & Autobiography')
+('448','2','Blake, Anita (Fictitious character)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('451','2','Computers')
+('449','2','Gross national product')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('452','2','Mathematics')
+('450','2','Employers liability')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('453','2','Mathematics')
+('451','2','Nervous system')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('454','2','Art, Modern')
+('452','2','Nervous system')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('455','2','Art, Modern')
+('457','2','Court decisions and opinions')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('456','2','Environmental protection')
+('458','2','Court decisions and opinions')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('457','2','Environmental protection')
+('459','2','Comic books, strips, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('458','2','Business & Economics')
+('460','2','Comic books, strips, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('459','2','Alle lande')
+('467','2','Spheroidal functions')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('460','2','Alle lande')
+('468','2','Spheroidal functions')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('461','2','Freemasonry')
+('469','2','Spheroidal functions')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('462','2','Freemasonry')
+('470','2','Analyse numérique')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('463','2','Freemasonry')
+('475','2','Child development')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('464','2','Business & Economics')
+('476','2','Child development')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('465','2','Geometrical models')
+('477','2','Child development')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('466','2','South Carolina')
+('481','2','Cemeteries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('467','2','South Carolina')
+('482','2','Cemeteries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('468','2','Psychology')
+('483','2','Cemeteries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('469','2','Psychology')
+('484','2','Anatomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('470','2','Wisconsin')
+('485','2','Anatomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('471','2','Business')
+('486','2','Anatomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('472','2','History')
+('487','2','Law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('473','2','India')
+('488','2','Law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('474','2','India')
+('489','2','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('475','2','India')
+('490','2','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('476','2','Family & Relationships')
+('491','2','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('477','2','Social Science')
+('492','2','Analyse combinatoire')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('478','2','Social Science')
+('493','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('479','2','Social Science')
+('494','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('480','2','Education')
+('495','2','Electronic data processing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('481','2','Blake, Anita (Fictitious character)')
+('496','2','Estates (Law)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('482','2','Gross national product')
+('497','2','Estates (Law)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('483','2','Nervous system')
+('498','2','Condensed matter')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('487','2','Foreign Language Study')
+('499','2','Condensed matter')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('488','2','Foreign Language Study')
+('500','2','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('489','2','Foreign Language Study')
+('501','2','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('493','2','Court decisions and opinions')
+('502','2','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('494','2','Comic books, strips, etc')
+('507','2','Geology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('495','2','Comic books, strips, etc')
+('508','2','Geology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('496','2','Comic books, strips, etc')
+('509','2','Geology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('505','2','Science')
+('510','2','Cabinet system')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('506','2','Science')
+('511','2','Aboriginal Australians')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('507','2','Child development')
+('512','2','Aboriginal Australians')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('508','2','Child development')
+('513','2','Decedents estates')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('509','2','Child development')
+('514','2','Mechanical engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('512','2','Cemeteries')
+('515','2','Mechanical engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('513','2','Cemeteries')
+('516','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('514','2','Cemeteries')
+('517','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('516','2','Anatomy')
+('518','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('517','2','Anatomy')
+('519','2','Drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('518','2','Anatomy')
+('520','2','Drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('519','2','Business & Economics')
+('521','2','Drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('520','2','Business & Economics')
+('522','2','Bible')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('521','2','Law')
+('523','2','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('522','2','Law')
+('524','2','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('523','2','Analyse combinatoire')
+('525','2','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('524','2','Analyse combinatoire')
+('526','2','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('525','2','Business & Economics')
+('527','2','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('526','2','Electronic data processing')
+('528','2','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('527','2','Estates (Law)')
+('529','2','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('528','2','Estates (Law)')
+('530','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('529','2','Philosophy')
+('531','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('530','2','Philosophy')
+('532','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('531','2','Condensed matter')
+('533','2','Intellectual cooperation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('532','2','Philosophy')
+('534','2','Intellectual cooperation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('533','2','Philosophy')
+('535','2','Intellectual cooperation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('534','2','Philosophy')
+('536','2','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('535','2','Political Science')
+('537','2','Aeronautics in meteorology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('536','2','Political Science')
+('538','2','Traffic accidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('537','2','Capitalists and financiers')
+('539','2','Traffic accidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('540','2','Breast')
+('540','2','Aeronautics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('541','2','Cabinet system')
+('541','2','Aeronautics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('542','2','Aboriginal Australians')
+('542','2','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('543','2','Aboriginal Australians')
+('543','2','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('544','2','Decedents' estates')
+('544','2','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('545','2','Decedents' estates')
+('545','2','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('546','2','Mechanical engineering')
+('546','2','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('547','2','Electronic journals')
+('547','2','Basal ganglia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('548','2','Electronic journals')
+('548','2','Basal ganglia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('549','2','Engineering design')
+('549','2','Subchapter S corporations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('550','2','C (Computer program language)')
+('550','2','Subchapter S corporations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('551','2','C (Computer program language)')
+('551','2','Subchapter S corporations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('552','2','Computers')
+('555','2','South Africa')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('553','2','Computers')
+('556','2','South Africa')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('554','2','Law')
+('560','2','Drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('555','2','Law')
+('561','2','Drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('556','2','Law')
+('562','2','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('557','2','Bible')
+('563','2','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('558','2','Bible')
+('564','2','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('559','2','Bible')
+('565','2','Great Britain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('560','2','Bible')
+('566','2','Great Britain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('561','2','Science')
+('567','2','Great Britain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('562','2','Mathematics')
+('568','2','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('563','2','Mathematics')
+('569','2','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('564','2','Mathematics')
+('570','2','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('565','2','Railroad crossings')
+('571','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('566','2','Railroad crossings')
+('572','2','Information theory in economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('567','2','Education')
+('573','2','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('568','2','Education')
+('574','2','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('569','2','Education')
+('575','2','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('570','2','United States')
+('576','2','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('571','2','United States')
+('577','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('572','2','United States')
+('578','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('573','2','Business & Economics')
+('579','2','New Zealand')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('574','2','Business & Economics')
+('580','2','New Zealand')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('575','2','Business & Economics')
+('581','2','Libraries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('576','2','Intellectual cooperation')
+('582','2','Libraries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('577','2','Medical')
+('583','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('578','2','Medical')
+('584','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('579','2','Aeronautics in meteorology')
+('585','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('580','2','Aeronautics in meteorology')
+('588','2','College students')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('581','2','Traffic accidents')
+('589','2','Ergodic theory')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('585','2','Canada')
+('590','2','Biochemistry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('586','2','Canada')
+('595','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('587','2','Canada')
+('596','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('588','2','Religion')
+('597','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('589','2','Religion')
+('598','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('590','2','Religion')
+('599','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('591','2','Business & Economics')
+('600','2','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('592','2','Business & Economics')
+('601','2','Great Britain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('593','2','Basal ganglia')
+('602','2','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('594','2','Basal ganglia')
+('603','2','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('595','2','Basal ganglia')
+('604','2','Mineral industries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('596','2','Subchapter S corporations')
+('605','2','Mineral industries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('597','2','Subchapter S corporations')
+('606','2','Navigation (Aeronautics)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('598','2','Subchapter S corporations')
+('607','2','Navigation (Aeronautics)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('601','2','South Africa')
+('608','2','401(k) plans')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('604','2','Drama')
+('609','2','401(k) plans')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('605','2','Drama')
+('610','2','401(k) plans')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('606','2','Drama')
+('614','2','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('607','2','Mathematics')
+('615','2','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('608','2','Technology & Engineering')
+('616','2','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('609','2','Great Britain')
+('617','2','Authors, Irish')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('610','2','Canada')
+('618','2','Authors, Irish')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('611','2','Science')
+('619','2','Authors, Irish')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('612','2','Information theory in economics')
+('620','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('613','2','Information theory in economics')
+('621','2','Nature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('614','2','Business & Economics')
+('622','2','Nature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('615','2','Business & Economics')
+('623','2','Nature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('616','2','Mathematics')
+('624','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('617','2','Mathematics')
+('625','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('618','2','Law reports, digests, etc')
+('626','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('619','2','Law reports, digests, etc')
+('627','2','Budget')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('620','2','Science')
+('628','2','Budget')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('621','2','Science')
+('629','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('622','2','New Zealand')
+('630','2','English literature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('623','2','New Zealand')
+('631','2','English literature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('624','2','Libraries')
+('632','2','FICTION')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('625','2','College students')
+('633','2','FICTION')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('626','2','College students')
+('634','2','Juvenile Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('627','2','College students')
+('635','2','Juvenile Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('628','2','Mathematics')
+('636','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('629','2','Mathematics')
+('637','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('630','2','Biochemistry')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('637','2','Fiction')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('638','2','Fiction')
+('638','2','Political Science')
 ;
 
 Insert into Category
@@ -7411,31 +7699,31 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('640','2','Commerce')
+('640','2','Coasts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('641','2','Commerce')
+('641','2','Coasts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('642','2','Fiction')
+('642','2','Coasts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('643','2','History')
+('643','2','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('644','2','History')
+('644','2','Religion')
 ;
 
 Insert into Category
@@ -7447,1039 +7735,925 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('646','2','Taxation')
+('646','2','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('647','2','Education')
+('647','2','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('648','2','Mineral industries')
+('648','2','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('649','2','Mineral industries')
+('649','2','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('650','2','Navigation (Aeronautics)')
+('650','2','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('654','2','History')
+('651','2','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('655','2','History')
+('652','2','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('656','2','Occupational therapy')
+('653','2','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('657','2','History')
+('654','2','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('658','2','Authors, Irish')
+('655','2','Nuclear energy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('659','2','Fiction')
+('656','2','Cytology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('660','2','Fiction')
+('658','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('661','2','Nature')
+('659','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('662','2','Nature')
+('660','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('663','2','Fiction')
+('661','2','Architectural drawing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('664','2','Budget')
+('662','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('665','2','Arts')
+('663','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('666','2','Arts')
+('664','2','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('667','2','Philosophy')
+('665','2','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('668','2','English literature')
+('666','2','Saint Louis (Mo.)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('669','2','English literature')
+('667','2','Saint Louis (Mo.)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('670','2','English literature')
+('668','2','Minnesota')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('671','2','FICTION')
+('669','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('672','2','Fiction')
+('670','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('673','2','Fiction')
+('671','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('674','2','Fiction')
+('672','2','Stocks')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('675','2','Business & Economics')
+('676','2','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('676','2','Political Science')
+('677','2','Oak Park (Ill.)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('677','2','Political Science')
+('678','2','Industrial productivity')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('678','2','Political Science')
+('679','2','Industrial productivity')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('679','2','Design')
+('680','2','Railroads')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('680','2','Design')
+('681','2','Presidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('681','2','Design')
+('682','2','Presidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('682','2','Coasts')
+('683','2','Proverbs')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('683','2','Coasts')
+('684','2','Proverbs')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('684','2','Religion')
+('685','2','Proverbs')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('685','2','History')
+('686','2','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('686','2','Language Arts & Disciplines')
+('687','2','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('687','2','Language Arts & Disciplines')
+('688','2','Great Britain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('688','2','Language Arts & Disciplines')
+('689','2','Great Britain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('689','2','Language Arts & Disciplines')
+('690','2','Great Britain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('690','2','Art')
+('691','2','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('691','2','Art')
+('692','2','Capitalism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('692','2','Art')
+('693','2','Capitalism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('694','2','Animal culture')
+('694','2','Capitalism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('695','2','Novelle')
+('695','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('696','2','Novelle')
+('696','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('697','2','Architectural drawing')
+('697','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('698','2','Architectural drawing')
+('700','2','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('699','2','Science')
+('701','2','Almanacs, American')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('700','2','Science')
+('702','2','Almanacs, American')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('701','2','Science')
+('703','2','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('702','2','Biography & Autobiography')
+('704','2','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('703','2','Saint Louis (Mo.)')
+('705','2','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('704','2','History')
+('706','2','Missions')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('705','2','History')
+('707','2','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('706','2','History')
+('708','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('707','2','Minnesota')
+('709','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('708','2','Minnesota')
+('710','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('709','2','Juvenile Fiction')
+('711','2','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('710','2','Juvenile Fiction')
+('712','2','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('711','2','Fiction')
+('713','2','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('712','2','Fiction')
+('714','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('713','2','Fiction')
+('715','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('714','2','Stocks')
+('716','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('715','2','Stocks')
+('717','2','Bonds')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('719','2','Law reports, digests, etc')
+('718','2','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('720','2','Law reports, digests, etc')
+('719','2','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('721','2','Law reports, digests, etc')
+('720','2','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('722','2','Oak Park (Ill.)')
+('721','2','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('723','2','Oak Park (Ill.)')
+('726','2','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('724','2','Industrial productivity')
+('727','2','Educational law and legislation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('725','2','Industrial productivity')
+('728','2','Crystals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('726','2','Industrial productivity')
+('729','2','Crystals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('727','2','Railroads')
+('730','2','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('728','2','Railroads')
+('731','2','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('729','2','Presidents')
+('732','2','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('730','2','Biography & Autobiography')
+('733','2','Alcohols')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('731','2','Biography & Autobiography')
+('734','2','Alcohols')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('732','2','Biography & Autobiography')
+('735','2','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('733','2','Great Britain')
+('736','2','Industrialists')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('734','2','Industrial policy')
+('740','2','Illumination of books and manuscripts, English')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('735','2','Industrial policy')
+('741','2','Illumination of books and manuscripts, English')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('736','2','Religion')
+('742','2','Medicine')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('737','2','Business & Economics')
+('743','2','Medicine')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('738','2','Technology & Engineering')
+('744','2','Medicine')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('739','2','Technology & Engineering')
+('745','2','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('740','2','Technology & Engineering')
+('746','2','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('741','2','Almanacs, American')
+('747','2','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('742','2','Almanacs, American')
+('748','2','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('743','2','Electronic journals')
+('749','2','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('744','2','Electronic journals')
+('750','2','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('745','2','Electronic journals')
+('751','2','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('746','2','Social Science')
+('752','2','Income tax')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('747','2','Subconsciousness in literature')
+('753','2','Income tax')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('748','2','United States')
+('754','2','Income tax')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('749','2','United States')
+('755','2','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('750','2','United States')
+('756','2','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('751','2','Fiction')
+('757','2','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('752','2','Bonds')
+('758','2','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('753','2','Bonds')
+('759','2','Ireland')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('754','2','Bonds')
+('760','2','Ireland')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('759','2','Fiction')
+('761','2','Ireland')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('760','2','Educational law and legislation')
+('762','2','Urban transportation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('761','2','History')
+('763','2','Urban transportation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('762','2','History')
+('764','2','Urban transportation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('763','2','History')
+('765','2','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('764','2','Alcohols')
+('766','2','Granite')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('765','2','Alcohols')
+('767','2','Granite')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('766','2','Alcohols')
+('768','2','Granite')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('767','2','Religion')
+('769','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('768','2','Religion')
+('770','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('769','2','Industrialists')
+('771','2','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('770','2','Industrialists')
+('772','2','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('771','2','Industrialists')
+('773','2','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('775','2','Illumination of books and manuscripts, English')
+('776','2','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('776','2','Medicine')
+('777','2','Literary Criticism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('777','2','Psychology')
+('781','2','Asia, Southeastern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('778','2','Psychology')
+('782','2','Bouyei language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('779','2','Psychology')
+('783','2','Bouyei language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('780','2','History')
+('784','2','Vocational education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('781','2','History')
+('785','2','Vocational education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('782','2','Performing Arts')
+('786','2','Vocational education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('783','2','Income tax')
+('787','2','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('784','2','Income tax')
+('788','2','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('785','2','Canada')
+('789','2','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('786','2','Law')
+('790','2','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('787','2','Law')
+('791','2','Indexes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('788','2','Law')
+('792','2','Indexes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('789','2','United States')
+('793','2','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('790','2','United States')
+('794','2','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('791','2','United States')
+('795','2','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('792','2','Law reports, digests, etc')
+('796','2','DOS device drivers (Computer programs).')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('793','2','Ireland')
+('797','2','Indiana')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('794','2','Ireland')
+('798','2','Indiana')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('795','2','Ireland')
+('802','2','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('796','2','Education')
+('803','2','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('797','2','Education')
+('804','2','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('798','2','Education')
+('805','2','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('799','2','Granite')
+('806','2','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('800','2','History')
+('807','2','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('801','2','Stream measurements')
+('808','2','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('804','2','Literary Criticism')
+('809','2','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('807','2','Asia, Southeastern')
+('810','2','Juvenile Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('808','2','Asia, Southeastern')
+('811','2','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('809','2','Vocational education')
+('812','2','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('810','2','Vocational education')
+('813','2','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('811','2','Administrative law')
+('814','2','Art, Israeli')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('812','2','Administrative law')
+('815','2','Art, Israeli')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('813','2','Political Science')
+('816','2','Chinese language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('814','2','Political Science')
+('817','2','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('815','2','Political Science')
+('818','2','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('816','2','Indexes')
+('1','3','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('817','2','Political Science')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('818','2','Political Science')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('819','2','Biography & Autobiography')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('823','2','Political Science')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('824','2','Political Science')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('825','2','Biography & Autobiography')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('826','2','Biography & Autobiography')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('827','2','Biography & Autobiography')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('828','2','Art, Israeli')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('829','2','Art, Israeli')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('830','2','Damascus Gate (Jerusalem)')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('831','2','Damascus Gate (Jerusalem)')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('832','2','Costume')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('833','2','Costume')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('834','2','Chinese language')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('835','2','Chinese language')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('836','2','Chinese language')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('837','2','Electronic journals')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('1','3','Humor')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('2','3','Religion')
+('2','3','Music')
 ;
 
 Insert into Category
@@ -8491,61 +8665,49 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('4','3','Computers')
+('4','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('6','3','Documentary photography')
+('8','3','Private libraries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('7','3','Religion')
+('9','3','Private libraries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('8','3','Mathematics')
+('10','3','Documentary photography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('9','3','Mathematics')
+('11','3','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('10','3','Mathematics')
+('12','3','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('11','3','Computers')
+('13','3','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('12','3','Computers')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('13','3','Galen')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('14','3','Galen')
+('14','3','Computers')
 ;
 
 Insert into Category
@@ -8557,169 +8719,157 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('16','3','Computers')
+('16','3','Galen')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('17','3','Computers')
+('17','3','Galen')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('19','3','Medical')
+('18','3','Boundary element methods')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('20','3','Medical')
+('19','3','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('21','3','Literary Collections')
+('20','3','Foreign Language Study')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('22','3','Models, Psychological')
+('24','3','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('23','3','Models, Psychological')
+('25','3','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('24','3','Natural history')
+('26','3','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('25','3','Natural history')
+('27','3','Models, Psychological')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('26','3','Natural history')
+('28','3','Models, Psychological')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('27','3','Fiji')
+('29','3','Poetry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('28','3','Fiji')
+('30','3','Poetry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('29','3','Fiji')
+('31','3','Poetry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('30','3','Medical')
+('32','3','Fiji')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('31','3','Medical')
+('33','3','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('32','3','Medical')
+('34','3','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('33','3','Christian ethics')
+('35','3','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('34','3','Prodoxidae')
+('36','3','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('35','3','Prodoxidae')
+('37','3','Christian ethics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('36','3','Prodoxidae')
+('38','3','Christian ethics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('37','3','Authorship')
+('39','3','Authorship')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('38','3','Organic compounds')
+('40','3','Authorship')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('39','3','Organic compounds')
+('41','3','Authorship')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('40','3','Horror films')
+('42','3','Organic compounds')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('41','3','Horror films')
+('43','3','Horror films')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('42','3','Horror films')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('43','3','Literary Collections')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('44','3','Literary Collections')
+('44','3','Horror films')
 ;
 
 Insert into Category
@@ -8737,7 +8887,7 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('47','3','Executive departments')
+('47','3','Adolescence')
 ;
 
 Insert into Category
@@ -8767,7 +8917,7 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('52','3','Aeronautics')
+('52','3','Psychology')
 ;
 
 Insert into Category
@@ -8785,7 +8935,7 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('55','3','African American psychologists')
+('55','3','History')
 ;
 
 Insert into Category
@@ -8797,1063 +8947,1081 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('57','3','History')
+('58','3','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('61','3','Medical')
+('59','3','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('62','3','Medical')
+('60','3','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('63','3','Computers')
+('61','3','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('64','3','Computers')
+('62','3','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('65','3','Computers')
+('63','3','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('66','3','Mathematics')
+('64','3','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('67','3','Mathematics')
+('65','3','Animal migration')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('68','3','Mathematics')
+('66','3','Animal migration')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('69','3','Medical')
+('67','3','Animal migration')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('70','3','Medical')
+('68','3','Materials')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('71','3','Materials')
+('69','3','Courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('72','3','Materials')
+('70','3','Courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('73','3','Materials')
+('71','3','Agriculture')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('74','3','Courts')
+('72','3','Appalachian Mountains')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('75','3','Courts')
+('73','3','Appellate courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('76','3','Meteorology')
+('74','3','Appellate courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('77','3','Meteorology')
+('75','3','Appellate courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('78','3','Agriculture')
+('76','3','New Zealand')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('79','3','Appalachian Mountains')
+('77','3','New Zealand')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('80','3','Appalachian Mountains')
+('78','3','Diagnostic ultrasonic imaging')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('81','3','Appellate courts')
+('79','3','Diagnostic ultrasonic imaging')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('82','3','Diagnostic ultrasonic imaging')
+('80','3','Art, American')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('83','3','Diagnostic ultrasonic imaging')
+('81','3','Astronomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('84','3','Diagnostic ultrasonic imaging')
+('82','3','Astronomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('85','3','History')
+('86','3','Nuclear energy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('86','3','Art, American')
+('87','3','Nuclear energy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('87','3','Art, American')
+('88','3','Aesthetics, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('88','3','Art, American')
+('89','3','Comics & Graphic Novels')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('89','3','Asia')
+('90','3','Comics & Graphic Novels')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('90','3','Asia')
+('91','3','Comics & Graphic Novels')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('91','3','Asia')
+('92','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('92','3','Astronomy')
+('93','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('93','3','Astronomy')
+('94','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('96','3','Aesthetics, Modern')
+('95','3','Games & Activities')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('97','3','Aesthetics, Modern')
+('96','3','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('98','3','Comics & Graphic Novels')
+('97','3','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('100','3','Mathematics')
+('98','3','CD-ROMs')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('101','3','Mathematics')
+('99','3','Ethnology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('102','3','Games & Activities')
+('100','3','Ethnology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('103','3','Games & Activities')
+('101','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('104','3','Religion')
+('102','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('105','3','Religion')
+('103','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('106','3','Religion')
+('104','3','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('107','3','CD-ROMs')
+('105','3','Old Order Mennonites')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('108','3','Ethnology')
+('111','3','Porcelain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('109','3','Ethnology')
+('112','3','Porcelain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('113','3','Technology & Engineering')
+('113','3','Bridges, Concrete')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('114','3','Technology & Engineering')
+('114','3','Bridges, Concrete')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('115','3','Technology & Engineering')
+('115','3','Bridges, Concrete')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('116','3','Old Order Mennonites')
+('116','3','Building')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('117','3','Old Order Mennonites')
+('117','3','Building')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('118','3','Old Order Mennonites')
+('118','3','Building')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('123','3','Porcelain')
+('122','3','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('124','3','Bridges, Concrete')
+('123','3','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('125','3','Building')
+('124','3','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('126','3','Building')
+('125','3','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('127','3','Petroleum')
+('129','3','American drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('128','3','Petroleum')
+('130','3','England')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('129','3','Petroleum')
+('131','3','England')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('130','3','C (Computer program language)')
+('132','3','Ceramic metals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('131','3','C (Computer program language)')
+('133','3','Ceramic metals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('132','3','C (Computer program language)')
+('134','3','Ceramic metals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('133','3','Computers')
+('135','3','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('134','3','Computers')
+('136','3','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('135','3','Computers')
+('137','3','Metaphor')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('136','3','Computers')
+('138','3','Metaphor')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('137','3','Computers')
+('141','3','Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('138','3','English literature')
+('142','3','Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('139','3','English literature')
+('143','3','Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('140','3','English literature')
+('144','3','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('144','3','International law')
+('145','3','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('145','3','International law')
+('146','3','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('146','3','International law')
+('147','3','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('147','3','American drama')
+('148','3','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('148','3','American drama')
+('149','3','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('149','3','American drama')
+('150','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('150','3','Ceramic metals')
+('151','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('151','3','Mathematics')
+('152','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('152','3','Mathematics')
+('153','3','Arms control')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('153','3','Mathematics')
+('154','3','Arms control')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('154','3','Metaphor')
+('155','3','Music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('155','3','Metaphor')
+('156','3','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('156','3','Metaphor')
+('157','3','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('157','3','Meteorology')
+('158','3','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('158','3','Meteorology')
+('159','3','Arbitration, Industrial')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('159','3','Psychology')
+('160','3','Arbitration, Industrial')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('160','3','Psychology')
+('161','3','Arbitration, Industrial')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('161','3','Mathematics')
+('162','3','Astronomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('162','3','Mathematics')
+('163','3','Astronomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('163','3','Juvenile Nonfiction')
+('164','3','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('164','3','Juvenile Nonfiction')
+('165','3','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('165','3','Arms control')
+('166','3','Atomenergi')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('166','3','Music')
+('167','3','Atomenergi')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('167','3','Education')
+('168','3','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('168','3','Astronomy')
+('169','3','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('169','3','Astronomy')
+('170','3','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('170','3','Astronomy')
+('171','3','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('171','3','Insurance companies')
+('175','3','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('172','3','Insurance companies')
+('176','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('173','3','Insurance companies')
+('177','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('175','3','Atomenergi')
+('178','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('179','3','Psychology')
+('179','3','Law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('180','3','Psychology')
+('180','3','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('181','3','Psychology')
+('181','3','Cotton growing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('182','3','Homology theory')
+('182','3','Cotton growing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('183','3','Homology theory')
+('183','3','Cotton growing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('187','3','Business & Economics')
+('184','3','Industrial statistics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('188','3','Business & Economics')
+('185','3','Industrial statistics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('189','3','Business & Economics')
+('186','3','Industrial statistics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('190','3','Business & Economics')
+('187','3','Asymmetric synthesis')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('191','3','Law')
+('188','3','Asymmetric synthesis')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('192','3','Law')
+('189','3','Asymmetric synthesis')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('193','3','Law')
+('190','3','Childrens stories')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('194','3','Science')
+('191','3','Asphalt')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('195','3','Science')
+('192','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('196','3','Cotton growing')
+('193','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('197','3','Cotton growing')
+('194','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('198','3','Cotton growing')
+('195','3','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('199','3','Industrial statistics')
+('196','3','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('200','3','Asymmetric synthesis')
+('197','3','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('201','3','Asymmetric synthesis')
+('200','3','Cincinnati (Ohio)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('202','3','Asymmetric synthesis')
+('201','3','Cincinnati (Ohio)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('203','3','Children's stories')
+('202','3','Cincinnati (Ohio)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('204','3','Computers')
+('203','3','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('205','3','Computers')
+('204','3','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('206','3','Fiction')
+('205','3','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('207','3','Artibeus jamaicensis')
+('206','3','Geology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('208','3','Artibeus jamaicensis')
+('207','3','Medicine')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('212','3','Cincinnati (Ohio)')
+('208','3','Medicine')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('213','3','Cincinnati (Ohio)')
+('209','3','Medicine')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('214','3','Cincinnati (Ohio)')
+('210','3','Poetry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('215','3','Geology')
+('211','3','American wit and humor')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('216','3','Geology')
+('212','3','American wit and humor')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('217','3','Geology')
+('213','3','American wit and humor')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('218','3','Medicine')
+('217','3','Automobile industry and trade')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('219','3','Medicine')
+('218','3','Automobile industry and trade')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('220','3','Poetry')
+('219','3','Automobile industry and trade')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('222','3','Automobile industry and trade')
+('220','3','Antitrust law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('223','3','Automobile industry and trade')
+('221','3','Astronautics in earth sciences')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('224','3','Automobile industry and trade')
+('222','3','Astronautics in earth sciences')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('225','3','Astronautics in earth sciences')
+('223','3','Astronautics in earth sciences')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('226','3','Astronautics in earth sciences')
+('225','3','Diffusion processes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('228','3','Diffusion processes')
+('226','3','Diffusion processes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('229','3','Diffusion processes')
+('227','3','Diffusion processes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('230','3','Diffusion processes')
+('228','3','Géographie économique - URSS - Cartes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('231','3','Géographie économique - URSS - Cartes')
+('229','3','Géographie économique - URSS - Cartes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('232','3','Géographie économique - URSS - Cartes')
+('230','3','Géographie économique - URSS - Cartes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('233','3','Géographie économique - URSS - Cartes')
+('231','3','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('234','3','Economics')
+('232','3','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('235','3','Economics')
+('233','3','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('236','3','Self-Help')
+('234','3','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('237','3','Self-Help')
+('235','3','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('238','3','Education')
+('236','3','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('239','3','Education')
+('237','3','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('240','3','Education')
+('238','3','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('241','3','Education')
+('239','3','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('242','3','Religion')
+('240','3','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('243','3','Religion')
+('241','3','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('244','3','Religion')
+('242','3','Airplanes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('245','3','Airplanes')
+('243','3','Airplanes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('246','3','Airplanes')
+('244','3','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('247','3','Airplanes')
+('245','3','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('249','3','Political Science')
+('246','3','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('250','3','Political Science')
+('247','3','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('251','3','Plastics')
+('248','3','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('253','3','Policy sciences')
+('249','3','Plastics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('254','3','Policy sciences')
+('251','3','Policy sciences')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('255','3','Policy sciences')
+('252','3','Policy sciences')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('256','3','Environment science')
+('253','3','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('257','3','Technology & Engineering')
+('254','3','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('258','3','Technology & Engineering')
+('255','3','Metals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('259','3','Technology & Engineering')
+('256','3','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('260','3','History')
+('257','3','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('261','3','History')
+('258','3','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('262','3','Microbiology')
+('259','3','Microbiology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('263','3','Microbiology')
+('260','3','Microbiology')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('261','3','Microbiology')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('262','3','Photography')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('263','3','Photography')
 ;
 
 Insert into Category
@@ -9865,37 +10033,31 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('265','3','Photography')
+('265','3','Biology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('266','3','Corporations')
+('266','3','Biology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('267','3','Corporations')
+('267','3','Biology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('268','3','Corporations')
+('268','3','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('269','3','Biology')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('270','3','Biology')
+('269','3','Science')
 ;
 
 Insert into Category
@@ -9913,109 +10075,133 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('274','3','Science')
+('273','3','Calculus')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('275','3','Science')
+('274','3','Calculus')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('276','3','Calculus')
+('275','3','Anglo-Catholicism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('277','3','Calculus')
+('276','3','Anglo-Catholicism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('278','3','Calculus')
+('277','3','Anglo-Catholicism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('279','3','Anglo-Catholicism')
+('278','3','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('280','3','Anglo-Catholicism')
+('279','3','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('281','3','Anglo-Catholicism')
+('280','3','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('282','3','Beaufort Sea')
+('291','3','Computer programming')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('283','3','Beaufort Sea')
+('292','3','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('284','3','Beaufort Sea')
+('293','3','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('296','3','Science')
+('294','3','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('297','3','Medical')
+('297','3','Flower gardening')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('298','3','Medical')
+('298','3','Flower gardening')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('303','3','Flower gardening')
+('299','3','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('304','3','Flower gardening')
+('300','3','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('305','3','Flower gardening')
+('301','3','Entrepreneurship')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('306','3','Science')
+('302','3','Entrepreneurship')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('303','3','Social Science')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('304','3','Social Science')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('305','3','African Americans')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('306','3','African Americans')
 ;
 
 Insert into Category
@@ -10027,13 +10213,13 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('308','3','Entrepreneurship')
+('308','3','Generals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('309','3','African Americans')
+('309','3','Generals')
 ;
 
 Insert into Category
@@ -10051,97 +10237,61 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('312','3','German Americans')
+('314','3','Greece')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('313','3','German Americans')
+('315','3','Greece')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('314','3','Literary Collections')
+('316','3','Economic development')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('315','3','Literary Collections')
+('317','3','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('317','3','Greece')
+('318','3','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('318','3','Greece')
+('319','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('319','3','Greece')
+('322','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('320','3','Economic development')
+('326','3','Haiti')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('321','3','Economic development')
+('329','3','Barkhamsted (Conn.)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('322','3','Economic development')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('323','3','Fiction')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('326','3','Fiction')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('327','3','Technology & Engineering')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('328','3','Technology & Engineering')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('329','3','Medical')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('330','3','Medical')
+('330','3','Barkhamsted (Conn.)')
 ;
 
 Insert into Category
@@ -10153,7 +10303,7 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('332','3','Barkhamsted (Conn.)')
+('332','3','Cooking')
 ;
 
 Insert into Category
@@ -10165,13 +10315,13 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('334','3','Cooking')
+('334','3','Mass media')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('335','3','Cooking')
+('335','3','Mass media')
 ;
 
 Insert into Category
@@ -10183,7 +10333,7 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('337','3','Mass media')
+('337','3','Language Arts & Disciplines')
 ;
 
 Insert into Category
@@ -10201,7 +10351,7 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('340','3','Language Arts & Disciplines')
+('340','3','Hospitals')
 ;
 
 Insert into Category
@@ -10213,7 +10363,7 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('342','3','Hospitals')
+('342','3','Self-Help')
 ;
 
 Insert into Category
@@ -10225,13 +10375,13 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('344','3','Self-Help')
+('344','3','Cardiac output')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('345','3','Self-Help')
+('345','3','Cardiac output')
 ;
 
 Insert into Category
@@ -10243,163 +10393,145 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('347','3','Cardiac output')
+('347','3','Human rights')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('348','3','Cardiac output')
+('348','3','Human rights')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('349','3','Human rights')
+('349','3','History, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('350','3','Hydrographic surveying')
+('352','3','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('351','3','Hydrographic surveying')
+('353','3','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('352','3','Hydrographic surveying')
+('354','3','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('353','3','Pro-choice movement')
+('355','3','Drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('354','3','Pro-choice movement')
+('356','3','Study Aids')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('355','3','History, Modern')
+('357','3','Study Aids')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('356','3','History, Modern')
+('358','3','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('359','3','Bible stories, English')
+('359','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('360','3','Drama')
+('360','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('361','3','Drama')
+('361','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('362','3','Drama')
+('362','3','Nature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('363','3','Study Aids')
+('363','3','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('364','3','Study Aids')
+('364','3','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('365','3','Study Aids')
+('365','3','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('366','3','Philosophy')
+('366','3','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('367','3','Philosophy')
+('367','3','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('368','3','Fiction')
+('371','3','Functions of real variables')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('369','3','Fiction')
+('372','3','Functions of real variables')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('370','3','Fiction')
+('373','3','Functions of real variables')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('371','3','Nature')
+('374','3','Differential equations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('372','3','Mathematics')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('373','3','Mathematics')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('374','3','Mathematics')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('375','3','Functions of real variables')
+('375','3','Differential equations')
 ;
 
 Insert into Category
@@ -10411,67 +10543,55 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('377','3','Differential equations')
+('377','3','Presidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('378','3','Differential equations')
+('378','3','Antiques & Collectibles')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('379','3','Presidents')
+('379','3','Antiques & Collectibles')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('380','3','Presidents')
+('380','3','Antiques & Collectibles')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('381','3','Presidents')
+('381','3','Literary Criticism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('382','3','Antiques & Collectibles')
+('382','3','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('383','3','Antiques & Collectibles')
+('383','3','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('384','3','Antiques & Collectibles')
+('387','3','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('385','3','Literary Criticism')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('386','3','History')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('387','3','History')
+('388','3','Biography & Autobiography')
 ;
 
 Insert into Category
@@ -10483,43 +10603,43 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('390','3','Washington (State)')
+('390','3','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('391','3','Washington (State)')
+('391','3','Australia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('392','3','Natural history')
+('392','3','Australia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('393','3','Natural history')
+('393','3','Australia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('394','3','Natural history')
+('394','3','Bone wiring (Orthopedics)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('395','3','Mathematics')
+('395','3','Bone wiring (Orthopedics)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('396','3','Mathematics')
+('396','3','Bone wiring (Orthopedics)')
 ;
 
 Insert into Category
@@ -10537,19 +10657,37 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
+('399','3','Mathematics')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('403','3','Documentary photography')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('404','3','Documentary photography')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
 ('405','3','Documentary photography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('406','3','Documentary photography')
+('406','3','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('407','3','Documentary photography')
+('407','3','Labor laws and legislation')
 ;
 
 Insert into Category
@@ -10567,7 +10705,7 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('410','3','Labor laws and legislation')
+('410','3','Actions and defenses')
 ;
 
 Insert into Category
@@ -10579,19 +10717,19 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('412','3','Actions and defenses')
+('412','3','Asia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('413','3','Asia')
+('413','3','Electronic books')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('414','3','Asia')
+('414','3','Electronic books')
 ;
 
 Insert into Category
@@ -10609,7 +10747,7 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('417','3','Libraries')
+('417','3','Computation laboratories')
 ;
 
 Insert into Category
@@ -10627,7 +10765,7 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('420','3','History')
+('420','3','Subject catalogs')
 ;
 
 Insert into Category
@@ -10645,7 +10783,7 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('423','3','Language Arts & Disciplines')
+('423','3','History')
 ;
 
 Insert into Category
@@ -10675,31 +10813,31 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('428','3','Micronesia')
+('428','3','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('429','3','Medical')
+('429','3','Micronesia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('430','3','City planning')
+('430','3','Micronesia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('431','3','City planning')
+('431','3','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('432','3','City planning')
+('432','3','Medical')
 ;
 
 Insert into Category
@@ -10711,607 +10849,613 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('434','3','Literary Criticism')
+('434','3','Nursing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('435','3','Nursing')
+('435','3','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('436','3','Nursing')
+('436','3','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('437','3','English language')
+('437','3','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('438','3','Biography & Autobiography')
+('438','3','Environmental protection')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('439','3','Biography & Autobiography')
+('439','3','Environmental protection')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('440','3','Biography & Autobiography')
+('440','3','Environmental protection')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('441','3','Computers')
+('441','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('442','3','Computers')
+('442','3','Geometrical models')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('443','3','Computers')
+('443','3','Geometrical models')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('444','3','Mathematics')
+('444','3','South Carolina')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('445','3','Art, Modern')
+('445','3','South Carolina')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('446','3','Environmental protection')
+('446','3','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('447','3','Environmental protection')
+('447','3','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('448','3','Alle lande')
+('449','3','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('449','3','Alle lande')
+('450','3','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('450','3','Alle lande')
+('451','3','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('451','3','Freemasonry')
+('452','3','COVID-19 (Disease)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('452','3','Freemasonry')
+('453','3','COVID-19 (Disease)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('453','3','Freemasonry')
+('454','3','English language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('454','3','Geometrical models')
+('455','3','English language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('455','3','Mathematics')
+('456','3','English language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('456','3','Psychology')
+('457','3','Business')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('457','3','Psychology')
+('458','3','Business')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('458','3','Psychology')
+('459','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('461','3','Wisconsin')
+('460','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('462','3','Wisconsin')
+('461','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('463','3','Wisconsin')
+('462','3','India')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('464','3','Medical')
+('463','3','India')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('465','3','Medical')
+('464','3','India')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('466','3','COVID-19 (Disease)')
+('467','3','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('467','3','Business')
+('468','3','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('468','3','Business')
+('469','3','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('469','3','Business')
+('470','3','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('470','3','Microsoft Word')
+('471','3','Computer science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('471','3','Microsoft Word')
+('472','3','Computer science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('472','3','History')
+('473','3','Computer science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('473','3','Business & Economics')
+('474','3','Blake, Anita (Fictitious character)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('474','3','Business & Economics')
+('475','3','Blake, Anita (Fictitious character)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('475','3','Business & Economics')
+('476','3','Nervous system')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('476','3','India')
+('477','3','Nervous system')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('478','3','Performing Arts')
+('481','3','Foreign Language Study')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('479','3','Performing Arts')
+('482','3','Foreign Language Study')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('480','3','Social Science')
+('483','3','Court decisions and opinions')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('481','3','Social Science')
+('484','3','Court decisions and opinions')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('482','3','Computer science')
+('485','3','Comic books, strips, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('483','3','Education')
+('490','3','Spheroidal functions')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('484','3','Education')
+('491','3','Analyse numérique')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('485','3','Blake, Anita (Fictitious character)')
+('492','3','Analyse numérique')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('486','3','Blake, Anita (Fictitious character)')
+('493','3','Analyse numérique')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('487','3','Gross national product')
+('500','3','Gynecology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('488','3','Gross national product')
+('501','3','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('489','3','Employers' liability')
+('504','3','Cemeteries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('490','3','Employers' liability')
+('505','3','Cemeteries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('492','3','Foreign Language Study')
+('506','3','Cemeteries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('493','3','Foreign Language Study')
+('509','3','Anatomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('494','3','Foreign Language Study')
+('510','3','Law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('497','3','Court decisions and opinions')
+('511','3','Law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('498','3','Court decisions and opinions')
+('512','3','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('499','3','Comic books, strips, etc')
+('513','3','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('500','3','Comic books, strips, etc')
+('514','3','Indexes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('501','3','Comic books, strips, etc')
+('515','3','Indexes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('506','3','Spheroidal functions')
+('516','3','Indexes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('507','3','Spheroidal functions')
+('517','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('508','3','Spheroidal functions')
+('518','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('509','3','Analyse numérique')
+('519','3','Electronic data processing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('510','3','Analyse numérique')
+('520','3','Estates (Law)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('518','3','Gynecology')
+('521','3','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('519','3','Gynecology')
+('522','3','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('520','3','Science')
+('523','3','Condensed matter')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('521','3','Child development')
+('524','3','Condensed matter')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('524','3','Cemeteries')
+('525','3','Condensed matter')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('525','3','Cemeteries')
+('526','3','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('526','3','Cemeteries')
+('527','3','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('528','3','Anatomy')
+('528','3','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('529','3','Anatomy')
+('531','3','Geology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('530','3','Anatomy')
+('532','3','Geology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('531','3','Business & Economics')
+('533','3','Geology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('532','3','Law')
+('534','3','Breast')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('533','3','Law')
+('535','3','Breast')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('534','3','Law')
+('536','3','Breast')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('535','3','Analyse combinatoire')
+('537','3','Cabinet system')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('536','3','Business & Economics')
+('538','3','Cabinet system')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('537','3','Business & Economics')
+('539','3','Aboriginal Australians')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('538','3','Business & Economics')
+('540','3','Aboriginal Australians')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('539','3','Estates (Law)')
+('541','3','Aboriginal Australians')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('540','3','Estates (Law)')
+('542','3','Mechanical engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('541','3','Philosophy')
+('543','3','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('542','3','Philosophy')
+('544','3','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('543','3','Condensed matter')
+('545','3','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('544','3','Condensed matter')
+('546','3','Engineering design')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('545','3','Philosophy')
+('547','3','Engineering design')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('546','3','Political Science')
+('548','3','Drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('547','3','Political Science')
+('549','3','Law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('548','3','Political Science')
+('550','3','Law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('549','3','Capitalists and financiers')
+('551','3','Law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('553','3','Breast')
+('552','3','Bible')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('554','3','Cabinet system')
+('553','3','Bible')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('555','3','Aboriginal Australians')
+('554','3','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('556','3','Mechanical engineering')
+('555','3','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('557','3','Mechanical engineering')
+('556','3','Science')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('557','3','Science')
 ;
 
 Insert into Category
@@ -11323,229 +11467,205 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('559','3','Science')
+('559','3','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('560','3','Science')
+('560','3','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('561','3','Engineering design')
+('561','3','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('562','3','Engineering design')
+('562','3','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('563','3','C (Computer program language)')
+('563','3','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('564','3','C (Computer program language)')
+('564','3','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('565','3','C (Computer program language)')
+('565','3','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('566','3','Computers')
+('566','3','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('567','3','Computers')
+('567','3','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('568','3','Drama')
+('568','3','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('569','3','Drama')
+('569','3','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('570','3','Drama')
+('570','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('571','3','Law')
+('571','3','Intellectual cooperation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('572','3','Bible')
+('572','3','Intellectual cooperation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('573','3','Bible')
+('573','3','Aeronautics in meteorology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('574','3','Bible')
+('574','3','Traffic accidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('575','3','Bible')
+('576','3','Aeronautics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('576','3','Medical')
+('577','3','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('577','3','Medical')
+('578','3','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('578','3','Medical')
+('579','3','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('579','3','Computers')
+('580','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('580','3','Computers')
+('581','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('581','3','Computers')
+('582','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('582','3','Mathematics')
+('583','3','Basal ganglia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('583','3','Mathematics')
+('584','3','Subchapter S corporations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('584','3','United States')
+('585','3','Subchapter S corporations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('585','3','Business & Economics')
+('589','3','South Africa')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('586','3','Intellectual cooperation')
+('590','3','Drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('587','3','Intellectual cooperation')
+('591','3','Drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('588','3','Medical')
+('592','3','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('589','3','Medical')
+('593','3','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('590','3','Aeronautics in meteorology')
+('594','3','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('591','3','Aeronautics in meteorology')
+('595','3','Great Britain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('592','3','Aeronautics in meteorology')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('593','3','Aeronautics')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('594','3','Canada')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('595','3','Religion')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('596','3','Business & Economics')
+('596','3','Science')
 ;
 
 Insert into Category
@@ -11557,229 +11677,217 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('598','3','Business & Economics')
+('598','3','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('599','3','Basal ganglia')
+('599','3','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('600','3','Basal ganglia')
+('600','3','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('601','3','Subchapter S corporations')
+('601','3','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('605','3','South Africa')
+('602','3','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('606','3','South Africa')
+('603','3','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('607','3','South Africa')
+('604','3','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('608','3','Technology & Engineering')
+('605','3','New Zealand')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('609','3','Great Britain')
+('606','3','Libraries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('610','3','Great Britain')
+('607','3','Libraries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('611','3','Great Britain')
+('608','3','Libraries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('612','3','Canada')
+('609','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('613','3','Canada')
+('610','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('614','3','Canada')
+('613','3','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('615','3','Science')
+('614','3','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('616','3','Science')
+('615','3','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('617','3','Science')
+('616','3','Ergodic theory')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('618','3','Business & Economics')
+('617','3','Ergodic theory')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('619','3','Business & Economics')
+('618','3','Ergodic theory')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('620','3','Mathematics')
+('619','3','Biochemistry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('621','3','Mathematics')
+('626','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('622','3','Law reports, digests, etc')
+('627','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('623','3','Law reports, digests, etc')
+('628','3','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('624','3','Science')
+('629','3','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('625','3','New Zealand')
+('630','3','Great Britain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('626','3','Libraries')
+('631','3','Children of clergy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('627','3','Libraries')
+('632','3','Children of clergy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('628','3','Libraries')
+('633','3','Children of clergy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('629','3','Business & Economics')
+('635','3','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('630','3','Business & Economics')
+('636','3','Occupational therapy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('632','3','College students')
+('637','3','Occupational therapy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('633','3','College students')
+('638','3','Occupational therapy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('634','3','Mathematics')
+('639','3','Authors, Irish')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('635','3','Mathematics')
+('640','3','Authors, Irish')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('636','3','Mathematics')
+('641','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('637','3','Ergodic theory')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('638','3','Ergodic theory')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('639','3','Ergodic theory')
+('642','3','Fiction')
 ;
 
 Insert into Category
@@ -11791,25 +11899,25 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('644','3','Commerce')
+('644','3','Budget')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('645','3','Commerce')
+('645','3','Grocery shopping')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('646','3','Commerce')
+('646','3','Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('647','3','Fiction')
+('647','3','Cooking')
 ;
 
 Insert into Category
@@ -11827,751 +11935,763 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('650','3','History')
+('650','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('651','3','Taxation')
+('651','3','Country music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('652','3','Great Britain')
+('652','3','Country music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('653','3','Education')
+('653','3','Country music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('654','3','Mineral industries')
+('654','3','Juvenile Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('655','3','Mineral industries')
+('655','3','Juvenile Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('656','3','Children of clergy')
+('656','3','Juvenile Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('657','3','Children of clergy')
+('657','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('658','3','401(k) plans')
+('658','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('659','3','401(k) plans')
+('659','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('660','3','History')
+('660','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('661','3','History')
+('661','3','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('662','3','History')
+('662','3','Design')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('663','3','History')
+('663','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('664','3','Authors, Irish')
+('664','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('665','3','Nature')
+('665','3','Coasts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('666','3','Fiction')
+('666','3','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('667','3','Fiction')
+('667','3','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('668','3','Budget')
+('668','3','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('669','3','Arts')
+('669','3','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('670','3','Arts')
+('670','3','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('671','3','Cooking')
+('671','3','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('672','3','Cooking')
+('672','3','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('673','3','Fiction')
+('673','3','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('674','3','Fiction')
+('674','3','Art')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('675','3','Fiction')
+('675','3','Art')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('676','3','Philosophy')
+('676','3','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('677','3','Juvenile Fiction')
+('677','3','Nuclear energy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('678','3','Fiction')
+('678','3','Cytology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('679','3','Fiction')
+('679','3','Cytology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('680','3','Business & Economics')
+('680','3','East Lothian (Scotland)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('681','3','Business & Economics')
+('681','3','Animal culture')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('682','3','Design')
+('682','3','Animal culture')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('683','3','Design')
+('683','3','Animal culture')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('684','3','Design')
+('684','3','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('685','3','Fiction')
+('685','3','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('686','3','Coasts')
+('686','3','Novelle')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('687','3','Coasts')
+('687','3','Architectural drawing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('688','3','Coasts')
+('688','3','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('689','3','Religion')
+('689','3','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('690','3','Religion')
+('690','3','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('691','3','Political Science')
+('691','3','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('692','3','Political Science')
+('692','3','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('693','3','Political Science')
+('693','3','Saint Louis (Mo.)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('694','3','Language Arts & Disciplines')
+('694','3','Saint Louis (Mo.)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('695','3','Language Arts & Disciplines')
+('695','3','Saint Louis (Mo.)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('696','3','Language Arts & Disciplines')
+('696','3','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('697','3','Art')
+('697','3','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('698','3','Science')
+('698','3','Minnesota')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('699','3','Nuclear energy')
+('699','3','Minnesota')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('700','3','Nuclear energy')
+('700','3','Stocks')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('701','3','Nuclear energy')
+('701','3','Stocks')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('702','3','Cytology')
+('702','3','Stocks')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('703','3','Cytology')
+('706','3','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('706','3','East Lothian (Scotland)')
+('707','3','Oak Park (Ill.)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('707','3','Science')
+('708','3','Industrial productivity')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('708','3','Science')
+('709','3','Industrial productivity')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('709','3','Science')
+('710','3','Railroads')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('710','3','Architectural drawing')
+('711','3','Presidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('711','3','Architectural drawing')
+('712','3','Presidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('712','3','Science')
+('713','3','Proverbs')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('713','3','Science')
+('714','3','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('714','3','Science')
+('715','3','Industrial policy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('715','3','Biography & Autobiography')
+('716','3','Industrial policy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('716','3','Biography & Autobiography')
+('717','3','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('717','3','Biography & Autobiography')
+('718','3','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('718','3','Saint Louis (Mo.)')
+('719','3','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('719','3','History')
+('720','3','Capitalism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('720','3','History')
+('721','3','Capitalism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('721','3','History')
+('722','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('722','3','Minnesota')
+('723','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('723','3','Minnesota')
+('727','3','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('724','3','Juvenile Fiction')
+('728','3','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('728','3','Oak Park (Ill.)')
+('729','3','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('729','3','Railroads')
+('730','3','Almanacs, American')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('730','3','Presidents')
+('731','3','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('731','3','Proverbs')
+('732','3','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('732','3','Biography & Autobiography')
+('733','3','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('733','3','Biography & Autobiography')
+('734','3','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('734','3','Biography & Autobiography')
+('735','3','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('735','3','Great Britain')
+('736','3','Missions')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('736','3','Industrial policy')
+('737','3','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('737','3','Industrial policy')
+('738','3','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('738','3','Religion')
+('739','3','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('739','3','Religion')
+('740','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('740','3','Capitalism')
+('741','3','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('741','3','Capitalism')
+('742','3','Subconsciousness in literature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('742','3','Capitalism')
+('743','3','Subconsciousness in literature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('743','3','Business & Economics')
+('744','3','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('745','3','Technology & Engineering')
+('745','3','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('746','3','Technology & Engineering')
+('746','3','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('747','3','Technology & Engineering')
+('747','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('748','3','Almanacs, American')
+('748','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('749','3','Almanacs, American')
+('749','3','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('750','3','Electronic journals')
+('750','3','Bonds')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('751','3','Social Science')
+('751','3','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('752','3','Social Science')
+('752','3','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('753','3','Social Science')
+('753','3','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('754','3','History')
+('755','3','Educational law and legislation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('755','3','Business & Economics')
+('756','3','Educational law and legislation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('756','3','Business & Economics')
+('757','3','Educational law and legislation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('757','3','Subconsciousness in literature')
+('758','3','Crystals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('758','3','Subconsciousness in literature')
+('759','3','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('759','3','Subconsciousness in literature')
+('760','3','Alcohols')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('760','3','United States')
+('761','3','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('761','3','United States')
+('762','3','Industrialists')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('762','3','United States')
+('763','3','Industrialists')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('763','3','Bonds')
+('766','3','Illumination of books and manuscripts, English')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('764','3','Bonds')
+('767','3','Illumination of books and manuscripts, English')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('765','3','Religion')
+('768','3','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('766','3','Religion')
+('769','3','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('767','3','Religion')
+('770','3','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('771','3','Fiction')
+('771','3','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('772','3','Fiction')
+('772','3','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('773','3','Educational law and legislation')
+('773','3','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('774','3','Educational law and legislation')
+('774','3','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('775','3','History')
+('775','3','Law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('776','3','Alcohols')
+('776','3','Ireland')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('777','3','Alcohols')
+('777','3','Urban transportation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('778','3','Alcohols')
+('778','3','Urban transportation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('779','3','Religion')
+('779','3','Urban transportation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('780','3','Industrialists')
+('780','3','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('783','3','Illumination of books and manuscripts, English')
+('781','3','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('784','3','Illumination of books and manuscripts, English')
+('782','3','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('785','3','Illumination of books and manuscripts, English')
+('783','3','Education')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('784','3','Business & Economics')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('785','3','Business & Economics')
 ;
 
 Insert into Category
@@ -12583,415 +12703,289 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('787','3','History')
+('787','3','Stream measurements')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('788','3','Performing Arts')
+('788','3','Stream measurements')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('789','3','Mathematics')
+('789','3','Stream measurements')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('790','3','Income tax')
+('791','3','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('791','3','Income tax')
+('792','3','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('792','3','Income tax')
+('793','3','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('793','3','Canada')
+('794','3','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('794','3','Law')
+('795','3','Bouyei language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('795','3','Law')
+('796','3','Bouyei language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('796','3','Law')
+('797','3','Vocational education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('797','3','United States')
+('798','3','Vocational education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('798','3','United States')
+('799','3','Vocational education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('799','3','United States')
+('800','3','Administrative law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('800','3','Law reports, digests, etc')
+('801','3','Administrative law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('801','3','Law reports, digests, etc')
+('802','3','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('802','3','Ireland')
+('803','3','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('803','3','Ireland')
+('804','3','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('804','3','Urban transportation')
+('805','3','Indexes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('805','3','Urban transportation')
+('806','3','Indexes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('806','3','Education')
+('807','3','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('807','3','Education')
+('808','3','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('808','3','Business & Economics')
+('809','3','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('809','3','History')
+('810','3','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('811','3','Law reports, digests, etc')
+('811','3','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('812','3','Law reports, digests, etc')
+('812','3','DOS device drivers (Computer programs).')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('813','3','Law reports, digests, etc')
+('813','3','Indiana')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('814','3','Biography & Autobiography')
+('816','3','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('815','3','Literary Criticism')
+('817','3','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('816','3','Asia, Southeastern')
+('818','3','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('817','3','Asia, Southeastern')
+('819','3','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('818','3','Asia, Southeastern')
+('820','3','Juvenile Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('819','3','Vocational education')
+('821','3','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('820','3','Vocational education')
+('822','3','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('821','3','Vocational education')
+('823','3','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('822','3','Administrative law')
+('824','3','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('823','3','Administrative law')
+('825','3','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('824','3','Administrative law')
+('826','3','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('825','3','Law reports, digests, etc')
+('827','3','Art, Israeli')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('826','3','Law reports, digests, etc')
+('828','3','Art, Israeli')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('827','3','Political Science')
+('829','3','Art, Israeli')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('828','3','Indexes')
+('830','3','Damascus Gate (Jerusalem)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('829','3','Indexes')
+('831','3','Costume')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('830','3','Indexes')
+('832','3','Costume')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('831','3','Biography & Autobiography')
+('833','3','Chinese language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('832','3','Biography & Autobiography')
+('834','3','Chinese language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('833','3','DOS device drivers (Computer programs).')
+('835','3','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('834','3','Indiana')
+('836','3','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('836','3','Political Science')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('837','3','Self-Help')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('838','3','Self-Help')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('839','3','Self-Help')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('840','3','Juvenile Fiction')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('841','3','Juvenile Fiction')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('842','3','Biography & Autobiography')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('843','3','Biography & Autobiography')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('844','3','Biography & Autobiography')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('845','3','Medical')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('846','3','Medical')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('847','3','Medical')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('848','3','Cooking')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('849','3','Fiction')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('850','3','Fiction')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('851','3','Fiction')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('852','3','Costume')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('853','3','Costume')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('854','3','Costume')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('855','3','Chinese language')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('856','3','Chinese language')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('857','3','Electronic journals')
+('837','3','Electronic journals')
 ;
 
 Insert into Category
@@ -13003,13 +12997,13 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('2','4','Humor')
+('2','4','Music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('3','4','Religion')
+('3','4','Music')
 ;
 
 Insert into Category
@@ -13021,85 +13015,97 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('5','4','Computers')
+('5','4','Private libraries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('6','4','Computers')
+('6','4','Documentary photography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('7','4','Computers')
+('7','4','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('8','4','Business & Economics')
+('8','4','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('9','4','Business & Economics')
+('9','4','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('12','4','Private libraries')
+('10','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('13','4','Private libraries')
+('11','4','Buddhism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('14','4','Private libraries')
+('12','4','Buddhism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('15','4','Documentary photography')
+('13','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('16','4','Documentary photography')
+('14','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('17','4','Religion')
+('15','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('18','4','Religion')
+('16','4','Galen')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('19','4','Religion')
+('17','4','Galen')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('20','4','Buddhism')
+('18','4','Boundary element methods')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('19','4','Boundary element methods')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('20','4','Boundary element methods')
 ;
 
 Insert into Category
@@ -13111,25 +13117,25 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('22','4','Galen')
+('22','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('23','4','Galen')
+('23','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('24','4','Computers')
+('24','4','Foreign Language Study')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('25','4','Computers')
+('25','4','Foreign Language Study')
 ;
 
 Insert into Category
@@ -13141,37 +13147,31 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('27','4','Foreign Language Study')
+('29','4','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('28','4','Foreign Language Study')
+('30','4','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('30','4','Medical')
+('31','4','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('31','4','Medical')
+('32','4','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('32','4','Literary Collections')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('33','4','Religion')
+('33','4','Models, Psychological')
 ;
 
 Insert into Category
@@ -13183,403 +13183,391 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('35','4','Models, Psychological')
+('35','4','Natural history')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('36','4','Models, Psychological')
+('36','4','Poetry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('37','4','Poetry')
+('37','4','Fiji')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('38','4','Poetry')
+('38','4','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('39','4','Poetry')
+('39','4','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('40','4','Fiji')
+('40','4','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('41','4','Fiji')
+('41','4','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('42','4','Fiji')
+('42','4','England')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('43','4','Philosophy')
+('43','4','Christian ethics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('44','4','Philosophy')
+('44','4','Prodoxidae')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('45','4','Philosophy')
+('45','4','Prodoxidae')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('46','4','England')
+('46','4','Prodoxidae')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('47','4','England')
+('47','4','Authorship')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('48','4','England')
+('48','4','Authorship')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('49','4','Christian ethics')
+('49','4','Organic compounds')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('50','4','Christian ethics')
+('50','4','Organic compounds')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('51','4','Prodoxidae')
+('51','4','Horror films')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('52','4','Prodoxidae')
+('52','4','Horror films')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('53','4','Authorship')
+('53','4','Horror films')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('54','4','Authorship')
+('54','4','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('55','4','Educational tests and measurements')
+('55','4','Executive departments')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('56','4','Educational tests and measurements')
+('56','4','Executive departments')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('57','4','Educational tests and measurements')
+('57','4','Executive departments')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('58','4','Organic compounds')
+('58','4','Aeronautics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('59','4','Executive departments')
+('59','4','Aeronautics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('60','4','Adolescence')
+('60','4','Aeronautics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('61','4','Adolescence')
+('61','4','African American psychologists')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('62','4','Adolescence')
+('62','4','African American psychologists')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('63','4','Aeronautics')
+('63','4','African American psychologists')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('64','4','Aeronautics')
+('67','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('65','4','Aeronautics')
+('68','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('66','4','African American psychologists')
+('69','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('67','4','African American psychologists')
+('70','4','Animal migration')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('68','4','History')
+('71','4','Animal migration')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('69','4','Medical')
+('72','4','Animal migration')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('70','4','Medical')
+('73','4','Materials')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('71','4','Medical')
+('74','4','Materials')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('72','4','Computers')
+('75','4','Courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('73','4','Computers')
+('76','4','Courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('74','4','Computers')
+('77','4','Courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('75','4','Mathematics')
+('78','4','Meteorology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('76','4','Mathematics')
+('79','4','Meteorology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('77','4','Mathematics')
+('80','4','Agriculture')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('78','4','Philosophy')
+('81','4','Appalachian Mountains')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('79','4','Medical')
+('82','4','Appellate courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('80','4','Animal migration')
+('83','4','Appellate courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('81','4','Animal migration')
+('84','4','Appellate courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('82','4','Materials')
+('85','4','New Zealand')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('83','4','Materials')
+('86','4','New Zealand')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('84','4','Materials')
+('87','4','New Zealand')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('85','4','Courts')
+('88','4','Diagnostic ultrasonic imaging')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('86','4','Meteorology')
+('89','4','Diagnostic ultrasonic imaging')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('87','4','Meteorology')
+('90','4','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('88','4','Appalachian Mountains')
+('91','4','Asia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('89','4','Appellate courts')
+('92','4','Asia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('90','4','Appellate courts')
+('93','4','Asia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('91','4','New Zealand')
+('94','4','Astronomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('92','4','New Zealand')
+('95','4','Astronomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('93','4','New Zealand')
+('96','4','Nuclear energy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('94','4','Diagnostic ultrasonic imaging')
+('97','4','Nuclear energy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('95','4','Art, American')
+('98','4','Nuclear energy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('96','4','Asia')
+('99','4','Aesthetics, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('97','4','Astronomy')
+('100','4','Aesthetics, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('101','4','Aesthetics, Modern')
+('101','4','Comics & Graphic Novels')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('102','4','Aesthetics, Modern')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('103','4','Aesthetics, Modern')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('104','4','Mathematics')
+('102','4','Comics & Graphic Novels')
 ;
 
 Insert into Category
@@ -13591,55 +13579,49 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('106','4','Games & Activities')
+('106','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('107','4','Religion')
+('107','4','Games & Activities')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('108','4','CD-ROMs')
+('108','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('109','4','Ethnology')
+('109','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('110','4','Ethnology')
+('110','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('111','4','Ethnology')
+('111','4','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('112','4','Fiction')
+('115','4','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('113','4','Fiction')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('114','4','Medical')
+('116','4','Technology & Engineering')
 ;
 
 Insert into Category
@@ -13651,19 +13633,13 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('120','4','Porcelain')
+('121','4','Bridges, Concrete')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('121','4','Porcelain')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('122','4','Porcelain')
+('122','4','Bridges, Concrete')
 ;
 
 Insert into Category
@@ -13675,151 +13651,145 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('124','4','Bridges, Concrete')
+('124','4','Building')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('126','4','C (Computer program language)')
+('125','4','Building')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('127','4','Computers')
+('126','4','Building')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('128','4','Computers')
+('127','4','Petroleum')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('129','4','English literature')
+('128','4','C (Computer program language)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('130','4','Mathematics')
+('129','4','C (Computer program language)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('132','4','International law')
+('130','4','C (Computer program language)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('133','4','International law')
+('131','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('134','4','American drama')
+('132','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('135','4','American drama')
+('133','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('136','4','American drama')
+('134','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('137','4','England')
+('136','4','International law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('138','4','Ceramic metals')
+('137','4','American drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('139','4','Ceramic metals')
+('138','4','American drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('140','4','Mathematics')
+('139','4','England')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('142','4','Engineering')
+('140','4','Ceramic metals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('143','4','Engineering')
+('141','4','Ceramic metals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('144','4','Engineering')
+('142','4','Ceramic metals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('145','4','Psychology')
+('143','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('146','4','Psychology')
+('144','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('147','4','Psychology')
+('148','4','Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('148','4','Performing Arts')
+('149','4','Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('149','4','Performing Arts')
+('150','4','Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('150','4','Performing Arts')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('151','4','Mathematics')
+('151','4','Psychology')
 ;
 
 Insert into Category
@@ -13831,103 +13801,109 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('153','4','Juvenile Nonfiction')
+('153','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('154','4','Arms control')
+('154','4','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('155','4','Arms control')
+('155','4','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('156','4','Music')
+('156','4','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('157','4','Education')
+('157','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('158','4','Arbitration, Industrial')
+('158','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('159','4','Arbitration, Industrial')
+('159','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('160','4','Astronomy')
+('160','4','Music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('161','4','Astronomy')
+('161','4','Music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('162','4','Astronomy')
+('162','4','Music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('165','4','Technology & Engineering')
+('163','4','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('166','4','Technology & Engineering')
+('164','4','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('167','4','Atomenergi')
+('165','4','Astronomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('168','4','Atomenergi')
+('166','4','Astronomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('169','4','Atomenergi')
+('167','4','Insurance companies')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('171','4','Psychology')
+('170','4','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('172','4','Psychology')
+('171','4','Homology theory')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('172','4','Homology theory')
 ;
 
 Insert into Category
@@ -13939,7 +13915,7 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('174','4','Homology theory')
+('174','4','Education')
 ;
 
 Insert into Category
@@ -13957,37 +13933,19 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('177','4','Education')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('178','4','Religion')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('179','4','Religion')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
 ('180','4','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('181','4','Business & Economics')
+('181','4','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('182','4','Business & Economics')
+('182','4','Religion')
 ;
 
 Insert into Category
@@ -14011,7 +13969,7 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('186','4','Business & Economics')
+('186','4','Law')
 ;
 
 Insert into Category
@@ -14023,13 +13981,13 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('188','4','Law')
+('188','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('189','4','Law')
+('189','4','Science')
 ;
 
 Insert into Category
@@ -14041,7 +13999,7 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('191','4','Science')
+('191','4','Cotton growing')
 ;
 
 Insert into Category
@@ -14071,49 +14029,49 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('196','4','Industrial statistics')
+('196','4','Asymmetric synthesis')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('197','4','Asymmetric synthesis')
+('197','4','Horse racing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('198','4','Horse racing')
+('198','4','Childrens stories')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('199','4','Children's stories')
+('199','4','Childrens stories')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('200','4','Children's stories')
+('200','4','Childrens stories')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('201','4','Computers')
+('201','4','Asphalt')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('202','4','Computers')
+('202','4','Asphalt')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('203','4','Asphalt')
+('203','4','Fiction')
 ;
 
 Insert into Category
@@ -14125,37 +14083,25 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('205','4','Fiction')
+('205','4','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('206','4','Political Science')
+('208','4','Cincinnati (Ohio)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('207','4','Political Science')
+('209','4','Cincinnati (Ohio)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('208','4','Artibeus jamaicensis')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('209','4','Music')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('210','4','Music')
+('210','4','Cincinnati (Ohio)')
 ;
 
 Insert into Category
@@ -14167,7 +14113,7 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('212','4','Education')
+('212','4','Music')
 ;
 
 Insert into Category
@@ -14185,7 +14131,7 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('215','4','Geology')
+('215','4','Education')
 ;
 
 Insert into Category
@@ -14203,85 +14149,91 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('218','4','American wit and humor')
+('218','4','Geology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('219','4','American wit and humor')
+('219','4','Poetry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('222','4','Astronautics in earth sciences')
+('220','4','Poetry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('223','4','Astronautics in earth sciences')
+('221','4','Poetry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('224','4','Diffusion processes')
+('222','4','Automobile industry and trade')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('225','4','Géographie économique - URSS - Cartes')
+('223','4','Automobile industry and trade')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('226','4','Economics')
+('224','4','Astronautics in earth sciences')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('227','4','Self-Help')
+('226','4','Diffusion processes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('228','4','Self-Help')
+('227','4','Diffusion processes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('229','4','Self-Help')
+('228','4','Diffusion processes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('230','4','Education')
+('229','4','Géographie économique - URSS - Cartes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('231','4','Education')
+('230','4','Géographie économique - URSS - Cartes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('232','4','Education')
+('231','4','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('233','4','Education')
+('232','4','Economics')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('233','4','Self-Help')
 ;
 
 Insert into Category
@@ -14293,7 +14245,7 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('235','4','Computers')
+('235','4','Education')
 ;
 
 Insert into Category
@@ -14305,637 +14257,643 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('237','4','Airplanes')
+('237','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('240','4','Political Science')
+('238','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('241','4','Political Science')
+('239','4','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('242','4','Political Science')
+('240','4','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('243','4','Technology & Engineering')
+('241','4','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('244','4','Plastics')
+('244','4','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('245','4','Plastics')
+('245','4','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('246','4','Plastics')
+('246','4','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('247','4','Environment science')
+('247','4','Plastics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('248','4','Environment science')
+('248','4','Plastics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('249','4','Environment science')
+('249','4','Plastics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('250','4','Technology & Engineering')
+('250','4','Policy sciences')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('251','4','Fiction')
+('251','4','Environment science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('252','4','History')
+('252','4','Environment science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('253','4','History')
+('253','4','Environment science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('254','4','Microbiology')
+('254','4','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('255','4','Microbiology')
+('255','4','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('256','4','Microbiology')
+('256','4','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('257','4','Corporations')
+('257','4','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('258','4','Biology')
+('258','4','Metals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('259','4','Science')
+('259','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('260','4','Science')
+('260','4','Photography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('262','4','Science')
+('261','4','Corporations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('263','4','Science')
+('262','4','Corporations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('264','4','Anglo-Catholicism')
+('263','4','Corporations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('270','4','Medical')
+('264','4','Biology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('271','4','Medical')
+('265','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('272','4','Medical')
+('266','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('275','4','Flower gardening')
+('270','4','Calculus')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('276','4','Flower gardening')
+('271','4','Calculus')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('277','4','Entrepreneurship')
+('272','4','Calculus')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('278','4','Entrepreneurship')
+('273','4','Anglo-Catholicism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('279','4','Entrepreneurship')
+('274','4','Anglo-Catholicism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('280','4','African Americans')
+('275','4','Anglo-Catholicism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('281','4','Generals')
+('276','4','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('282','4','German Americans')
+('277','4','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('283','4','Cooking')
+('278','4','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('284','4','Cooking')
+('279','4','Beaufort Sea')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('285','4','Literary Collections')
+('287','4','Computer programming')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('286','4','Literary Collections')
+('288','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('290','4','Greece')
+('289','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('291','4','Economic development')
+('290','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('292','4','Economic development')
+('291','4','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('293','4','Technology & Engineering')
+('292','4','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('294','4','Fiction')
+('295','4','Flower gardening')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('297','4','Fiction')
+('296','4','Flower gardening')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('298','4','Fiction')
+('297','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('301','4','Haiti')
+('298','4','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('302','4','Haiti')
+('299','4','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('303','4','Haiti')
+('300','4','African Americans')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('307','4','Geography')
+('301','4','African Americans')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('308','4','Geography')
+('302','4','African Americans')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('309','4','Barkhamsted (Conn.)')
+('303','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('310','4','Cooking')
+('304','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('311','4','Language Arts & Disciplines')
+('305','4','Generals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('312','4','Language Arts & Disciplines')
+('306','4','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('313','4','Hospitals')
+('309','4','Greece')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('314','4','Hospitals')
+('310','4','Greece')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('315','4','Hospitals')
+('311','4','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('316','4','Human rights')
+('312','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('317','4','Human rights')
+('313','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('318','4','Hydrographic surveying')
+('314','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('322','4','Bible stories, English')
+('316','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('323','4','Bible stories, English')
+('319','4','Haiti')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('324','4','Bible stories, English')
+('320','4','Haiti')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('325','4','Literary Collections')
+('321','4','Haiti')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('326','4','Literary Collections')
+('322','4','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('327','4','Literary Collections')
+('326','4','Geography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('328','4','Drama')
+('327','4','Geography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('329','4','Study Aids')
+('328','4','Geography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('330','4','Philosophy')
+('329','4','Barkhamsted (Conn.)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('331','4','Fiction')
+('330','4','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('332','4','Science')
+('331','4','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('333','4','Science')
+('332','4','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('334','4','Nature')
+('333','4','Mass media')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('335','4','Nature')
+('334','4','Mass media')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('336','4','Nature')
+('335','4','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('337','4','Social Science')
+('336','4','Hospitals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('338','4','Social Science')
+('337','4','Hospitals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('339','4','Travel')
+('338','4','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('340','4','Mathematics')
+('339','4','Cardiac output')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('341','4','Mathematics')
+('340','4','Cardiac output')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('342','4','Mathematics')
+('341','4','Cardiac output')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('343','4','Functions of real variables')
+('342','4','Human rights')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('344','4','Differential equations')
+('343','4','Human rights')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('345','4','Differential equations')
+('344','4','Hydrographic surveying')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('346','4','Presidents')
+('345','4','Hydrographic surveying')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('347','4','Presidents')
+('346','4','Pro-choice movement')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('348','4','Antiques & Collectibles')
+('347','4','Pro-choice movement')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('349','4','Antiques & Collectibles')
+('348','4','History, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('350','4','Antiques & Collectibles')
+('349','4','History, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('351','4','Literary Criticism')
+('350','4','Bible stories, English')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('352','4','Biography & Autobiography')
+('351','4','Bible stories, English')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('353','4','Biography & Autobiography')
+('352','4','Bible stories, English')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('354','4','History')
+('353','4','Drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('357','4','Biography & Autobiography')
+('354','4','Study Aids')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('358','4','Biography & Autobiography')
+('355','4','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('359','4','Washington (State)')
+('356','4','Nature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('360','4','Washington (State)')
+('357','4','Nature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('361','4','Australia')
+('358','4','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('362','4','Natural history')
+('359','4','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('363','4','Natural history')
+('360','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('364','4','Bone wiring (Orthopedics)')
+('361','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('365','4','Bone wiring (Orthopedics)')
+('362','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('366','4','Mathematics')
+('363','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('367','4','Mathematics')
+('366','4','Travel')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('367','4','Travel')
 ;
 
 Insert into Category
@@ -14947,763 +14905,823 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('375','4','History')
+('369','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('376','4','Labor laws and legislation')
+('370','4','Functions of real variables')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('377','4','Actions and defenses')
+('371','4','Functions of real variables')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('378','4','Asia')
+('372','4','Functions of real variables')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('379','4','Electronic books')
+('373','4','Differential equations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('380','4','Electronic books')
+('374','4','Differential equations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('381','4','Computation laboratories')
+('375','4','Differential equations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('382','4','Computation laboratories')
+('376','4','Presidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('383','4','Libraries')
+('377','4','Antiques & Collectibles')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('384','4','Libraries')
+('378','4','Antiques & Collectibles')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('385','4','Subject catalogs')
+('379','4','Literary Criticism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('386','4','History')
+('380','4','Literary Criticism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('387','4','History')
+('383','4','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('388','4','Language Arts & Disciplines')
+('384','4','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('389','4','Language Arts & Disciplines')
+('385','4','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('390','4','Education')
+('386','4','Washington (State)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('391','4','Micronesia')
+('387','4','Washington (State)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('392','4','Medical')
+('388','4','Australia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('393','4','Literary Criticism')
+('389','4','Australia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('394','4','Literary Criticism')
+('390','4','Australia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('395','4','Literary Criticism')
+('391','4','Natural history')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('396','4','Nursing')
+('392','4','Bone wiring (Orthopedics)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('397','4','Nursing')
+('393','4','Bone wiring (Orthopedics)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('398','4','Nursing')
+('394','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('399','4','English language')
+('398','4','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('400','4','Computers')
+('399','4','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('401','4','Mathematics')
+('400','4','Computation laboratories')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('402','4','Mathematics')
+('401','4','Computation laboratories')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('403','4','Mathematics')
+('402','4','Computation laboratories')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('404','4','Art, Modern')
+('403','4','Subject catalogs')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('405','4','Art, Modern')
+('404','4','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('406','4','Computers')
+('405','4','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('407','4','Computers')
+('406','4','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('408','4','Freemasonry')
+('407','4','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('409','4','Business & Economics')
+('408','4','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('410','4','Business & Economics')
+('409','4','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('411','4','Business & Economics')
+('410','4','Micronesia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('412','4','Geometrical models')
+('411','4','Micronesia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('413','4','Geometrical models')
+('412','4','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('414','4','Mathematics')
+('413','4','Nursing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('415','4','Mathematics')
+('414','4','Nursing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('416','4','Psychology')
+('415','4','Nursing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('420','4','COVID-19 (Disease)')
+('416','4','English language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('421','4','COVID-19 (Disease)')
+('417','4','English language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('422','4','Business')
+('418','4','English language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('423','4','Microsoft Word')
+('419','4','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('424','4','Microsoft Word')
+('420','4','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('425','4','History')
+('421','4','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('426','4','History')
+('422','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('427','4','History')
+('423','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('428','4','Business & Economics')
+('424','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('429','4','India')
+('425','4','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('430','4','India')
+('426','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('431','4','India')
+('427','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('433','4','Family & Relationships')
+('428','4','Art, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('434','4','Family & Relationships')
+('429','4','Art, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('435','4','Family & Relationships')
+('430','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('436','4','Performing Arts')
+('431','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('437','4','Performing Arts')
+('432','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('438','4','Social Science')
+('433','4','Environmental protection')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('439','4','Education')
+('434','4','Environmental protection')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('440','4','Blake, Anita (Fictitious character)')
+('435','4','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('441','4','Gross national product')
+('436','4','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('442','4','Employers' liability')
+('437','4','Freemasonry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('443','4','Employers' liability')
+('438','4','Freemasonry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('444','4','Employers' liability')
+('439','4','Freemasonry')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('445','4','Nervous system')
+('440','4','Geometrical models')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('446','4','Nervous system')
+('441','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('450','4','Foreign Language Study')
+('445','4','Wisconsin')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('451','4','Court decisions and opinions')
+('446','4','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('452','4','Court decisions and opinions')
+('447','4','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('453','4','Court decisions and opinions')
+('448','4','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('461','4','Spheroidal functions')
+('449','4','COVID-19 (Disease)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('462','4','Spheroidal functions')
+('450','4','COVID-19 (Disease)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('463','4','Spheroidal functions')
+('451','4','COVID-19 (Disease)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('469','4','Gynecology')
+('452','4','Business')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('470','4','Gynecology')
+('453','4','Microsoft Word')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('471','4','Gynecology')
+('454','4','Microsoft Word')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('472','4','Science')
+('455','4','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('473','4','Science')
+('456','4','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('474','4','Child development')
+('457','4','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('476','4','Cemeteries')
+('458','4','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('478','4','Anatomy')
+('459','4','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('479','4','Anatomy')
+('461','4','Family & Relationships')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('480','4','Anatomy')
+('462','4','Family & Relationships')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('481','4','Business & Economics')
+('463','4','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('482','4','Business & Economics')
+('464','4','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('483','4','Psychology')
+('465','4','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('484','4','Psychology')
+('466','4','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('485','4','Psychology')
+('467','4','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('486','4','Indexes')
+('468','4','Blake, Anita (Fictitious character)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('487','4','Indexes')
+('469','4','Employers liability')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('488','4','Indexes')
+('470','4','Employers liability')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('489','4','Business & Economics')
+('471','4','Employers liability')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('490','4','Business & Economics')
+('472','4','Nervous system')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('491','4','Electronic data processing')
+('473','4','Nervous system')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('492','4','Estates (Law)')
+('474','4','Nervous system')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('493','4','Philosophy')
+('475','4','Foreign Language Study')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('494','4','Philosophy')
+('478','4','Comic books, strips, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('495','4','Philosophy')
+('479','4','Comic books, strips, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('496','4','Political Science')
+('484','4','Analyse numérique')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('497','4','Political Science')
+('485','4','Analyse numérique')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('498','4','Capitalists and financiers')
+('492','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('499','4','Capitalists and financiers')
+('493','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('506','4','Geology')
+('494','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('507','4','Cabinet system')
+('495','4','Child development')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('508','4','Aboriginal Australians')
+('496','4','Child development')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('509','4','Aboriginal Australians')
+('497','4','Cemeteries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('510','4','Decedents' estates')
+('498','4','Cemeteries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('511','4','Decedents' estates')
+('499','4','Anatomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('512','4','Decedents' estates')
+('500','4','Law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('513','4','Mechanical engineering')
+('501','4','Law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('514','4','Mechanical engineering')
+('502','4','Law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('515','4','Mechanical engineering')
+('503','4','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('516','4','Science')
+('504','4','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('517','4','C (Computer program language)')
+('505','4','Analyse combinatoire')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('518','4','C (Computer program language)')
+('506','4','Electronic data processing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('519','4','Computers')
+('507','4','Electronic data processing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('520','4','Computers')
+('508','4','Estates (Law)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('521','4','Computers')
+('509','4','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('522','4','Drama')
+('510','4','Condensed matter')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('523','4','Law')
+('511','4','Condensed matter')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('524','4','Law')
+('512','4','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('525','4','Bible')
+('513','4','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('526','4','Medical')
+('514','4','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('527','4','Medical')
+('517','4','Geology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('528','4','Medical')
+('518','4','Cabinet system')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('519','4','Cabinet system')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('520','4','Cabinet system')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('521','4','Aboriginal Australians')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('522','4','Aboriginal Australians')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('523','4','Aboriginal Australians')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('524','4','Decedents estates')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('525','4','Decedents estates')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('526','4','Mechanical engineering')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('527','4','Mechanical engineering')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('528','4','Science')
 ;
 
 Insert into Category
@@ -15715,277 +15733,289 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('530','4','Mathematics')
+('530','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('531','4','Mathematics')
+('531','4','C (Computer program language)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('532','4','Mathematics')
+('532','4','C (Computer program language)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('533','4','Education')
+('533','4','C (Computer program language)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('534','4','Education')
+('534','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('535','4','Education')
+('535','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('536','4','United States')
+('536','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('537','4','United States')
+('537','4','Drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('538','4','United States')
+('538','4','Bible')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('539','4','Business & Economics')
+('539','4','Bible')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('540','4','Business & Economics')
+('540','4','Bible')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('541','4','Intellectual cooperation')
+('541','4','Bible')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('542','4','Medical')
+('542','4','Bible')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('543','4','Medical')
+('543','4','Bible')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('544','4','Traffic accidents')
+('544','4','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('545','4','Traffic accidents')
+('545','4','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('549','4','Aeronautics')
+('546','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('550','4','Aeronautics')
+('547','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('551','4','Aeronautics')
+('548','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('552','4','Canada')
+('549','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('553','4','Canada')
+('550','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('554','4','Religion')
+('551','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('555','4','Business & Economics')
+('552','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('556','4','Subchapter S corporations')
+('553','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('557','4','Subchapter S corporations')
+('554','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('558','4','Mathematics')
+('555','4','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('559','4','Technology & Engineering')
+('556','4','Railroad crossings')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('560','4','Canada')
+('557','4','Railroad crossings')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('561','4','Canada')
+('558','4','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('562','4','Great Britain')
+('559','4','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('563','4','Great Britain')
+('560','4','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('564','4','Great Britain')
+('561','4','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('565','4','Canada')
+('562','4','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('566','4','Science')
+('563','4','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('567','4','Science')
+('564','4','Intellectual cooperation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('568','4','Science')
+('565','4','Aeronautics in meteorology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('569','4','Information theory in economics')
+('566','4','Traffic accidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('570','4','Information theory in economics')
+('567','4','Traffic accidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('571','4','Business & Economics')
+('568','4','Traffic accidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('572','4','Business & Economics')
+('570','4','Aeronautics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('573','4','Mathematics')
+('571','4','Aeronautics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('574','4','Mathematics')
+('572','4','Aeronautics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('575','4','Mathematics')
+('573','4','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('576','4','Law reports, digests, etc')
+('574','4','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('577','4','Science')
+('575','4','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('578','4','Libraries')
+('576','4','Religion')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('577','4','Religion')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('578','4','Business & Economics')
 ;
 
 Insert into Category
@@ -15997,79 +16027,91 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('580','4','Business & Economics')
+('580','4','Basal ganglia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('581','4','Business & Economics')
+('581','4','Subchapter S corporations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('583','4','College students')
+('582','4','Subchapter S corporations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('584','4','College students')
+('583','4','Subchapter S corporations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('585','4','Biochemistry')
+('585','4','South Africa')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('586','4','Biochemistry')
+('588','4','Drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('587','4','Biochemistry')
+('589','4','Drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('592','4','History')
+('590','4','Drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('593','4','History')
+('591','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('594','4','History')
+('592','4','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('595','4','Taxation')
+('593','4','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('596','4','Taxation')
+('594','4','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('597','4','Taxation')
+('595','4','Canada')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('596','4','Great Britain')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('597','4','Great Britain')
 ;
 
 Insert into Category
@@ -16081,187 +16123,175 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('599','4','Great Britain')
+('599','4','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('600','4','Mineral industries')
+('600','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('601','4','Mineral industries')
+('601','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('602','4','Children of clergy')
+('602','4','Information theory in economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('604','4','History')
+('603','4','Information theory in economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('605','4','History')
+('604','4','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('606','4','History')
+('605','4','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('607','4','Occupational therapy')
+('606','4','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('608','4','Occupational therapy')
+('607','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('609','4','Occupational therapy')
+('608','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('610','4','History')
+('609','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('611','4','History')
+('610','4','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('612','4','Authors, Irish')
+('611','4','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('613','4','Authors, Irish')
+('612','4','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('614','4','Nature')
+('613','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('615','4','Fiction')
+('614','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('616','4','Fiction')
+('615','4','New Zealand')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('617','4','Grocery shopping')
+('616','4','New Zealand')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('618','4','Country music')
+('617','4','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('619','4','Country music')
+('619','4','College students')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('620','4','Country music')
+('620','4','College students')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('621','4','Philosophy')
+('621','4','College students')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('622','4','FICTION')
+('622','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('623','4','Juvenile Fiction')
+('623','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('624','4','Fiction')
+('624','4','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('625','4','Fiction')
+('625','4','Ergodic theory')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('626','4','Fiction')
+('626','4','Ergodic theory')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('627','4','Business & Economics')
+('627','4','Ergodic theory')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('628','4','Business & Economics')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('629','4','Political Science')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('630','4','Political Science')
+('630','4','Fiction')
 ;
 
 Insert into Category
@@ -16279,223 +16309,223 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('633','4','Fiction')
+('633','4','Commerce')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('634','4','Coasts')
+('634','4','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('635','4','Coasts')
+('635','4','Taxation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('636','4','Coasts')
+('636','4','Taxation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('637','4','Religion')
+('637','4','Mineral industries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('638','4','Religion')
+('638','4','Mineral industries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('639','4','Religion')
+('639','4','Mineral industries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('640','4','History')
+('640','4','Children of clergy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('641','4','History')
+('641','4','Children of clergy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('642','4','History')
+('642','4','Children of clergy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('643','4','Political Science')
+('643','4','401(k) plans')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('644','4','Political Science')
+('644','4','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('645','4','Language Arts & Disciplines')
+('645','4','Occupational therapy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('646','4','Language Arts & Disciplines')
+('646','4','Occupational therapy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('647','4','Language Arts & Disciplines')
+('647','4','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('648','4','Language Arts & Disciplines')
+('648','4','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('649','4','Science')
+('649','4','Authors, Irish')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('650','4','Science')
+('650','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('651','4','Medical')
+('651','4','Budget')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('652','4','Medical')
+('652','4','Budget')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('653','4','Nuclear energy')
+('653','4','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('654','4','Cytology')
+('654','4','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('655','4','Cytology')
+('655','4','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('656','4','East Lothian (Scotland)')
+('656','4','Country music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('657','4','Animal culture')
+('657','4','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('658','4','Animal culture')
+('658','4','English literature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('659','4','Novelle')
+('659','4','English literature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('660','4','Novelle')
+('660','4','Juvenile Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('661','4','Novelle')
+('661','4','Juvenile Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('662','4','Architectural drawing')
+('662','4','Juvenile Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('663','4','Architectural drawing')
+('663','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('664','4','Biography & Autobiography')
+('664','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('665','4','Biography & Autobiography')
+('665','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('666','4','Saint Louis (Mo.)')
+('666','4','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('667','4','Saint Louis (Mo.)')
+('667','4','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('668','4','Minnesota')
+('668','4','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('669','4','Minnesota')
+('669','4','Fiction')
 ;
 
 Insert into Category
@@ -16513,265 +16543,271 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('672','4','Fiction')
+('672','4','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('676','4','Law reports, digests, etc')
+('673','4','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('677','4','Law reports, digests, etc')
+('674','4','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('678','4','Oak Park (Ill.)')
+('675','4','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('679','4','Oak Park (Ill.)')
+('676','4','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('680','4','Industrial productivity')
+('677','4','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('681','4','Industrial productivity')
+('678','4','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('682','4','Industrial productivity')
+('679','4','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('683','4','Presidents')
+('680','4','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('684','4','Presidents')
+('681','4','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('685','4','Industrial policy')
+('682','4','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('686','4','Industrial policy')
+('683','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('687','4','Industrial policy')
+('684','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('688','4','Religion')
+('685','4','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('689','4','Religion')
+('686','4','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('690','4','Religion')
+('687','4','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('691','4','Capitalism')
+('688','4','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('692','4','Capitalism')
+('689','4','Nuclear energy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('693','4','Capitalism')
+('692','4','Animal culture')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('694','4','Business & Economics')
+('693','4','Animal culture')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('695','4','Business & Economics')
+('694','4','Animal culture')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('697','4','Technology & Engineering')
+('695','4','Novelle')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('698','4','Technology & Engineering')
+('696','4','Saint Louis (Mo.)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('699','4','Technology & Engineering')
+('697','4','Saint Louis (Mo.)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('700','4','Almanacs, American')
+('698','4','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('701','4','Almanacs, American')
+('699','4','Minnesota')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('702','4','Almanacs, American')
+('700','4','Juvenile Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('703','4','Electronic journals')
+('701','4','Juvenile Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('704','4','Electronic journals')
+('702','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('705','4','Electronic journals')
+('703','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('706','4','Social Science')
+('704','4','Stocks')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('707','4','Social Science')
+('705','4','Stocks')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('708','4','Social Science')
+('706','4','Stocks')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('709','4','Missions')
+('708','4','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('710','4','History')
+('709','4','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('711','4','History')
+('710','4','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('712','4','Subconsciousness in literature')
+('711','4','Oak Park (Ill.)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('713','4','United States')
+('712','4','Industrial productivity')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('714','4','United States')
+('713','4','Industrial productivity')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('715','4','United States')
+('714','4','Railroads')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('716','4','Fiction')
+('715','4','Railroads')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('717','4','Fiction')
+('716','4','Proverbs')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('718','4','Bonds')
+('717','4','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('719','4','Religion')
+('718','4','Industrial policy')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('719','4','Industrial policy')
 ;
 
 Insert into Category
@@ -16789,349 +16825,379 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('722','4','Religion')
+('722','4','Capitalism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('727','4','Educational law and legislation')
+('723','4','Capitalism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('728','4','Educational law and legislation')
+('724','4','Capitalism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('729','4','Crystals')
+('725','4','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('730','4','Crystals')
+('726','4','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('731','4','Crystals')
+('727','4','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('732','4','History')
+('728','4','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('733','4','History')
+('729','4','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('734','4','History')
+('730','4','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('735','4','Alcohols')
+('731','4','Almanacs, American')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('736','4','Religion')
+('732','4','Almanacs, American')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('737','4','Religion')
+('733','4','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('740','4','Illumination of books and manuscripts, English')
+('734','4','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('741','4','Illumination of books and manuscripts, English')
+('735','4','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('742','4','Illumination of books and manuscripts, English')
+('736','4','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('743','4','Medicine')
+('737','4','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('744','4','Medicine')
+('738','4','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('745','4','Performing Arts')
+('739','4','Missions')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('746','4','Performing Arts')
+('740','4','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('747','4','Performing Arts')
+('741','4','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('748','4','Income tax')
+('742','4','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('749','4','Canada')
+('743','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('750','4','United States')
+('744','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('751','4','United States')
+('745','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('752','4','United States')
+('746','4','Bonds')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('753','4','Law reports, digests, etc')
+('747','4','Bonds')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('754','4','Ireland')
+('748','4','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('755','4','Ireland')
+('749','4','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('756','4','Urban transportation')
+('753','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('757','4','Education')
+('754','4','Educational law and legislation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('758','4','Education')
+('755','4','Educational law and legislation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('759','4','Education')
+('756','4','Educational law and legislation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('760','4','History')
+('757','4','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('761','4','Stream measurements')
+('758','4','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('762','4','Law reports, digests, etc')
+('759','4','Alcohols')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('763','4','Law reports, digests, etc')
+('760','4','Alcohols')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('764','4','Law reports, digests, etc')
+('761','4','Alcohols')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('765','4','Biography & Autobiography')
+('762','4','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('766','4','Biography & Autobiography')
+('763','4','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('767','4','Biography & Autobiography')
+('764','4','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('768','4','Literary Criticism')
+('765','4','Industrialists')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('769','4','Literary Criticism')
+('766','4','Industrialists')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('770','4','Literary Criticism')
+('767','4','Industrialists')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('773','4','Bouyei language')
+('771','4','Medicine')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('774','4','Bouyei language')
+('772','4','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('775','4','Bouyei language')
+('773','4','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('776','4','Vocational education')
+('774','4','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('777','4','Law reports, digests, etc')
+('775','4','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('778','4','Indexes')
+('776','4','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('779','4','Political Science')
+('777','4','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('780','4','Political Science')
+('778','4','Income tax')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('781','4','Biography & Autobiography')
+('779','4','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('782','4','DOS device drivers (Computer programs).')
+('780','4','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('786','4','Self-Help')
+('781','4','Ireland')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('787','4','Self-Help')
+('782','4','Urban transportation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('788','4','Self-Help')
+('783','4','Urban transportation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('789','4','Self-Help')
+('784','4','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('790','4','Juvenile Fiction')
+('785','4','Business & Economics')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('786','4','History')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('787','4','History')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('788','4','History')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('789','4','Stream measurements')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('790','4','Stream measurements')
 ;
 
 Insert into Category
@@ -17143,379 +17209,553 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('792','4','Biography & Autobiography')
+('792','4','Literary Criticism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('793','4','Biography & Autobiography')
+('793','4','Literary Criticism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('794','4','Medical')
+('794','4','Bouyei language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('795','4','Cooking')
+('795','4','Bouyei language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('796','4','Cooking')
+('796','4','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('797','4','Fiction')
+('797','4','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('798','4','Fiction')
+('798','4','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('799','4','Fiction')
+('799','4','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('800','4','Art, Israeli')
+('800','4','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('801','4','Art, Israeli')
+('801','4','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('802','4','Damascus Gate (Jerusalem)')
+('802','4','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('803','4','Damascus Gate (Jerusalem)')
+('803','4','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('804','4','Damascus Gate (Jerusalem)')
+('804','4','DOS device drivers (Computer programs).')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('805','4','Costume')
+('805','4','DOS device drivers (Computer programs).')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('806','4','Costume')
+('806','4','Indiana')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('807','4','Costume')
+('807','4','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('808','4','Chinese language')
+('808','4','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('809','4','Electronic journals')
+('809','4','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('1','5','Religion')
+('810','4','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('2','5','Computers')
+('811','4','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('3','5','Business & Economics')
+('812','4','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('6','5','Private libraries')
+('813','4','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('7','5','Documentary photography')
+('814','4','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('8','5','Documentary photography')
+('815','4','Juvenile Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('9','5','Mathematics')
+('816','4','Juvenile Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('10','5','Mathematics')
+('817','4','Juvenile Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('11','5','Buddhism')
+('818','4','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('12','5','Computers')
+('819','4','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('13','5','Boundary element methods')
+('820','4','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('14','5','Boundary element methods')
+('821','4','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('15','5','Boundary element methods')
+('822','4','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('16','5','Computers')
+('823','4','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('17','5','Computers')
+('824','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('18','5','Foreign Language Study')
+('825','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('19','5','Foreign Language Study')
+('826','4','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('20','5','Foreign Language Study')
+('827','4','Art, Israeli')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('22','5','Medical')
+('828','4','Art, Israeli')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('23','5','Medical')
+('829','4','Art, Israeli')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('24','5','Medical')
+('830','4','Damascus Gate (Jerusalem)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('25','5','Literary Collections')
+('831','4','Damascus Gate (Jerusalem)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('26','5','Literary Collections')
+('832','4','Damascus Gate (Jerusalem)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('27','5','Religion')
+('833','4','Chinese language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('28','5','Models, Psychological')
+('834','4','Chinese language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('29','5','Models, Psychological')
+('835','4','Chinese language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('30','5','Natural history')
+('836','4','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('31','5','Fiji')
+('837','4','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('32','5','Fiji')
+('838','4','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('33','5','Philosophy')
+('1','5','Humor')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('34','5','Philosophy')
+('2','5','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('35','5','Philosophy')
+('3','5','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('36','5','Medical')
+('4','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('37','5','Medical')
+('5','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('38','5','Medical')
+('6','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('39','5','England')
+('10','5','Private libraries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('40','5','England')
+('11','5','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('41','5','England')
+('12','5','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('42','5','Christian ethics')
+('13','5','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('43','5','Christian ethics')
+('14','5','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('44','5','Christian ethics')
+('15','5','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('45','5','Prodoxidae')
+('16','5','Buddhism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('46','5','Authorship')
+('17','5','Buddhism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('47','5','Authorship')
+('18','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('48','5','Authorship')
+('19','5','Galen')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('20','5','Galen')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('21','5','Galen')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('22','5','Boundary element methods')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('23','5','Boundary element methods')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('24','5','Computers')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('25','5','Computers')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('26','5','Computers')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('27','5','Foreign Language Study')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('28','5','Foreign Language Study')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('29','5','Medical')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('30','5','Medical')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('31','5','Medical')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('32','5','Literary Collections')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('33','5','Literary Collections')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('34','5','Literary Collections')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('35','5','Models, Psychological')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('36','5','Natural history')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('37','5','Natural history')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('38','5','Fiji')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('39','5','Fiji')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('40','5','Fiji')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('41','5','Philosophy')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('42','5','Medical')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('43','5','Medical')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('44','5','England')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('45','5','England')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('46','5','Christian ethics')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('47','5','Prodoxidae')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('48','5','Prodoxidae')
 ;
 
 Insert into Category
@@ -17545,559 +17785,535 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('53','5','Horror films')
+('53','5','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('54','5','Adolescence')
+('54','5','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('55','5','Adolescence')
+('55','5','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('56','5','Adolescence')
+('56','5','Executive departments')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('57','5','Psychology')
+('57','5','Adolescence')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('58','5','Psychology')
+('58','5','Adolescence')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('59','5','History')
+('59','5','Aeronautics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('61','5','Medical')
+('60','5','African American psychologists')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('62','5','Computers')
+('61','5','African American psychologists')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('63','5','Computers')
+('62','5','African American psychologists')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('64','5','Computers')
+('63','5','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('65','5','Mathematics')
+('64','5','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('66','5','Mathematics')
+('65','5','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('67','5','Animal migration')
+('69','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('68','5','Courts')
+('70','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('69','5','Meteorology')
+('71','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('70','5','Meteorology')
+('72','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('71','5','Agriculture')
+('73','5','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('72','5','Agriculture')
+('74','5','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('73','5','Appalachian Mountains')
+('75','5','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('74','5','Appalachian Mountains')
+('76','5','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('75','5','Appellate courts')
+('77','5','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('76','5','New Zealand')
+('78','5','Animal migration')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('77','5','New Zealand')
+('79','5','Animal migration')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('78','5','History')
+('80','5','Materials')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('79','5','History')
+('81','5','Materials')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('80','5','Art, American')
+('82','5','Materials')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('81','5','Art, American')
+('83','5','Courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('82','5','Art, American')
+('84','5','Meteorology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('83','5','Nuclear energy')
+('85','5','Appalachian Mountains')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('84','5','Nuclear energy')
+('86','5','Appellate courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('85','5','Nuclear energy')
+('87','5','Appellate courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('86','5','Aesthetics, Modern')
+('88','5','Appellate courts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('87','5','Aesthetics, Modern')
+('89','5','New Zealand')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('88','5','Comics & Graphic Novels')
+('90','5','New Zealand')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('89','5','Comics & Graphic Novels')
+('91','5','New Zealand')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('90','5','Comics & Graphic Novels')
+('92','5','Diagnostic ultrasonic imaging')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('91','5','Computers')
+('93','5','Diagnostic ultrasonic imaging')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('93','5','Mathematics')
+('94','5','Diagnostic ultrasonic imaging')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('94','5','Mathematics')
+('95','5','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('95','5','Games & Activities')
+('96','5','Art, American')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('96','5','Games & Activities')
+('97','5','Art, American')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('97','5','Religion')
+('98','5','Astronomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('98','5','Religion')
+('99','5','Astronomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('99','5','Religion')
+('103','5','Nuclear energy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('100','5','CD-ROMs')
+('104','5','Nuclear energy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('101','5','Ethnology')
+('105','5','Nuclear energy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('102','5','Ethnology')
+('106','5','Aesthetics, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('103','5','Ethnology')
+('107','5','Aesthetics, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('104','5','Fiction')
+('108','5','Aesthetics, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('105','5','Fiction')
+('109','5','Comics & Graphic Novels')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('106','5','Fiction')
+('110','5','Comics & Graphic Novels')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('107','5','Medical')
+('112','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('108','5','Medical')
+('113','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('109','5','Medical')
+('114','5','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('115','5','Bridges, Concrete')
+('115','5','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('116','5','Bridges, Concrete')
+('116','5','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('117','5','Bridges, Concrete')
+('117','5','CD-ROMs')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('118','5','Building')
+('118','5','CD-ROMs')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('119','5','Building')
+('119','5','CD-ROMs')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('120','5','Building')
+('120','5','Ethnology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('121','5','Petroleum')
+('121','5','Ethnology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('122','5','C (Computer program language)')
+('125','5','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('123','5','Computers')
+('126','5','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('124','5','Computers')
+('131','5','Bridges, Concrete')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('125','5','Computers')
+('132','5','Bridges, Concrete')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('126','5','English literature')
+('133','5','Bridges, Concrete')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('127','5','English literature')
+('134','5','Building')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('128','5','English literature')
+('135','5','Building')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('129','5','Mathematics')
+('136','5','Building')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('130','5','Mathematics')
+('138','5','C (Computer program language)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('131','5','Mathematics')
+('139','5','C (Computer program language)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('135','5','International law')
+('140','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('136','5','American drama')
+('141','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('137','5','American drama')
+('142','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('138','5','England')
+('143','5','English literature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('139','5','England')
+('144','5','English literature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('140','5','Ceramic metals')
+('145','5','International law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('141','5','Ceramic metals')
+('146','5','International law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('142','5','Ceramic metals')
+('147','5','American drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('143','5','Mathematics')
+('148','5','American drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('144','5','Mathematics')
+('149','5','England')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('145','5','Mathematics')
+('150','5','England')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('146','5','Metaphor')
+('151','5','Ceramic metals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('149','5','Engineering')
+('152','5','Metaphor')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('150','5','Engineering')
+('153','5','Metaphor')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('151','5','Mathematics')
+('155','5','Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('152','5','Mathematics')
+('156','5','Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('153','5','Mathematics')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('154','5','Business & Economics')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('155','5','Business & Economics')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('156','5','Business & Economics')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('157','5','Mathematics')
+('157','5','Meteorology')
 ;
 
 Insert into Category
@@ -18109,67 +18325,79 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('159','5','Mathematics')
+('159','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('160','5','Arms control')
+('160','5','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('161','5','Arms control')
+('161','5','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('162','5','Arms control')
+('162','5','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('163','5','Music')
+('163','5','Juvenile Nonfiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('164','5','Music')
+('164','5','Juvenile Nonfiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('165','5','Arbitration, Industrial')
+('165','5','Juvenile Nonfiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('166','5','Astronomy')
+('166','5','Music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('167','5','Insurance companies')
+('167','5','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('168','5','Insurance companies')
+('168','5','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('169','5','Insurance companies')
+('169','5','Arbitration, Industrial')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('170','5','Insurance companies')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('172','5','Technology & Engineering')
 ;
 
 Insert into Category
@@ -18181,7 +18409,7 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('177','5','Homology theory')
+('177','5','Psychology')
 ;
 
 Insert into Category
@@ -18193,397 +18421,391 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('179','5','Education')
+('179','5','Homology theory')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('180','5','Religion')
+('180','5','Homology theory')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('181','5','Religion')
+('181','5','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('182','5','Cotton growing')
+('182','5','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('183','5','Cotton growing')
+('185','5','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('184','5','Cotton growing')
+('186','5','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('185','5','Industrial statistics')
+('187','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('186','5','Industrial statistics')
+('188','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('187','5','Industrial statistics')
+('189','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('188','5','Asymmetric synthesis')
+('190','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('189','5','Asymmetric synthesis')
+('191','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('190','5','Horse racing')
+('192','5','Cotton growing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('191','5','Children's stories')
+('193','5','Cotton growing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('192','5','Children's stories')
+('194','5','Asymmetric synthesis')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('193','5','Children's stories')
+('195','5','Asymmetric synthesis')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('194','5','Computers')
+('196','5','Asymmetric synthesis')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('195','5','Computers')
+('197','5','Horse racing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('196','5','Asphalt')
+('198','5','Horse racing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('197','5','Fiction')
+('199','5','Childrens stories')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('198','5','Political Science')
+('200','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('199','5','Political Science')
+('201','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('200','5','Artibeus jamaicensis')
+('202','5','Asphalt')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('201','5','Artibeus jamaicensis')
+('203','5','Asphalt')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('202','5','Artibeus jamaicensis')
+('204','5','Asphalt')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('205','5','Cincinnati (Ohio)')
+('205','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('206','5','Cincinnati (Ohio)')
+('206','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('207','5','Cincinnati (Ohio)')
+('207','5','Artibeus jamaicensis')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('208','5','Music')
+('208','5','Artibeus jamaicensis')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('209','5','Music')
+('210','5','Cincinnati (Ohio)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('210','5','Music')
+('211','5','Cincinnati (Ohio)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('211','5','Geology')
+('212','5','Music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('212','5','Medicine')
+('213','5','Music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('213','5','Medicine')
+('214','5','Music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('214','5','Poetry')
+('215','5','Geology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('215','5','American wit and humor')
+('216','5','Geology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('217','5','Automobile industry and trade')
+('217','5','Geology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('218','5','Antitrust law')
+('218','5','Medicine')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('219','5','Antitrust law')
+('219','5','Medicine')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('220','5','Astronautics in earth sciences')
+('220','5','American wit and humor')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('221','5','Astronautics in earth sciences')
+('221','5','Automobile industry and trade')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('222','5','Diffusion processes')
+('222','5','Automobile industry and trade')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('223','5','Diffusion processes')
+('223','5','Antitrust law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('224','5','Géographie économique - URSS - Cartes')
+('224','5','Antitrust law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('225','5','Géographie économique - URSS - Cartes')
+('225','5','Antitrust law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('226','5','Economics')
+('226','5','Astronautics in earth sciences')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('227','5','Economics')
+('227','5','Astronautics in earth sciences')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('228','5','Self-Help')
+('228','5','Astronautics in earth sciences')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('229','5','Education')
+('231','5','Diffusion processes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('230','5','Education')
+('232','5','Diffusion processes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('231','5','Education')
+('233','5','Diffusion processes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('232','5','Education')
+('234','5','Géographie économique - URSS - Cartes')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('233','5','Education')
+('235','5','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('234','5','Computers')
+('236','5','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('235','5','Religion')
+('237','5','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('236','5','Religion')
+('238','5','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('237','5','Religion')
+('239','5','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('238','5','Airplanes')
+('240','5','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('239','5','Airplanes')
+('241','5','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('241','5','Political Science')
+('242','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('242','5','Political Science')
+('243','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('243','5','Political Science')
+('244','5','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('244','5','Technology & Engineering')
+('245','5','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('245','5','Plastics')
+('246','5','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('246','5','Plastics')
+('247','5','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('249','5','Policy sciences')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('250','5','Policy sciences')
+('248','5','Technology & Engineering')
 ;
 
 Insert into Category
@@ -18613,619 +18835,631 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('255','5','History')
+('255','5','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('256','5','History')
+('256','5','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('257','5','Photography')
+('257','5','Metals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('258','5','Photography')
+('258','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('259','5','Corporations')
+('259','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('260','5','Biology')
+('260','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('261','5','Biology')
+('261','5','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('262','5','Science')
+('262','5','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('263','5','Science')
+('263','5','Microbiology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('267','5','Science')
+('264','5','Microbiology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('268','5','Science')
+('265','5','Microbiology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('269','5','Calculus')
+('266','5','Photography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('270','5','Anglo-Catholicism')
+('267','5','Photography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('271','5','Anglo-Catholicism')
+('268','5','Corporations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('272','5','Anglo-Catholicism')
+('269','5','Corporations')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('273','5','Technology & Engineering')
+('270','5','Biology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('274','5','Beaufort Sea')
+('271','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('278','5','Science')
+('274','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('279','5','Science')
+('275','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('280','5','Science')
+('276','5','Calculus')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('281','5','Medical')
+('277','5','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('282','5','Medical')
+('285','5','Computer programming')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('284','5','Flower gardening')
+('286','5','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('285','5','Entrepreneurship')
+('291','5','Flower gardening')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('286','5','Entrepreneurship')
+('292','5','Flower gardening')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('287','5','Social Science')
+('293','5','Flower gardening')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('288','5','African Americans')
+('294','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('289','5','African Americans')
+('295','5','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('290','5','African Americans')
+('296','5','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('291','5','Science')
+('297','5','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('292','5','Science')
+('298','5','African Americans')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('293','5','Science')
+('299','5','African Americans')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('294','5','Cooking')
+('300','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('295','5','Literary Collections')
+('301','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('296','5','Literary Collections')
+('302','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('300','5','Technology & Engineering')
+('303','5','Generals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('301','5','Technology & Engineering')
+('304','5','Generals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('302','5','Technology & Engineering')
+('305','5','German Americans')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('303','5','Fiction')
+('306','5','German Americans')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('309','5','Haiti')
+('307','5','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('310','5','Technology & Engineering')
+('308','5','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('311','5','Technology & Engineering')
+('309','5','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('312','5','Technology & Engineering')
+('310','5','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('313','5','Medical')
+('311','5','Literary Collections')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('314','5','Medical')
+('313','5','Greece')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('315','5','Medical')
+('314','5','Greece')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('319','5','Geography')
+('315','5','Economic development')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('320','5','Barkhamsted (Conn.)')
+('316','5','Economic development')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('321','5','Cooking')
+('317','5','Economic development')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('322','5','Cooking')
+('318','5','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('323','5','Cooking')
+('319','5','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('324','5','Mass media')
+('322','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('325','5','Mass media')
+('323','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('326','5','Mass media')
+('327','5','Haiti')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('327','5','Self-Help')
+('328','5','Haiti')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('328','5','Cardiac output')
+('329','5','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('329','5','Cardiac output')
+('330','5','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('330','5','Human rights')
+('331','5','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('331','5','Human rights')
+('332','5','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('332','5','Hydrographic surveying')
+('335','5','Geography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('333','5','Hydrographic surveying')
+('336','5','Barkhamsted (Conn.)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('334','5','Hydrographic surveying')
+('337','5','Barkhamsted (Conn.)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('335','5','Pro-choice movement')
+('338','5','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('336','5','Bible stories, English')
+('339','5','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('337','5','Bible stories, English')
+('340','5','Hospitals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('338','5','Literary Collections')
+('341','5','Hospitals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('339','5','Study Aids')
+('342','5','Hospitals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('340','5','Study Aids')
+('343','5','Self-Help')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('341','5','Fiction')
+('344','5','Cardiac output')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('342','5','Fiction')
+('345','5','Cardiac output')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('343','5','Fiction')
+('346','5','Cardiac output')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('344','5','Nature')
+('347','5','Human rights')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('345','5','Nature')
+('348','5','Human rights')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('346','5','Nature')
+('349','5','Human rights')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('347','5','Science')
+('350','5','Hydrographic surveying')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('348','5','Computers')
+('351','5','Hydrographic surveying')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('350','5','Mathematics')
+('352','5','Pro-choice movement')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('351','5','Functions of real variables')
+('353','5','Pro-choice movement')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('352','5','Differential equations')
+('354','5','History, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('353','5','Presidents')
+('355','5','History, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('354','5','Presidents')
+('356','5','History, Modern')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('355','5','Antiques & Collectibles')
+('357','5','Bible stories, English')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('356','5','Biography & Autobiography')
+('358','5','Bible stories, English')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('357','5','History')
+('359','5','Drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('361','5','Economics')
+('360','5','Study Aids')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('362','5','Natural history')
+('361','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('363','5','Natural history')
+('362','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('364','5','Natural history')
+('363','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('365','5','Mathematics')
+('364','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('366','5','Mathematics')
+('365','5','Nature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('367','5','Mathematics')
+('366','5','Nature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('368','5','Mathematics')
+('367','5','Nature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('373','5','History')
+('368','5','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('374','5','Actions and defenses')
+('369','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('375','5','Actions and defenses')
+('370','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('376','5','Electronic books')
+('371','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('377','5','Electronic books')
+('375','5','Travel')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('378','5','Computation laboratories')
+('376','5','Functions of real variables')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('379','5','Computation laboratories')
+('377','5','Presidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('380','5','Libraries')
+('378','5','Presidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('381','5','Subject catalogs')
+('379','5','Presidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('382','5','Subject catalogs')
+('380','5','Antiques & Collectibles')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('383','5','History')
+('381','5','Literary Criticism')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('382','5','Biography & Autobiography')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('383','5','Biography & Autobiography')
 ;
 
 Insert into Category
@@ -19237,943 +19471,1009 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('385','5','Language Arts & Disciplines')
+('387','5','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('386','5','Medical')
+('388','5','Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('387','5','Medical')
+('389','5','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('388','5','Medical')
+('390','5','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('389','5','City planning')
+('391','5','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('390','5','Literary Criticism')
+('392','5','Washington (State)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('391','5','Literary Criticism')
+('393','5','Washington (State)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('392','5','Nursing')
+('394','5','Australia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('393','5','Nursing')
+('395','5','Australia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('394','5','English language')
+('396','5','Natural history')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('395','5','Biography & Autobiography')
+('397','5','Natural history')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('396','5','Biography & Autobiography')
+('398','5','Bone wiring (Orthopedics)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('397','5','Language Arts & Disciplines')
+('399','5','Bone wiring (Orthopedics)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('398','5','Mathematics')
+('400','5','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('399','5','Mathematics')
+('401','5','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('400','5','Art, Modern')
+('402','5','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('401','5','Art, Modern')
+('406','5','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('402','5','Art, Modern')
+('407','5','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('403','5','Business & Economics')
+('408','5','Labor laws and legislation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('404','5','Alle lande')
+('409','5','Electronic books')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('405','5','Alle lande')
+('410','5','Electronic books')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('406','5','Freemasonry')
+('411','5','Computation laboratories')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('407','5','Business & Economics')
+('412','5','Libraries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('408','5','Business & Economics')
+('413','5','Libraries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('409','5','Business & Economics')
+('414','5','Libraries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('410','5','Mathematics')
+('415','5','Subject catalogs')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('411','5','Mathematics')
+('416','5','Subject catalogs')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('415','5','Wisconsin')
+('417','5','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('416','5','Wisconsin')
+('418','5','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('417','5','Wisconsin')
+('419','5','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('418','5','Medical')
+('420','5','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('419','5','Medical')
+('421','5','Micronesia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('420','5','Medical')
+('422','5','Micronesia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('421','5','English language')
+('423','5','Micronesia')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('422','5','English language')
+('424','5','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('423','5','Business')
+('425','5','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('424','5','Microsoft Word')
+('426','5','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('425','5','Microsoft Word')
+('427','5','City planning')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('426','5','History')
+('428','5','Literary Criticism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('427','5','History')
+('429','5','Literary Criticism')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('428','5','History')
+('430','5','Nursing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('429','5','Business & Economics')
+('431','5','Nursing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('430','5','India')
+('432','5','Nursing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('431','5','India')
+('433','5','English language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('432','5','India')
+('434','5','English language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('435','5','Family & Relationships')
+('435','5','English language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('436','5','Performing Arts')
+('436','5','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('437','5','Performing Arts')
+('437','5','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('438','5','Performing Arts')
+('438','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('439','5','Social Science')
+('439','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('440','5','Social Science')
+('440','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('441','5','Computer science')
+('441','5','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('442','5','Computer science')
+('442','5','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('443','5','Education')
+('443','5','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('444','5','Education')
+('444','5','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('445','5','Education')
+('445','5','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('446','5','Blake, Anita (Fictitious character)')
+('446','5','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('447','5','Blake, Anita (Fictitious character)')
+('447','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('448','5','Blake, Anita (Fictitious character)')
+('448','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('449','5','Gross national product')
+('449','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('450','5','Gross national product')
+('450','5','Environmental protection')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('451','5','Employers' liability')
+('451','5','Environmental protection')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('452','5','Nervous system')
+('452','5','Environmental protection')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('453','5','Nervous system')
+('453','5','Alle lande')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('454','5','Nervous system')
+('454','5','Alle lande')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('460','5','Court decisions and opinions')
+('455','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('461','5','Court decisions and opinions')
+('456','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('462','5','Court decisions and opinions')
+('457','5','Geometrical models')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('463','5','Comic books, strips, etc')
+('458','5','Geometrical models')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('468','5','Analyse numérique')
+('459','5','Geometrical models')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('469','5','Analyse numérique')
+('460','5','South Carolina')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('475','5','Gynecology')
+('463','5','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('476','5','Gynecology')
+('464','5','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('477','5','Gynecology')
+('465','5','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('478','5','Science')
+('466','5','English language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('479','5','Science')
+('467','5','English language')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('480','5','Science')
+('468','5','Business')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('481','5','Child development')
+('469','5','Business')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('488','5','Anatomy')
+('470','5','Microsoft Word')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('489','5','Business & Economics')
+('471','5','Microsoft Word')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('490','5','Business & Economics')
+('472','5','Microsoft Word')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('491','5','Business & Economics')
+('473','5','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('492','5','Law')
+('474','5','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('493','5','Law')
+('475','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('494','5','Analyse combinatoire')
+('476','5','India')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('495','5','Indexes')
+('477','5','India')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('496','5','Indexes')
+('478','5','Family & Relationships')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('497','5','Indexes')
+('479','5','Family & Relationships')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('498','5','Electronic data processing')
+('480','5','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('499','5','Philosophy')
+('481','5','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('500','5','Philosophy')
+('482','5','Performing Arts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('501','5','Political Science')
+('483','5','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('502','5','Capitalists and financiers')
+('484','5','Computer science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('503','5','Capitalists and financiers')
+('485','5','Computer science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('507','5','Geology')
+('486','5','Computer science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('508','5','Geology')
+('487','5','Gross national product')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('509','5','Aboriginal Australians')
+('488','5','Employers liability')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('510','5','Decedents' estates')
+('489','5','Employers liability')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('511','5','Decedents' estates')
+('490','5','Employers liability')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('512','5','Decedents' estates')
+('491','5','Nervous system')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('513','5','Mechanical engineering')
+('494','5','Court decisions and opinions')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('514','5','Mechanical engineering')
+('495','5','Comic books, strips, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('515','5','Science')
+('496','5','Comic books, strips, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('516','5','Science')
+('497','5','Comic books, strips, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('517','5','Science')
+('501','5','Spheroidal functions')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('518','5','C (Computer program language)')
+('502','5','Analyse numérique')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('519','5','C (Computer program language)')
+('503','5','Analyse numérique')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('520','5','Computers')
+('504','5','Analyse numérique')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('521','5','Computers')
+('509','5','Gynecology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('522','5','Computers')
+('510','5','Gynecology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('523','5','Law')
+('511','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('524','5','Law')
+('512','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('525','5','Law')
+('513','5','Child development')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('526','5','Bible')
+('514','5','Child development')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('527','5','Bible')
+('515','5','Child development')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('528','5','Bible')
+('516','5','Cemeteries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('529','5','Medical')
+('517','5','Cemeteries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('530','5','Medical')
+('518','5','Anatomy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('531','5','Science')
+('519','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('532','5','Science')
+('520','5','Law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('533','5','Mathematics')
+('521','5','Law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('534','5','Mathematics')
+('522','5','Law')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('535','5','Mathematics')
+('523','5','Psychology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('536','5','Computers')
+('524','5','Analyse combinatoire')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('537','5','Computers')
+('525','5','Analyse combinatoire')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('538','5','Computers')
+('526','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('539','5','Railroad crossings')
+('527','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('540','5','Railroad crossings')
+('528','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('541','5','United States')
+('529','5','Electronic data processing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('542','5','United States')
+('530','5','Estates (Law)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('543','5','United States')
+('531','5','Estates (Law)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('544','5','Business & Economics')
+('532','5','Philosophy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('545','5','Business & Economics')
+('533','5','Condensed matter')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('546','5','Business & Economics')
+('534','5','Condensed matter')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('547','5','Intellectual cooperation')
+('535','5','Condensed matter')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('548','5','Intellectual cooperation')
+('536','5','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('549','5','Aeronautics in meteorology')
+('537','5','Capitalists and financiers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('550','5','Aeronautics in meteorology')
+('538','5','Capitalists and financiers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('551','5','Aeronautics in meteorology')
+('539','5','Capitalists and financiers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('552','5','Aeronautics')
+('543','5','Geology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('553','5','Aeronautics')
+('544','5','Geology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('554','5','Aeronautics')
+('545','5','Geology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('555','5','Canada')
+('546','5','Cabinet system')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('556','5','Canada')
+('547','5','Aboriginal Australians')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('557','5','Religion')
+('548','5','Aboriginal Australians')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('558','5','Business & Economics')
+('549','5','Decedents estates')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('559','5','Business & Economics')
+('550','5','Decedents estates')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('560','5','Basal ganglia')
+('551','5','Mechanical engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('561','5','Basal ganglia')
+('552','5','Mechanical engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('562','5','Subchapter S corporations')
+('553','5','Mechanical engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('563','5','Subchapter S corporations')
+('554','5','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('566','5','Drama')
+('555','5','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('567','5','Drama')
+('556','5','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('568','5','Drama')
+('557','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('569','5','Canada')
+('558','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('570','5','Canada')
+('559','5','Engineering design')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('571','5','Canada')
+('560','5','Engineering design')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('561','5','C (Computer program language)')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('562','5','C (Computer program language)')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('563','5','C (Computer program language)')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('564','5','Computers')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('565','5','Computers')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('566','5','Bible')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('567','5','Bible')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('568','5','Bible')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('569','5','Medical')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('570','5','Science')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('571','5','Science')
 ;
 
 Insert into Category
@@ -20185,397 +20485,337 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('573','5','Business & Economics')
+('573','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('574','5','Business & Economics')
+('574','5','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('575','5','Mathematics')
+('575','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('576','5','Law reports, digests, etc')
+('576','5','Computers')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('577','5','Law reports, digests, etc')
+('577','5','Railroad crossings')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('578','5','Science')
+('578','5','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('579','5','New Zealand')
+('579','5','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('580','5','New Zealand')
+('580','5','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('581','5','New Zealand')
+('581','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('582','5','Libraries')
+('582','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('583','5','Libraries')
+('583','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('584','5','Business & Economics')
+('584','5','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('587','5','College students')
+('585','5','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('588','5','College students')
+('586','5','Aeronautics in meteorology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('589','5','Mathematics')
+('587','5','Aeronautics in meteorology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('590','5','Mathematics')
+('588','5','Aeronautics in meteorology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('591','5','Mathematics')
+('589','5','Traffic accidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('593','5','Fiction')
+('590','5','Traffic accidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('594','5','Fiction')
+('594','5','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('595','5','History')
+('595','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('596','5','History')
+('596','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('597','5','History')
+('597','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('598','5','Taxation')
+('600','5','South Africa')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('599','5','Great Britain')
+('601','5','South Africa')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('600','5','Great Britain')
+('602','5','South Africa')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('601','5','Education')
+('606','5','Drama')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('602','5','Education')
+('607','5','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('603','5','Mineral industries')
+('608','5','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('604','5','Mineral industries')
+('609','5','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('605','5','Mineral industries')
+('610','5','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('606','5','Children of clergy')
+('611','5','Great Britain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('607','5','Children of clergy')
+('612','5','Great Britain')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('608','5','Children of clergy')
+('613','5','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('609','5','401(k) plans')
+('614','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('610','5','History')
+('615','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('611','5','History')
+('616','5','Information theory in economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('612','5','Authors, Irish')
+('617','5','Information theory in economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('613','5','Authors, Irish')
+('618','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('614','5','Fiction')
+('619','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('615','5','Fiction')
+('620','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('616','5','Budget')
+('621','5','New Zealand')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('617','5','Arts')
+('622','5','New Zealand')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('618','5','Arts')
+('623','5','New Zealand')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('619','5','Arts')
+('624','5','Libraries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('620','5','Cooking')
+('625','5','Libraries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('621','5','Country music')
+('626','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('622','5','Country music')
+('628','5','College students')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('623','5','Philosophy')
+('629','5','College students')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('624','5','Philosophy')
+('630','5','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('625','5','English literature')
+('631','5','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('626','5','English literature')
+('632','5','Ergodic theory')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('627','5','English literature')
+('637','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('628','5','FICTION')
+('638','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('629','5','FICTION')
+('639','5','Commerce')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('630','5','Juvenile Fiction')
+('640','5','Commerce')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('631','5','Juvenile Fiction')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('632','5','Juvenile Fiction')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('633','5','Fiction')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('634','5','Fiction')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('635','5','Business & Economics')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('636','5','Business & Economics')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('637','5','Business & Economics')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('638','5','Political Science')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('639','5','Fiction')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('640','5','Fiction')
-;
-
-Insert into Category
-(`BookID`,`SchoolID`,`CategoryName`)
-Values
-('641','5','Fiction')
+('641','5','Commerce')
 ;
 
 Insert into Category
@@ -20587,259 +20827,259 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('643','5','History')
+('643','5','Taxation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('644','5','History')
+('644','5','Taxation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('645','5','Political Science')
+('645','5','Taxation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('646','5','Political Science')
+('646','5','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('647','5','Art')
+('647','5','Education')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('648','5','Medical')
+('648','5','Mineral industries')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('649','5','Cytology')
+('649','5','Navigation (Aeronautics)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('650','5','Animal culture')
+('650','5','Navigation (Aeronautics)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('651','5','Animal culture')
+('651','5','Children of clergy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('652','5','Animal culture')
+('652','5','Children of clergy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('653','5','Science')
+('653','5','Children of clergy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('654','5','Science')
+('654','5','401(k) plans')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('655','5','Science')
+('658','5','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('656','5','Novelle')
+('659','5','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('657','5','Novelle')
+('660','5','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('658','5','Novelle')
+('661','5','Occupational therapy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('659','5','Architectural drawing')
+('662','5','Occupational therapy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('660','5','Architectural drawing')
+('663','5','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('661','5','Science')
+('664','5','Authors, Irish')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('662','5','Science')
+('665','5','Nature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('663','5','Science')
+('666','5','Nature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('664','5','Biography & Autobiography')
+('667','5','Nature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('665','5','Saint Louis (Mo.)')
+('668','5','Budget')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('666','5','History')
+('669','5','Budget')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('667','5','History')
+('670','5','Grocery shopping')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('668','5','History')
+('671','5','Grocery shopping')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('669','5','Minnesota')
+('672','5','Grocery shopping')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('670','5','Minnesota')
+('673','5','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('671','5','Fiction')
+('674','5','Cooking')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('672','5','Stocks')
+('675','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('673','5','Stocks')
+('676','5','Country music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('674','5','Stocks')
+('677','5','Country music')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('678','5','Law reports, digests, etc')
+('678','5','English literature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('679','5','Oak Park (Ill.)')
+('679','5','English literature')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('680','5','Oak Park (Ill.)')
+('680','5','FICTION')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('681','5','Industrial productivity')
+('681','5','FICTION')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('682','5','Industrial productivity')
+('682','5','FICTION')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('683','5','Biography & Autobiography')
+('683','5','Juvenile Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('684','5','Great Britain')
+('684','5','Juvenile Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('685','5','Industrial policy')
+('685','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('686','5','Capitalism')
+('686','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('687','5','Capitalism')
+('687','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('688','5','Capitalism')
+('688','5','Business & Economics')
 ;
 
 Insert into Category
@@ -20851,301 +21091,319 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('690','5','Business & Economics')
+('690','5','Design')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('691','5','Business & Economics')
+('691','5','Design')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('695','5','Almanacs, American')
+('692','5','Design')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('696','5','Electronic journals')
+('693','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('697','5','Electronic journals')
+('694','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('698','5','Electronic journals')
+('695','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('699','5','Missions')
+('696','5','Coasts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('700','5','History')
+('697','5','Coasts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('701','5','Business & Economics')
+('698','5','Coasts')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('702','5','Subconsciousness in literature')
+('699','5','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('703','5','United States')
+('700','5','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('704','5','Fiction')
+('701','5','Political Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('705','5','Fiction')
+('702','5','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('706','5','Bonds')
+('703','5','Language Arts & Disciplines')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('707','5','Bonds')
+('704','5','Art')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('708','5','Bonds')
+('705','5','Art')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('709','5','Religion')
+('706','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('712','5','Fiction')
+('707','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('713','5','Fiction')
+('708','5','Medical')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('714','5','Educational law and legislation')
+('709','5','Nuclear energy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('715','5','Educational law and legislation')
+('710','5','Nuclear energy')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('716','5','Educational law and legislation')
+('711','5','Cytology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('717','5','Crystals')
+('712','5','Cytology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('718','5','Crystals')
+('713','5','Cytology')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('719','5','Crystals')
+('714','5','East Lothian (Scotland)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('720','5','History')
+('715','5','East Lothian (Scotland)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('721','5','History')
+('716','5','Animal culture')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('722','5','Alcohols')
+('717','5','Animal culture')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('723','5','Alcohols')
+('718','5','Animal culture')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('724','5','Religion')
+('719','5','Architectural drawing')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('725','5','Religion')
+('720','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('727','5','Illumination of books and manuscripts, English')
+('721','5','Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('728','5','Illumination of books and manuscripts, English')
+('722','5','Biography & Autobiography')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('729','5','Psychology')
+('723','5','Minnesota')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('730','5','Income tax')
+('724','5','Minnesota')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('731','5','Income tax')
+('725','5','Minnesota')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('732','5','Income tax')
+('726','5','Juvenile Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('733','5','Canada')
+('727','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('734','5','Canada')
+('728','5','Stocks')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('735','5','Law')
+('729','5','Stocks')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('736','5','Law')
+('733','5','Law reports, digests, etc')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('737','5','Law reports, digests, etc')
+('734','5','Oak Park (Ill.)')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('738','5','Law reports, digests, etc')
+('735','5','Industrial productivity')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('739','5','Law reports, digests, etc')
+('736','5','Industrial productivity')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('740','5','Ireland')
+('737','5','Railroads')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('741','5','Urban transportation')
+('738','5','Presidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('742','5','Urban transportation')
+('739','5','Presidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('743','5','Urban transportation')
+('740','5','Presidents')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('744','5','Education')
+('741','5','Proverbs')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('745','5','Business & Economics')
+('742','5','Biography & Autobiography')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('743','5','Religion')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('744','5','Capitalism')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('745','5','Capitalism')
 ;
 
 Insert into Category
@@ -21157,246 +21415,600 @@ Values
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('747','5','History')
+('747','5','Business & Economics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('748','5','History')
+('749','5','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('749','5','Stream measurements')
+('750','5','Technology & Engineering')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('750','5','Stream measurements')
+('751','5','Almanacs, American')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('751','5','Stream measurements')
+('752','5','Almanacs, American')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('754','5','Law reports, digests, etc')
+('753','5','Almanacs, American')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('755','5','Law reports, digests, etc')
+('754','5','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('756','5','Biography & Autobiography')
+('755','5','Electronic journals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('757','5','Literary Criticism')
+('756','5','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('758','5','Literary Criticism')
+('757','5','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('762','5','Bouyei language')
+('758','5','Social Science')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('763','5','Bouyei language')
+('759','5','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('764','5','Bouyei language')
+('760','5','United States')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('765','5','Administrative law')
+('761','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('766','5','Indexes')
+('762','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('767','5','Political Science')
+('763','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('768','5','Political Science')
+('764','5','Bonds')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('769','5','Political Science')
+('765','5','Bonds')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('770','5','Biography & Autobiography')
+('766','5','Bonds')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('771','5','Biography & Autobiography')
+('767','5','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('772','5','DOS device drivers (Computer programs).')
+('768','5','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('773','5','DOS device drivers (Computer programs).')
+('771','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('774','5','Indiana')
+('772','5','Fiction')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('775','5','Indiana')
+('773','5','Educational law and legislation')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('776','5','Political Science')
+('774','5','Crystals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('777','5','Political Science')
+('775','5','Crystals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('778','5','Political Science')
+('776','5','Crystals')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('779','5','Self-Help')
+('777','5','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('780','5','Self-Help')
+('778','5','History')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('781','5','Juvenile Fiction')
+('779','5','Alcohols')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('782','5','Biography & Autobiography')
+('780','5','Alcohols')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('783','5','Medical')
+('781','5','Religion')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('784','5','Fiction')
+('784','5','Illumination of books and manuscripts, English')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('785','5','Fiction')
+('785','5','Medicine')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('786','5','Art, Israeli')
+('786','5','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('787','5','Costume')
+('787','5','Mathematics')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('788','5','Costume')
+('788','5','Income tax')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('789','5','Costume')
+('789','5','Income tax')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('790','5','Chinese language')
+('790','5','Income tax')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('791','5','Chinese language')
+('791','5','Canada')
 ;
 
 Insert into Category
 (`BookID`,`SchoolID`,`CategoryName`)
 Values
-('792','5','Chinese language')
+('792','5','Canada')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('793','5','Canada')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('794','5','Law')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('795','5','Law')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('796','5','United States')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('797','5','Law reports, digests, etc')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('798','5','Law reports, digests, etc')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('799','5','Law reports, digests, etc')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('800','5','Ireland')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('801','5','Urban transportation')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('802','5','Education')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('803','5','Education')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('804','5','Education')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('805','5','Granite')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('806','5','Granite')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('807','5','Stream measurements')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('809','5','Law reports, digests, etc')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('810','5','Law reports, digests, etc')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('811','5','Law reports, digests, etc')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('812','5','Biography & Autobiography')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('813','5','Biography & Autobiography')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('814','5','Biography & Autobiography')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('816','5','Asia, Southeastern')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('817','5','Asia, Southeastern')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('818','5','Asia, Southeastern')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('819','5','Bouyei language')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('820','5','Bouyei language')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('821','5','Bouyei language')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('822','5','Vocational education')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('823','5','Vocational education')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('824','5','Administrative law')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('825','5','Administrative law')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('826','5','Law reports, digests, etc')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('827','5','Law reports, digests, etc')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('828','5','Indexes')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('829','5','Political Science')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('830','5','Political Science')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('831','5','Political Science')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('832','5','Biography & Autobiography')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('833','5','Biography & Autobiography')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('834','5','DOS device drivers (Computer programs).')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('835','5','DOS device drivers (Computer programs).')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('836','5','Indiana')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('837','5','Indiana')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('838','5','Indiana')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('841','5','Political Science')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('842','5','Political Science')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('843','5','Political Science')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('844','5','Self-Help')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('845','5','Self-Help')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('846','5','Self-Help')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('847','5','Self-Help')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('848','5','Self-Help')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('849','5','Cooking')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('850','5','Fiction')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('851','5','Art, Israeli')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('852','5','Damascus Gate (Jerusalem)')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('853','5','Damascus Gate (Jerusalem)')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('854','5','Chinese language')
+;
+
+Insert into Category
+(`BookID`,`SchoolID`,`CategoryName`)
+Values
+('855','5','Chinese language')
 ;
 

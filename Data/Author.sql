@@ -1,31 +1,19 @@
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('1','1','Larry Malcolm')
+('1','1','Robert W. Yarbrough')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('2','1','James D. Ployhar')
+('2','1','Robert W. Yarbrough')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('2','1','George B. Zepp')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('3','1','James D. Ployhar')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('3','1','George B. Zepp')
+('3','1','Robert W. Yarbrough')
 ;
 
 Insert into Author
@@ -43,7 +31,7 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('5','1','Peter Ratner')
+('5','1','Richard Schmitt')
 ;
 
 Insert into Author
@@ -55,811 +43,763 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('7','1','Richard Schmitt')
+('7','1','S (Sabine) 1834-1924 Baring-Gould')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('8','1','S (Sabine) 1834-1924 Baring-Gould')
+('8','1','Richard Raskin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('9','1','S (Sabine) 1834-1924 Baring-Gould')
+('9','1','Richard Raskin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('10','1','S (Sabine) 1834-1924 Baring-Gould')
+('10','1','Thomas F. Michel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('11','1','Royal Anthropological Institute of Great Britain and Ireland. Library')
+('11','1','Richard J. Durling')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('11','1','Sir Richard Francis Burton')
+('12','1','Richard J. Durling')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('12','1','Royal Anthropological Institute of Great Britain and Ireland. Library')
+('13','1','W. John Braun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('12','1','Sir Richard Francis Burton')
+('13','1','Duncan J. Murdoch')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('13','1','Thomas Ernst')
+('14','1','W. John Braun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('14','1','Thomas Ernst')
+('14','1','Duncan J. Murdoch')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('15','1','Andrew Skilton')
+('15','1','W. John Braun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('16','1','Andrew Skilton')
+('15','1','Duncan J. Murdoch')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('17','1','Andrew Skilton')
+('16','1','Eung-Do Cook')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('18','1','Samuel E. Buttrey')
+('17','1','Eung-Do Cook')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('18','1','Lyn R. Whitaker')
+('18','1','Eung-Do Cook')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('19','1','Samuel E. Buttrey')
+('19','1','Angharad N. Valdivia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('19','1','Lyn R. Whitaker')
+('20','1','Angharad N. Valdivia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('20','1','Samuel E. Buttrey')
+('21','1','Robert C. Koons')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('20','1','Lyn R. Whitaker')
+('22','1','Robert C. Koons')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('21','1','Andrew John Wilde')
+('23','1','Robert C. Koons')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('22','1','W. John Braun')
+('24','1','Gary Kielhofner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('22','1','Duncan J. Murdoch')
+('25','1','Gary Kielhofner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('23','1','Eung-Do Cook')
+('26','1','Gary Kielhofner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('24','1','Edmund L. Epstein')
+('27','1','J. Laughton Johnston')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('25','1','Edmund L. Epstein')
+('28','1','J. Laughton Johnston')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('26','1','Edmund L. Epstein')
+('29','1','J. Laughton Johnston')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('27','1','Lois N. Magner')
+('30','1','Robert Burns')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('27','1','Oliver J Kim')
+('31','1','Onora ONeill')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('28','1','Lois N. Magner')
+('32','1','Onora ONeill')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('28','1','Oliver J Kim')
+('33','1','John R. Pattison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('29','1','Lois N. Magner')
+('33','1','R. N. Gruneberg')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('29','1','Oliver J Kim')
+('33','1','J. Holton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('30','1','Angharad N. Valdivia')
+('33','1','G. L. Ridgway')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('31','1','Robert C. Koons')
+('33','1','G. Scott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('32','1','Gary Kielhofner')
+('33','1','A. P. R. Wilson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('33','1','Gary Kielhofner')
+('34','1','Edward Upward')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('34','1','J. Laughton Johnston')
+('35','1','Richard Price')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('35','1','Robert Burns')
+('36','1','Richard Price')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('36','1','Robert Burns')
+('37','1','Richard Price')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('37','1','Robert Burns')
+('38','1','Donald Ray Davis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('38','1','Sir Thomas Henley')
+('39','1','Donald Ray Davis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('39','1','Sir Thomas Henley')
+('40','1','Donald Ray Davis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('40','1','Sir Thomas Henley')
+('41','1','Andrew Laurence Comrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('41','1','Onora O'Neill')
+('41','1','Thomas E. Backer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('42','1','John R. Pattison')
+('41','1','Edward Maynard Glaser')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('42','1','R. N. Gruneberg')
+('42','1','Andrew Laurence Comrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('42','1','J. Holton')
+('42','1','Thomas E. Backer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('42','1','G. L. Ridgway')
+('42','1','Edward Maynard Glaser')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('42','1','G. Scott')
+('43','1','Lewis H. King')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('42','1','A. P. R. Wilson')
+('43','1','Frances E. Goodspeed')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('43','1','John R. Pattison')
+('43','1','D. S. Montgomery')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('43','1','R. N. Gruneberg')
+('43','1','M. F. Millson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('43','1','J. Holton')
+('44','1','Lewis H. King')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('43','1','G. L. Ridgway')
+('44','1','Frances E. Goodspeed')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('43','1','G. Scott')
+('44','1','D. S. Montgomery')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('43','1','A. P. R. Wilson')
+('44','1','M. F. Millson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('44','1','John R. Pattison')
+('45','1','Lewis H. King')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('44','1','R. N. Gruneberg')
+('45','1','Frances E. Goodspeed')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('44','1','J. Holton')
+('45','1','D. S. Montgomery')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('44','1','G. L. Ridgway')
+('45','1','M. F. Millson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('44','1','G. Scott')
+('46','1','Christopher Wayne Curry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('44','1','A. P. R. Wilson')
+('46','1','John W. Curry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('45','1','Edward Upward')
+('47','1','Christopher Wayne Curry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('46','1','Edward Upward')
+('47','1','John W. Curry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('47','1','Edward Upward')
+('48','1','Athenaeus Naucratites')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('48','1','Richard Price')
+('49','1','Illinois')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('49','1','Ellen Bayuk Rosenman')
+('50','1','Illinois')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('50','1','Ellen Bayuk Rosenman')
+('51','1','Bob Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('51','1','Andrew Laurence Comrey')
+('51','1','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('51','1','Thomas E. Backer')
+('52','1','Emily M. Brown')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('51','1','Edward Maynard Glaser')
+('53','1','Emily M. Brown')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('52','1','Andrew Laurence Comrey')
+('54','1','Antoinette Elizabeth Kavanaugh')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('52','1','Thomas E. Backer')
+('55','1','Antoinette Elizabeth Kavanaugh')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('52','1','Edward Maynard Glaser')
+('56','1','Robert Shenk')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('53','1','Lewis H. King')
+('57','1','Robert Shenk')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('53','1','Frances E. Goodspeed')
+('58','1','Robert Shenk')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('53','1','D. S. Montgomery')
+('59','1','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('53','1','M. F. Millson')
+('59','1','Borat Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('54','1','Lewis H. King')
+('60','1','Werner Jüptner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('54','1','Frances E. Goodspeed')
+('60','1','Thomas Kreis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('54','1','D. S. Montgomery')
+('61','1','Werner Jüptner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('54','1','M. F. Millson')
+('61','1','Thomas Kreis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('55','1','Lewis H. King')
+('62','1','Werner Jüptner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('55','1','Frances E. Goodspeed')
+('62','1','Thomas Kreis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('55','1','D. S. Montgomery')
+('63','1','Jack-Michel Cornil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('55','1','M. F. Millson')
+('63','1','Philippe Testud')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('56','1','Illinois')
+('64','1','Daniel W. Graham')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('57','1','Bob Jones')
+('65','1','Daniel W. Graham')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('57','1','Borat Perry')
+('66','1','Daniel W. Graham')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('58','1','Emily M. Brown')
+('67','1','Juan Carlos Kaski')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('59','1','Emily M. Brown')
+('68','1','Juan Carlos Kaski')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('60','1','Antoinette Elizabeth Kavanaugh')
+('69','1','Gretel H. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('61','1','Antoinette Elizabeth Kavanaugh')
+('69','1','Sheila K. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('62','1','Robert Shenk')
+('70','1','Gretel H. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('63','1','Robert Shenk')
+('70','1','Sheila K. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('64','1','Jack Johnson')
+('71','1','Gretel H. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('64','1','Borat Jackson')
+('71','1','Sheila K. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('65','1','Everett R. Rhoades')
+('72','1','American Society for Testing and Materials')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('66','1','Everett R. Rhoades')
+('73','1','American Society for Testing and Materials')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('67','1','Werner Jüptner')
+('74','1','American Society for Testing and Materials')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('67','1','Thomas Kreis')
+('75','1','Texas Judicial Council')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('68','1','Sebastien Le')
+('76','1','Texas Judicial Council')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('68','1','Thierry Worch')
+('77','1','Inch̊ōn (Korea). Meteorological Observatory')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('69','1','Daniel W. Graham')
+('78','1','Michigan. State Board of Agriculture')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('70','1','Daniel W. Graham')
+('79','1','Thomas William Gardner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('71','1','Daniel W. Graham')
+('79','1','William D. Sevon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('72','1','Juan Carlos Kaski')
+('80','1','Thomas William Gardner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('73','1','Juan Carlos Kaski')
+('80','1','William D. Sevon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('74','1','Juan Carlos Kaski')
+('81','1','Daniel John Meador')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('75','1','Gretel H. Schueller')
+('81','1','Thomas E. Baker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('75','1','Sheila K. Schueller')
+('81','1','Joan E. Steinman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('76','1','Gretel H. Schueller')
+('82','1','Daniel John Meador')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('76','1','Sheila K. Schueller')
+('82','1','Thomas E. Baker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('77','1','Gretel H. Schueller')
+('82','1','Joan E. Steinman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('77','1','Sheila K. Schueller')
+('83','1','New Zealand. Parliament. House of Representatives')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('78','1','Texas Judicial Council')
+('84','1','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('79','1','Texas Judicial Council')
+('84','1','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('80','1','Inch̊ōn (Korea). Meteorological Observatory')
+('85','1','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('81','1','Inch̊ōn (Korea). Meteorological Observatory')
+('85','1','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('82','1','Inch̊ōn (Korea). Meteorological Observatory')
+('86','1','William Vaughan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('83','1','Michigan. State Board of Agriculture')
+('87','1','Demetrius Charles de Kavanagh Boulger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('84','1','Michigan. State Board of Agriculture')
+('88','1','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('85','1','Michigan. State Board of Agriculture')
+('88','1','Borat Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('86','1','Thomas William Gardner')
+('89','1','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('86','1','William D. Sevon')
+('89','1','Borat Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('87','1','Daniel John Meador')
+('90','1','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('87','1','Thomas E. Baker')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('87','1','Joan E. Steinman')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('88','1','Daniel John Meador')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('88','1','Thomas E. Baker')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('88','1','Joan E. Steinman')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('89','1','Daniel John Meador')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('89','1','Thomas E. Baker')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('89','1','Joan E. Steinman')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('90','1','New Zealand. Parliament. House of Representatives')
+('90','1','Borat Jackson')
 ;
 
 Insert into Author
@@ -877,223 +817,199 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('92','1','James P. Brennan')
+('92','1','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('93','1','James P. Brennan')
+('92','1','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('94','1','James P. Brennan')
+('93','1','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('95','1','William Vaughan')
+('93','1','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('96','1','William Vaughan')
+('94','1','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('97','1','Jack Smith')
+('94','1','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('97','1','Borat Jackson')
+('95','1','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('98','1','Jack Smith')
+('95','1','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('98','1','Borat Jackson')
+('96','1','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('99','1','Jack Smith')
+('96','1','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('99','1','Borat Jackson')
+('97','1','Rick Remender')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('100','1','Bob Johnson')
+('98','1','Rick Remender')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('100','1','Bill Jackson')
+('99','1','Rick Remender')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('101','1','Bob Johnson')
+('100','1','Beth Slick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('101','1','Bill Jackson')
+('100','1','Steve Gerber')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('102','1','Jack Jones')
+('101','1','Beth Slick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('102','1','Borat Stark')
+('101','1','Steve Gerber')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('103','1','Jack Jones')
+('102','1','Beth Slick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('103','1','Borat Stark')
+('102','1','Steve Gerber')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('104','1','Jack Jones')
+('103','1','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('104','1','Borat Stark')
+('103','1','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('105','1','Rick Remender')
+('104','1','Michael J. Lisicky')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('106','1','Rick Remender')
+('105','1','Nick Fieller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('107','1','Beth Slick')
+('106','1','Nick Fieller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('107','1','Steve Gerber')
+('107','1','Nick Fieller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('108','1','Beth Slick')
+('108','1','Edward O. Thorp')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('108','1','Steve Gerber')
+('109','1','Conor OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('109','1','Bob Smith')
+('110','1','Conor OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('109','1','Joseph Jackson')
+('111','1','Conor OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('110','1','Bob Smith')
+('112','1','Francie Wolgin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('110','1','Joseph Jackson')
+('113','1','Francie Wolgin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('111','1','Bob Smith')
+('114','1','Francie Wolgin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('111','1','Joseph Jackson')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('112','1','Michael J. Lisicky')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('113','1','Nick Fieller')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('114','1','Edward O. Thorp')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('115','1','Francie Wolgin')
+('115','1','Bernice Pauahi Bishop Museum')
 ;
 
 Insert into Author
@@ -1117,7 +1033,13 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('119','1','Sydney J. Bounds')
+('119','1','Kathy J. Scheffer')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('119','1','Richard S. Tobin')
 ;
 
 Insert into Author
@@ -1135,13 +1057,13 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('121','1','Kathy J. Scheffer')
+('121','1','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('121','1','Richard S. Tobin')
+('121','1','Joseph Loukas')
 ;
 
 Insert into Author
@@ -1237,67 +1159,13 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('125','1','Norman Uphoff')
+('125','1','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('125','1','Andrew S. Ball')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('125','1','Erick Fernandes')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('125','1','Hans Herren')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('125','1','Olivier Husson')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('125','1','Mark Laing')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('125','1','Cheryl Palm')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('125','1','Jules Pretty')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('125','1','Pedro Sanchez')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('125','1','Nteranya Sanginga')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('125','1','Janice Thies')
+('125','1','Borat Stark')
 ;
 
 Insert into Author
@@ -1315,85 +1183,97 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('127','1','G. E. Bentley')
+('127','1','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('127','1','Martin K. Nurmi')
+('127','1','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('128','1','Graham Hood')
+('128','1','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('129','1','Graham Hood')
+('128','1','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('130','1','Jack Jones')
+('129','1','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('130','1','Bill Jackson')
+('129','1','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('131','1','Jack Williams')
+('130','1','G. E. Bentley')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('131','1','Joseph Jackson')
+('130','1','Martin K. Nurmi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('132','1','American Association of Petroleum Geologists')
+('131','1','G. E. Bentley')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('133','1','American Association of Petroleum Geologists')
+('131','1','Martin K. Nurmi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('134','1','American Association of Petroleum Geologists')
+('132','1','G. E. Bentley')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('135','1','Charlie Williams')
+('132','1','Martin K. Nurmi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('135','1','Joseph Jackson')
+('133','1','Graham Hood')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('136','1','Charlie Williams')
+('134','1','Graham Hood')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('135','1','Graham Hood')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('136','1','Jack Williams')
 ;
 
 Insert into Author
@@ -1405,7 +1285,7 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('137','1','Charlie Williams')
+('137','1','Jack Williams')
 ;
 
 Insert into Author
@@ -1417,73 +1297,73 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('138','1','Thomas W. Schultz')
+('138','1','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('139','1','Thomas W. Schultz')
+('138','1','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('140','1','Thomas W. Schultz')
+('139','1','American Association of Petroleum Geologists')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('141','1','V. RAJARAMAN')
+('140','1','American Association of Petroleum Geologists')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('142','1','V. RAJARAMAN')
+('141','1','Thomas W. Schultz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('143','1','V. RAJARAMAN')
+('142','1','Thomas W. Schultz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('144','1','Bob Smith')
+('143','1','Thomas W. Schultz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('144','1','Borat Stark')
+('144','1','V. RAJARAMAN')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('145','1','Ron Larson')
+('145','1','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('145','1','Bruce H. Edwards')
+('145','1','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('146','1','Ron Larson')
+('146','1','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('146','1','Bruce H. Edwards')
+('146','1','Borat Stark')
 ;
 
 Insert into Author
@@ -1501,19 +1381,25 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('148','1','Charlotte K Lowrie')
+('148','1','Ron Larson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('149','1','Charlotte K Lowrie')
+('148','1','Bruce H. Edwards')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('150','1','Charlotte K Lowrie')
+('149','1','William Warner Bishop')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('150','1','William Warner Bishop')
 ;
 
 Insert into Author
@@ -1525,85 +1411,103 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('152','1','Great Britain. Census Office')
+('152','1','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('153','1','Great Britain. Census Office')
+('152','1','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('154','1','Great Britain. Census Office')
+('153','1','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('155','1','Alice Smith')
+('153','1','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('155','1','Joseph Jackson')
+('154','1','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('156','1','Alice Smith')
+('154','1','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('156','1','Joseph Jackson')
+('155','1','Mark P. Widrlechner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('157','1','Alice Smith')
+('156','1','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('157','1','Joseph Jackson')
+('156','1','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('158','1','Muhammad Akram')
+('157','1','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('158','1','Hina Gulzar')
+('157','1','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('158','1',' K. P. Shum')
+('158','1','Dave Douglas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('159','1','Alice Williams')
+('158','1','Gregory Michael Papadopoulos')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('159','1','Bill Perry')
+('158','1','John Boutelle')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('159','1','Dave Douglas')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('159','1','Gregory Michael Papadopoulos')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('159','1','John Boutelle')
 ;
 
 Insert into Author
@@ -1627,1135 +1531,1039 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('161','1','Dave Douglas')
+('161','1','W. Kim Halford')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('161','1','Gregory Michael Papadopoulos')
+('161','1','Jemima Petch')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('161','1','John Boutelle')
+('161','1','Debra Creedy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('162','1','Dave Douglas')
+('162','1','Anthony W. Knapp')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('162','1','Gregory Michael Papadopoulos')
+('162','1','David A. Vogan, Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('162','1','John Boutelle')
+('162','1','David A. Vogan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('163','1','Jack Smith')
+('163','1','A. Ross Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('163','1','Julius Stark')
+('163','1','R. Eugene Parta')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('164','1','W. Kim Halford')
+('164','1','A. Ross Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('164','1','Jemima Petch')
+('164','1','R. Eugene Parta')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('164','1','Debra Creedy')
+('165','1','A. Ross Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('165','1','Anthony W. Knapp')
+('165','1','R. Eugene Parta')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('165','1','David A. Vogan, Jr.')
+('166','1','Ross Rueger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('165','1','David A. Vogan')
+('166','1','David C. Cohen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('166','1','Anthony W. Knapp')
+('167','1','Ross Rueger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('166','1','David A. Vogan, Jr.')
+('167','1','David C. Cohen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('166','1','David A. Vogan')
+('168','1','Steve Tulliu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('167','1','Anthony W. Knapp')
+('168','1','Thomas Schmalberger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('167','1','David A. Vogan, Jr.')
+('169','1','John Morgan OConnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('167','1','David A. Vogan')
+('170','1','John Morgan OConnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('168','1','A. Ross Johnson')
+('171','1','Australian Conciliation and Arbitration Commission')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('168','1','R. Eugene Parta')
+('172','1','Australian Conciliation and Arbitration Commission')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('169','1','A. Ross Johnson')
+('173','1','Australian Conciliation and Arbitration Commission')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('169','1','R. Eugene Parta')
+('174','1','Spectator Company (New York, N.Y.)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('170','1','Kaushik Basu')
+('175','1','Rosa Maria Benito')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('171','1','Kaushik Basu')
+('175','1','Chantal Cherifi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('172','1','Steve Tulliu')
+('175','1','Hocine Cherifi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('172','1','Thomas Schmalberger')
+('175','1','Esteban Moro')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('173','1','John Morgan O'Connell')
+('175','1','Luis M. Rocha')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('174','1','Carson-Dellosa Publishing')
+('175','1','Marta Sales-Pardo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('175','1','Australian Conciliation and Arbitration Commission')
+('176','1','Rosa Maria Benito')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('176','1','Australian Conciliation and Arbitration Commission')
+('176','1','Chantal Cherifi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('177','1','David Dunlap Observatory')
+('176','1','Hocine Cherifi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('178','1','David Dunlap Observatory')
+('176','1','Esteban Moro')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('179','1','David Dunlap Observatory')
+('176','1','Luis M. Rocha')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('180','1','Spectator Company (New York, N.Y.)')
+('176','1','Marta Sales-Pardo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('181','1','Spectator Company (New York, N.Y.)')
+('177','1','OECD Nuclear Energy Agency')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('182','1','Alice Williams')
+('177','1','International Atomic Energy Agency')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('182','1','Julius Perry')
+('177','1','Commission of the European Communities')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('183','1','Rosa Maria Benito')
+('178','1','V. Sucharita')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('183','1','Chantal Cherifi')
+('179','1','Stanford University. Department of Chemistry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('183','1','Hocine Cherifi')
+('180','1','Edith OGorman Auffrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('183','1','Esteban Moro')
+('181','1','Edith OGorman Auffrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('183','1','Luis M. Rocha')
+('182','1','Edith OGorman Auffrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('183','1','Marta Sales-Pardo')
+('183','1','Mark W. McElroy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('184','1','Rosa Maria Benito')
+('183','1','Jo van Engelen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('184','1','Chantal Cherifi')
+('184','1','Mark W. McElroy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('184','1','Hocine Cherifi')
+('184','1','Jo van Engelen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('184','1','Esteban Moro')
+('185','1','Mark W. McElroy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('184','1','Luis M. Rocha')
+('185','1','Jo van Engelen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('184','1','Marta Sales-Pardo')
+('186','1','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('185','1','Rosa Maria Benito')
+('186','1','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('185','1','Chantal Cherifi')
+('187','1','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('185','1','Hocine Cherifi')
+('187','1','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('185','1','Esteban Moro')
+('188','1','Michael Schütze')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('185','1','Luis M. Rocha')
+('188','1','Raul B. Rebak')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('185','1','Marta Sales-Pardo')
+('188','1','Roman Bender')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('186','1','OECD Nuclear Energy Agency')
+('189','1','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('186','1','International Atomic Energy Agency')
+('189','1','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('186','1','Commission of the European Communities')
+('190','1','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('187','1','OECD Nuclear Energy Agency')
+('190','1','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('187','1','International Atomic Energy Agency')
+('191','1','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('187','1','Commission of the European Communities')
+('191','1','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('188','1','OECD Nuclear Energy Agency')
+('192','1','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('188','1','International Atomic Energy Agency')
+('192','1','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('188','1','Commission of the European Communities')
+('193','1','Carlo DeVito')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('189','1','Joseph M. Wepman')
+('194','1','Carlo DeVito')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('189','1','Ralph W. Heine')
+('195','1','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('190','1','Joseph M. Wepman')
+('196','1','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('190','1','Ralph W. Heine')
+('197','1','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('191','1','Armand Borel')
+('198','1','Anthony Fischetti')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('191','1','Nolan R. Wallach')
+('199','1','Anthony Fischetti')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('192','1','Armand Borel')
+('200','1','Anthony Fischetti')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('192','1','Nolan R. Wallach')
+('201','1','Robert W. Chambers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('193','1','Armand Borel')
+('202','1','A. Geis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('193','1','Nolan R. Wallach')
+('202','1','L. Brock')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('194','1','V. Sucharita')
+('202','1','H. Mueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('195','1','V. Sucharita')
+('203','1','Charles Overton Handley')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('196','1','V. Sucharita')
+('204','1','Charles Overton Handley')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('197','1','Edith O'Gorman Auffrey')
+('205','1','Charles Overton Handley')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('198','1','Michelle R. Clayman')
+('206','1','University of California (System)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('198','1','Martin S. Fridson')
+('207','1','Kenny R. Burck')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('198','1','George H. Troughton')
+('208','1','Kenny R. Burck')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('199','1','Mark W. McElroy')
+('209','1','Will C. Pirkle')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('199','1','Jo van Engelen')
+('210','1','Will C. Pirkle')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('200','1','Mark W. McElroy')
+('211','1','Kenneth Weingarten')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('200','1','Jo van Engelen')
+('211','1','Jacklyn E. Hungerland')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('201','1','Bob Johnson')
+('211','1','Mark F. Brennan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('201','1','Julius Stark')
+('212','1','N. J. McMillan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('202','1','Bob Johnson')
+('212','1','Ashton F. Embry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('202','1','Julius Stark')
+('212','1','Donald J. Glass')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('203','1','Bob Johnson')
+('213','1','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('203','1','Julius Stark')
+('213','1','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('204','1','Charlie Williams')
+('214','1','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('204','1','Bill Stark')
+('214','1','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('205','1','Charlie Williams')
+('215','1','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('205','1','Bill Stark')
+('215','1','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('206','1','Carlo DeVito')
+('216','1','Betsy Sholl')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('207','1','Carlo DeVito')
+('217','1','Scott E. Spradlin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('208','1','Franklin W. Dixon')
+('218','1','Scott E. Spradlin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('209','1','Franklin W. Dixon')
+('219','1','Graeme P. Maxton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('210','1','Franklin W. Dixon')
+('219','1','John Wormald')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('211','1','Akhtarhusein A. Tayebali')
+('220','1','Graeme P. Maxton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('212','1','Robert W. Chambers')
+('220','1','John Wormald')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('213','1','Robert W. Chambers')
+('221','1','Graeme P. Maxton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('214','1','Robert W. Chambers')
+('221','1','John Wormald')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('215','1','A. Geis')
+('222','1','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('215','1','L. Brock')
+('222','1','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('215','1','H. Mueller')
+('223','1','Persi Diaconis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('216','1','Charles Overton Handley')
+('224','1','George Kish')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('217','1','Will C. Pirkle')
+('225','1','George Kish')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('218','1','N. J. McMillan')
+('226','1','Paul Hoang')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('218','1','Ashton F. Embry')
+('226','1','Margaret Ducie')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('218','1','Donald J. Glass')
+('227','1','Paul Hoang')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('219','1','N. J. McMillan')
+('227','1','Margaret Ducie')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('219','1','Ashton F. Embry')
+('228','1','Jerome G. Delaney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('219','1','Donald J. Glass')
+('229','1','Jerome G. Delaney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('220','1','N. J. McMillan')
+('230','1','Columbia University. Teachers College. International Institute')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('220','1','Ashton F. Embry')
+('231','1','Columbia University. Teachers College. International Institute')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('220','1','Donald J. Glass')
+('232','1','Columbia University. Teachers College. International Institute')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('221','1','Alice Smith')
+('233','1','Harry. H. Chaudhary.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('221','1','Bill Loukas')
+('234','1','Delwin R. Croom')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('222','1','Betsy Sholl')
+('235','1','John Leo Moore')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('223','1','Betsy Sholl')
+('236','1','John Leo Moore')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('224','1','Inez Robb')
+('237','1','John Leo Moore')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('225','1','Inez Robb')
+('238','1','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('226','1','Marc van der Woude')
+('238','1','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('226','1','Christopher Jones')
+('239','1','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('226','1','Nicolas Charbit')
+('239','1','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('227','1','Marc van der Woude')
+('240','1','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('227','1','Christopher Jones')
+('240','1','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('227','1','Nicolas Charbit')
+('241','1','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('228','1','Alice Williams')
+('241','1','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('228','1','Borat Stark')
+('242','1','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('229','1','Jack Williams')
+('242','1','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('229','1','Joseph Perry')
+('243','1','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('230','1','Persi Diaconis')
+('243','1','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('231','1','Persi Diaconis')
+('244','1','Robert K. Kaufmann')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('232','1','George Kish')
+('244','1','Cutler J. Cleveland')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('233','1','George Kish')
+('245','1','H. Scott Fogler')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('234','1','Paul Hoang')
+('246','1','H. Scott Fogler')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('234','1','Margaret Ducie')
+('247','1','James H. Stronge')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('235','1','June Alexander')
+('248','1','James H. Stronge')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('235','1','Cate Sangster')
+('249','1','James H. Stronge')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('236','1','June Alexander')
+('250','1','Kurt Laue')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('236','1','Cate Sangster')
+('250','1','Helmut Stenger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('237','1','June Alexander')
+('251','1','Kurt Laue')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('237','1','Cate Sangster')
+('251','1','Helmut Stenger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('238','1','Jerome G. Delaney')
+('252','1','Daniel Kehlmann')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('239','1','Jerome G. Delaney')
+('253','1','Daniel Kehlmann')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('240','1','Jerome G. Delaney')
+('254','1','Peter E. Davies')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('241','1','Columbia University. Teachers College. International Institute')
+('255','1','Peter E. Davies')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('242','1','Columbia University. Teachers College. International Institute')
+('256','1','Peter E. Davies')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('243','1','Columbia University. Teachers College. International Institute')
+('257','1','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('244','1','John Leo Moore')
+('257','1','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('245','1','John Leo Moore')
+('258','1','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('246','1','Charlie Williams')
+('258','1','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('246','1','Julius Loukas')
+('259','1','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('247','1','6. X. 9. inch lined pages Journal book, 6 x 9 inch lined pages')
+('259','1','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('248','1','6. X. 9. inch lined pages Journal book, 6 x 9 inch lined pages')
+('260','1','Dan Bailey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('249','1','6. X. 9. inch lined pages Journal book, 6 x 9 inch lined pages')
+('261','1','Dan Bailey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('250','1','Bob Williams')
+('262','1','Dan Bailey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('250','1','Julius Loukas')
+('263','1','V. Alexander Stefan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('251','1','Robert K. Kaufmann')
+('264','1','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('251','1','Cutler J. Cleveland')
+('264','1','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('252','1','Robert K. Kaufmann')
+('265','1','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('252','1','Cutler J. Cleveland')
+('265','1','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('253','1','Robert K. Kaufmann')
+('266','1','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('253','1','Cutler J. Cleveland')
+('266','1','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('254','1','H. Scott Fogler')
+('267','1','Sung W. Lee')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('255','1','H. Scott Fogler')
+('267','1','Peter W. Chung')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('256','1','Daniel Kehlmann')
+('268','1','Sung W. Lee')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('257','1','Daniel Kehlmann')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('258','1','Peter E. Davies')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('259','1','Peter E. Davies')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('260','1','Peter E. Davies')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('261','1','Bob Johnson')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('261','1','Julius Loukas')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('262','1','James S. Eustice')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('262','1','Joel D. Kuntz')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('263','1','James S. Eustice')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('263','1','Joel D. Kuntz')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('264','1','James S. Eustice')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('264','1','Joel D. Kuntz')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('265','1','Federation of American Societies for Experimental Biology')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('266','1','V. Alexander Stefan')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('267','1','V. Alexander Stefan')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('268','1','Alice Smith')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('268','1','Borat Perry')
+('268','1','Peter W. Chung')
 ;
 
 Insert into Author
@@ -2779,31 +2587,43 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('270','1','John E. Halver')
+('270','1','Margaret L. Lial')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('270','1','Ronald W. Hardy')
+('270','1','Raymond N. Greenwell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('271','1','John E. Halver')
+('270','1','Nathan P. Ritchey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('271','1','Ronald W. Hardy')
+('271','1','Margaret L. Lial')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('272','1','R. E. Kendel')
+('271','1','Raymond N. Greenwell')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('271','1','Nathan P. Ritchey')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('272','1','Raymond Chapman')
 ;
 
 Insert into Author
@@ -2851,2539 +2671,2413 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('280','1','Charlie Johnson')
+('280','1','Thomas J. Delia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('280','1','Bill Stark')
+('281','1','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('281','1','Helen Dillon')
+('281','1','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('282','1','Helen Dillon')
+('282','1','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('283','1','Adam Mansbach')
+('282','1','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('284','1','Adam Mansbach')
+('283','1','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('285','1','Vojtěch Janoušek')
+('283','1','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('285','1','Jean-François Moyen')
+('284','1','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('285','1','Hervé Martin')
+('284','1','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('285','1','Vojtěch Erban')
+('285','1','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('285','1','Colin Farrow')
+('285','1','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('286','1','Vojtěch Janoušek')
+('286','1','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('286','1','Jean-François Moyen')
+('286','1','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('286','1','Hervé Martin')
+('287','1','Loucas G. Christophorou')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('286','1','Vojtěch Erban')
+('287','1','D.R. James')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('286','1','Colin Farrow')
+('288','1','Loucas G. Christophorou')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('287','1','Forrest C. Pogue')
+('288','1','D.R. James')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('288','1','Eric Lionel Jones')
+('289','1','Loucas G. Christophorou')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('289','1','Eric Lionel Jones')
+('289','1','D.R. James')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('290','1','Eric Lionel Jones')
+('290','1','Adam Mansbach')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('291','1','Anthony Marra')
+('291','1','Adam Mansbach')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('292','1','Anthony Marra')
+('292','1','Adam Mansbach')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('293','1','Αλέξανδρος Δουμάς (υιός)')
+('293','1','Vojtěch Janoušek')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('294','1','Αλέξανδρος Δουμάς (υιός)')
+('293','1','Jean-François Moyen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('295','1','Αλέξανδρος Δουμάς (υιός)')
+('293','1','Hervé Martin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('296','1','A.S.A. Harrison')
+('293','1','Vojtěch Erban')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('297','1','A.S.A. Harrison')
+('293','1','Colin Farrow')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('298','1','Jack Jones')
+('294','1','Vojtěch Janoušek')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('298','1','Bill Jackson')
+('294','1','Jean-François Moyen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('299','1','Jack Jones')
+('294','1','Hervé Martin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('299','1','Bill Jackson')
+('294','1','Vojtěch Erban')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('300','1','Jack Jones')
+('294','1','Colin Farrow')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('300','1','Bill Jackson')
+('295','1','Vojtěch Janoušek')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('301','1','Pat Chin')
+('295','1','Jean-François Moyen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('301','1','Greg Dunkel')
+('295','1','Hervé Martin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('301','1','Sara Flounders')
+('295','1','Vojtěch Erban')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('301','1','Kim Ives')
+('295','1','Colin Farrow')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('302','1','Pat Chin')
+('296','1','Forrest C. Pogue')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('302','1','Greg Dunkel')
+('297','1','Forrest C. Pogue')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('302','1','Sara Flounders')
+('298','1','Susan OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('302','1','Kim Ives')
+('299','1','Flannery OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('303','1','Pat Chin')
+('300','1','Flannery OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('303','1','Greg Dunkel')
+('301','1','Barbara F Campbell, MDIV, Dmin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('303','1','Sara Flounders')
+('301','1','Barbara F. Campbell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('303','1','Kim Ives')
+('301','1','James P. Campbell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('304','1','John Porges')
+('302','1','Barbara F Campbell, MDIV, Dmin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('304','1','Fred Porges')
+('302','1','Barbara F. Campbell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('305','1','John Porges')
+('302','1','James P. Campbell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('305','1','Fred Porges')
+('303','1','Eric Lionel Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('306','1','John Porges')
+('304','1','Eric Lionel Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('306','1','Fred Porges')
+('305','1','Eric Lionel Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('307','1','W Samlet Williams')
+('306','1','A. Mital')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('308','1','Robert J. Mayhew')
+('307','1','A. Mital')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('309','1','Charlie Smith')
+('308','1','A. Mital')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('309','1','Joseph Perry')
+('309','1','Anthony Marra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('310','1','Charlie Smith')
+('310','1','Anthony Marra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('310','1','Joseph Perry')
+('311','1','Anthony Marra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('311','1','James L. Hirsen')
+('312','1','Αλέξανδρος Δουμάς (υιός)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('312','1','James L. Hirsen')
+('313','1','Αλέξανδρος Δουμάς (υιός)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('313','1','Norman K. Denzin')
+('314','1','Αλέξανδρος Δουμάς (υιός)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('314','1','Norman K. Denzin')
+('315','1','A.S.A. Harrison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('315','1','Bob Williams')
+('316','1','A.S.A. Harrison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('315','1','Bill Loukas')
+('317','1','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('316','1','Bob Williams')
+('317','1','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('316','1','Bill Loukas')
+('318','1','John Porges')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('317','1','Dominic O'Brien')
+('318','1','Fred Porges')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('318','1','Dominic O'Brien')
+('319','1','Lawrence A. Trissel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('319','1','Bernell Coleman')
+('320','1','Lawrence A. Trissel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('319','1','James W. M. Fletcher')
+('321','1','W Samlet Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('319','1','Hubert F. Bonfili')
+('322','1','Robert J. Mayhew')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('320','1','Bernell Coleman')
+('323','1','Robert J. Mayhew')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('320','1','James W. M. Fletcher')
+('324','1','Robert J. Mayhew')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('320','1','Hubert F. Bonfili')
+('325','1','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('321','1','Bernell Coleman')
+('325','1','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('321','1','James W. M. Fletcher')
+('326','1','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('321','1','Hubert F. Bonfili')
+('326','1','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('322','1','Arthur Henry Robertson')
+('327','1','Richard H. Turner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('323','1','Arthur Henry Robertson')
+('328','1','James L. Hirsen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('324','1','Arthur Henry Robertson')
+('329','1','James L. Hirsen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('325','1','Charlie Johnson')
+('330','1','Norman K. Denzin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('325','1','Borat Stark')
+('331','1','Norman K. Denzin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('326','1','Charlie Johnson')
+('332','1','Norman K. Denzin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('326','1','Borat Stark')
+('333','1','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('327','1','Norma McCorvey')
+('333','1','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('328','1','Overseas Press Club of America')
+('334','1','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('329','1','Deanne Panday')
+('334','1','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('330','1','Deanne Panday')
+('335','1','Dominic OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('331','1','Deanne Panday')
+('336','1','Dominic OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('332','1','Tim Price')
+('337','1','Bernell Coleman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('333','1','Prakash Mishra')
+('337','1','James W. M. Fletcher')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('334','1','Prakash Mishra')
+('337','1','Hubert F. Bonfili')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('335','1','Ammonius')
+('338','1','Bernell Coleman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('336','1','Ammonius')
+('338','1','James W. M. Fletcher')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('337','1','Ammonius')
+('338','1','Hubert F. Bonfili')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('338','1','Michael T. Henry')
+('339','1','Bernell Coleman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('339','1','Michael T. Henry')
+('339','1','James W. M. Fletcher')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('340','1','Michael T. Henry')
+('339','1','Hubert F. Bonfili')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('341','1','Alice Williams')
+('340','1','Arthur Henry Robertson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('341','1','Julius Stark')
+('341','1','Arthur Henry Robertson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('342','1','R. Bruce Hull')
+('342','1','Norma McCorvey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('343','1','R. Bruce Hull')
+('343','1','Norma McCorvey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('344','1','Fatma Adam ')
+('344','1','Overseas Press Club of America')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('344','1','Nasruddin Hassan ')
+('345','1','Overseas Press Club of America')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('345','1','Fatma Adam ')
+('346','1','Overseas Press Club of America')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('345','1','Nasruddin Hassan ')
+('347','1','I Love Darin Publishing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('346','1','Redmond O'Hanlon')
+('348','1','I Love Darin Publishing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('347','1','Christian Robert')
+('349','1','Deanne Panday')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('347','1','George Casella')
+('350','1','Deanne Panday')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('348','1','Christian Robert')
+('351','1','Tim Price')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('348','1','George Casella')
+('352','1','Tim Price')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('349','1','Christian Robert')
+('353','1','Tim Price')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('349','1','George Casella')
+('354','1','Prakash Mishra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('350','1','Lev Ėrnestovich Ėlʹsgolʹt︠s︡')
+('355','1','Ammonius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('351','1','United States. Warren Commission')
+('356','1','Ammonius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('352','1','Philip Attwood')
+('357','1','Ammonius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('353','1','Eamonn Dunne')
+('358','1','Michael T. Henry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('354','1','Eamonn Dunne')
+('359','1','Michael T. Henry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('355','1','Eamonn Dunne')
+('360','1','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('356','1','Roshen Dalal')
+('360','1','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('357','1','Roshen Dalal')
+('361','1','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('358','1','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
+('361','1','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('359','1','James Clark Sherburne')
+('362','1','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('360','1','James Clark Sherburne')
+('362','1','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('361','1','János Xántus')
+('363','1','Benjamin Millis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('361','1','Ann Zwinger')
+('363','1','Douglas Olson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('362','1','János Xántus')
+('364','1','Benjamin Millis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('362','1','Ann Zwinger')
+('364','1','Douglas Olson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('363','1','János Xántus')
+('365','1','Syed V. Ahamed')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('363','1','Ann Zwinger')
+('366','1','Syed V. Ahamed')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('364','1','Washington (State). Legislature')
+('367','1','Fatma Adam ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('365','1','Washington (State). Legislature')
+('367','1','Nasruddin Hassan ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('366','1','Elisha Mitchell Scientific Society (Chapel Hill, N.C.)')
+('368','1','Fatma Adam ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('367','1','Elisha Mitchell Scientific Society (Chapel Hill, N.C.)')
+('368','1','Nasruddin Hassan ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('368','1','Michael Atiyah')
+('369','1','Fatma Adam ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('369','1','Michael Atiyah')
+('369','1','Nasruddin Hassan ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('370','1','Bill Jacob')
+('370','1','Redmond OHanlon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('371','1','Bob Smith')
+('371','1','Manfred Stoll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('371','1','Julius Loukas')
+('372','1','Manfred Stoll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('372','1','Bob Smith')
+('373','1','Manfred Stoll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('372','1','Julius Loukas')
+('374','1','Lev Ėrnestovich Ėlʹsgolʹt︠s︡')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('373','1','Bob Smith')
+('375','1','United States. Warren Commission')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('373','1','Julius Loukas')
+('376','1','United States. Warren Commission')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('374','1','Koen Wessing')
+('377','1','United States. Warren Commission')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('374','1','Pauline Terreehorst')
+('378','1','Eamonn Dunne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('374','1','Tineke de Ruiter')
+('379','1','Roshen Dalal')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('375','1','Michael Dore')
+('380','1','Roshen Dalal')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('376','1','Michael Dore')
+('381','1','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('377','1','Dave Taylor')
+('382','1','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('377','1','Brian Jepson')
+('383','1','James Clark Sherburne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('378','1','Dave Taylor')
+('384','1','James Clark Sherburne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('378','1','Brian Jepson')
+('385','1','James Clark Sherburne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('379','1','Dave Taylor')
+('386','1','János Xántus')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('379','1','Brian Jepson')
+('386','1','Ann Zwinger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('380','1','Manon P. Charbonneau')
+('387','1','Washington (State). Legislature')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('381','1','Melvil Dewey')
+('388','1','Washington (State). Legislature')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('381','1','Richard Rogers Bowker')
+('389','1','Washington (State). Legislature')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('381','1','L. Pylodet')
+('390','1','Royal Australian Historical Society')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('381','1','Charles Ammi Cutter')
+('391','1','Royal Australian Historical Society')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('381','1','Bertine Emma Weston')
+('392','1','Elisha Mitchell Scientific Society (Chapel Hill, N.C.)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('381','1','Karl Brown')
+('393','1','Rex Chandrabose')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('381','1','Helen E. Wessells')
+('394','1','Rex Chandrabose')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('382','1','Melvil Dewey')
+('395','1','Rex Chandrabose')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('382','1','Richard Rogers Bowker')
+('396','1','Michael Atiyah')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('382','1','L. Pylodet')
+('397','1','Bill Jacob')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('382','1','Charles Ammi Cutter')
+('398','1','Bill Jacob')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('382','1','Bertine Emma Weston')
+('399','1','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('382','1','Karl Brown')
+('399','1','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('382','1','Helen E. Wessells')
+('400','1','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('383','1','Geoffrey K. Pullum')
+('400','1','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('384','1','Geoffrey K. Pullum')
+('401','1','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('385','1','Connie Campbell Dierking')
+('401','1','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('386','1','Shirley O'Neil')
+('402','1','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('387','1','Shirley O'Neil')
+('402','1','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('388','1','Shirley O'Neil')
+('403','1','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('389','1','Suresh K. Sharma')
+('403','1','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('390','1','Great Britain. Scottish Office Inquiry Reporters')
+('404','1','Michael Dore')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('390','1','O. Paesano')
+('405','1','Michael Dore')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('391','1','Great Britain. Scottish Office Inquiry Reporters')
+('406','1','Michael Dore')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('391','1','O. Paesano')
+('407','1','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('392','1','Wendell V. Harris')
+('407','1','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('393','1','Wendell V. Harris')
+('408','1','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('394','1','Wendell V. Harris')
+('408','1','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('395','1','Sally L. Lagerquist')
+('409','1','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('396','1','W. Stannard Allen')
+('409','1','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('397','1','W. Stannard Allen')
+('410','1','Dave Taylor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('398','1','W. Stannard Allen')
+('410','1','Brian Jepson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('399','1','Daniel O'Donnell')
+('411','1','Dave Taylor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('400','1','Daniel O'Donnell')
+('411','1','Brian Jepson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('401','1','Daniel O'Donnell')
+('412','1','Dave Taylor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('402','1','Richard Walters')
+('412','1','Brian Jepson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('403','1','Richard Walters')
+('413','1','Manon P. Charbonneau')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('404','1','Mohamed Ally')
+('414','1','Melvil Dewey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('404','1','Gill Needham')
+('414','1','Richard Rogers Bowker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('405','1','Lárus Thorlacius')
+('414','1','L. Pylodet')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('405','1','Thordur Jonsson')
+('414','1','Charles Ammi Cutter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('406','1','Renate Wiehager')
+('414','1','Bertine Emma Weston')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('407','1','Renate Wiehager')
+('414','1','Karl Brown')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('408','1','Samuel A. Litt')
+('414','1','Helen E. Wessells')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('409','1','Adrian Phillips')
+('415','1','Library of Congress')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('410','1','Adrian Phillips')
+('416','1','Herodotus')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('411','1','Adrian Phillips')
+('417','1','Herodotus')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('412','1','Jack J. Phillips')
+('418','1','Connie Campbell Dierking')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('412','1','Lisa Edwards')
+('419','1','Shirley ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('413','1','Arsen Darnay')
+('420','1','Shirley ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('414','1','Arsen Darnay')
+('421','1','Shirley ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('415','1','Henry Martyn Cundy')
+('422','1','Suresh K. Sharma')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('415','1','A. P. Rollett')
+('423','1','Suresh K. Sharma')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('416','1','Henry Martyn Cundy')
+('424','1','Great Britain. Scottish Office Inquiry Reporters')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('416','1','A. P. Rollett')
+('424','1','O. Paesano')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('417','1','Henry Martyn Cundy')
+('425','1','Great Britain. Scottish Office Inquiry Reporters')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('417','1','A. P. Rollett')
+('425','1','O. Paesano')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('418','1','Société mathématique de France')
+('426','1','Great Britain. Scottish Office Inquiry Reporters')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('419','1','Martha McJunkin Rhyne')
+('426','1','O. Paesano')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('420','1','Martha McJunkin Rhyne')
+('427','1','W. Stannard Allen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('421','1','Kevin Corcoran')
+('428','1','W. Stannard Allen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('421','1','Joel Fischer')
+('429','1','Daniel ODonnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('422','1','Kevin Corcoran')
+('430','1','Daniel ODonnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('422','1','Joel Fischer')
+('431','1','Mohamed Ally')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('423','1','Kevin Corcoran')
+('431','1','Gill Needham')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('423','1','Joel Fischer')
+('432','1','Mohamed Ally')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('424','1','University of South Africa')
+('432','1','Gill Needham')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('425','1','University of South Africa')
+('433','1','Lárus Thorlacius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('426','1','Monica L. Woodard')
+('433','1','Thordur Jonsson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('427','1','Fritz Pietzschke')
+('434','1','Lárus Thorlacius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('427','1','Franz Wimmer')
+('434','1','Thordur Jonsson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('428','1','Gary B. Shelly')
+('435','1','Lárus Thorlacius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('428','1','Thomas J. Cashman')
+('435','1','Thordur Jonsson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('428','1','Misty Vermaat')
+('436','1','Renate Wiehager')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('429','1','Katie Layman')
+('437','1','Renate Wiehager')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('429','1','LaVaughn Hart')
+('438','1','Samuel A. Litt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('430','1','Katie Layman')
+('439','1','Samuel A. Litt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('430','1','LaVaughn Hart')
+('440','1','Adrian Phillips')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('431','1','Katie Layman')
+('441','1','Jack J. Phillips')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('431','1','LaVaughn Hart')
+('441','1','Lisa Edwards')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('432','1','Philip P. Betancourt')
+('442','1','Jack J. Phillips')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('432','1','Kōstēs Davaras')
+('442','1','Lisa Edwards')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('433','1','Philip P. Betancourt')
+('443','1','Jack J. Phillips')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('433','1','Kōstēs Davaras')
+('443','1','Lisa Edwards')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('434','1','Philip P. Betancourt')
+('444','1','Arsen Darnay')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('434','1','Kōstēs Davaras')
+('445','1','Arsen Darnay')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('435','1','India (Republic). Dept. of Commercial Intelligence and Statistics')
+('446','1','John Whicher')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('436','1','India (Republic). Dept. of Commercial Intelligence and Statistics')
+('447','1','J Brennan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('437','1','Charlie Johnson')
+('448','1','J Brennan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('437','1','Borat Stark')
+('449','1','J Brennan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('438','1','Peggy O'Mara')
+('450','1','Henry Martyn Cundy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('439','1','Peggy O'Mara')
+('450','1','A. P. Rollett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('440','1','Charles O'Brien')
+('451','1','Société mathématique de France')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('441','1','Allan Bérubé')
+('452','1','Martha McJunkin Rhyne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('442','1','Allan Bérubé')
+('453','1','Martha McJunkin Rhyne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('443','1','Susan, K. Johnsen')
+('454','1','Kevin Corcoran')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('443','1','Debbie Dailey')
+('454','1','Joel Fischer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('443','1','Alicia Cotabish')
+('455','1','Kevin Corcoran')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('444','1','Laurell K. Hamilton')
+('455','1','Joel Fischer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('445','1','Laurell K. Hamilton')
+('456','1','University of South Africa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('446','1','Bob Smith')
+('457','1','University of South Africa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('446','1','Joseph Loukas')
+('458','1','University of South Africa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('447','1','Bob Smith')
+('459','1','Wisconsin. Governor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('447','1','Joseph Loukas')
+('460','1','Wisconsin. Governor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('448','1','Bob Smith')
+('461','1','Guido Schwarzer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('448','1','Joseph Loukas')
+('461','1','James R. Carpenter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('449','1','Charlie Smith')
+('461','1','Gerta Rücker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('449','1','Joseph Jackson')
+('462','1','Guido Schwarzer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('450','1','Charlie Smith')
+('462','1','James R. Carpenter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('450','1','Joseph Jackson')
+('462','1','Gerta Rücker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('451','1','Charlie Smith')
+('463','1','Monica L. Woodard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('451','1','Joseph Jackson')
+('464','1','Monica L. Woodard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('452','1','K. Thirusangu')
+('465','1','Monica L. Woodard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('452','1','S. Poornavel')
+('466','1','Fritz Pietzschke')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('452','1','R. Vasuki')
+('466','1','Franz Wimmer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('453','1','Andrew L Sihler')
+('467','1','Fritz Pietzschke')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('454','1','Andrew L Sihler')
+('467','1','Franz Wimmer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('455','1','Charlie Williams')
+('468','1','Fritz Pietzschke')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('455','1','Julius Loukas')
+('468','1','Franz Wimmer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('456','1','Charlie Williams')
+('469','1','Philip P. Betancourt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('456','1','Julius Loukas')
+('469','1','Kōstēs Davaras')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('457','1','Charlie Williams')
+('470','1','Philip P. Betancourt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('457','1','Julius Loukas')
+('470','1','Kōstēs Davaras')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('458','1','New South Wales. Supreme Court')
+('471','1','Temitope W Oshikoya')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('459','1','Bob Johnson')
+('472','1','Temitope W Oshikoya')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('459','1','Borat Loukas')
+('473','1','India (Republic). Dept. of Commercial Intelligence and Statistics')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('460','1','Bob Johnson')
+('474','1','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('460','1','Borat Loukas')
+('474','1','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('461','1','Ana Katrin Schenk')
+('475','1','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('462','1','Ana Katrin Schenk')
+('475','1','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('463','1','Ana Katrin Schenk')
+('476','1','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('464','1','Rooi Books')
+('476','1','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('465','1','Rooi Books')
+('477','1','Peggy OMara')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('466','1','Rooi Books')
+('478','1','Peggy OMara')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('467','1','M. M. Stuckey')
+('479','1','Charles OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('467','1','L. L. Layton')
+('480','1','Charles OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('468','1','M. M. Stuckey')
+('481','1','Charles OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('468','1','L. L. Layton')
+('482','1','Allan Bérubé')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('469','1','M. M. Stuckey')
+('483','1','Allan Bérubé')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('469','1','L. L. Layton')
+('484','1','Allan Bérubé')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('470','1','Laurene V. Fausett')
+('485','1','Susan, K. Johnsen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('471','1','Z. Z. Rox Orpo')
+('485','1','Debbie Dailey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('472','1','Λέων Τολστόι')
+('485','1','Alicia Cotabish')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('473','1','OECD')
+('486','1','Susan, K. Johnsen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('474','1','OECD')
+('486','1','Debbie Dailey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('475','1','OECD')
+('486','1','Alicia Cotabish')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('476','1','Harrison H. Sheld')
+('487','1','Susan, K. Johnsen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('477','1','Harrison H. Sheld')
+('487','1','Debbie Dailey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('478','1','Helmut Greim')
+('487','1','Alicia Cotabish')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('479','1','Helmut Greim')
+('488','1','Laurell K. Hamilton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('480','1','Helmut Greim')
+('489','1','Laurell K. Hamilton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('481','1','Bob Jones')
+('490','1','Laurell K. Hamilton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('481','1','Borat Perry')
+('491','1','Organisation for Economic Co-operation and Development')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('482','1','Bob Jones')
+('492','1','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('482','1','Borat Perry')
+('492','1','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('483','1','Charlie Johnson')
+('493','1','Andrew L Sihler')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('483','1','Julius Perry')
+('494','1','Andrew L Sihler')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('484','1','Andreas Vesalius')
+('495','1','Andrew L Sihler')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('484','1','William Frank Richardson')
+('496','1','New South Wales. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('484','1','John Burd Carman')
+('497','1','New South Wales. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('485','1','Andreas Vesalius')
+('498','1','New South Wales. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('485','1','William Frank Richardson')
+('499','1','Grant Morrison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('485','1','John Burd Carman')
+('500','1','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('486','1','David Chudnovsky')
+('500','1','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('487','1','David Chudnovsky')
+('501','1','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('488','1','Laird C. Kirkpatrick')
+('501','1','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('489','1','Tatiana V. Akhutina')
+('502','1','Ana Katrin Schenk')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('489','1','Natalia M. Pylaeva')
+('503','1','Rooi Books')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('490','1','Tatiana V. Akhutina')
+('504','1','Rooi Books')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('490','1','Natalia M. Pylaeva')
+('505','1','M. M. Stuckey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('491','1','Tatiana V. Akhutina')
+('505','1','L. L. Layton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('491','1','Natalia M. Pylaeva')
+('506','1','Z. Z. Rox Orpo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('492','1','A. Schrijver')
+('507','1','Z. Z. Rox Orpo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('493','1','Charlie Williams')
+('508','1','Z. Z. Rox Orpo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('493','1','Julius Perry')
+('509','1','Λέων Τολστόι')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('494','1','K.-W. Gaede')
+('510','1','Λέων Τολστόι')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('494','1','D.B. Pressmar')
+('511','1','OECD')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('494','1','Ch. Schneeweiß')
+('512','1','OECD')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('494','1','K.-P. Schuster')
+('513','1','Harrison H. Sheld')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('494','1','O. Seifert')
+('514','1','Guy R. Lefrançois')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('495','1','K.-W. Gaede')
+('515','1','Elizabeth Doherty Herzfeld')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('495','1','D.B. Pressmar')
+('516','1','Elizabeth Doherty Herzfeld')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('495','1','Ch. Schneeweiß')
+('517','1','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('495','1','K.-P. Schuster')
+('517','1','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('495','1','O. Seifert')
+('518','1','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('496','1','K.-W. Gaede')
+('518','1','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('496','1','D.B. Pressmar')
+('519','1','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('496','1','Ch. Schneeweiß')
+('519','1','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('496','1','K.-P. Schuster')
+('520','1','Andreas Vesalius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('496','1','O. Seifert')
+('520','1','William Frank Richardson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('497','1','David K. Lewis')
+('520','1','John Burd Carman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('498','1','David K. Lewis')
+('521','1','Andreas Vesalius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('499','1','Dominic J. O'Meara')
+('521','1','William Frank Richardson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('500','1','Dominic J. O'Meara')
+('521','1','John Burd Carman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('501','1','Gavin O'Toole')
+('522','1','Andreas Vesalius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('502','1','Gavin O'Toole')
+('522','1','William Frank Richardson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('503','1','Charlie Smith')
+('522','1','John Burd Carman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('503','1','Borat Perry')
+('523','1','David Chudnovsky')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('504','1','Alice Johnson')
+('524','1','David Chudnovsky')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('504','1','Borat Loukas')
+('525','1','Laird C. Kirkpatrick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('505','1','Bob Smith')
+('526','1','Laird C. Kirkpatrick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('505','1','Julius Perry')
+('527','1','Laird C. Kirkpatrick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('506','1','S. Mahmood Naqvi')
+('528','1','Tatiana V. Akhutina')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('506','1','John James William Rogers')
+('528','1','Natalia M. Pylaeva')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('507','1','Werner Boecker')
+('529','1','A. Schrijver')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('508','1','Werner Boecker')
+('530','1','A. Schrijver')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('509','1','Werner Boecker')
+('531','1','A. Schrijver')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('510','1','Fred Williams')
+('532','1','K.-W. Gaede')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('511','1','Eugene F. Scoles')
+('532','1','D.B. Pressmar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('512','1','Eugene F. Scoles')
+('532','1','Ch. Schneeweiß')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('513','1','Institution of Mechanical Engineers (Great Britain)')
+('532','1','K.-P. Schuster')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('514','1','Royal Irish Academy')
+('532','1','O. Seifert')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('515','1','Alice Johnson')
+('533','1','Nian-Feng Tzeng')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('515','1','Julius Perry')
+('534','1','Nian-Feng Tzeng')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('516','1','Ashok N. Kamthane')
+('535','1','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('517','1','Ashok N. Kamthane')
+('535','1','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('518','1','Ashok N. Kamthane')
+('536','1','David K. Lewis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('519','1','Jack Smith')
+('537','1','David K. Lewis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('519','1','Julius Stark')
+('538','1','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('520','1','Jack Smith')
+('538','1','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('520','1','Julius Stark')
+('539','1','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('521','1','Ana Castillo')
+('539','1','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('522','1','Ana Castillo')
+('540','1','Gavin OToole')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('523','1','Michigan')
+('541','1','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('524','1','Michigan')
+('541','1','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('525','1','Shawn Carruth')
+('542','1','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('525','1','Albrecht Garsky')
+('542','1','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('526','1','Shawn Carruth')
+('543','1','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('526','1','Albrecht Garsky')
+('543','1','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('527','1','Shawn Carruth')
+('544','1','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('527','1','Albrecht Garsky')
+('544','1','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('528','1','Steven R. Johnson')
+('545','1','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('529','1','Brian J. Mitchell')
+('545','1','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('529','1','Barbara Romanowicz')
+('546','1','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('530','1','David Gerbing')
+('546','1','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('531','1','David Gerbing')
+('547','1','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('532','1','Susa Condliffe')
+('547','1','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('533','1','Susa Condliffe')
+('548','1','S. Mahmood Naqvi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('534','1','Susa Condliffe')
+('548','1','John James William Rogers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('535','1','W. H. Andrews')
+('549','1','S. Mahmood Naqvi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('536','1','Ruth Weltmann Begun')
+('549','1','John James William Rogers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('537','1','Ruth Weltmann Begun')
+('550','1','Jashwant B. Mehta')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('538','1','William H. Pivar')
+('551','1','Jashwant B. Mehta')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('539','1','William H. Pivar')
+('552','1','Fred Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('540','1','William H. Pivar')
+('553','1','Fred Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('541','1','Unesco. General Conference')
+('554','1','Fred Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('542','1','Alice Williams')
+('555','1','Eugene F. Scoles')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('542','1','Julius Loukas')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('543','1','Denki Tsūshin Kenkyūjo (Japan)')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('544','1','Denki Tsūshin Kenkyūjo (Japan)')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('545','1','Aeronautical Research Council (Great Britain)')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('546','1','Aeronautical Research Council (Great Britain)')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('547','1','Aeronautical Research Council (Great Britain)')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('548','1','Sunder Magun')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('548','1','Canada. Industry Canada')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('549','1','Sunder Magun')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('549','1','Canada. Industry Canada')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('550','1','Sunder Magun')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('550','1','Canada. Industry Canada')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('551','1','Gerald O'Collins')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('552','1','Gerald O'Collins')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('553','1','Gerald O'Collins')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('554','1','Noriichi Mano')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('554','1','Ikuma Hamada')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('554','1','Mahlon R. DeLong')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('555','1','Noriichi Mano')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('555','1','Ikuma Hamada')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('555','1','Mahlon R. DeLong')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('556','1','Robert W Jamison, CPA, PH.D.')
+('556','1','Eugene F. Scoles')
 ;
 
 Insert into Author
@@ -5395,4759 +5089,5527 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('557','1','Julius Loukas')
+('557','1','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('558','1','Alice Johnson')
+('558','1','Ashok N. Kamthane')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('558','1','Julius Loukas')
+('559','1','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('559','1','Alice Johnson')
+('559','1','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('559','1','Julius Loukas')
+('560','1','Shawn Carruth')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('560','1','Sean O'Casey')
+('560','1','Albrecht Garsky')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('561','1','Leonid A. Bokut')
+('561','1','Steven R. Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('561','1','Victor Latyshev')
+('562','1','Jim C. Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('561','1','Ivan Shestakov')
+('562','1','Herbert A. Thompson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('561','1','Efim Zelmanov')
+('563','1','Jim C. Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('562','1','Leonid A. Bokut')
+('563','1','Herbert A. Thompson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('562','1','Victor Latyshev')
+('564','1','Jim C. Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('562','1','Ivan Shestakov')
+('564','1','Herbert A. Thompson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('562','1','Efim Zelmanov')
+('565','1','Brian J. Mitchell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('563','1','Leonid A. Bokut')
+('565','1','Barbara Romanowicz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('563','1','Victor Latyshev')
+('566','1','Wei Li')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('563','1','Ivan Shestakov')
+('566','1','Yuefei Sui')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('563','1','Efim Zelmanov')
+('567','1','Wei Li')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('564','1','Great Britain. Parliament. House of Lords')
+('567','1','Yuefei Sui')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('565','1','Great Britain. Parliament. House of Lords')
+('568','1','W. H. Andrews')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('566','1','Canada. Parliament')
+('569','1','W. H. Andrews')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('567','1','Canada. Parliament')
+('570','1','W. H. Andrews')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('568','1','J.G. Carter')
+('571','1','Ruth Weltmann Begun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('569','1','J.G. Carter')
+('572','1','Ruth Weltmann Begun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('570','1','Marco Battaglini')
+('573','1','Ruth Weltmann Begun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('570','1','Rebecca B. Morton')
+('574','1','Mark F. Meier')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('570','1','Eleonora Patacchini')
+('575','1','Mark F. Meier')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('571','1','Marco Battaglini')
+('576','1','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('571','1','Rebecca B. Morton')
+('576','1','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('571','1','Eleonora Patacchini')
+('577','1','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('572','1','Vernon W. Ruttan')
+('577','1','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('572','1','Regents Professor in the Department of Applied Economics and in the Department of Economics Vernon W Ruttan')
+('578','1','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('573','1','Charlie Johnson')
+('578','1','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('573','1','Julius Loukas')
+('579','1','Denki Tsūshin Kenkyūjo (Japan)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('574','1','Charlie Johnson')
+('580','1','Denki Tsūshin Kenkyūjo (Japan)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('574','1','Julius Loukas')
+('581','1','Denki Tsūshin Kenkyūjo (Japan)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('575','1','Bob Smith')
+('582','1','Aeronautical Research Council (Great Britain)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('575','1','Bill Jackson')
+('583','1','Sunder Magun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('576','1','Bob Smith')
+('583','1','Canada. Industry Canada')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('576','1','Bill Jackson')
+('584','1','Gerald OCollins')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('577','1','Bob Smith')
+('585','1','Gerald OCollins')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('577','1','Bill Jackson')
+('586','1','Noriichi Mano')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('578','1','New Zealand. Customs Department')
+('586','1','Ikuma Hamada')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('579','1','Jack Smith')
+('586','1','Mahlon R. DeLong')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('579','1','Julius Perry')
+('587','1','Noriichi Mano')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('580','1','Jack Smith')
+('587','1','Ikuma Hamada')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('580','1','Julius Perry')
+('587','1','Mahlon R. DeLong')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('581','1','David B. Loeper')
+('588','1','Noriichi Mano')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('582','1','Stanford University. Thermosciences Division. Thermosciences Division')
+('588','1','Ikuma Hamada')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('582','1','E. E. Bouchard')
+('588','1','Mahlon R. DeLong')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('583','1','Richard F. Tomasson')
+('589','1','Robert W Jamison, CPA, PH.D.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('584','1','Richard F. Tomasson')
+('590','1','Robert W Jamison, CPA, PH.D.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('585','1','Susan McMurry')
+('591','1','Robert W Jamison, CPA, PH.D.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('586','1','Something Extra')
+('592','1','Jean Chrysostome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('587','1','Something Extra')
+('593','1','Jean Chrysostome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('588','1','Michael J. Waggoner')
+('594','1','Jean Chrysostome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('589','1','Michael J. Waggoner')
+('595','1','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('590','1','Alice Smith')
+('595','1','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('590','1','Joseph Perry')
+('596','1','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('591','1','Alice Smith')
+('596','1','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('591','1','Joseph Perry')
+('597','1','Sean OCasey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('592','1','Alice Smith')
+('598','1','Leonid A. Bokut')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('592','1','Joseph Perry')
+('598','1','Victor Latyshev')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('593','1','H. G. Wells')
+('598','1','Ivan Shestakov')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('593','1','Ayn Rand')
+('598','1','Efim Zelmanov')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('593','1','Mark Twain')
+('599','1','Canada. Parliament')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('593','1','H. Beam Piper')
+('600','1','Canada. Parliament')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('593','1','Philip K. Dick')
+('601','1','Great Britain. Parliament. House of Lords')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('593','1','Fritz Leiber')
+('602','1','Great Britain. Parliament. House of Lords')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('593','1','Andre Norton')
+('603','1','Canada. Parliament')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('593','1','Lester Del Rey')
+('604','1','J.G. Carter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('593','1','August Derleth')
+('605','1','J.G. Carter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('593','1','Frederik Pohl')
+('606','1','J.G. Carter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','1','H. G. Wells')
+('607','1','Marco Battaglini')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','1','Ayn Rand')
+('607','1','Rebecca B. Morton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','1','Mark Twain')
+('607','1','Eleonora Patacchini')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','1','H. Beam Piper')
+('608','1','Vernon W. Ruttan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','1','Philip K. Dick')
+('608','1','Regents Professor in the Department of Applied Economics and in the Department of Economics Vernon W Ruttan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','1','Fritz Leiber')
+('609','1','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','1','Andre Norton')
+('609','1','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','1','Lester Del Rey')
+('610','1','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','1','August Derleth')
+('610','1','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','1','Frederik Pohl')
+('611','1','New Zealand. Customs Department')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('595','1','W. Longman')
+('612','1','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('596','1','W. Longman')
+('612','1','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('597','1','Commerce Clearing House')
+('613','1','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('597','1','United States. Tax Court')
+('613','1','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('598','1','Vito Tanzi')
+('614','1','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('598','1','Barry Bracewell-Milnes')
+('614','1','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('598','1','David Roderic Myddelton')
+('615','1','David B. Loeper')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('599','1','Rollanda E. O'Connor')
+('616','1','David B. Loeper')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('600','1','Rollanda E. O'Connor')
+('617','1','David B. Loeper')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('601','1','Thomas Hardy')
+('618','1','Stanford University. Thermosciences Division. Thermosciences Division')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('602','1','Knute Iwaszko')
+('618','1','E. E. Bouchard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('602','1','Brian O'Connell')
+('619','1','Stanford University. Thermosciences Division. Thermosciences Division')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('603','1','Knute Iwaszko')
+('619','1','E. E. Bouchard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('603','1','Brian O'Connell')
+('620','1','Stanford University. Thermosciences Division. Thermosciences Division')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('604','1','Knute Iwaszko')
+('620','1','E. E. Bouchard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('604','1','Brian O'Connell')
+('621','1','Richard F. Tomasson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('605','1','Alice Johnson')
+('622','1','Frederick H. Soon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('605','1','Joseph Loukas')
+('623','1','Frederick H. Soon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('606','1','Alice Johnson')
+('624','1','Gian-Carlo Rota')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('606','1','Joseph Loukas')
+('625','1','Susan McMurry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('607','1','Alice Johnson')
+('626','1','Something Extra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('607','1','Joseph Loukas')
+('627','1','Something Extra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('608','1','Timothy S Good')
+('628','1','Christopher W. Carroll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('609','1','Charlie Smith')
+('629','1','Christopher W. Carroll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('609','1','Julius Stark')
+('630','1','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('610','1','Charlie Smith')
+('630','1','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('610','1','Julius Stark')
+('631','1','H. G. Wells')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('611','1','Charlie Smith')
+('631','1','Ayn Rand')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('611','1','Julius Stark')
+('631','1','Mark Twain')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('612','1','Eberhard König')
+('631','1','H. Beam Piper')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('613','1','Eberhard König')
+('631','1','Philip K. Dick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('614','1','Frank O'Connor')
+('631','1','Fritz Leiber')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('615','1','Frank O'Connor')
+('631','1','Andre Norton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('616','1','Frank O'Connor')
+('631','1','Lester Del Rey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('617','1','L. Frank Baum')
+('631','1','August Derleth')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('618','1','L. Frank Baum')
+('631','1','Frederik Pohl')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('619','1','L. Frank Baum')
+('632','1','H. G. Wells')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('620','1','Hugh Oakley')
+('632','1','Ayn Rand')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('621','1','Hugh Oakley')
+('632','1','Mark Twain')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('622','1','Charles Bruce Sissons')
+('632','1','H. Beam Piper')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('622','1','Richard De Brisay')
+('632','1','Philip K. Dick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('623','1','Charles Bruce Sissons')
+('632','1','Fritz Leiber')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('623','1','Richard De Brisay')
+('632','1','Andre Norton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('624','1','Charles Bruce Sissons')
+('632','1','Lester Del Rey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('624','1','Richard De Brisay')
+('632','1','August Derleth')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('625','1','Camilla V. Saulsbury')
+('632','1','Frederik Pohl')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('626','1','Camilla V. Saulsbury')
+('633','1','H. G. Wells')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('627','1','Camilla V. Saulsbury')
+('633','1','Ayn Rand')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('628','1','Jack Johnson')
+('633','1','Mark Twain')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('628','1','Joseph Stark')
+('633','1','H. Beam Piper')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('629','1','Jack Johnson')
+('633','1','Philip K. Dick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('629','1','Joseph Stark')
+('633','1','Fritz Leiber')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('630','1','Anthony O'Hear')
+('633','1','Andre Norton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('631','1','Anthony O'Hear')
+('633','1','Lester Del Rey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('632','1','Sampson Low')
+('633','1','August Derleth')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('633','1','Sampson Low')
+('633','1','Frederik Pohl')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('634','1','Sampson Low')
+('634','1','W. Longman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('635','1','Franklin W. Dixon')
+('635','1','W. Longman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('636','1','Franklin W. Dixon')
+('636','1','W. Longman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('637','1','Franklin W. Dixon')
+('637','1','Commerce Clearing House')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('638','1','B. M. Bower')
+('637','1','United States. Tax Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('639','1','B. M. Bower')
+('638','1','Commerce Clearing House')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('640','1','B. M. Bower')
+('638','1','United States. Tax Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('641','1','Trader X')
+('639','1','Vito Tanzi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('642','1','Harold J. Laski')
+('639','1','Barry Bracewell-Milnes')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('643','1','Harold J. Laski')
+('639','1','David Roderic Myddelton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('644','1','Harold J. Laski')
+('640','1','Vito Tanzi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('645','1','O. Henry')
+('640','1','Barry Bracewell-Milnes')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('646','1','O. Henry')
+('640','1','David Roderic Myddelton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('647','1','O. Henry')
+('641','1','Rollanda E. OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('648','1','Kenneth H. Brink')
+('642','1','Rollanda E. OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('648','1','Allan R. Robinson')
+('643','1','T. Harrison Gary')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('649','1','Kenneth H. Brink')
+('644','1','T. Harrison Gary')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('649','1','Allan R. Robinson')
+('645','1','T. Harrison Gary')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('650','1','Matthew V. Novenson')
+('646','1','Thomas Hardy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('651','1','Matthew V. Novenson')
+('647','1','Thomas Hardy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('652','1','Perry Anderson')
+('648','1','Thomas Hardy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('653','1','John W. Schwieter')
+('649','1','Knute Iwaszko')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('654','1','John W. Schwieter')
+('649','1','Brian OConnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('655','1','Fiona O'Neill')
+('650','1','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('656','1','Fiona O'Neill')
+('650','1','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('657','1','J. Paul Getty Museum')
+('651','1','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('658','1','J. Paul Getty Museum')
+('651','1','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('659','1','J. Paul Getty Museum')
+('652','1','Timothy S Good')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('660','1','R. J. Arsenault')
+('653','1','Timothy S Good')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('661','1','George S. Everly Jr.')
+('654','1','Timothy S Good')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('661','1','Jeffrey M. Lating')
+('655','1','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('662','1','Alice Williams')
+('655','1','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('662','1','Joseph Perry')
+('656','1','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('663','1','Jack Johnson')
+('656','1','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('663','1','Bill Jackson')
+('657','1','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('664','1','Jack Johnson')
+('657','1','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('664','1','Bill Jackson')
+('658','1','Eberhard König')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('665','1','Olivia Lelong')
+('659','1','Eberhard König')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('665','1','Gavin MacGregor')
+('660','1','Frank OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('666','1','Olivia Lelong')
+('661','1','Frank OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('666','1','Gavin MacGregor')
+('662','1','Frank OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('667','1','Olivia Lelong')
+('663','1','Frank OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('667','1','Gavin MacGregor')
+('664','1','Frank OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('668','1','Frank O'Connor')
+('665','1','Stephen R. Kellert')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('669','1','Bernard X. Bovasso')
+('665','1','Edward O. Wilson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('670','1','Jack Johnson')
+('666','1','Stephen R. Kellert')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('670','1','Bill Perry')
+('666','1','Edward O. Wilson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('671','1','Minnesota. Secretary of State')
+('667','1','L. Frank Baum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('672','1','Franklin W. Dixon')
+('668','1','L. Frank Baum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('673','1','Franklin W. Dixon')
+('669','1','L. Frank Baum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('674','1','B. L. Farjeon')
+('670','1','Connecticut. Board of Finance and Control')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('675','1','B. L. Farjeon')
+('671','1','Connecticut. Board of Finance and Control')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('676','1','Alice Williams')
+('672','1','Connecticut. Board of Finance and Control')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('676','1','Joseph Perry')
+('673','1','Charles Bruce Sissons')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('677','1','Charlie Smith')
+('673','1','Richard De Brisay')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('677','1','Julius Loukas')
+('674','1','Charles Bruce Sissons')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('678','1','James Madison')
+('674','1','Richard De Brisay')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('679','1','James Madison')
+('675','1','Charles Bruce Sissons')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('680','1','Rosalind Fergusson')
+('675','1','Richard De Brisay')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('681','1','Rosalind Fergusson')
+('676','1','Camilla V. Saulsbury')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('682','1','Rosalind Fergusson')
+('677','1','Camilla V. Saulsbury')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('683','1','Michael D. Andrew')
+('678','1','Robert E. Howard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('684','1','Michael D. Andrew')
+('678','1','H. P. Lovecraft')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('685','1','Bob Williams')
+('678','1','G. G. Pendarves')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('685','1','Bill Perry')
+('678','1','H. G. Wells')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('686','1','Bob Williams')
+('678','1','William Morris')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('686','1','Bill Perry')
+('678','1','Lafcadio Hearn')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('687','1','United States. Office of International Energy Affairs')
+('678','1','Abraham Merritt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('688','1','Younkyoo Kim')
+('678','1','Arthur Machen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('689','1','Vivienne O'Shannessy')
+('678','1','Ernest Bramah')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('689','1','Dean Minett')
+('678','1','Robert W. Chambers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('690','1','Axel Angeli')
+('678','1','George MacDonald')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('690','1','Ulrich Streit')
+('679','1','Robert E. Howard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('690','1','Robi Gonfalonieri')
+('679','1','H. P. Lovecraft')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('691','1','Axel Angeli')
+('679','1','G. G. Pendarves')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('691','1','Ulrich Streit')
+('679','1','H. G. Wells')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('691','1','Robi Gonfalonieri')
+('679','1','William Morris')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('692','1','Axel Angeli')
+('679','1','Lafcadio Hearn')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('692','1','Ulrich Streit')
+('679','1','Abraham Merritt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('692','1','Robi Gonfalonieri')
+('679','1','Arthur Machen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('693','1','Alice Smith')
+('679','1','Ernest Bramah')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('693','1','Bill Loukas')
+('679','1','Robert W. Chambers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('694','1','Shakespeare Association of America')
+('679','1','George MacDonald')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('695','1','Shakespeare Association of America')
+('680','1','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('696','1','Cathy O'Neil')
+('680','1','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('697','1','W. Morgan Shuster')
+('681','1','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('698','1','W. Morgan Shuster')
+('681','1','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('699','1','W. Morgan Shuster')
+('682','1','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('700','1','Stephen P. Robbins')
+('682','1','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('700','1','Martha I. Finney')
+('683','1','Anthony OHear')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('700','1','James O'Rourke')
+('684','1','Anthony OHear')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('700','1','William S. Kane')
+('685','1','Anthony OHear')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('701','1','Jack Williams')
+('686','1','Sampson Low')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('701','1','Joseph Loukas')
+('687','1','Sampson Low')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('702','1','Jack Williams')
+('688','1','Roy Lewis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('702','1','Joseph Loukas')
+('689','1','Roy Lewis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('703','1','Richard Allestree')
+('690','1','B. M. Bower')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('703','1','C. Matthew McMahon')
+('691','1','B. M. Bower')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('704','1','Richard Allestree')
+('692','1','B. M. Bower')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('704','1','C. Matthew McMahon')
+('693','1','Basil Hyman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('705','1','Richard Allestree')
+('693','1','Steven Braggs')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('705','1','C. Matthew McMahon')
+('694','1','Basil Hyman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('706','1','John F. Kennedy')
+('694','1','Steven Braggs')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('706','1','Dominique Enright')
+('695','1','O. Henry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('707','1','John F. Kennedy')
+('696','1','Kenneth H. Brink')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('707','1','Dominique Enright')
+('696','1','Allan R. Robinson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('708','1','John F. Kennedy')
+('697','1','Matthew V. Novenson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('708','1','Dominique Enright')
+('698','1','W. Kendrick Pritchett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('709','1','L. Frank Baum')
+('699','1','W. Kendrick Pritchett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('710','1','L. Frank Baum')
+('700','1','Perry Anderson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('711','1','L. Frank Baum')
+('701','1','Perry Anderson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('712','1','Paul D. Molnar')
+('702','1','Perry Anderson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('713','1','Paul D. Molnar')
+('703','1','Fiona ONeill')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('714','1','Paul D. Molnar')
+('704','1','R. J. Arsenault')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('715','1','Charlie Jones')
+('705','1','George S. Everly Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('715','1','Julius Loukas')
+('705','1','Jeffrey M. Lating')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('716','1','Charlie Jones')
+('706','1','George S. Everly Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('716','1','Julius Loukas')
+('706','1','Jeffrey M. Lating')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('717','1','Charlie Jones')
+('707','1','George S. Everly Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('717','1','Julius Loukas')
+('707','1','Jeffrey M. Lating')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('718','1','American Proctologic Society')
+('708','1','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('719','1','American Proctologic Society')
+('708','1','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('720','1','American Proctologic Society')
+('709','1','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('721','1','Dwight L. Evans')
+('709','1','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('721','1','Edna B. Foa')
+('710','1','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('721','1','Raquel E. Gur')
+('710','1','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('721','1','Herbert Hendin')
+('711','1','Thomas G. Wack')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('721','1','Charles P. O'Brien')
+('712','1','Thomas G. Wack')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('721','1','Daniel Romer')
+('713','1','Thomas G. Wack')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('721','1','Martin E.P. Seligman')
+('714','1','Olivia Lelong')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('721','1','B. Timothy Walsh')
+('714','1','Gavin MacGregor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('722','1','Dwight L. Evans')
+('715','1','Olivia Lelong')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('722','1','Edna B. Foa')
+('715','1','Gavin MacGregor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('722','1','Raquel E. Gur')
+('716','1','Laurence M. Lasater')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('722','1','Herbert Hendin')
+('717','1','Laurence M. Lasater')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('722','1','Charles P. O'Brien')
+('718','1','Laurence M. Lasater')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('722','1','Daniel Romer')
+('719','1','Mary R. Tahan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('722','1','Martin E.P. Seligman')
+('720','1','Mary R. Tahan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('722','1','B. Timothy Walsh')
+('721','1','Charles E. Brownell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('723','1','Samuel W. Mitcham Jr.')
+('722','1','Charles E. Brownell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('724','1','Samuel W. Mitcham Jr.')
+('723','1','R. Buccheri')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('725','1','Samuel W. Mitcham Jr.')
+('723','1','Jan van Paradijs')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('726','1','George F. Custen')
+('723','1','M. A. Alpar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('727','1','A J. Lee')
+('724','1','Bernard X. Bovasso')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('728','1','A J. Lee')
+('725','1','Bernard X. Bovasso')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('729','1','Mark A. Lovewell')
+('726','1','Bernard X. Bovasso')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('730','1','Mark A. Lovewell')
+('727','1','Monique OConnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('731','1','Alice Jones')
+('727','1','Eric R Dursteler')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('731','1','Julius Loukas')
+('728','1','Minnesota. Secretary of State')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('732','1','United States. Supreme Court')
+('729','1','Minnesota. Secretary of State')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('733','1','Patricia A. Messner')
+('730','1','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('733','1','Brenda S. Copeland')
+('731','1','B. L. Farjeon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('734','1','Patricia A. Messner')
+('732','1','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('734','1','Brenda S. Copeland')
+('732','1','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('735','1','Teunis A. P. Kwak')
+('733','1','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('736','1','Teunis A. P. Kwak')
+('733','1','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('737','1','Tim O'Reilly')
+('734','1','Friedrich List')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('738','1','Tim O'Reilly')
+('735','1','Friedrich List')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('739','1','Tim O'Reilly')
+('736','1','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('740','1','James H. Wittebols')
+('736','1','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('741','1','LeRoy R. Maleck')
+('737','1','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('741','1','Leroy R. Maleck O.D.')
+('737','1','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('742','1','LeRoy R. Maleck')
+('738','1','David M. Sokol')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('742','1','Leroy R. Maleck O.D.')
+('739','1','David M. Sokol')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('743','1','LeRoy R. Maleck')
+('740','1','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('743','1','Leroy R. Maleck O.D.')
+('740','1','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('744','1','Anteup Poker Player Journals')
+('741','1','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('745','1','William J. Gedney')
+('741','1','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('746','1','Wisconsin. State Board of Vocational, Technical and Adult Education')
+('742','1','James Madison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('747','1','Jack Jones')
+('743','1','Rosalind Fergusson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('747','1','Borat Perry')
+('744','1','Michael D. Andrew')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('748','1','Jack Jones')
+('745','1','Michael D. Andrew')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('748','1','Borat Perry')
+('746','1','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('749','1','Wisconsin. Supreme Court')
+('746','1','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('749','1','Frederic King Conover')
+('747','1','Theophilus G. Pinches')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('749','1','Frederick William Arthur')
+('748','1','Theophilus G. Pinches')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('749','1','Frederick C. Seibold')
+('749','1','Vivienne OShannessy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('749','1','Arnold LeBell')
+('749','1','Dean Minett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('750','1','Wisconsin. Supreme Court')
+('750','1','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('750','1','Frederic King Conover')
+('750','1','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('750','1','Frederick William Arthur')
+('751','1','Shakespeare Association of America')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('750','1','Frederick C. Seibold')
+('752','1','Shakespeare Association of America')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('750','1','Arnold LeBell')
+('753','1','Shakespeare Association of America')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('751','1','S. Shortall')
+('754','1','Cathy ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('752','1','S. Shortall')
+('755','1','Cathy ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('753','1','Alice Smith')
+('756','1','Cathy ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('753','1','Bill Loukas')
+('757','1','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('754','1','Alice Smith')
+('757','1','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('754','1','Bill Loukas')
+('758','1','Stephen P. Robbins')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('755','1','Alice Smith')
+('758','1','Martha I. Finney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('755','1','Bill Loukas')
+('758','1','James ORourke')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('756','1','Elfan Ap Rees')
+('758','1','William S. Kane')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('757','1','Robert S. Lai')
+('759','1','Stephen P. Robbins')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('757','1','Waite Group')
+('759','1','Martha I. Finney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('758','1','Indiana. Division of Accounting and Statistics')
+('759','1','James ORourke')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('759','1','Indiana. Division of Accounting and Statistics')
+('759','1','William S. Kane')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('760','1','Bob Williams')
+('760','1','Stephen P. Robbins')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('760','1','Joseph Stark')
+('760','1','Martha I. Finney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('761','1','Bob Williams')
+('760','1','James ORourke')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('761','1','Joseph Stark')
+('760','1','William S. Kane')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('762','1','Bob Williams')
+('761','1','Robin MacKenzie')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('762','1','Joseph Stark')
+('762','1','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('763','1','Τάκης Πέρκιζας')
+('762','1','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('764','1','Γκλυν Άιλιφ')
+('763','1','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('765','1','Γκλυν Άιλιφ')
+('763','1','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('766','1','Γκλυν Άιλιφ')
+('764','1','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('767','1','Paul Auster')
+('764','1','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('768','1','Paul Auster')
+('765','1','Patrick OBrian')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('769','1','Εδουάρδ Εστιβίλ')
+('766','1','Patrick OBrian')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('770','1','Μιχάλης Ντουνέτας')
+('767','1','Patrick OBrian')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('771','1','You-Jeong Jeong')
+('768','1','Walter Braddock Hickman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('772','1','You-Jeong Jeong')
+('769','1','Walter Braddock Hickman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('773','1','You-Jeong Jeong')
+('770','1','Zondervan,')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('774','1','تماري، سليم')
+('771','1','Richard Allestree')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('775','1','تماري، سليم')
+('771','1','C. Matthew McMahon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('776','1','张学英')
+('772','1','John F. Kennedy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('1','2','Larry Malcolm')
+('772','1','Dominique Enright')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('2','2','Larry Malcolm')
+('773','1','John F. Kennedy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('3','2','Larry Malcolm')
+('773','1','Dominique Enright')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('4','2','Robert W. Yarbrough')
+('774','1','John F. Kennedy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('5','2','James D. Ployhar')
+('774','1','Dominique Enright')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('5','2','George B. Zepp')
+('775','1','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('6','2','James D. Ployhar')
+('775','1','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('6','2','George B. Zepp')
+('776','1','L. Frank Baum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('7','2','Richard Schmitt')
+('777','1','L. Frank Baum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('8','2','S (Sabine) 1834-1924 Baring-Gould')
+('778','1','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('9','2','Royal Anthropological Institute of Great Britain and Ireland. Library')
+('778','1','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('9','2','Sir Richard Francis Burton')
+('779','1','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('10','2','Royal Anthropological Institute of Great Britain and Ireland. Library')
+('779','1','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('10','2','Sir Richard Francis Burton')
+('780','1','Buford D. Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('11','2','Richard Raskin')
+('780','1','Rakesh Srivastava')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('12','2','Richard Raskin')
+('781','1','Buford D. Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('13','2','Thomas F. Michel')
+('781','1','Rakesh Srivastava')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('14','2','Thomas Ernst')
+('782','1','Charlie Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('15','2','Thomas Ernst')
+('782','1','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('16','2','Thomas Ernst')
+('783','1','Jerome K Jerome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('17','2','Andrew Skilton')
+('784','1','Kathleen L. Scott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('18','2','Samuel E. Buttrey')
+('785','1','Kathleen L. Scott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('18','2','Lyn R. Whitaker')
+('786','1','Kathleen L. Scott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('19','2','Richard J. Durling')
+('787','1','American Proctologic Society')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('20','2','Edmund L. Epstein')
+('788','1','American Proctologic Society')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('21','2','Edmund L. Epstein')
+('789','1','Dwight L. Evans')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('22','2','Edmund L. Epstein')
+('789','1','Edna B. Foa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('23','2','Lois N. Magner')
+('789','1','Raquel E. Gur')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('23','2','Oliver J Kim')
+('789','1','Herbert Hendin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('24','2','Angharad N. Valdivia')
+('789','1','Charles P. OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('25','2','Angharad N. Valdivia')
+('789','1','Daniel Romer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('26','2','Angharad N. Valdivia')
+('789','1','Martin E.P. Seligman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('27','2','Robert C. Koons')
+('789','1','B. Timothy Walsh')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('28','2','Robert C. Koons')
+('790','1','A J. Lee')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('29','2','Gary Kielhofner')
+('791','1','Commerce Clearing House')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('30','2','J. Laughton Johnston')
+('792','1','Mark A. Lovewell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('31','2','J. Laughton Johnston')
+('793','1','Mark A. Lovewell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('32','2','J. Laughton Johnston')
+('794','1','Mark A. Lovewell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('33','2','Robert Burns')
+('795','1','Alice Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('34','2','Sir Thomas Henley')
+('795','1','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('35','2','Sir Thomas Henley')
+('796','1','Alice Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('36','2','Sir Thomas Henley')
+('796','1','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('37','2','Onora O'Neill')
+('797','1','Trevor C. Salmon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('38','2','Edward Upward')
+('798','1','Trevor C. Salmon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('39','2','Edward Upward')
+('799','1','C. A. Brebbia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('40','2','Richard Price')
+('799','1','Lal Chand Wadhwa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('41','2','Richard Price')
+('800','1','C. A. Brebbia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('42','2','Richard Price')
+('800','1','Lal Chand Wadhwa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('43','2','Donald Ray Davis')
+('801','1','C. A. Brebbia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('44','2','Donald Ray Davis')
+('801','1','Lal Chand Wadhwa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('45','2','Ellen Bayuk Rosenman')
+('802','1','Marion E. Marshall')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('46','2','Ellen Bayuk Rosenman')
+('803','1','Marion E. Marshall')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('47','2','Lewis H. King')
+('804','1','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('47','2','Frances E. Goodspeed')
+('804','1','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('47','2','D. S. Montgomery')
+('805','1','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('47','2','M. F. Millson')
+('805','1','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('48','2','Christopher Wayne Curry')
+('806','1','Cees H. Goekoop')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('48','2','John W. Curry')
+('807','1','Cees H. Goekoop')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('49','2','Christopher Wayne Curry')
+('808','1','Cees H. Goekoop')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('49','2','John W. Curry')
+('809','1','Anteup Poker Player Journals')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('50','2','Athenaeus Naucratites')
+('810','1','William J. Gedney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('51','2','Athenaeus Naucratites')
+('811','1','William J. Gedney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('52','2','Jack Smith')
+('812','1','William J. Gedney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('52','2','Bill Loukas')
+('813','1','Wisconsin. State Board of Vocational, Technical and Adult Education')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('53','2','Emily M. Brown')
+('814','1','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('54','2','Antoinette Elizabeth Kavanaugh')
+('814','1','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('55','2','Antoinette Elizabeth Kavanaugh')
+('815','1','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('56','2','Antoinette Elizabeth Kavanaugh')
+('815','1','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('57','2','Jack Johnson')
+('816','1','Wisconsin. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('57','2','Borat Jackson')
+('816','1','Frederic King Conover')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('58','2','Jack Johnson')
+('816','1','Frederick William Arthur')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('58','2','Borat Jackson')
+('816','1','Frederick C. Seibold')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('59','2','Everett R. Rhoades')
+('816','1','Arnold LeBell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('60','2','Everett R. Rhoades')
+('817','1','Wisconsin. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('61','2','Everett R. Rhoades')
+('817','1','Frederic King Conover')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('62','2','Werner Jüptner')
+('817','1','Frederick William Arthur')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('62','2','Thomas Kreis')
+('817','1','Frederick C. Seibold')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('63','2','Werner Jüptner')
+('817','1','Arnold LeBell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('63','2','Thomas Kreis')
+('818','1','Wisconsin. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('64','2','Werner Jüptner')
+('818','1','Frederic King Conover')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('64','2','Thomas Kreis')
+('818','1','Frederick William Arthur')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('65','2','Jack-Michel Cornil')
+('818','1','Frederick C. Seibold')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('65','2','Philippe Testud')
+('818','1','Arnold LeBell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('66','2','Jack-Michel Cornil')
+('819','1','S. Shortall')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('66','2','Philippe Testud')
+('820','1','S. Shortall')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('67','2','Sebastien Le')
+('821','1','S. Shortall')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('67','2','Thierry Worch')
+('822','1','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('68','2','Daniel W. Graham')
+('822','1','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('69','2','Daniel W. Graham')
+('823','1','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('70','2','Daniel W. Graham')
+('823','1','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('71','2','Juan Carlos Kaski')
+('824','1','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('72','2','Juan Carlos Kaski')
+('824','1','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('73','2','Juan Carlos Kaski')
+('825','1','Elfan Ap Rees')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('74','2','Gretel H. Schueller')
+('826','1','Elfan Ap Rees')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('74','2','Sheila K. Schueller')
+('827','1','Robert S. Lai')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('75','2','Gretel H. Schueller')
+('827','1','Waite Group')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('75','2','Sheila K. Schueller')
+('828','1','Indiana. Division of Accounting and Statistics')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('76','2','Gretel H. Schueller')
+('829','1','Indiana. Division of Accounting and Statistics')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('76','2','Sheila K. Schueller')
+('830','1','Indiana. Division of Accounting and Statistics')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('77','2','American Society for Testing and Materials')
+('831','1','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('78','2','American Society for Testing and Materials')
+('831','1','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('79','2','Texas Judicial Council')
+('832','1','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('80','2','Inch̊ōn (Korea). Meteorological Observatory')
+('832','1','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('81','2','Thomas William Gardner')
+('833','1','Masha Gessen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('81','2','William D. Sevon')
+('834','1','Masha Gessen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('82','2','Thomas William Gardner')
+('835','1','Masha Gessen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('82','2','William D. Sevon')
+('836','1','Γκλυν Άιλιφ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('83','2','Daniel John Meador')
+('837','1','Paul Auster')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('83','2','Thomas E. Baker')
+('838','1','Εδουάρδ Εστιβίλ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('83','2','Joan E. Steinman')
+('839','1','Εδουάρδ Εστιβίλ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('84','2','Daniel John Meador')
+('840','1','Μιχάλης Ντουνέτας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('84','2','Thomas E. Baker')
+('841','1','You-Jeong Jeong')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('84','2','Joan E. Steinman')
+('842','1','You-Jeong Jeong')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('85','2','Bob Johnson')
+('843','1','Arturo Schwarz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('85','2','Bill Jackson')
+('843','1','Mordecai Ardon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('86','2','Bob Johnson')
+('843','1','Muzeon Yisrael')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('86','2','Bill Jackson')
+('844','1','Arturo Schwarz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('87','2','James P. Brennan')
+('844','1','Mordecai Ardon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('88','2','James P. Brennan')
+('844','1','Muzeon Yisrael')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('89','2','James P. Brennan')
+('845','1','تماري، سليم')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('90','2','William Vaughan')
+('846','1','تماري، سليم')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('91','2','Demetrius Charles de Kavanagh Boulger')
+('847','1','Isao Yajima')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('92','2','Demetrius Charles de Kavanagh Boulger')
+('848','1','张学英')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('93','2','Jack Smith')
+('849','1','张学英')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('93','2','Borat Jackson')
+('850','1','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('94','2','Jack Smith')
+('850','1','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('94','2','Borat Jackson')
+('1','2','Robert W. Yarbrough')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('95','2','Bob Johnson')
+('2','2','James D. Ployhar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('95','2','Bill Jackson')
+('2','2','George B. Zepp')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('96','2','Bob Johnson')
+('3','2','James D. Ployhar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('96','2','Bill Jackson')
+('3','2','George B. Zepp')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('97','2','Jack Jones')
+('4','2','James D. Ployhar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('97','2','Borat Stark')
+('4','2','George B. Zepp')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('98','2','Jack Jones')
+('5','2','Peter Ratner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('98','2','Borat Stark')
+('6','2','Peter Ratner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('99','2','Rick Remender')
+('7','2','Peter Ratner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('100','2','Rick Remender')
+('8','2','Royal Anthropological Institute of Great Britain and Ireland. Library')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('101','2','Bob Smith')
+('8','2','Sir Richard Francis Burton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('101','2','Joseph Jackson')
+('9','2','Thomas Ernst')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('102','2','Michael J. Lisicky')
+('10','2','Samuel E. Buttrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('103','2','Nick Fieller')
+('10','2','Lyn R. Whitaker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('104','2','Conor O'Brien')
+('11','2','Samuel E. Buttrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('105','2','Bernice Pauahi Bishop Museum')
+('11','2','Lyn R. Whitaker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('106','2','Sydney J. Bounds')
+('12','2','Samuel E. Buttrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('107','2','Sydney J. Bounds')
+('12','2','Lyn R. Whitaker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('108','2','Sydney J. Bounds')
+('13','2','Richard J. Durling')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('109','2','Kathy J. Scheffer')
+('14','2','Richard J. Durling')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('109','2','Richard S. Tobin')
+('15','2','Andrew John Wilde')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('110','2','Kathy J. Scheffer')
+('16','2','Andrew John Wilde')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('110','2','Richard S. Tobin')
+('17','2','Andrew John Wilde')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('111','2','Kathy J. Scheffer')
+('18','2','Lois N. Magner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('111','2','Richard S. Tobin')
+('18','2','Oliver J Kim')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('112','2','Norman Uphoff')
+('19','2','Robert C. Koons')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('112','2','Andrew S. Ball')
+('20','2','Gary Kielhofner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('112','2','Erick Fernandes')
+('21','2','Gary Kielhofner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('112','2','Hans Herren')
+('22','2','Gary Kielhofner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('112','2','Olivier Husson')
+('23','2','J. Laughton Johnston')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('112','2','Mark Laing')
+('24','2','Robert Burns')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('112','2','Cheryl Palm')
+('25','2','Robert Burns')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('112','2','Jules Pretty')
+('26','2','Sir Thomas Henley')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('112','2','Pedro Sanchez')
+('27','2','Sir Thomas Henley')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('112','2','Nteranya Sanginga')
+('28','2','Onora ONeill')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('112','2','Janice Thies')
+('29','2','Onora ONeill')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','2','Norman Uphoff')
+('30','2','John R. Pattison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','2','Andrew S. Ball')
+('30','2','R. N. Gruneberg')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','2','Erick Fernandes')
+('30','2','J. Holton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','2','Hans Herren')
+('30','2','G. L. Ridgway')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','2','Olivier Husson')
+('30','2','G. Scott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','2','Mark Laing')
+('30','2','A. P. R. Wilson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','2','Cheryl Palm')
+('31','2','Edward Upward')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','2','Jules Pretty')
+('32','2','Edward Upward')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','2','Pedro Sanchez')
+('33','2','Edward Upward')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','2','Nteranya Sanginga')
+('34','2','Richard Price')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','2','Janice Thies')
+('35','2','Richard Price')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('114','2','Raymond Sauder Martin')
+('36','2','Richard Price')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('114','2','Elizabeth Sauder Martin')
+('37','2','Ellen Bayuk Rosenman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('115','2','Raymond Sauder Martin')
+('38','2','Andrew Laurence Comrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('115','2','Elizabeth Sauder Martin')
+('38','2','Thomas E. Backer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('116','2','Raymond Sauder Martin')
+('38','2','Edward Maynard Glaser')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('116','2','Elizabeth Sauder Martin')
+('39','2','Andrew Laurence Comrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('117','2','Alice Williams')
+('39','2','Thomas E. Backer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('117','2','Borat Stark')
+('39','2','Edward Maynard Glaser')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('118','2','Jack Smith')
+('40','2','Lewis H. King')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('118','2','Julius Perry')
+('40','2','Frances E. Goodspeed')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('119','2','Jack Smith')
+('40','2','D. S. Montgomery')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('119','2','Julius Perry')
+('40','2','M. F. Millson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('120','2','Jack Smith')
+('41','2','Christopher Wayne Curry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('120','2','Julius Perry')
+('41','2','John W. Curry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('121','2','G. E. Bentley')
+('42','2','Christopher Wayne Curry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('121','2','Martin K. Nurmi')
+('42','2','John W. Curry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('122','2','G. E. Bentley')
+('43','2','Athenaeus Naucratites')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('122','2','Martin K. Nurmi')
+('44','2','Illinois')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('123','2','G. E. Bentley')
+('45','2','Emily M. Brown')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('123','2','Martin K. Nurmi')
+('46','2','Robert Shenk')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('124','2','Graham Hood')
+('47','2','Robert Shenk')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('125','2','Jack Jones')
+('48','2','Robert Shenk')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('125','2','Bill Jackson')
+('49','2','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('126','2','Jack Jones')
+('49','2','Borat Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('126','2','Bill Jackson')
+('50','2','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('127','2','Jack Jones')
+('50','2','Borat Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('127','2','Bill Jackson')
+('51','2','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('128','2','Jack Williams')
+('51','2','Borat Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('128','2','Joseph Jackson')
+('52','2','Jack-Michel Cornil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('129','2','Jack Williams')
+('52','2','Philippe Testud')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('129','2','Joseph Jackson')
+('53','2','Jack-Michel Cornil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('130','2','Jack Williams')
+('53','2','Philippe Testud')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('130','2','Joseph Jackson')
+('54','2','Sebastien Le')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('131','2','Charlie Williams')
+('54','2','Thierry Worch')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('131','2','Joseph Jackson')
+('55','2','Sebastien Le')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('132','2','Thomas W. Schultz')
+('55','2','Thierry Worch')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('133','2','Herbert Schildt')
+('56','2','Daniel W. Graham')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('134','2','Herbert Schildt')
+('57','2','Daniel W. Graham')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('135','2','Ron Larson')
+('58','2','Daniel W. Graham')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('135','2','Bruce H. Edwards')
+('59','2','Juan Carlos Kaski')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('136','2','Ron Larson')
+('60','2','Juan Carlos Kaski')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('136','2','Bruce H. Edwards')
+('61','2','Gretel H. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('137','2','Ron Larson')
+('61','2','Sheila K. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('137','2','Bruce H. Edwards')
+('62','2','Gretel H. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('138','2','Charlotte K Lowrie')
+('62','2','Sheila K. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('139','2','William Warner Bishop')
+('63','2','Gretel H. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('140','2','William Warner Bishop')
+('63','2','Sheila K. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('141','2','Library of Congress. Copyright Office')
+('64','2','American Society for Testing and Materials')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('142','2','Library of Congress. Copyright Office')
+('65','2','Texas Judicial Council')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('143','2','Great Britain. Census Office')
+('66','2','Texas Judicial Council')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('144','2','Alice Smith')
+('67','2','Texas Judicial Council')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('144','2','Joseph Jackson')
+('68','2','Inch̊ōn (Korea). Meteorological Observatory')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('145','2','Alice Smith')
+('69','2','Inch̊ōn (Korea). Meteorological Observatory')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('145','2','Joseph Jackson')
+('70','2','Inch̊ōn (Korea). Meteorological Observatory')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('146','2','Alice Smith')
+('71','2','Daniel John Meador')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('146','2','Joseph Jackson')
+('71','2','Thomas E. Baker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('147','2','Muhammad Akram')
+('71','2','Joan E. Steinman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('147','2','Hina Gulzar')
+('72','2','Daniel John Meador')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('147','2',' K. P. Shum')
+('72','2','Thomas E. Baker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('148','2','Muhammad Akram')
+('72','2','Joan E. Steinman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('148','2','Hina Gulzar')
+('73','2','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('148','2',' K. P. Shum')
+('73','2','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('149','2','Mark P. Widrlechner')
+('74','2','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('150','2','Mark P. Widrlechner')
+('74','2','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('151','2','Mark P. Widrlechner')
+('75','2','James P. Brennan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('152','2','Alice Williams')
+('76','2','William Vaughan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('152','2','Bill Perry')
+('77','2','Demetrius Charles de Kavanagh Boulger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('153','2','Dave Douglas')
+('78','2','Demetrius Charles de Kavanagh Boulger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('153','2','Gregory Michael Papadopoulos')
+('79','2','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('153','2','John Boutelle')
+('79','2','Borat Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('154','2','Jack Smith')
+('80','2','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('154','2','Julius Stark')
+('80','2','Borat Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('155','2','Jack Smith')
+('81','2','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('155','2','Julius Stark')
+('81','2','Borat Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('156','2','Jack Smith')
+('82','2','Stephen Barker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('156','2','Julius Stark')
+('83','2','Stephen Barker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('157','2','W. Kim Halford')
+('84','2','Beth Slick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('157','2','Jemima Petch')
+('84','2','Steve Gerber')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('157','2','Debra Creedy')
+('85','2','Beth Slick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('158','2','W. Kim Halford')
+('85','2','Steve Gerber')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('158','2','Jemima Petch')
+('86','2','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('158','2','Debra Creedy')
+('86','2','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('159','2','Anthony W. Knapp')
+('87','2','Edward O. Thorp')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('159','2','David A. Vogan, Jr.')
+('88','2','Edward O. Thorp')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('159','2','David A. Vogan')
+('89','2','Edward O. Thorp')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('160','2','A. Ross Johnson')
+('90','2','Conor OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('160','2','R. Eugene Parta')
+('91','2','Conor OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('161','2','A. Ross Johnson')
+('92','2','Francie Wolgin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('161','2','R. Eugene Parta')
+('93','2','Sydney J. Bounds')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('162','2','Kaushik Basu')
+('94','2','Kathy J. Scheffer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('163','2','Kaushik Basu')
+('94','2','Richard S. Tobin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('164','2','Ross Rueger')
+('95','2','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('164','2','David C. Cohen')
+('95','2','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('165','2','Ross Rueger')
+('96','2','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('165','2','David C. Cohen')
+('96','2','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('166','2','Ross Rueger')
+('97','2','Raymond Sauder Martin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('166','2','David C. Cohen')
+('97','2','Elizabeth Sauder Martin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('167','2','Pamela K. Hill')
+('98','2','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('168','2','Pamela K. Hill')
+('98','2','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('169','2','Pamela K. Hill')
+('99','2','G. E. Bentley')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('170','2','Steve Tulliu')
+('99','2','Martin K. Nurmi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('170','2','Thomas Schmalberger')
+('100','2','Graham Hood')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('171','2','Steve Tulliu')
+('101','2','Graham Hood')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('171','2','Thomas Schmalberger')
+('102','2','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('172','2','John Morgan O'Connell')
+('102','2','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('173','2','John Morgan O'Connell')
+('103','2','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('174','2','Australian Conciliation and Arbitration Commission')
+('103','2','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('175','2','David Dunlap Observatory')
+('104','2','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('176','2','David Dunlap Observatory')
+('104','2','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('177','2','Spectator Company (New York, N.Y.)')
+('105','2','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('178','2','Spectator Company (New York, N.Y.)')
+('105','2','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('179','2','Rosa Maria Benito')
+('106','2','American Association of Petroleum Geologists')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('179','2','Chantal Cherifi')
+('107','2','American Association of Petroleum Geologists')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('179','2','Hocine Cherifi')
+('108','2','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('179','2','Esteban Moro')
+('108','2','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('179','2','Luis M. Rocha')
+('109','2','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('179','2','Marta Sales-Pardo')
+('109','2','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('180','2','OECD Nuclear Energy Agency')
+('110','2','Thomas W. Schultz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('180','2','International Atomic Energy Agency')
+('111','2','Thomas W. Schultz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('180','2','Commission of the European Communities')
+('112','2','Thomas W. Schultz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('181','2','Jack Johnson')
+('113','2','Herbert Schildt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('181','2','Joseph Stark')
+('114','2','V. RAJARAMAN')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('182','2','Jack Johnson')
+('115','2','V. RAJARAMAN')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('182','2','Joseph Stark')
+('116','2','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('183','2','Joseph M. Wepman')
+('116','2','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('183','2','Ralph W. Heine')
+('117','2','Ron Larson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('184','2','Joseph M. Wepman')
+('117','2','Bruce H. Edwards')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('184','2','Ralph W. Heine')
+('118','2','William Warner Bishop')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('185','2','Joseph M. Wepman')
+('119','2','William Warner Bishop')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('185','2','Ralph W. Heine')
+('120','2','Library of Congress. Copyright Office')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('186','2','Stanford University. Department of Chemistry')
+('121','2','Library of Congress. Copyright Office')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('187','2','Michelle R. Clayman')
+('122','2','Library of Congress. Copyright Office')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('187','2','Martin S. Fridson')
+('123','2','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('187','2','George H. Troughton')
+('123','2','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('188','2','Michelle R. Clayman')
+('124','2','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('188','2','Martin S. Fridson')
+('124','2','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('188','2','George H. Troughton')
+('125','2','Muhammad Akram')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('189','2','Bob Johnson')
+('125','2','Hina Gulzar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('189','2','Julius Stark')
+('125','2',' K. P. Shum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('190','2','Bob Johnson')
+('126','2','Muhammad Akram')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('190','2','Julius Stark')
+('126','2','Hina Gulzar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('191','2','Bob Johnson')
+('126','2',' K. P. Shum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('191','2','Julius Stark')
+('127','2','Muhammad Akram')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('192','2','Michael Schütze')
+('127','2','Hina Gulzar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('192','2','Raul B. Rebak')
+('127','2',' K. P. Shum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('192','2','Roman Bender')
+('128','2','Mark P. Widrlechner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('193','2','Michael Schütze')
+('129','2','Mark P. Widrlechner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('193','2','Raul B. Rebak')
+('130','2','Dave Douglas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('193','2','Roman Bender')
+('130','2','Gregory Michael Papadopoulos')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('194','2','Michael Schütze')
+('130','2','John Boutelle')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('194','2','Raul B. Rebak')
+('131','2','Dave Douglas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('194','2','Roman Bender')
+('131','2','Gregory Michael Papadopoulos')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('195','2','Charlie Jones')
+('131','2','John Boutelle')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('195','2','Joseph Loukas')
+('132','2','Dave Douglas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('196','2','Charlie Jones')
+('132','2','Gregory Michael Papadopoulos')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('196','2','Joseph Loukas')
+('132','2','John Boutelle')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('197','2','Jack Johnson')
+('133','2','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('197','2','Bill Jackson')
+('133','2','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('198','2','Jack Johnson')
+('134','2','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('198','2','Bill Jackson')
+('134','2','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('199','2','Carlo DeVito')
+('135','2','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('200','2','Franklin W. Dixon')
+('135','2','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('201','2','Franklin W. Dixon')
+('136','2','W. Kim Halford')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('202','2','Franklin W. Dixon')
+('136','2','Jemima Petch')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('203','2','Akhtarhusein A. Tayebali')
+('136','2','Debra Creedy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('204','2','Robert W. Chambers')
+('137','2','W. Kim Halford')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('205','2','Robert W. Chambers')
+('137','2','Jemima Petch')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('206','2','A. Geis')
+('137','2','Debra Creedy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('206','2','L. Brock')
+('138','2','W. Kim Halford')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('206','2','H. Mueller')
+('138','2','Jemima Petch')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('207','2','Charles Overton Handley')
+('138','2','Debra Creedy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('208','2','Kenny R. Burck')
+('139','2','Ross Rueger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('209','2','Will C. Pirkle')
+('139','2','David C. Cohen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('210','2','Will C. Pirkle')
+('140','2','Pamela K. Hill')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('211','2','Kenneth Weingarten')
+('141','2','Pamela K. Hill')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('211','2','Jacklyn E. Hungerland')
+('142','2','Pamela K. Hill')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('211','2','Mark F. Brennan')
+('143','2','Steve Tulliu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('212','2','Kenneth Weingarten')
+('143','2','Thomas Schmalberger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('212','2','Jacklyn E. Hungerland')
+('144','2','Steve Tulliu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('212','2','Mark F. Brennan')
+('144','2','Thomas Schmalberger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('213','2','Kenneth Weingarten')
+('145','2','Steve Tulliu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('213','2','Jacklyn E. Hungerland')
+('145','2','Thomas Schmalberger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('213','2','Mark F. Brennan')
+('146','2','John Morgan OConnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('214','2','N. J. McMillan')
+('147','2','Carson-Dellosa Publishing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('214','2','Ashton F. Embry')
+('148','2','Australian Conciliation and Arbitration Commission')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('214','2','Donald J. Glass')
+('149','2','Australian Conciliation and Arbitration Commission')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('215','2','N. J. McMillan')
+('150','2','Australian Conciliation and Arbitration Commission')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('215','2','Ashton F. Embry')
+('151','2','Spectator Company (New York, N.Y.)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('215','2','Donald J. Glass')
+('152','2','Spectator Company (New York, N.Y.)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('216','2','N. J. McMillan')
+('153','2','Rosa Maria Benito')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('216','2','Ashton F. Embry')
+('153','2','Chantal Cherifi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('216','2','Donald J. Glass')
+('153','2','Hocine Cherifi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('217','2','Alice Smith')
+('153','2','Esteban Moro')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('217','2','Bill Loukas')
+('153','2','Luis M. Rocha')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('218','2','Alice Smith')
+('153','2','Marta Sales-Pardo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('218','2','Bill Loukas')
+('154','2','Rosa Maria Benito')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('219','2','Inez Robb')
+('154','2','Chantal Cherifi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('220','2','Marc van der Woude')
+('154','2','Hocine Cherifi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('220','2','Christopher Jones')
+('154','2','Esteban Moro')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('220','2','Nicolas Charbit')
+('154','2','Luis M. Rocha')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('221','2','Marc van der Woude')
+('154','2','Marta Sales-Pardo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('221','2','Christopher Jones')
+('155','2','Rosa Maria Benito')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('221','2','Nicolas Charbit')
+('155','2','Chantal Cherifi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('222','2','Marc van der Woude')
+('155','2','Hocine Cherifi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('222','2','Christopher Jones')
+('155','2','Esteban Moro')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('222','2','Nicolas Charbit')
+('155','2','Luis M. Rocha')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('223','2','Alice Williams')
+('155','2','Marta Sales-Pardo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('223','2','Borat Stark')
+('156','2','OECD Nuclear Energy Agency')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('224','2','Jack Williams')
+('156','2','International Atomic Energy Agency')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('224','2','Joseph Perry')
+('156','2','Commission of the European Communities')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('225','2','Jack Williams')
+('157','2','OECD Nuclear Energy Agency')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('225','2','Joseph Perry')
+('157','2','International Atomic Energy Agency')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('226','2','Jack Williams')
+('157','2','Commission of the European Communities')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('226','2','Joseph Perry')
+('158','2','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('227','2','Persi Diaconis')
+('158','2','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('228','2','Persi Diaconis')
+('159','2','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('229','2','Persi Diaconis')
+('159','2','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('230','2','George Kish')
+('160','2','V. Sucharita')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('231','2','Paul Hoang')
+('161','2','Stanford University. Department of Chemistry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('231','2','Margaret Ducie')
+('162','2','Stanford University. Department of Chemistry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('232','2','June Alexander')
+('163','2','Edith OGorman Auffrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('232','2','Cate Sangster')
+('164','2','Edith OGorman Auffrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('233','2','Jerome G. Delaney')
+('165','2','Edith OGorman Auffrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('234','2','Jerome G. Delaney')
+('166','2','Michelle R. Clayman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('235','2','Columbia University. Teachers College. International Institute')
+('166','2','Martin S. Fridson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('236','2','Columbia University. Teachers College. International Institute')
+('166','2','George H. Troughton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('237','2','Columbia University. Teachers College. International Institute')
+('167','2','Michelle R. Clayman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('238','2','Harry. H. Chaudhary.')
+('167','2','Martin S. Fridson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('239','2','Bryan P. Stone')
+('167','2','George H. Troughton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('240','2','Bryan P. Stone')
+('168','2','Michelle R. Clayman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('241','2','Delwin R. Croom')
+('168','2','Martin S. Fridson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('242','2','Delwin R. Croom')
+('168','2','George H. Troughton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('243','2','Delwin R. Croom')
+('169','2','Mark W. McElroy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('244','2','Michael Lloyd Reese')
+('169','2','Jo van Engelen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('245','2','Michael Lloyd Reese')
+('170','2','Mark W. McElroy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('246','2','Michael Lloyd Reese')
+('170','2','Jo van Engelen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('247','2','John Leo Moore')
+('171','2','Michael Schütze')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('248','2','Donald A. Drum')
+('171','2','Raul B. Rebak')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('249','2','Donald A. Drum')
+('171','2','Roman Bender')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('250','2','Donald A. Drum')
+('172','2','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('251','2','James H. Stronge')
+('172','2','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('252','2','James H. Stronge')
+('173','2','Carlo DeVito')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('253','2','James H. Stronge')
+('174','2','Carlo DeVito')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('254','2','Kurt Laue')
+('175','2','Carlo DeVito')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('254','2','Helmut Stenger')
+('176','2','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('255','2','Kurt Laue')
+('177','2','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('255','2','Helmut Stenger')
+('178','2','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('256','2','Kurt Laue')
+('179','2','Anthony Fischetti')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('256','2','Helmut Stenger')
+('180','2','Anthony Fischetti')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('257','2','Peter E. Davies')
+('181','2','Anthony Fischetti')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('258','2','Bob Johnson')
+('182','2','Robert W. Chambers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('258','2','Julius Loukas')
+('183','2','Robert W. Chambers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('259','2','Dan Bailey')
+('184','2','A. Geis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('260','2','James S. Eustice')
+('184','2','L. Brock')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('260','2','Joel D. Kuntz')
+('184','2','H. Mueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('261','2','James S. Eustice')
+('185','2','A. Geis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('261','2','Joel D. Kuntz')
+('185','2','L. Brock')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('262','2','James S. Eustice')
+('185','2','H. Mueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('262','2','Joel D. Kuntz')
+('186','2','A. Geis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('263','2','Federation of American Societies for Experimental Biology')
+('186','2','L. Brock')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('264','2','Federation of American Societies for Experimental Biology')
+('186','2','H. Mueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('265','2','V. Alexander Stefan')
+('187','2','University of California (System)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('266','2','V. Alexander Stefan')
+('188','2','Kenny R. Burck')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('267','2','V. Alexander Stefan')
+('189','2','Kenny R. Burck')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('190','2','Kenny R. Burck')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('191','2','Will C. Pirkle')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('192','2','Will C. Pirkle')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('193','2','Will C. Pirkle')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('194','2','Kenneth Weingarten')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('194','2','Jacklyn E. Hungerland')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('194','2','Mark F. Brennan')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('195','2','Kenneth Weingarten')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('195','2','Jacklyn E. Hungerland')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('195','2','Mark F. Brennan')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('196','2','Alice Smith')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('196','2','Bill Loukas')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('197','2','Alice Smith')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('197','2','Bill Loukas')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('198','2','Betsy Sholl')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('199','2','Betsy Sholl')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('200','2','Inez Robb')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('201','2','Inez Robb')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('202','2','Scott E. Spradlin')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('203','2','Scott E. Spradlin')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('204','2','Scott E. Spradlin')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('205','2','Graeme P. Maxton')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('205','2','John Wormald')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('206','2','Marc van der Woude')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('206','2','Christopher Jones')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('206','2','Nicolas Charbit')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('207','2','Alice Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('207','2','Borat Stark')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('208','2','Alice Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('208','2','Borat Stark')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('209','2','Alice Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('209','2','Borat Stark')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('210','2','Jack Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('210','2','Joseph Perry')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('211','2','Persi Diaconis')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('212','2','George Kish')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('213','2','George Kish')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('214','2','George Kish')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('215','2','Paul Hoang')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('215','2','Margaret Ducie')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('216','2','Paul Hoang')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('216','2','Margaret Ducie')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('217','2','Jerome G. Delaney')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('218','2','Jerome G. Delaney')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('219','2','Columbia University. Teachers College. International Institute')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('220','2','Columbia University. Teachers College. International Institute')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('221','2','Columbia University. Teachers College. International Institute')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('222','2','Harry. H. Chaudhary.')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('223','2','Bryan P. Stone')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('224','2','Bryan P. Stone')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('225','2','Delwin R. Croom')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('226','2','Delwin R. Croom')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('227','2','Donald A. Drum')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('228','2','Donald A. Drum')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('229','2','Charlie Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('229','2','Julius Loukas')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('230','2','Charlie Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('230','2','Julius Loukas')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('231','2','6. X. 9. inch lined pages Journal book, 6 x 9 inch lined pages')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('232','2','Robert K. Kaufmann')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('232','2','Cutler J. Cleveland')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('233','2','James H. Stronge')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('234','2','James H. Stronge')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('235','2','Daniel Kehlmann')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('236','2','Daniel Kehlmann')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('237','2','Dan Bailey')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('238','2','Dan Bailey')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('239','2','James S. Eustice')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('239','2','Joel D. Kuntz')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('240','2','Federation of American Societies for Experimental Biology')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('241','2','Federation of American Societies for Experimental Biology')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('242','2','V. Alexander Stefan')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('243','2','V. Alexander Stefan')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('244','2','V. Alexander Stefan')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('245','2','Alice Smith')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('245','2','Borat Perry')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('246','2','Alice Smith')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('246','2','Borat Perry')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('247','2','Alice Smith')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('247','2','Borat Perry')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('248','2','Sung W. Lee')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('248','2','Peter W. Chung')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('249','2','Sung W. Lee')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('249','2','Peter W. Chung')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('250','2','Sung W. Lee')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('250','2','Peter W. Chung')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('251','2','Margaret L. Lial')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('251','2','Raymond N. Greenwell')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('251','2','Nathan P. Ritchey')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('252','2','Margaret L. Lial')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('252','2','Raymond N. Greenwell')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('252','2','Nathan P. Ritchey')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('253','2','Margaret L. Lial')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('253','2','Raymond N. Greenwell')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('253','2','Nathan P. Ritchey')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('254','2','Raymond Chapman')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('255','2','R. E. Kendel')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('256','2','Trader X')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('257','2','Trader X')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('258','2','Trader X')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('259','2','Trader X')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('260','2','Douglas F Morgan')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('260','2','Taylor & Francis Group')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('260','2','Richard T Green')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('260','2','Craig W Shinn')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('260','2','Kent S Robinson')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('260','2','Margaret E Banyan')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('261','2','Douglas F Morgan')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('261','2','Taylor & Francis Group')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('261','2','Richard T Green')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('261','2','Craig W Shinn')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('261','2','Kent S Robinson')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('261','2','Margaret E Banyan')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('262','2','Douglas F Morgan')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('262','2','Taylor & Francis Group')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('262','2','Richard T Green')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('262','2','Craig W Shinn')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('262','2','Kent S Robinson')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('262','2','Margaret E Banyan')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('263','2','Richard C. Holt')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('263','2','J. N. P. Hume')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('264','2','Richard C. Holt')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('264','2','J. N. P. Hume')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('265','2','Richard C. Holt')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('265','2','J. N. P. Hume')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('266','2','Thomas J. Delia')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('267','2','Alice Smith')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('267','2','Bill Stark')
 ;
 
 Insert into Author
@@ -10159,4369 +10621,4465 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('268','2','Borat Perry')
+('268','2','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('269','2','Alice Smith')
+('269','2','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('269','2','Borat Perry')
+('269','2','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('270','2','Alice Smith')
+('270','2','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('270','2','Borat Perry')
+('270','2','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('271','2','Sung W. Lee')
+('271','2','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('271','2','Peter W. Chung')
+('271','2','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('272','2','Sung W. Lee')
+('272','2','Helen Dillon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('272','2','Peter W. Chung')
+('273','2','Adam Mansbach')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('273','2','Sung W. Lee')
+('274','2','Adam Mansbach')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('273','2','Peter W. Chung')
+('275','2','Vojtěch Janoušek')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('274','2','John E. Halver')
+('275','2','Jean-François Moyen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('274','2','Ronald W. Hardy')
+('275','2','Hervé Martin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('275','2','John E. Halver')
+('275','2','Vojtěch Erban')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('275','2','Ronald W. Hardy')
+('275','2','Colin Farrow')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('276','2','John E. Halver')
+('276','2','Forrest C. Pogue')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('276','2','Ronald W. Hardy')
+('277','2','Ira A. Glazier')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('277','2','Trader X')
+('277','2','Percy William Filby')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('278','2','Trader X')
+('278','2','Ira A. Glazier')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('279','2','Trader X')
+('278','2','Percy William Filby')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('280','2','Trader X')
+('279','2','Flannery OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('281','2','Trader X')
+('280','2','Flannery OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('282','2','Trader X')
+('281','2','Flannery OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('283','2','Douglas F Morgan')
+('282','2','Barbara F Campbell, MDIV, Dmin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('283','2','Taylor & Francis Group')
+('282','2','Barbara F. Campbell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('283','2','Richard T Green')
+('282','2','James P. Campbell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('283','2','Craig W Shinn')
+('283','2','Barbara F Campbell, MDIV, Dmin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('283','2','Kent S Robinson')
+('283','2','Barbara F. Campbell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('283','2','Margaret E Banyan')
+('283','2','James P. Campbell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('284','2','Douglas F Morgan')
+('284','2','Barbara F Campbell, MDIV, Dmin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('284','2','Taylor & Francis Group')
+('284','2','Barbara F. Campbell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('284','2','Richard T Green')
+('284','2','James P. Campbell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('284','2','Craig W Shinn')
+('285','2','Philip Carabott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('284','2','Kent S Robinson')
+('286','2','Eric Lionel Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('284','2','Margaret E Banyan')
+('287','2','Eric Lionel Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('285','2','Douglas F Morgan')
+('288','2','A. Mital')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('285','2','Taylor & Francis Group')
+('289','2','A. Mital')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('285','2','Richard T Green')
+('290','2','Anthony Marra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('285','2','Craig W Shinn')
+('291','2','Αλέξανδρος Δουμάς (υιός)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('285','2','Kent S Robinson')
+('292','2','Αλέξανδρος Δουμάς (υιός)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('285','2','Margaret E Banyan')
+('293','2','Αλέξανδρος Δουμάς (υιός)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('286','2','Richard C. Holt')
+('294','2','A.S.A. Harrison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('286','2','J. N. P. Hume')
+('295','2','A.S.A. Harrison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('287','2','Richard C. Holt')
+('296','2','A.S.A. Harrison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('287','2','J. N. P. Hume')
+('297','2','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('288','2','Richard C. Holt')
+('297','2','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('288','2','J. N. P. Hume')
+('298','2','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('289','2','Thomas J. Delia')
+('298','2','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('290','2','Thomas J. Delia')
+('299','2','Pat Chin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('291','2','Alice Smith')
+('299','2','Greg Dunkel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('291','2','Bill Stark')
+('299','2','Sara Flounders')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('292','2','Alice Smith')
+('299','2','Kim Ives')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('292','2','Bill Stark')
+('300','2','Pat Chin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('293','2','Charlie Johnson')
+('300','2','Greg Dunkel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('293','2','Bill Stark')
+('300','2','Sara Flounders')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('294','2','Helen Dillon')
+('300','2','Kim Ives')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('295','2','Brian O'Connell')
+('301','2','Pat Chin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('296','2','Adam Mansbach')
+('301','2','Greg Dunkel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('297','2','Adam Mansbach')
+('301','2','Sara Flounders')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('298','2','Vojtěch Janoušek')
+('301','2','Kim Ives')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('298','2','Jean-François Moyen')
+('302','2','John Porges')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('298','2','Hervé Martin')
+('302','2','Fred Porges')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('298','2','Vojtěch Erban')
+('303','2','Lawrence A. Trissel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('298','2','Colin Farrow')
+('304','2','Lawrence A. Trissel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('299','2','Forrest C. Pogue')
+('305','2','Lawrence A. Trissel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('300','2','Forrest C. Pogue')
+('306','2','W Samlet Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('301','2','Ira A. Glazier')
+('307','2','W Samlet Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('301','2','Percy William Filby')
+('308','2','W Samlet Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('302','2','Ira A. Glazier')
+('309','2','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('302','2','Percy William Filby')
+('309','2','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('303','2','Susan O'Brien')
+('310','2','James L. Hirsen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('304','2','Susan O'Brien')
+('311','2','James L. Hirsen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('305','2','Flannery O'Connor')
+('312','2','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('306','2','Barbara F Campbell, MDIV, Dmin')
+('312','2','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('306','2','Barbara F. Campbell')
+('313','2','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('306','2','James P. Campbell')
+('313','2','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('307','2','Barbara F Campbell, MDIV, Dmin')
+('314','2','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('307','2','Barbara F. Campbell')
+('314','2','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('307','2','James P. Campbell')
+('315','2','Dominic OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('308','2','Barbara F Campbell, MDIV, Dmin')
+('316','2','Dominic OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('308','2','Barbara F. Campbell')
+('317','2','Bernell Coleman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('308','2','James P. Campbell')
+('317','2','James W. M. Fletcher')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('309','2','Philip Carabott')
+('317','2','Hubert F. Bonfili')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('310','2','Philip Carabott')
+('318','2','Arthur Henry Robertson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('311','2','Eric Lionel Jones')
+('319','2','Arthur Henry Robertson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('312','2','Eric Lionel Jones')
+('320','2','Arthur Henry Robertson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('313','2','A. Mital')
+('321','2','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('314','2','A. Mital')
+('321','2','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('315','2','Anthony Marra')
+('322','2','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('316','2','Αλέξανδρος Δουμάς (υιός)')
+('322','2','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('317','2','Αλέξανδρος Δουμάς (υιός)')
+('323','2','Norma McCorvey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('318','2','Αλέξανδρος Δουμάς (υιός)')
+('324','2','Norma McCorvey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('319','2','A.S.A. Harrison')
+('325','2','Overseas Press Club of America')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('320','2','A.S.A. Harrison')
+('326','2','I Love Darin Publishing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('321','2','A.S.A. Harrison')
+('327','2','Donna Albrecht')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('322','2','Jack Jones')
+('328','2','Deanne Panday')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('322','2','Bill Jackson')
+('329','2','Prakash Mishra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('323','2','Jack Jones')
+('330','2','Prakash Mishra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('323','2','Bill Jackson')
+('331','2','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('324','2','Pat Chin')
+('331','2','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('324','2','Greg Dunkel')
+('332','2','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('324','2','Sara Flounders')
+('332','2','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('324','2','Kim Ives')
+('333','2','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('325','2','Pat Chin')
+('333','2','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('325','2','Greg Dunkel')
+('334','2','R. Bruce Hull')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('325','2','Sara Flounders')
+('335','2','R. Bruce Hull')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('325','2','Kim Ives')
+('336','2','R. Bruce Hull')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('326','2','Pat Chin')
+('337','2','Angela E. Douglas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('326','2','Greg Dunkel')
+('338','2','Angela E. Douglas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('326','2','Sara Flounders')
+('339','2','Syed V. Ahamed')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('326','2','Kim Ives')
+('340','2','Syed V. Ahamed')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('327','2','John Porges')
+('341','2','Fatma Adam ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('327','2','Fred Porges')
+('341','2','Nasruddin Hassan ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('328','2','Lawrence A. Trissel')
+('342','2','Fatma Adam ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('329','2','Lawrence A. Trissel')
+('342','2','Nasruddin Hassan ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('330','2','Lawrence A. Trissel')
+('343','2','Fatma Adam ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('331','2','Robert J. Mayhew')
+('343','2','Nasruddin Hassan ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('332','2','Robert J. Mayhew')
+('344','2','Redmond OHanlon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('333','2','Robert J. Mayhew')
+('345','2','Redmond OHanlon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('334','2','Charlie Smith')
+('346','2','Redmond OHanlon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('334','2','Joseph Perry')
+('347','2','Manfred Stoll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('335','2','Charlie Smith')
+('348','2','Manfred Stoll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('335','2','Joseph Perry')
+('349','2','Lev Ėrnestovich Ėlʹsgolʹt︠s︡')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('336','2','Charlie Smith')
+('350','2','Philip Attwood')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('336','2','Joseph Perry')
+('351','2','Roshen Dalal')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('337','2','Richard H. Turner')
+('352','2','Roshen Dalal')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('338','2','Richard H. Turner')
+('353','2','Christopher W. Hughes')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('339','2','James L. Hirsen')
+('354','2','Christopher W. Hughes')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('340','2','Norman K. Denzin')
+('355','2','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('341','2','Norman K. Denzin')
+('356','2','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('342','2','Norman K. Denzin')
+('357','2','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('343','2','Bob Williams')
+('358','2','James Clark Sherburne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('343','2','Bill Loukas')
+('359','2','James Clark Sherburne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('344','2','Bob Williams')
+('360','2','James Clark Sherburne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('344','2','Bill Loukas')
+('361','2','János Xántus')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('345','2','Bob Williams')
+('361','2','Ann Zwinger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('345','2','Bill Loukas')
+('362','2','Washington (State). Legislature')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('346','2','Dominic O'Brien')
+('363','2','Royal Australian Historical Society')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('347','2','Dominic O'Brien')
+('364','2','Elisha Mitchell Scientific Society (Chapel Hill, N.C.)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('348','2','Dominic O'Brien')
+('365','2','Elisha Mitchell Scientific Society (Chapel Hill, N.C.)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('349','2','Bernell Coleman')
+('366','2','Elisha Mitchell Scientific Society (Chapel Hill, N.C.)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('349','2','James W. M. Fletcher')
+('367','2','Michael Atiyah')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('349','2','Hubert F. Bonfili')
+('368','2','Michael Atiyah')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('350','2','Arthur Henry Robertson')
+('369','2','Bill Jacob')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('351','2','Arthur Henry Robertson')
+('370','2','Bill Jacob')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('352','2','Arthur Henry Robertson')
+('371','2','Bill Jacob')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('353','2','Charlie Johnson')
+('372','2','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('353','2','Borat Stark')
+('372','2','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('354','2','Charlie Johnson')
+('373','2','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('354','2','Borat Stark')
+('373','2','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('355','2','Charlie Johnson')
+('374','2','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('355','2','Borat Stark')
+('374','2','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('356','2','Norma McCorvey')
+('375','2','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('357','2','Norma McCorvey')
+('375','2','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('358','2','Norma McCorvey')
+('376','2','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('359','2','Overseas Press Club of America')
+('376','2','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('360','2','Overseas Press Club of America')
+('377','2','Koen Wessing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('361','2','Overseas Press Club of America')
+('377','2','Pauline Terreehorst')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('362','2','I Love Darin Publishing')
+('377','2','Tineke de Ruiter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('363','2','Donna Albrecht')
+('378','2','Gordon Williamson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('364','2','Donna Albrecht')
+('379','2','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('365','2','Donna Albrecht')
+('379','2','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('366','2','Deanne Panday')
+('380','2','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('367','2','Deanne Panday')
+('380','2','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('368','2','Tim Price')
+('381','2','Manon P. Charbonneau')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('369','2','Prakash Mishra')
+('382','2','Library of Congress')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('370','2','Prakash Mishra')
+('383','2','Herodotus')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('371','2','Prakash Mishra')
+('384','2','Herodotus')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('372','2','Ammonius')
+('385','2','Herodotus')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('373','2','Michael T. Henry')
+('386','2','Geoffrey K. Pullum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('374','2','Michael T. Henry')
+('387','2','Geoffrey K. Pullum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('375','2','R. Bruce Hull')
+('388','2','Shirley ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('376','2','R. Bruce Hull')
+('389','2','Suresh K. Sharma')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('377','2','Benjamin Millis')
+('390','2','Great Britain. Scottish Office Inquiry Reporters')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('377','2','Douglas Olson')
+('390','2','O. Paesano')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('378','2','Benjamin Millis')
+('391','2','Great Britain. Scottish Office Inquiry Reporters')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('378','2','Douglas Olson')
+('391','2','O. Paesano')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('379','2','Angela E. Douglas')
+('392','2','Great Britain. Scottish Office Inquiry Reporters')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('380','2','Angela E. Douglas')
+('392','2','O. Paesano')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('381','2','Syed V. Ahamed')
+('393','2','Sally L. Lagerquist')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('382','2','Syed V. Ahamed')
+('394','2','Sally L. Lagerquist')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('383','2','Christian Robert')
+('395','2','Sally L. Lagerquist')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('383','2','George Casella')
+('396','2','W. Stannard Allen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('384','2','Christian Robert')
+('397','2','W. Stannard Allen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('384','2','George Casella')
+('398','2','Daniel ODonnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('385','2','Christian Robert')
+('399','2','Mohamed Ally')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('385','2','George Casella')
+('399','2','Gill Needham')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('386','2','Manfred Stoll')
+('400','2','Mohamed Ally')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('387','2','Manfred Stoll')
+('400','2','Gill Needham')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('388','2','Manfred Stoll')
+('401','2','Lárus Thorlacius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('389','2','Lev Ėrnestovich Ėlʹsgolʹt︠s︡')
+('401','2','Thordur Jonsson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('390','2','Lev Ėrnestovich Ėlʹsgolʹt︠s︡')
+('402','2','Lárus Thorlacius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('391','2','Lev Ėrnestovich Ėlʹsgolʹt︠s︡')
+('402','2','Thordur Jonsson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('392','2','Philip Attwood')
+('403','2','Lárus Thorlacius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('393','2','Philip Attwood')
+('403','2','Thordur Jonsson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('394','2','Eamonn Dunne')
+('404','2','Renate Wiehager')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('395','2','Eamonn Dunne')
+('405','2','Renate Wiehager')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('396','2','Roshen Dalal')
+('406','2','Renate Wiehager')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('397','2','Roshen Dalal')
+('407','2','Samuel A. Litt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('398','2','Roshen Dalal')
+('408','2','Samuel A. Litt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('399','2','Christopher W. Hughes')
+('409','2','Jack J. Phillips')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('400','2','James Clark Sherburne')
+('409','2','Lisa Edwards')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('401','2','János Xántus')
+('410','2','Arsen Darnay')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('401','2','Ann Zwinger')
+('411','2','Arsen Darnay')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('402','2','Washington (State). Legislature')
+('412','2','Arsen Darnay')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('403','2','Washington (State). Legislature')
+('413','2','John Whicher')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('404','2','Royal Australian Historical Society')
+('414','2','John Whicher')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('405','2','Royal Australian Historical Society')
+('415','2','J Brennan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('406','2','Royal Australian Historical Society')
+('416','2','J Brennan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('407','2','Elisha Mitchell Scientific Society (Chapel Hill, N.C.)')
+('417','2','J Brennan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('408','2','Elisha Mitchell Scientific Society (Chapel Hill, N.C.)')
+('418','2','Henry Martyn Cundy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('409','2','Elisha Mitchell Scientific Society (Chapel Hill, N.C.)')
+('418','2','A. P. Rollett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('410','2','Rex Chandrabose')
+('419','2','Martha McJunkin Rhyne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('411','2','Rex Chandrabose')
+('420','2','Kevin Corcoran')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('412','2','Michael Atiyah')
+('420','2','Joel Fischer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('413','2','Michael Atiyah')
+('421','2','Kevin Corcoran')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('414','2','Michael Atiyah')
+('421','2','Joel Fischer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('415','2','Bill Jacob')
+('422','2','University of South Africa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('416','2','Bill Jacob')
+('423','2','University of South Africa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('417','2','Bill Jacob')
+('424','2','University of South Africa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('418','2','Bob Williams')
+('425','2','Wisconsin. Governor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('418','2','Borat Perry')
+('426','2','Wisconsin. Governor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('419','2','Bob Williams')
+('427','2','Wisconsin. Governor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('419','2','Borat Perry')
+('428','2','Fritz Pietzschke')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('420','2','Bob Smith')
+('428','2','Franz Wimmer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('420','2','Julius Loukas')
+('429','2','Gary B. Shelly')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('421','2','Bob Smith')
+('429','2','Thomas J. Cashman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('421','2','Julius Loukas')
+('429','2','Misty Vermaat')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('422','2','Bob Smith')
+('430','2','Katie Layman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('422','2','Julius Loukas')
+('430','2','LaVaughn Hart')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('423','2','Koen Wessing')
+('431','2','Katie Layman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('423','2','Pauline Terreehorst')
+('431','2','LaVaughn Hart')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('423','2','Tineke de Ruiter')
+('432','2','Katie Layman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('424','2','Koen Wessing')
+('432','2','LaVaughn Hart')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('424','2','Pauline Terreehorst')
+('433','2','Temitope W Oshikoya')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('424','2','Tineke de Ruiter')
+('434','2','Peggy OMara')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('425','2','Gordon Williamson')
+('435','2','Peggy OMara')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('426','2','Gordon Williamson')
+('436','2','Charles OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('427','2','Gordon Williamson')
+('437','2','Charles OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('428','2','Jack Smith')
+('438','2','Charles OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('428','2','Julius Perry')
+('439','2','Allan Bérubé')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('429','2','Jack Smith')
+('440','2','Allan Bérubé')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('429','2','Julius Perry')
+('441','2','Allan Bérubé')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('430','2','Jack Smith')
+('442','2','Sean OByrne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('430','2','Julius Perry')
+('442','2','George Rouse')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('431','2','Dave Taylor')
+('443','2','Sean OByrne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('431','2','Brian Jepson')
+('443','2','George Rouse')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('432','2','Dave Taylor')
+('444','2','Sean OByrne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('432','2','Brian Jepson')
+('444','2','George Rouse')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('433','2','Dave Taylor')
+('445','2','Susan, K. Johnsen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('433','2','Brian Jepson')
+('445','2','Debbie Dailey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('434','2','Melvil Dewey')
+('445','2','Alicia Cotabish')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('434','2','Richard Rogers Bowker')
+('446','2','Laurell K. Hamilton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('434','2','L. Pylodet')
+('447','2','Laurell K. Hamilton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('434','2','Charles Ammi Cutter')
+('448','2','Laurell K. Hamilton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('434','2','Bertine Emma Weston')
+('449','2','Organisation for Economic Co-operation and Development')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('434','2','Karl Brown')
+('450','2','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('434','2','Helen E. Wessells')
+('450','2','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('435','2','Melvil Dewey')
+('451','2','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('435','2','Richard Rogers Bowker')
+('451','2','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('435','2','L. Pylodet')
+('452','2','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('435','2','Charles Ammi Cutter')
+('452','2','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('435','2','Bertine Emma Weston')
+('453','2','K. Thirusangu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('435','2','Karl Brown')
+('453','2','S. Poornavel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('435','2','Helen E. Wessells')
+('453','2','R. Vasuki')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('436','2','Herodotus')
+('454','2','K. Thirusangu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('437','2','Herodotus')
+('454','2','S. Poornavel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('438','2','Geoffrey K. Pullum')
+('454','2','R. Vasuki')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('439','2','Geoffrey K. Pullum')
+('455','2','K. Thirusangu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('440','2','Geoffrey K. Pullum')
+('455','2','S. Poornavel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('441','2','Shirley O'Neil')
+('455','2','R. Vasuki')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('442','2','Shirley O'Neil')
+('456','2','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('443','2','Shirley O'Neil')
+('456','2','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('444','2','Suresh K. Sharma')
+('457','2','New South Wales. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('445','2','Great Britain. Scottish Office Inquiry Reporters')
+('458','2','New South Wales. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('445','2','O. Paesano')
+('459','2','Grant Morrison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('446','2','Sally L. Lagerquist')
+('460','2','Grant Morrison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('447','2','Sally L. Lagerquist')
+('461','2','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('448','2','W. Stannard Allen')
+('461','2','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('449','2','W. Stannard Allen')
+('462','2','Ana Katrin Schenk')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('450','2','Daniel O'Donnell')
+('463','2','Ana Katrin Schenk')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('451','2','Richard Walters')
+('464','2','Rooi Books')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('452','2','Lárus Thorlacius')
+('465','2','Rooi Books')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('452','2','Thordur Jonsson')
+('466','2','Rooi Books')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('453','2','Lárus Thorlacius')
+('467','2','M. M. Stuckey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('453','2','Thordur Jonsson')
+('467','2','L. L. Layton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('454','2','Renate Wiehager')
+('468','2','M. M. Stuckey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('455','2','Renate Wiehager')
+('468','2','L. L. Layton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('456','2','Adrian Phillips')
+('469','2','M. M. Stuckey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('457','2','Adrian Phillips')
+('469','2','L. L. Layton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('458','2','Jack J. Phillips')
+('470','2','Laurene V. Fausett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('458','2','Lisa Edwards')
+('471','2','Z. Z. Rox Orpo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('459','2','Arsen Darnay')
+('472','2','Z. Z. Rox Orpo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('460','2','Arsen Darnay')
+('473','2','Z. Z. Rox Orpo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('461','2','John Whicher')
+('474','2','OECD')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('462','2','John Whicher')
+('475','2','Guy R. Lefrançois')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('463','2','John Whicher')
+('476','2','Guy R. Lefrançois')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('464','2','J Brennan')
+('477','2','Guy R. Lefrançois')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('465','2','Henry Martyn Cundy')
+('478','2','Bob Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('465','2','A. P. Rollett')
+('478','2','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('466','2','Martha McJunkin Rhyne')
+('479','2','Bob Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('467','2','Martha McJunkin Rhyne')
+('479','2','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('468','2','Kevin Corcoran')
+('480','2','Bob Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('468','2','Joel Fischer')
+('480','2','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('469','2','Kevin Corcoran')
+('481','2','Elizabeth Doherty Herzfeld')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('469','2','Joel Fischer')
+('482','2','Elizabeth Doherty Herzfeld')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('470','2','Wisconsin. Governor')
+('483','2','Elizabeth Doherty Herzfeld')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('471','2','Gary B. Shelly')
+('484','2','Andreas Vesalius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('471','2','Thomas J. Cashman')
+('484','2','William Frank Richardson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('471','2','Misty Vermaat')
+('484','2','John Burd Carman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('472','2','Philip P. Betancourt')
+('485','2','Andreas Vesalius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('472','2','Kōstēs Davaras')
+('485','2','William Frank Richardson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('473','2','India (Republic). Dept. of Commercial Intelligence and Statistics')
+('485','2','John Burd Carman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('474','2','India (Republic). Dept. of Commercial Intelligence and Statistics')
+('486','2','Andreas Vesalius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('475','2','India (Republic). Dept. of Commercial Intelligence and Statistics')
+('486','2','William Frank Richardson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('476','2','Peggy O'Mara')
+('486','2','John Burd Carman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('477','2','Allan Bérubé')
+('487','2','Laird C. Kirkpatrick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('478','2','Allan Bérubé')
+('488','2','Laird C. Kirkpatrick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('479','2','Allan Bérubé')
+('489','2','Tatiana V. Akhutina')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('480','2','Susan, K. Johnsen')
+('489','2','Natalia M. Pylaeva')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('480','2','Debbie Dailey')
+('490','2','Tatiana V. Akhutina')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('480','2','Alicia Cotabish')
+('490','2','Natalia M. Pylaeva')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('481','2','Laurell K. Hamilton')
+('491','2','Tatiana V. Akhutina')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('482','2','Organisation for Economic Co-operation and Development')
+('491','2','Natalia M. Pylaeva')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('483','2','Charlie Smith')
+('492','2','A. Schrijver')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('483','2','Joseph Jackson')
+('493','2','K.-W. Gaede')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('484','2','K. Thirusangu')
+('493','2','D.B. Pressmar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('484','2','S. Poornavel')
+('493','2','Ch. Schneeweiß')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('484','2','R. Vasuki')
+('493','2','K.-P. Schuster')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('485','2','K. Thirusangu')
+('493','2','O. Seifert')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('485','2','S. Poornavel')
+('494','2','K.-W. Gaede')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('485','2','R. Vasuki')
+('494','2','D.B. Pressmar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('486','2','K. Thirusangu')
+('494','2','Ch. Schneeweiß')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('486','2','S. Poornavel')
+('494','2','K.-P. Schuster')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('486','2','R. Vasuki')
+('494','2','O. Seifert')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('487','2','Andrew L Sihler')
+('495','2','Nian-Feng Tzeng')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('488','2','Andrew L Sihler')
+('496','2','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('489','2','Andrew L Sihler')
+('496','2','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('490','2','Charlie Williams')
+('497','2','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('490','2','Julius Loukas')
+('497','2','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('491','2','Charlie Williams')
+('498','2','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('491','2','Julius Loukas')
+('498','2','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('492','2','Charlie Williams')
+('499','2','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('492','2','Julius Loukas')
+('499','2','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('493','2','New South Wales. Supreme Court')
+('500','2','Dominic J. OMeara')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('494','2','Grant Morrison')
+('501','2','Gavin OToole')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('495','2','Grant Morrison')
+('502','2','Gavin OToole')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('496','2','Grant Morrison')
+('503','2','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('497','2','Ana Katrin Schenk')
+('503','2','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('498','2','Ana Katrin Schenk')
+('504','2','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('499','2','Rooi Books')
+('504','2','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('500','2','Rooi Books')
+('505','2','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('501','2','Rooi Books')
+('505','2','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('502','2','Z. Z. Rox Orpo')
+('506','2','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('503','2','Λέων Τολστόι')
+('506','2','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('504','2','OECD')
+('507','2','S. Mahmood Naqvi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('505','2','Helmut Greim')
+('507','2','John James William Rogers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('506','2','Helmut Greim')
+('508','2','S. Mahmood Naqvi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('507','2','Guy R. Lefrançois')
+('508','2','John James William Rogers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('508','2','Guy R. Lefrançois')
+('509','2','S. Mahmood Naqvi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('509','2','Guy R. Lefrançois')
+('509','2','John James William Rogers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('510','2','Bob Jones')
+('510','2','Jashwant B. Mehta')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('510','2','Borat Perry')
+('511','2','Fred Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('511','2','Bob Jones')
+('512','2','Fred Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('511','2','Borat Perry')
+('513','2','Eugene F. Scoles')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('512','2','Elizabeth Doherty Herzfeld')
+('514','2','Institution of Mechanical Engineers (Great Britain)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('513','2','Elizabeth Doherty Herzfeld')
+('515','2','Institution of Mechanical Engineers (Great Britain)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('514','2','Elizabeth Doherty Herzfeld')
+('516','2','Royal Irish Academy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('515','2','Charlie Johnson')
+('517','2','Royal Irish Academy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('515','2','Julius Perry')
+('518','2','Royal Irish Academy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('516','2','Andreas Vesalius')
+('519','2','Ana Castillo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('516','2','William Frank Richardson')
+('520','2','Ana Castillo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('516','2','John Burd Carman')
+('521','2','Ana Castillo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('517','2','Andreas Vesalius')
+('522','2','Shawn Carruth')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('517','2','William Frank Richardson')
+('522','2','Albrecht Garsky')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('517','2','John Burd Carman')
+('523','2','David Gerbing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('518','2','Andreas Vesalius')
+('524','2','Wei Li')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('518','2','William Frank Richardson')
+('524','2','Yuefei Sui')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('518','2','John Burd Carman')
+('525','2','Wei Li')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('519','2','David Chudnovsky')
+('525','2','Yuefei Sui')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('520','2','David Chudnovsky')
+('526','2','Wei Li')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('521','2','Laird C. Kirkpatrick')
+('526','2','Yuefei Sui')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('522','2','Laird C. Kirkpatrick')
+('527','2','Susa Condliffe')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('523','2','A. Schrijver')
+('528','2','Susa Condliffe')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('524','2','A. Schrijver')
+('529','2','Murray L. Weidenbaum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('525','2','K.-W. Gaede')
+('530','2','William H. Pivar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('525','2','D.B. Pressmar')
+('531','2','William H. Pivar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('525','2','Ch. Schneeweiß')
+('532','2','William H. Pivar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('525','2','K.-P. Schuster')
+('533','2','Unesco. General Conference')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('525','2','O. Seifert')
+('534','2','Unesco. General Conference')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('526','2','Nian-Feng Tzeng')
+('535','2','Unesco. General Conference')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('527','2','Alice Williams')
+('536','2','Peter Flipsen Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('527','2','Bill Perry')
+('537','2','Mark F. Meier')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('528','2','Alice Williams')
+('538','2','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('528','2','Bill Perry')
+('538','2','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('529','2','David K. Lewis')
+('539','2','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('530','2','David K. Lewis')
+('539','2','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('531','2','Charlie Williams')
+('540','2','Aeronautical Research Council (Great Britain)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('531','2','Borat Perry')
+('541','2','Aeronautical Research Council (Great Britain)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('532','2','Dominic J. O'Meara')
+('542','2','Sunder Magun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('533','2','Dominic J. O'Meara')
+('542','2','Canada. Industry Canada')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('534','2','Dominic J. O'Meara')
+('543','2','Sunder Magun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('535','2','Gavin O'Toole')
+('543','2','Canada. Industry Canada')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('536','2','Gavin O'Toole')
+('544','2','Gerald OCollins')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('537','2','Charlie Smith')
+('545','2','Gerald OCollins')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('537','2','Borat Perry')
+('546','2','Gerald OCollins')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('538','2','Bob Smith')
+('547','2','Noriichi Mano')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('538','2','Julius Perry')
+('547','2','Ikuma Hamada')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('539','2','Bob Smith')
+('547','2','Mahlon R. DeLong')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('539','2','Julius Perry')
+('548','2','Noriichi Mano')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('540','2','Werner Boecker')
+('548','2','Ikuma Hamada')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('541','2','Jashwant B. Mehta')
+('548','2','Mahlon R. DeLong')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('542','2','Fred Williams')
+('549','2','Robert W Jamison, CPA, PH.D.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('543','2','Fred Williams')
+('550','2','Robert W Jamison, CPA, PH.D.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('544','2','Eugene F. Scoles')
+('551','2','Robert W Jamison, CPA, PH.D.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('545','2','Eugene F. Scoles')
+('552','2','Jean Chrysostome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('546','2','Institution of Mechanical Engineers (Great Britain)')
+('553','2','Jean Chrysostome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('547','2','American Academy for Jewish Research')
+('554','2','Jean Chrysostome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('548','2','American Academy for Jewish Research')
+('555','2','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('549','2','Alice Johnson')
+('555','2','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('549','2','Julius Perry')
+('556','2','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('550','2','Ashok N. Kamthane')
+('556','2','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('551','2','Ashok N. Kamthane')
+('557','2','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('552','2','Jack Smith')
+('557','2','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('552','2','Julius Stark')
+('558','2','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('553','2','Jack Smith')
+('558','2','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('553','2','Julius Stark')
+('559','2','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('554','2','Michigan')
+('559','2','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('555','2','Michigan')
+('560','2','Sean OCasey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('556','2','Michigan')
+('561','2','Sean OCasey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('557','2','Shawn Carruth')
+('562','2','Emanuele Guglielmino')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('557','2','Albrecht Garsky')
+('562','2','Tudor Sireteanu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('558','2','Shawn Carruth')
+('562','2','Charles W. Stammers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('558','2','Albrecht Garsky')
+('562','2','Gheorghe Ghita')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('559','2','Steven R. Johnson')
+('562','2','Marius Giuclea')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('560','2','Steven R. Johnson')
+('563','2','Canada. Parliament')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('561','2','Brian J. Mitchell')
+('564','2','Canada. Parliament')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('561','2','Barbara Romanowicz')
+('565','2','Great Britain. Parliament. House of Lords')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('562','2','Wei Li')
+('566','2','Great Britain. Parliament. House of Lords')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('562','2','Yuefei Sui')
+('567','2','Great Britain. Parliament. House of Lords')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('563','2','Wei Li')
+('568','2','Canada. Parliament')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('563','2','Yuefei Sui')
+('569','2','Canada. Parliament')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('564','2','Wei Li')
+('570','2','Canada. Parliament')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('564','2','Yuefei Sui')
+('571','2','J.G. Carter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('565','2','W. H. Andrews')
+('572','2','Marco Battaglini')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('566','2','W. H. Andrews')
+('572','2','Rebecca B. Morton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('567','2','Ruth Weltmann Begun')
+('572','2','Eleonora Patacchini')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('568','2','Ruth Weltmann Begun')
+('573','2','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('569','2','Ruth Weltmann Begun')
+('573','2','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('570','2','Murray L. Weidenbaum')
+('574','2','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('571','2','Murray L. Weidenbaum')
+('574','2','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('572','2','Murray L. Weidenbaum')
+('575','2','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('573','2','William H. Pivar')
+('575','2','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('574','2','William H. Pivar')
+('576','2','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('575','2','William H. Pivar')
+('576','2','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('576','2','Unesco. General Conference')
+('577','2','Bruce J. Berne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('577','2','Peter Flipsen Jr.')
+('578','2','Bruce J. Berne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('578','2','Peter Flipsen Jr.')
+('579','2','New Zealand. Customs Department')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('579','2','Mark F. Meier')
+('580','2','New Zealand. Customs Department')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('580','2','Mark F. Meier')
+('581','2','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('581','2','Alice Williams')
+('581','2','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('581','2','Julius Loukas')
+('582','2','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('582','2','Denki Tsūshin Kenkyūjo (Japan)')
+('582','2','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('583','2','Denki Tsūshin Kenkyūjo (Japan)')
+('583','2','David B. Loeper')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('584','2','Denki Tsūshin Kenkyūjo (Japan)')
+('584','2','David B. Loeper')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('585','2','Sunder Magun')
+('585','2','David B. Loeper')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('585','2','Canada. Industry Canada')
+('586','2','Stanford University. Thermosciences Division. Thermosciences Division')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('586','2','Sunder Magun')
+('586','2','E. E. Bouchard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('586','2','Canada. Industry Canada')
+('587','2','Stanford University. Thermosciences Division. Thermosciences Division')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('587','2','Sunder Magun')
+('587','2','E. E. Bouchard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('587','2','Canada. Industry Canada')
+('588','2','Richard F. Tomasson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('588','2','Gerald O'Collins')
+('589','2','Gian-Carlo Rota')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('589','2','Gerald O'Collins')
+('590','2','Susan McMurry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('590','2','Gerald O'Collins')
+('591','2','Something Extra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('591','2','Brent M. Haddad')
+('592','2','Christopher W. Carroll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('592','2','Brent M. Haddad')
+('593','2','Christopher W. Carroll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('593','2','Noriichi Mano')
+('594','2','Christopher W. Carroll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('593','2','Ikuma Hamada')
+('595','2','Michael J. Waggoner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('593','2','Mahlon R. DeLong')
+('596','2','Michael J. Waggoner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','2','Noriichi Mano')
+('597','2','Michael J. Waggoner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','2','Ikuma Hamada')
+('598','2','H. G. Wells')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','2','Mahlon R. DeLong')
+('598','2','Ayn Rand')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('595','2','Noriichi Mano')
+('598','2','Mark Twain')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('595','2','Ikuma Hamada')
+('598','2','H. Beam Piper')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('595','2','Mahlon R. DeLong')
+('598','2','Philip K. Dick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('596','2','Robert W Jamison, CPA, PH.D.')
+('598','2','Fritz Leiber')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('597','2','Robert W Jamison, CPA, PH.D.')
+('598','2','Andre Norton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('598','2','Robert W Jamison, CPA, PH.D.')
+('598','2','Lester Del Rey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('599','2','Jean Chrysostome')
+('598','2','August Derleth')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('600','2','Jean Chrysostome')
+('598','2','Frederik Pohl')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('601','2','Bob Smith')
+('599','2','H. G. Wells')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('601','2','Joseph Jackson')
+('599','2','Ayn Rand')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('602','2','Alice Johnson')
+('599','2','Mark Twain')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('602','2','Julius Loukas')
+('599','2','H. Beam Piper')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('603','2','Alice Johnson')
+('599','2','Philip K. Dick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('603','2','Julius Loukas')
+('599','2','Fritz Leiber')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('604','2','Sean O'Casey')
+('599','2','Andre Norton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('605','2','Sean O'Casey')
+('599','2','Lester Del Rey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('606','2','Sean O'Casey')
+('599','2','August Derleth')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('607','2','Leonid A. Bokut')
+('599','2','Frederik Pohl')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('607','2','Victor Latyshev')
+('600','2','W. Longman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('607','2','Ivan Shestakov')
+('601','2','Vito Tanzi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('607','2','Efim Zelmanov')
+('601','2','Barry Bracewell-Milnes')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('608','2','Emanuele Guglielmino')
+('601','2','David Roderic Myddelton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('608','2','Tudor Sireteanu')
+('602','2','Rollanda E. OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('608','2','Charles W. Stammers')
+('603','2','Rollanda E. OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('608','2','Gheorghe Ghita')
+('604','2','Pennsylvania State University. Mineral Industries Experiment Station')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('608','2','Marius Giuclea')
+('605','2','Pennsylvania State University. Mineral Industries Experiment Station')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('609','2','Great Britain. Parliament. House of Lords')
+('606','2','T. Harrison Gary')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('610','2','Canada. Parliament')
+('607','2','T. Harrison Gary')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('611','2','J.G. Carter')
+('608','2','Knute Iwaszko')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('612','2','Marco Battaglini')
+('608','2','Brian OConnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('612','2','Rebecca B. Morton')
+('609','2','Knute Iwaszko')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('612','2','Eleonora Patacchini')
+('609','2','Brian OConnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('613','2','Marco Battaglini')
+('610','2','Knute Iwaszko')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('613','2','Rebecca B. Morton')
+('610','2','Brian OConnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('613','2','Eleonora Patacchini')
+('611','2','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('614','2','Vernon W. Ruttan')
+('611','2','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('614','2','Regents Professor in the Department of Applied Economics and in the Department of Economics Vernon W Ruttan')
+('612','2','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('615','2','Vernon W. Ruttan')
+('612','2','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('615','2','Regents Professor in the Department of Applied Economics and in the Department of Economics Vernon W Ruttan')
+('613','2','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('616','2','Charlie Johnson')
+('613','2','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('616','2','Julius Loukas')
+('614','2','Timothy S Good')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('617','2','Charlie Johnson')
+('615','2','Timothy S Good')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('617','2','Julius Loukas')
+('616','2','Timothy S Good')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('618','2','Bob Smith')
+('617','2','Frank OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('618','2','Bill Jackson')
+('618','2','Frank OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('619','2','Bob Smith')
+('619','2','Frank OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('619','2','Bill Jackson')
+('620','2','Frank OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('620','2','Bruce J. Berne')
+('621','2','Stephen R. Kellert')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('621','2','Bruce J. Berne')
+('621','2','Edward O. Wilson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('622','2','New Zealand. Customs Department')
+('622','2','Stephen R. Kellert')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('623','2','New Zealand. Customs Department')
+('622','2','Edward O. Wilson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('624','2','Jack Smith')
+('623','2','Stephen R. Kellert')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('624','2','Julius Perry')
+('623','2','Edward O. Wilson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('625','2','Richard F. Tomasson')
+('624','2','L. Frank Baum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('626','2','Richard F. Tomasson')
+('625','2','L. Frank Baum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('627','2','Richard F. Tomasson')
+('626','2','L. Frank Baum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('628','2','Frederick H. Soon')
+('627','2','Connecticut. Board of Finance and Control')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('629','2','Frederick H. Soon')
+('628','2','Connecticut. Board of Finance and Control')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('630','2','Susan McMurry')
+('629','2','Robert E. Howard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('631','2','Something Extra')
+('629','2','H. P. Lovecraft')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('632','2','Something Extra')
+('629','2','G. G. Pendarves')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('633','2','Something Extra')
+('629','2','H. G. Wells')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('634','2','Christopher W. Carroll')
+('629','2','William Morris')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('635','2','Christopher W. Carroll')
+('629','2','Lafcadio Hearn')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('636','2','Christopher W. Carroll')
+('629','2','Abraham Merritt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('637','2','Michael J. Waggoner')
+('629','2','Arthur Machen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('638','2','Michael J. Waggoner')
+('629','2','Ernest Bramah')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('639','2','Michael J. Waggoner')
+('629','2','Robert W. Chambers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('640','2','Alice Smith')
+('629','2','George MacDonald')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('640','2','Joseph Perry')
+('630','2','Sampson Low')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('641','2','Alice Smith')
+('631','2','Sampson Low')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('641','2','Joseph Perry')
+('632','2','Roy Lewis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('642','2','H. G. Wells')
+('633','2','Roy Lewis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('642','2','Ayn Rand')
+('634','2','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('642','2','Mark Twain')
+('635','2','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('642','2','H. Beam Piper')
+('636','2','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('642','2','Philip K. Dick')
+('637','2','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('642','2','Fritz Leiber')
+('638','2','Harold J. Laski')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('642','2','Andre Norton')
+('639','2','O. Henry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('642','2','Lester Del Rey')
+('640','2','Kenneth H. Brink')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('642','2','August Derleth')
+('640','2','Allan R. Robinson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('642','2','Frederik Pohl')
+('641','2','Kenneth H. Brink')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('643','2','W. Longman')
+('641','2','Allan R. Robinson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('644','2','W. Longman')
+('642','2','Kenneth H. Brink')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('645','2','W. Longman')
+('642','2','Allan R. Robinson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('646','2','Commerce Clearing House')
+('643','2','Matthew V. Novenson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('646','2','United States. Tax Court')
+('644','2','Matthew V. Novenson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('647','2','Rollanda E. O'Connor')
+('645','2','W. Kendrick Pritchett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('648','2','Pennsylvania State University. Mineral Industries Experiment Station')
+('646','2','W. Kendrick Pritchett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('649','2','Pennsylvania State University. Mineral Industries Experiment Station')
+('647','2','Perry Anderson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('650','2','T. Harrison Gary')
+('648','2','Perry Anderson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('651','2','Alice Johnson')
+('649','2','Perry Anderson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('651','2','Joseph Loukas')
+('650','2','John W. Schwieter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('652','2','Alice Johnson')
+('651','2','John W. Schwieter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('652','2','Joseph Loukas')
+('652','2','John W. Schwieter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('653','2','Alice Johnson')
+('653','2','Fiona ONeill')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('653','2','Joseph Loukas')
+('654','2','George S. Everly Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('654','2','Timothy S Good')
+('654','2','Jeffrey M. Lating')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('655','2','Timothy S Good')
+('655','2','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('656','2','Charlie Smith')
+('655','2','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('656','2','Julius Stark')
+('656','2','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('657','2','Eberhard König')
+('656','2','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('658','2','Frank O'Connor')
+('657','2','Thomas G. Wack')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('659','2','Frank O'Connor')
+('658','2','Mary R. Tahan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('660','2','Frank O'Connor')
+('659','2','Mary R. Tahan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('661','2','Stephen R. Kellert')
+('660','2','Mary R. Tahan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('661','2','Edward O. Wilson')
+('661','2','Charles E. Brownell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('662','2','Stephen R. Kellert')
+('662','2','R. Buccheri')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('662','2','Edward O. Wilson')
+('662','2','Jan van Paradijs')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('663','2','L. Frank Baum')
+('662','2','M. A. Alpar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('664','2','Connecticut. Board of Finance and Control')
+('663','2','R. Buccheri')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('665','2','Charles Bruce Sissons')
+('663','2','Jan van Paradijs')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('665','2','Richard De Brisay')
+('663','2','M. A. Alpar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('666','2','Charles Bruce Sissons')
+('664','2','R. Buccheri')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('666','2','Richard De Brisay')
+('664','2','Jan van Paradijs')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('667','2','Anthony O'Hear')
+('664','2','M. A. Alpar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('668','2','Sampson Low')
+('665','2','Bernard X. Bovasso')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('669','2','Sampson Low')
+('666','2','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('670','2','Sampson Low')
+('666','2','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('671','2','Roy Lewis')
+('667','2','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('672','2','B. M. Bower')
+('667','2','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('673','2','B. M. Bower')
+('668','2','Minnesota. Secretary of State')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('674','2','B. M. Bower')
+('669','2','B. L. Farjeon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('675','2','Trader X')
+('670','2','B. L. Farjeon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('676','2','Harold J. Laski')
+('671','2','B. L. Farjeon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('677','2','Harold J. Laski')
+('672','2','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('678','2','Harold J. Laski')
+('672','2','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('679','2','Basil Hyman')
+('673','2','Friedrich List')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('679','2','Steven Braggs')
+('674','2','Friedrich List')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('680','2','Basil Hyman')
+('675','2','Friedrich List')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('680','2','Steven Braggs')
+('676','2','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('681','2','Basil Hyman')
+('676','2','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('681','2','Steven Braggs')
+('677','2','David M. Sokol')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('682','2','Kenneth H. Brink')
+('678','2','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('682','2','Allan R. Robinson')
+('678','2','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('683','2','Kenneth H. Brink')
+('679','2','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('683','2','Allan R. Robinson')
+('679','2','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('684','2','Matthew V. Novenson')
+('680','2','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('685','2','W. Kendrick Pritchett')
+('680','2','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('686','2','John W. Schwieter')
+('681','2','James Madison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('687','2','Fiona O'Neill')
+('682','2','James Madison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('688','2','Fiona O'Neill')
+('683','2','Rosalind Fergusson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('689','2','Fiona O'Neill')
+('684','2','Rosalind Fergusson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('690','2','J. Paul Getty Museum')
+('685','2','Rosalind Fergusson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('691','2','J. Paul Getty Museum')
+('686','2','Michael D. Andrew')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('692','2','J. Paul Getty Museum')
+('687','2','Michael D. Andrew')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('693','2','Thomas G. Wack')
+('688','2','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('694','2','Laurence M. Lasater')
+('688','2','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('695','2','Frank O'Connor')
+('689','2','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('696','2','Frank O'Connor')
+('689','2','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('697','2','Charles E. Brownell')
+('690','2','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('698','2','Charles E. Brownell')
+('690','2','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('699','2','R. Buccheri')
+('691','2','Theophilus G. Pinches')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('699','2','Jan van Paradijs')
+('692','2','Younkyoo Kim')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('699','2','M. A. Alpar')
+('693','2','Younkyoo Kim')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('700','2','R. Buccheri')
+('694','2','Younkyoo Kim')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('700','2','Jan van Paradijs')
+('695','2','Vivienne OShannessy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('700','2','M. A. Alpar')
+('695','2','Dean Minett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('701','2','R. Buccheri')
+('696','2','Vivienne OShannessy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('701','2','Jan van Paradijs')
+('696','2','Dean Minett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('701','2','M. A. Alpar')
+('697','2','Vivienne OShannessy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('702','2','Bernard X. Bovasso')
+('697','2','Dean Minett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('703','2','Jack Johnson')
+('698','2','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('703','2','Bill Perry')
+('698','2','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('704','2','Monique O'Connell')
+('699','2','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('704','2','Eric R Dursteler')
+('699','2','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('705','2','Monique O'Connell')
+('700','2','Axel Angeli')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('705','2','Eric R Dursteler')
+('700','2','Ulrich Streit')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('706','2','Monique O'Connell')
+('700','2','Robi Gonfalonieri')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('706','2','Eric R Dursteler')
+('701','2','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('707','2','Minnesota. Secretary of State')
+('701','2','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('708','2','Minnesota. Secretary of State')
+('702','2','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('709','2','Franklin W. Dixon')
+('702','2','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('710','2','Franklin W. Dixon')
+('703','2','Cathy ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('711','2','B. L. Farjeon')
+('704','2','Cathy ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('712','2','B. L. Farjeon')
+('705','2','Cathy ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('713','2','B. L. Farjeon')
+('706','2','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('714','2','Alice Williams')
+('706','2','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('714','2','Joseph Perry')
+('707','2','W. Morgan Shuster')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('715','2','Alice Williams')
+('708','2','Stephen P. Robbins')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('715','2','Joseph Perry')
+('708','2','Martha I. Finney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('716','2','Friedrich List')
+('708','2','James ORourke')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('717','2','Friedrich List')
+('708','2','William S. Kane')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('718','2','Friedrich List')
+('709','2','Stephen P. Robbins')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('719','2','Jack Williams')
+('709','2','Martha I. Finney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('719','2','Joseph Jackson')
+('709','2','James ORourke')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('720','2','Jack Williams')
+('709','2','William S. Kane')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('720','2','Joseph Jackson')
+('710','2','Stephen P. Robbins')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('721','2','Jack Williams')
+('710','2','Martha I. Finney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('721','2','Joseph Jackson')
+('710','2','James ORourke')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('722','2','David M. Sokol')
+('710','2','William S. Kane')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('723','2','David M. Sokol')
+('711','2','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('724','2','Alice Williams')
+('711','2','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('724','2','Julius Perry')
+('712','2','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('725','2','Alice Williams')
+('712','2','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('725','2','Julius Perry')
+('713','2','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('726','2','Alice Williams')
+('713','2','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('726','2','Julius Perry')
+('714','2','Patrick OBrian')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('727','2','Charlie Smith')
+('715','2','Patrick OBrian')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('727','2','Julius Loukas')
+('716','2','Patrick OBrian')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('728','2','Charlie Smith')
+('717','2','Walter Braddock Hickman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('728','2','Julius Loukas')
+('718','2','Zondervan,')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('729','2','James Madison')
+('719','2','Richard Allestree')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('730','2','Michael D. Andrew')
+('719','2','C. Matthew McMahon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('731','2','Michael D. Andrew')
+('720','2','Richard Allestree')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('732','2','Michael D. Andrew')
+('720','2','C. Matthew McMahon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('733','2','Bob Williams')
+('721','2','Richard Allestree')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('733','2','Bill Perry')
+('721','2','C. Matthew McMahon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('734','2','United States. Office of International Energy Affairs')
+('722','2','John F. Kennedy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('735','2','United States. Office of International Energy Affairs')
+('722','2','Dominique Enright')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('736','2','Theophilus G. Pinches')
+('723','2','John F. Kennedy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('737','2','Vivienne O'Shannessy')
+('723','2','Dominique Enright')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('737','2','Dean Minett')
+('724','2','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('738','2','Axel Angeli')
+('724','2','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('738','2','Ulrich Streit')
+('725','2','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('738','2','Robi Gonfalonieri')
+('725','2','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('739','2','Axel Angeli')
+('726','2','L. Frank Baum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('739','2','Ulrich Streit')
+('727','2','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('739','2','Robi Gonfalonieri')
+('727','2','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('740','2','Axel Angeli')
+('728','2','BERNARD. BUDIANSKY')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('740','2','Ulrich Streit')
+('728','2','Tai Te Wu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('740','2','Robi Gonfalonieri')
+('729','2','BERNARD. BUDIANSKY')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('741','2','Alice Smith')
+('729','2','Tai Te Wu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('741','2','Bill Loukas')
+('730','2','Geoffrey Perret')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('742','2','Alice Smith')
+('731','2','Geoffrey Perret')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('742','2','Bill Loukas')
+('732','2','Geoffrey Perret')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('743','2','Shakespeare Association of America')
+('733','2','Buford D. Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('744','2','Shakespeare Association of America')
+('733','2','Rakesh Srivastava')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('745','2','Shakespeare Association of America')
+('734','2','Buford D. Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('746','2','Cathy O'Neil')
+('734','2','Rakesh Srivastava')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('747','2','Robin MacKenzie')
+('735','2','Paul D. Molnar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('748','2','Jack Williams')
+('736','2','Charlie Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('748','2','Joseph Loukas')
+('736','2','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('749','2','Jack Williams')
+('737','2','Jerome K Jerome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('749','2','Joseph Loukas')
+('738','2','Jerome K Jerome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('750','2','Jack Williams')
+('739','2','Jerome K Jerome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('750','2','Joseph Loukas')
+('740','2','Kathleen L. Scott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('751','2','Patrick O'Brian')
+('741','2','Kathleen L. Scott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('752','2','Walter Braddock Hickman')
+('742','2','American Proctologic Society')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('753','2','Walter Braddock Hickman')
+('743','2','American Proctologic Society')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('754','2','Walter Braddock Hickman')
+('744','2','American Proctologic Society')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('755','2','John F. Kennedy')
+('745','2','Dwight L. Evans')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('755','2','Dominique Enright')
+('745','2','Edna B. Foa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('756','2','John F. Kennedy')
+('745','2','Raquel E. Gur')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('756','2','Dominique Enright')
+('745','2','Herbert Hendin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('757','2','Jack Jones')
+('745','2','Charles P. OBrien')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('745','2','Daniel Romer')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('745','2','Martin E.P. Seligman')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('745','2','B. Timothy Walsh')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('746','2','Samuel W. Mitcham Jr.')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('747','2','Samuel W. Mitcham Jr.')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('748','2','George F. Custen')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('749','2','A J. Lee')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('750','2','A J. Lee')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('751','2','A J. Lee')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('752','2','Commerce Clearing House')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('753','2','Commerce Clearing House')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('754','2','Commerce Clearing House')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('755','2','Mark A. Lovewell')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('756','2','Alice Jones')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('756','2','Julius Loukas')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('757','2','Alice Jones')
 ;
 
 Insert into Author
@@ -14533,7 +15091,7 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('758','2','Jack Jones')
+('758','2','Alice Jones')
 ;
 
 Insert into Author
@@ -14545,775 +15103,559 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('759','2','L. Frank Baum')
+('759','2','Trevor C. Salmon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('760','2','Bob Johnson')
+('760','2','Trevor C. Salmon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('760','2','Joseph Stark')
+('761','2','Trevor C. Salmon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('761','2','Geoffrey Perret')
+('762','2','C. A. Brebbia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('762','2','Geoffrey Perret')
+('762','2','Lal Chand Wadhwa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('763','2','Geoffrey Perret')
+('763','2','C. A. Brebbia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('764','2','Buford D. Smith')
+('763','2','Lal Chand Wadhwa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('764','2','Rakesh Srivastava')
+('764','2','C. A. Brebbia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('765','2','Buford D. Smith')
+('764','2','Lal Chand Wadhwa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('765','2','Rakesh Srivastava')
+('765','2','Marion E. Marshall')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('766','2','Buford D. Smith')
+('766','2','Teunis A. P. Kwak')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('766','2','Rakesh Srivastava')
+('767','2','Teunis A. P. Kwak')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('767','2','Paul D. Molnar')
+('768','2','Teunis A. P. Kwak')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('768','2','Paul D. Molnar')
+('769','2','Tim OReilly')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('769','2','Charlie Jones')
+('770','2','Tim OReilly')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('769','2','Julius Loukas')
+('771','2','Tim OReilly')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('770','2','Charlie Jones')
+('772','2','James H. Wittebols')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('770','2','Julius Loukas')
+('773','2','James H. Wittebols')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('771','2','Charlie Jones')
+('774','2','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('771','2','Julius Loukas')
+('774','2','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('772','2','Jerome K Jerome')
+('775','2','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('773','2','Jerome K Jerome')
+('775','2','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('774','2','Jerome K Jerome')
+('776','2','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('775','2','Kathleen L. Scott')
+('776','2','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('776','2','American Proctologic Society')
+('777','2','Cees H. Goekoop')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('777','2','Dwight L. Evans')
+('778','2','Anteup Poker Player Journals')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('777','2','Edna B. Foa')
+('779','2','Anteup Poker Player Journals')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('777','2','Raquel E. Gur')
+('780','2','Anteup Poker Player Journals')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('777','2','Herbert Hendin')
+('781','2','William J. Gedney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('777','2','Charles P. O'Brien')
+('782','2','William J. Gedney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('777','2','Daniel Romer')
+('783','2','William J. Gedney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('777','2','Martin E.P. Seligman')
+('784','2','Wisconsin. State Board of Vocational, Technical and Adult Education')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('777','2','B. Timothy Walsh')
+('785','2','Wisconsin. State Board of Vocational, Technical and Adult Education')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('778','2','Dwight L. Evans')
+('786','2','Wisconsin. State Board of Vocational, Technical and Adult Education')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('778','2','Edna B. Foa')
+('787','2','Wisconsin. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('778','2','Raquel E. Gur')
+('787','2','Frederic King Conover')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('778','2','Herbert Hendin')
+('787','2','Frederick William Arthur')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('778','2','Charles P. O'Brien')
+('787','2','Frederick C. Seibold')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('778','2','Daniel Romer')
+('787','2','Arnold LeBell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('778','2','Martin E.P. Seligman')
+('788','2','Wisconsin. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('778','2','B. Timothy Walsh')
+('788','2','Frederic King Conover')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('779','2','Dwight L. Evans')
+('788','2','Frederick William Arthur')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('779','2','Edna B. Foa')
+('788','2','Frederick C. Seibold')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('779','2','Raquel E. Gur')
+('788','2','Arnold LeBell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('779','2','Herbert Hendin')
+('789','2','Wisconsin. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('779','2','Charles P. O'Brien')
+('789','2','Frederic King Conover')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('779','2','Daniel Romer')
+('789','2','Frederick William Arthur')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('779','2','Martin E.P. Seligman')
+('789','2','Frederick C. Seibold')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('779','2','B. Timothy Walsh')
+('789','2','Arnold LeBell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('780','2','Samuel W. Mitcham Jr.')
+('790','2','S. Shortall')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('781','2','Samuel W. Mitcham Jr.')
+('791','2','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('782','2','George F. Custen')
+('791','2','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('783','2','Commerce Clearing House')
+('792','2','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('784','2','Commerce Clearing House')
+('792','2','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('785','2','Mark A. Lovewell')
+('793','2','Elfan Ap Rees')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('786','2','United States')
+('794','2','Elfan Ap Rees')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('787','2','United States')
+('795','2','Elfan Ap Rees')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('788','2','United States')
+('796','2','Robert S. Lai')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('789','2','Alice Jones')
+('796','2','Waite Group')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('789','2','Julius Loukas')
+('797','2','Indiana. Division of Accounting and Statistics')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('790','2','Alice Jones')
+('798','2','Indiana. Division of Accounting and Statistics')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('790','2','Julius Loukas')
+('799','2','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('791','2','Alice Jones')
+('799','2','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('791','2','Julius Loukas')
+('800','2','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('792','2','United States. Supreme Court')
+('800','2','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('793','2','Trevor C. Salmon')
+('801','2','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('794','2','Trevor C. Salmon')
+('801','2','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('795','2','Trevor C. Salmon')
+('802','2','Masha Gessen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('796','2','Patricia A. Messner')
+('803','2','Masha Gessen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('796','2','Brenda S. Copeland')
+('804','2','Τάκης Πέρκιζας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('797','2','Patricia A. Messner')
+('805','2','Τάκης Πέρκιζας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('797','2','Brenda S. Copeland')
+('806','2','Τάκης Πέρκιζας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('798','2','Patricia A. Messner')
+('807','2','Τάκης Πέρκιζας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('798','2','Brenda S. Copeland')
+('808','2','Τάκης Πέρκιζας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('799','2','Teunis A. P. Kwak')
+('809','2','Τάκης Πέρκιζας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('800','2','James H. Wittebols')
+('810','2','Γκλυν Άιλιφ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('801','2','Charlie Johnson')
+('811','2','Εδουάρδ Εστιβίλ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('801','2','Joseph Perry')
+('812','2','Μιχάλης Ντουνέτας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('802','2','Alice Smith')
+('813','2','Μιχάλης Ντουνέτας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('802','2','Borat Perry')
+('814','2','Arturo Schwarz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('803','2','Alice Smith')
+('814','2','Mordecai Ardon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('803','2','Borat Perry')
+('814','2','Muzeon Yisrael')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('804','2','Cees H. Goekoop')
+('815','2','Arturo Schwarz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('805','2','Anteup Poker Player Journals')
+('815','2','Mordecai Ardon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('806','2','Anteup Poker Player Journals')
+('815','2','Muzeon Yisrael')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('807','2','William J. Gedney')
+('816','2','张学英')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('808','2','William J. Gedney')
+('817','2','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('809','2','Wisconsin. State Board of Vocational, Technical and Adult Education')
+('817','2','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('810','2','Wisconsin. State Board of Vocational, Technical and Adult Education')
+('818','2','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('811','2','Jack Jones')
+('818','2','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('811','2','Borat Perry')
+('1','3','Robert W. Yarbrough')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('812','2','Jack Jones')
+('2','3','James D. Ployhar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('812','2','Borat Perry')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('813','2','S. Shortall')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('814','2','S. Shortall')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('815','2','S. Shortall')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('816','2','Alice Smith')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('816','2','Bill Loukas')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('817','2','Elfan Ap Rees')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('818','2','Elfan Ap Rees')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('819','2','Jeremy Adelman')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('820','2','Bob Williams')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('820','2','Joseph Stark')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('821','2','Bob Williams')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('821','2','Joseph Stark')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('822','2','Bob Williams')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('822','2','Joseph Stark')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('823','2','Masha Gessen')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('824','2','Masha Gessen')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('825','2','Paul Auster')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('826','2','Paul Auster')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('827','2','Paul Auster')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('828','2','Arturo Schwarz')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('828','2','Mordecai Ardon')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('828','2','Muzeon Yisrael')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('829','2','Arturo Schwarz')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('829','2','Mordecai Ardon')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('829','2','Muzeon Yisrael')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('830','2','تماري، سليم')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('831','2','تماري، سليم')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('832','2','Isao Yajima')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('833','2','Isao Yajima')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('834','2','张学英')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('835','2','张学英')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('836','2','张学英')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('837','2','Alice Johnson')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('837','2','Julius Loukas')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('1','3','Larry Malcolm')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('2','3','Robert W. Yarbrough')
+('2','3','George B. Zepp')
 ;
 
 Insert into Author
@@ -15325,7 +15667,7 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('4','3','Peter Ratner')
+('4','3','Richard Schmitt')
 ;
 
 Insert into Author
@@ -15337,421 +15679,361 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('6','3','Richard Raskin')
+('6','3','S (Sabine) 1834-1924 Baring-Gould')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('7','3','Thomas F. Michel')
+('7','3','S (Sabine) 1834-1924 Baring-Gould')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('8','3','Thomas Ernst')
+('8','3','Royal Anthropological Institute of Great Britain and Ireland. Library')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('9','3','Thomas Ernst')
+('8','3','Sir Richard Francis Burton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('10','3','Thomas Ernst')
+('9','3','Royal Anthropological Institute of Great Britain and Ireland. Library')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('11','3','Samuel E. Buttrey')
+('9','3','Sir Richard Francis Burton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('11','3','Lyn R. Whitaker')
+('10','3','Richard Raskin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('12','3','Samuel E. Buttrey')
+('11','3','Thomas Ernst')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('12','3','Lyn R. Whitaker')
+('12','3','Thomas Ernst')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('13','3','Richard J. Durling')
+('13','3','Samuel E. Buttrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('14','3','Richard J. Durling')
+('13','3','Lyn R. Whitaker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('15','3','W. John Braun')
+('14','3','Samuel E. Buttrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('15','3','Duncan J. Murdoch')
+('14','3','Lyn R. Whitaker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('16','3','W. John Braun')
+('15','3','Samuel E. Buttrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('16','3','Duncan J. Murdoch')
+('15','3','Lyn R. Whitaker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('17','3','W. John Braun')
+('16','3','Richard J. Durling')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('17','3','Duncan J. Murdoch')
+('17','3','Richard J. Durling')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('18','3','Edmund L. Epstein')
+('18','3','Andrew John Wilde')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('19','3','Lois N. Magner')
+('19','3','W. John Braun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('19','3','Oliver J Kim')
+('19','3','Duncan J. Murdoch')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('20','3','Lois N. Magner')
+('20','3','Eung-Do Cook')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('20','3','Oliver J Kim')
+('21','3','Edmund L. Epstein')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('21','3','Angharad N. Valdivia')
+('22','3','Edmund L. Epstein')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('22','3','Gary Kielhofner')
+('23','3','Edmund L. Epstein')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('23','3','Gary Kielhofner')
+('24','3','Angharad N. Valdivia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('24','3','J. Laughton Johnston')
+('25','3','Angharad N. Valdivia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('25','3','J. Laughton Johnston')
+('26','3','Robert C. Koons')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('26','3','J. Laughton Johnston')
+('27','3','Gary Kielhofner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('27','3','Sir Thomas Henley')
+('28','3','Gary Kielhofner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('28','3','Sir Thomas Henley')
+('29','3','Robert Burns')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('29','3','Sir Thomas Henley')
+('30','3','Robert Burns')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('30','3','John R. Pattison')
+('31','3','Robert Burns')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('30','3','R. N. Gruneberg')
+('32','3','Sir Thomas Henley')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('30','3','J. Holton')
+('33','3','Onora ONeill')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('30','3','G. L. Ridgway')
+('34','3','Onora ONeill')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('30','3','G. Scott')
+('35','3','John R. Pattison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('30','3','A. P. R. Wilson')
+('35','3','R. N. Gruneberg')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('31','3','John R. Pattison')
+('35','3','J. Holton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('31','3','R. N. Gruneberg')
+('35','3','G. L. Ridgway')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('31','3','J. Holton')
+('35','3','G. Scott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('31','3','G. L. Ridgway')
+('35','3','A. P. R. Wilson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('31','3','G. Scott')
+('36','3','John R. Pattison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('31','3','A. P. R. Wilson')
+('36','3','R. N. Gruneberg')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('32','3','John R. Pattison')
+('36','3','J. Holton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('32','3','R. N. Gruneberg')
+('36','3','G. L. Ridgway')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('32','3','J. Holton')
+('36','3','G. Scott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('32','3','G. L. Ridgway')
+('36','3','A. P. R. Wilson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('32','3','G. Scott')
+('37','3','Richard Price')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('32','3','A. P. R. Wilson')
+('38','3','Richard Price')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('33','3','Richard Price')
+('39','3','Ellen Bayuk Rosenman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('34','3','Donald Ray Davis')
+('40','3','Ellen Bayuk Rosenman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('35','3','Donald Ray Davis')
+('41','3','Ellen Bayuk Rosenman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('36','3','Donald Ray Davis')
+('42','3','Lewis H. King')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('37','3','Ellen Bayuk Rosenman')
+('42','3','Frances E. Goodspeed')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('38','3','Lewis H. King')
+('42','3','D. S. Montgomery')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('38','3','Frances E. Goodspeed')
+('42','3','M. F. Millson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('38','3','D. S. Montgomery')
+('43','3','Christopher Wayne Curry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('38','3','M. F. Millson')
+('43','3','John W. Curry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('39','3','Lewis H. King')
+('44','3','Christopher Wayne Curry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('39','3','Frances E. Goodspeed')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('39','3','D. S. Montgomery')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('39','3','M. F. Millson')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('40','3','Christopher Wayne Curry')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('40','3','John W. Curry')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('41','3','Christopher Wayne Curry')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('41','3','John W. Curry')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('42','3','Christopher Wayne Curry')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('42','3','John W. Curry')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('43','3','Athenaeus Naucratites')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('44','3','Athenaeus Naucratites')
+('44','3','John W. Curry')
 ;
 
 Insert into Author
@@ -15769,7 +16051,13 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('47','3','Illinois')
+('47','3','Jack Smith')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('47','3','Bill Loukas')
 ;
 
 Insert into Author
@@ -15823,13 +16111,7 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('52','3','Bob Jones')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('52','3','Borat Perry')
+('52','3','Emily M. Brown')
 ;
 
 Insert into Author
@@ -15847,7 +16129,7 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('55','3','Antoinette Elizabeth Kavanaugh')
+('55','3','Robert Shenk')
 ;
 
 Insert into Author
@@ -15859,241 +16141,265 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('57','3','Robert Shenk')
+('57','3','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('58','3','Jack Johnson')
+('57','3','Borat Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('58','3','Borat Jackson')
+('58','3','Everett R. Rhoades')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('59','3','Jack Johnson')
+('59','3','Everett R. Rhoades')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('59','3','Borat Jackson')
+('60','3','Werner Jüptner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('60','3','Jack Johnson')
+('60','3','Thomas Kreis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('60','3','Borat Jackson')
+('61','3','Jack-Michel Cornil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('61','3','Everett R. Rhoades')
+('61','3','Philippe Testud')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('62','3','Everett R. Rhoades')
+('62','3','Jack-Michel Cornil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('63','3','Jack-Michel Cornil')
+('62','3','Philippe Testud')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('63','3','Philippe Testud')
+('63','3','Juan Carlos Kaski')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('64','3','Jack-Michel Cornil')
+('64','3','Juan Carlos Kaski')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('64','3','Philippe Testud')
+('65','3','Gretel H. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('65','3','Jack-Michel Cornil')
+('65','3','Sheila K. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('65','3','Philippe Testud')
+('66','3','Gretel H. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('66','3','Sebastien Le')
+('66','3','Sheila K. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('66','3','Thierry Worch')
+('67','3','Gretel H. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('67','3','Sebastien Le')
+('67','3','Sheila K. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('67','3','Thierry Worch')
+('68','3','American Society for Testing and Materials')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('68','3','Sebastien Le')
+('69','3','Texas Judicial Council')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('68','3','Thierry Worch')
+('70','3','Texas Judicial Council')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('69','3','Juan Carlos Kaski')
+('71','3','Michigan. State Board of Agriculture')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('70','3','Juan Carlos Kaski')
+('72','3','Thomas William Gardner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('71','3','American Society for Testing and Materials')
+('72','3','William D. Sevon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('72','3','American Society for Testing and Materials')
+('73','3','Daniel John Meador')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('73','3','American Society for Testing and Materials')
+('73','3','Thomas E. Baker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('74','3','Texas Judicial Council')
+('73','3','Joan E. Steinman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('75','3','Texas Judicial Council')
+('74','3','Daniel John Meador')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('76','3','Inch̊ōn (Korea). Meteorological Observatory')
+('74','3','Thomas E. Baker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('77','3','Inch̊ōn (Korea). Meteorological Observatory')
+('74','3','Joan E. Steinman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('78','3','Michigan. State Board of Agriculture')
+('75','3','Daniel John Meador')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('79','3','Thomas William Gardner')
+('75','3','Thomas E. Baker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('79','3','William D. Sevon')
+('75','3','Joan E. Steinman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('80','3','Thomas William Gardner')
+('76','3','New Zealand. Parliament. House of Representatives')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('80','3','William D. Sevon')
+('77','3','New Zealand. Parliament. House of Representatives')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('81','3','Daniel John Meador')
+('78','3','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('81','3','Thomas E. Baker')
+('78','3','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('81','3','Joan E. Steinman')
+('79','3','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('82','3','Bob Johnson')
+('79','3','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('82','3','Bill Jackson')
+('80','3','William Vaughan')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('81','3','Jack Smith')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('81','3','Borat Jackson')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('82','3','Jack Smith')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('82','3','Borat Jackson')
 ;
 
 Insert into Author
@@ -16123,1717 +16429,1687 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('85','3','James P. Brennan')
+('85','3','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('86','3','William Vaughan')
+('85','3','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('87','3','William Vaughan')
+('86','3','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('88','3','William Vaughan')
+('86','3','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('89','3','Demetrius Charles de Kavanagh Boulger')
+('87','3','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('90','3','Demetrius Charles de Kavanagh Boulger')
+('87','3','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('91','3','Demetrius Charles de Kavanagh Boulger')
+('88','3','Stephen Barker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('92','3','Jack Smith')
+('89','3','Rick Remender')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('92','3','Borat Jackson')
+('90','3','Rick Remender')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('93','3','Jack Smith')
+('91','3','Rick Remender')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('93','3','Borat Jackson')
+('92','3','Michael J. Lisicky')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('94','3','Bob Johnson')
+('93','3','Michael J. Lisicky')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('94','3','Bill Jackson')
+('94','3','Michael J. Lisicky')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('95','3','Bob Johnson')
+('95','3','Edward O. Thorp')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('95','3','Bill Jackson')
+('96','3','Conor OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('96','3','Stephen Barker')
+('97','3','Conor OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('97','3','Stephen Barker')
+('98','3','Francie Wolgin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('98','3','Rick Remender')
+('99','3','Bernice Pauahi Bishop Museum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('99','3','Bob Smith')
+('100','3','Bernice Pauahi Bishop Museum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('99','3','Joseph Jackson')
+('101','3','Sydney J. Bounds')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('100','3','Nick Fieller')
+('102','3','Sydney J. Bounds')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('101','3','Nick Fieller')
+('103','3','Sydney J. Bounds')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('102','3','Edward O. Thorp')
+('104','3','Kathy J. Scheffer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('103','3','Edward O. Thorp')
+('104','3','Richard S. Tobin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('104','3','Conor O'Brien')
+('105','3','Raymond Sauder Martin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('105','3','Conor O'Brien')
+('105','3','Elizabeth Sauder Martin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('106','3','Conor O'Brien')
+('106','3','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('107','3','Francie Wolgin')
+('106','3','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('108','3','Bernice Pauahi Bishop Museum')
+('107','3','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('109','3','Bernice Pauahi Bishop Museum')
+('107','3','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('110','3','Bob Smith')
+('108','3','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('110','3','Joseph Loukas')
+('108','3','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('111','3','Bob Smith')
+('109','3','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('111','3','Joseph Loukas')
+('109','3','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('112','3','Bob Smith')
+('110','3','G. E. Bentley')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('112','3','Joseph Loukas')
+('110','3','Martin K. Nurmi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','3','Norman Uphoff')
+('111','3','Graham Hood')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','3','Andrew S. Ball')
+('112','3','Graham Hood')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','3','Erick Fernandes')
+('113','3','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','3','Hans Herren')
+('113','3','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','3','Olivier Husson')
+('114','3','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','3','Mark Laing')
+('114','3','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','3','Cheryl Palm')
+('115','3','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','3','Jules Pretty')
+('115','3','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','3','Pedro Sanchez')
+('116','3','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','3','Nteranya Sanginga')
+('116','3','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','3','Janice Thies')
+('117','3','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('114','3','Norman Uphoff')
+('117','3','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('114','3','Andrew S. Ball')
+('118','3','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('114','3','Erick Fernandes')
+('118','3','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('114','3','Hans Herren')
+('119','3','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('114','3','Olivier Husson')
+('119','3','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('114','3','Mark Laing')
+('120','3','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('114','3','Cheryl Palm')
+('120','3','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('114','3','Jules Pretty')
+('121','3','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('114','3','Pedro Sanchez')
+('121','3','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('114','3','Nteranya Sanginga')
+('122','3','Herbert Schildt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('114','3','Janice Thies')
+('123','3','Herbert Schildt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('115','3','Norman Uphoff')
+('124','3','Ron Larson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('115','3','Andrew S. Ball')
+('124','3','Bruce H. Edwards')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('115','3','Erick Fernandes')
+('125','3','Ron Larson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('115','3','Hans Herren')
+('125','3','Bruce H. Edwards')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('115','3','Olivier Husson')
+('126','3','Charlotte K Lowrie')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('115','3','Mark Laing')
+('127','3','Charlotte K Lowrie')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('115','3','Cheryl Palm')
+('128','3','Charlotte K Lowrie')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('115','3','Jules Pretty')
+('129','3','Library of Congress. Copyright Office')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('115','3','Pedro Sanchez')
+('130','3','Great Britain. Census Office')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('115','3','Nteranya Sanginga')
+('131','3','Great Britain. Census Office')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('115','3','Janice Thies')
+('132','3','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('116','3','Raymond Sauder Martin')
+('132','3','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('116','3','Elizabeth Sauder Martin')
+('133','3','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('117','3','Raymond Sauder Martin')
+('133','3','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('117','3','Elizabeth Sauder Martin')
+('134','3','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('118','3','Raymond Sauder Martin')
+('134','3','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('118','3','Elizabeth Sauder Martin')
+('135','3','Muhammad Akram')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('119','3','Alice Williams')
+('135','3','Hina Gulzar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('119','3','Borat Stark')
+('135','3',' K. P. Shum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('120','3','Alice Williams')
+('136','3','Muhammad Akram')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('120','3','Borat Stark')
+('136','3','Hina Gulzar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('121','3','Alice Williams')
+('136','3',' K. P. Shum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('121','3','Borat Stark')
+('137','3','Mark P. Widrlechner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('122','3','Jack Smith')
+('138','3','Mark P. Widrlechner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('122','3','Julius Perry')
+('139','3','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('123','3','Graham Hood')
+('139','3','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('124','3','Jack Jones')
+('140','3','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('124','3','Bill Jackson')
+('140','3','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('125','3','Jack Williams')
+('141','3','Dave Douglas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('125','3','Joseph Jackson')
+('141','3','Gregory Michael Papadopoulos')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('126','3','Jack Williams')
+('141','3','John Boutelle')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('126','3','Joseph Jackson')
+('142','3','Dave Douglas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('127','3','American Association of Petroleum Geologists')
+('142','3','Gregory Michael Papadopoulos')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('128','3','American Association of Petroleum Geologists')
+('142','3','John Boutelle')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('129','3','American Association of Petroleum Geologists')
+('143','3','Dave Douglas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('130','3','Thomas W. Schultz')
+('143','3','Gregory Michael Papadopoulos')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('131','3','Thomas W. Schultz')
+('143','3','John Boutelle')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('132','3','Thomas W. Schultz')
+('144','3','W. Kim Halford')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('133','3','Herbert Schildt')
+('144','3','Jemima Petch')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('134','3','Herbert Schildt')
+('144','3','Debra Creedy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('135','3','Herbert Schildt')
+('145','3','W. Kim Halford')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('136','3','V. RAJARAMAN')
+('145','3','Jemima Petch')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('137','3','V. RAJARAMAN')
+('145','3','Debra Creedy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('138','3','Bob Smith')
+('146','3','W. Kim Halford')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('138','3','Borat Stark')
+('146','3','Jemima Petch')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('139','3','Bob Smith')
+('146','3','Debra Creedy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('139','3','Borat Stark')
+('147','3','Anthony W. Knapp')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('140','3','Bob Smith')
+('147','3','David A. Vogan, Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('140','3','Borat Stark')
+('147','3','David A. Vogan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('141','3','Charlotte K Lowrie')
+('148','3','Anthony W. Knapp')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('142','3','Charlotte K Lowrie')
+('148','3','David A. Vogan, Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('143','3','Charlotte K Lowrie')
+('148','3','David A. Vogan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('144','3','William Warner Bishop')
+('149','3','Anthony W. Knapp')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('145','3','William Warner Bishop')
+('149','3','David A. Vogan, Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('146','3','William Warner Bishop')
+('149','3','David A. Vogan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('147','3','Library of Congress. Copyright Office')
+('150','3','Kaushik Basu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('148','3','Library of Congress. Copyright Office')
+('151','3','Kaushik Basu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('149','3','Library of Congress. Copyright Office')
+('152','3','Kaushik Basu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('150','3','Alice Smith')
+('153','3','Steve Tulliu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('150','3','Joseph Jackson')
+('153','3','Thomas Schmalberger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('151','3','Muhammad Akram')
+('154','3','Steve Tulliu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('151','3','Hina Gulzar')
+('154','3','Thomas Schmalberger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('151','3',' K. P. Shum')
+('155','3','John Morgan OConnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('152','3','Muhammad Akram')
+('156','3','Carson-Dellosa Publishing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('152','3','Hina Gulzar')
+('157','3','Carson-Dellosa Publishing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('152','3',' K. P. Shum')
+('158','3','Carson-Dellosa Publishing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('153','3','Muhammad Akram')
+('159','3','Australian Conciliation and Arbitration Commission')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('153','3','Hina Gulzar')
+('160','3','Australian Conciliation and Arbitration Commission')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('153','3',' K. P. Shum')
+('161','3','Australian Conciliation and Arbitration Commission')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('154','3','Mark P. Widrlechner')
+('162','3','David Dunlap Observatory')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('155','3','Mark P. Widrlechner')
+('163','3','David Dunlap Observatory')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('156','3','Mark P. Widrlechner')
+('164','3','Rosa Maria Benito')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('157','3','Jack Smith')
+('164','3','Chantal Cherifi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('157','3','Julius Stark')
+('164','3','Hocine Cherifi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('158','3','Jack Smith')
+('164','3','Esteban Moro')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('158','3','Julius Stark')
+('164','3','Luis M. Rocha')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('159','3','W. Kim Halford')
+('164','3','Marta Sales-Pardo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('159','3','Jemima Petch')
+('165','3','Rosa Maria Benito')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('159','3','Debra Creedy')
+('165','3','Chantal Cherifi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('160','3','W. Kim Halford')
+('165','3','Hocine Cherifi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('160','3','Jemima Petch')
+('165','3','Esteban Moro')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('160','3','Debra Creedy')
+('165','3','Luis M. Rocha')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('161','3','Anthony W. Knapp')
+('165','3','Marta Sales-Pardo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('161','3','David A. Vogan, Jr.')
+('166','3','OECD Nuclear Energy Agency')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('161','3','David A. Vogan')
+('166','3','International Atomic Energy Agency')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('162','3','Anthony W. Knapp')
+('166','3','Commission of the European Communities')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('162','3','David A. Vogan, Jr.')
+('167','3','OECD Nuclear Energy Agency')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('162','3','David A. Vogan')
+('167','3','International Atomic Energy Agency')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('163','3','Pamela K. Hill')
+('167','3','Commission of the European Communities')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('164','3','Pamela K. Hill')
+('168','3','Joseph M. Wepman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('165','3','Steve Tulliu')
+('168','3','Ralph W. Heine')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('165','3','Thomas Schmalberger')
+('169','3','Joseph M. Wepman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('166','3','John Morgan O'Connell')
+('169','3','Ralph W. Heine')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('167','3','Carson-Dellosa Publishing')
+('170','3','V. Sucharita')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('168','3','David Dunlap Observatory')
+('171','3','V. Sucharita')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('169','3','David Dunlap Observatory')
+('172','3','Stanford University. Department of Chemistry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('170','3','David Dunlap Observatory')
+('173','3','Stanford University. Department of Chemistry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('171','3','Spectator Company (New York, N.Y.)')
+('174','3','Stanford University. Department of Chemistry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('172','3','Spectator Company (New York, N.Y.)')
+('175','3','Edith OGorman Auffrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('173','3','Spectator Company (New York, N.Y.)')
+('176','3','Michelle R. Clayman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('174','3','Alice Williams')
+('176','3','Martin S. Fridson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('174','3','Julius Perry')
+('176','3','George H. Troughton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('175','3','OECD Nuclear Energy Agency')
+('177','3','Mark W. McElroy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('175','3','International Atomic Energy Agency')
+('177','3','Jo van Engelen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('175','3','Commission of the European Communities')
+('178','3','Mark W. McElroy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('176','3','Jack Johnson')
+('178','3','Jo van Engelen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('176','3','Joseph Stark')
+('179','3','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('177','3','Jack Johnson')
+('179','3','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('177','3','Joseph Stark')
+('180','3','Michael Schütze')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('178','3','Jack Johnson')
+('180','3','Raul B. Rebak')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('178','3','Joseph Stark')
+('180','3','Roman Bender')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('179','3','Joseph M. Wepman')
+('181','3','Charlie Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('179','3','Ralph W. Heine')
+('181','3','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('180','3','Joseph M. Wepman')
+('182','3','Charlie Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('180','3','Ralph W. Heine')
+('182','3','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('181','3','Joseph M. Wepman')
+('183','3','Charlie Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('181','3','Ralph W. Heine')
+('183','3','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('182','3','Armand Borel')
+('184','3','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('182','3','Nolan R. Wallach')
+('184','3','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('183','3','Armand Borel')
+('185','3','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('183','3','Nolan R. Wallach')
+('185','3','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('184','3','Stanford University. Department of Chemistry')
+('186','3','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('185','3','Stanford University. Department of Chemistry')
+('186','3','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('186','3','Stanford University. Department of Chemistry')
+('187','3','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('187','3','Michelle R. Clayman')
+('187','3','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('187','3','Martin S. Fridson')
+('188','3','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('187','3','George H. Troughton')
+('188','3','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('188','3','Michelle R. Clayman')
+('189','3','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('188','3','Martin S. Fridson')
+('189','3','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('188','3','George H. Troughton')
+('190','3','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('189','3','Michelle R. Clayman')
+('191','3','Akhtarhusein A. Tayebali')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('189','3','Martin S. Fridson')
+('192','3','Robert W. Chambers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('189','3','George H. Troughton')
+('193','3','Robert W. Chambers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('190','3','Mark W. McElroy')
+('194','3','Robert W. Chambers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('190','3','Jo van Engelen')
+('195','3','A. Geis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('191','3','Bob Johnson')
+('195','3','L. Brock')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('191','3','Julius Stark')
+('195','3','H. Mueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('192','3','Bob Johnson')
+('196','3','A. Geis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('192','3','Julius Stark')
+('196','3','L. Brock')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('193','3','Bob Johnson')
+('196','3','H. Mueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('193','3','Julius Stark')
+('197','3','A. Geis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('194','3','Michael Schütze')
+('197','3','L. Brock')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('194','3','Raul B. Rebak')
+('197','3','H. Mueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('194','3','Roman Bender')
+('198','3','University of California (System)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('195','3','Michael Schütze')
+('199','3','University of California (System)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('195','3','Raul B. Rebak')
+('200','3','Kenny R. Burck')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('195','3','Roman Bender')
+('201','3','Kenny R. Burck')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('196','3','Charlie Jones')
+('202','3','Kenny R. Burck')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('196','3','Joseph Loukas')
+('203','3','Kenneth Weingarten')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('197','3','Charlie Jones')
+('203','3','Jacklyn E. Hungerland')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('197','3','Joseph Loukas')
+('203','3','Mark F. Brennan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('198','3','Charlie Jones')
+('204','3','Kenneth Weingarten')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('198','3','Joseph Loukas')
+('204','3','Jacklyn E. Hungerland')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('199','3','Jack Johnson')
+('204','3','Mark F. Brennan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('199','3','Bill Jackson')
+('205','3','Kenneth Weingarten')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('200','3','Charlie Williams')
+('205','3','Jacklyn E. Hungerland')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('200','3','Bill Stark')
+('205','3','Mark F. Brennan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('201','3','Charlie Williams')
+('206','3','N. J. McMillan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('201','3','Bill Stark')
+('206','3','Ashton F. Embry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('202','3','Charlie Williams')
+('206','3','Donald J. Glass')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('202','3','Bill Stark')
+('207','3','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('203','3','Franklin W. Dixon')
+('207','3','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('204','3','Anthony Fischetti')
+('208','3','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('205','3','Anthony Fischetti')
+('208','3','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('206','3','Robert W. Chambers')
+('209','3','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('207','3','Charles Overton Handley')
+('209','3','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('208','3','Charles Overton Handley')
+('210','3','Betsy Sholl')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('209','3','University of California (System)')
+('211','3','Inez Robb')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('210','3','University of California (System)')
+('212','3','Inez Robb')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('211','3','University of California (System)')
+('213','3','Inez Robb')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('212','3','Kenny R. Burck')
+('214','3','Scott E. Spradlin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('213','3','Kenny R. Burck')
+('215','3','Scott E. Spradlin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('214','3','Kenny R. Burck')
+('216','3','Scott E. Spradlin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('215','3','N. J. McMillan')
+('217','3','Graeme P. Maxton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('215','3','Ashton F. Embry')
+('217','3','John Wormald')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('215','3','Donald J. Glass')
+('218','3','Graeme P. Maxton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('216','3','N. J. McMillan')
+('218','3','John Wormald')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('216','3','Ashton F. Embry')
+('219','3','Graeme P. Maxton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('216','3','Donald J. Glass')
+('219','3','John Wormald')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('217','3','N. J. McMillan')
+('220','3','Marc van der Woude')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('217','3','Ashton F. Embry')
+('220','3','Christopher Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('217','3','Donald J. Glass')
+('220','3','Nicolas Charbit')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('218','3','Alice Smith')
+('221','3','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('218','3','Bill Loukas')
+('221','3','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('219','3','Alice Smith')
+('222','3','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('219','3','Bill Loukas')
+('222','3','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('220','3','Betsy Sholl')
+('223','3','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('221','3','Scott E. Spradlin')
+('223','3','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('222','3','Graeme P. Maxton')
+('224','3','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('222','3','John Wormald')
+('224','3','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('223','3','Graeme P. Maxton')
+('225','3','Persi Diaconis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('223','3','John Wormald')
+('226','3','Persi Diaconis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('224','3','Graeme P. Maxton')
+('227','3','Persi Diaconis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('224','3','John Wormald')
+('228','3','George Kish')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('225','3','Alice Williams')
+('229','3','George Kish')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('225','3','Borat Stark')
+('230','3','George Kish')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('226','3','Alice Williams')
+('231','3','Paul Hoang')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('226','3','Borat Stark')
+('231','3','Margaret Ducie')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('227','3','Jack Williams')
+('232','3','Paul Hoang')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('227','3','Joseph Perry')
+('232','3','Margaret Ducie')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('228','3','Persi Diaconis')
+('233','3','Paul Hoang')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('229','3','Persi Diaconis')
+('233','3','Margaret Ducie')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('230','3','Persi Diaconis')
+('234','3','June Alexander')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('231','3','George Kish')
+('234','3','Cate Sangster')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('232','3','George Kish')
+('235','3','June Alexander')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('233','3','George Kish')
+('235','3','Cate Sangster')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('234','3','Paul Hoang')
+('236','3','Jerome G. Delaney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('234','3','Margaret Ducie')
+('237','3','Jerome G. Delaney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('235','3','Paul Hoang')
+('238','3','Harry. H. Chaudhary.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('235','3','Margaret Ducie')
+('239','3','Harry. H. Chaudhary.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('236','3','June Alexander')
+('240','3','Harry. H. Chaudhary.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('236','3','Cate Sangster')
+('241','3','Bryan P. Stone')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('237','3','June Alexander')
+('242','3','Delwin R. Croom')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('237','3','Cate Sangster')
+('243','3','Delwin R. Croom')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('238','3','Jerome G. Delaney')
+('244','3','John Leo Moore')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('239','3','Columbia University. Teachers College. International Institute')
+('245','3','John Leo Moore')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('240','3','Columbia University. Teachers College. International Institute')
+('246','3','Donald A. Drum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('241','3','Columbia University. Teachers College. International Institute')
+('247','3','Donald A. Drum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('242','3','Bryan P. Stone')
+('248','3','Donald A. Drum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('243','3','Bryan P. Stone')
+('249','3','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('244','3','Bryan P. Stone')
+('249','3','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('245','3','Delwin R. Croom')
+('250','3','6. X. 9. inch lined pages Journal book, 6 x 9 inch lined pages')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('246','3','Delwin R. Croom')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('247','3','Delwin R. Croom')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('248','3','Michael Lloyd Reese')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('249','3','John Leo Moore')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('250','3','John Leo Moore')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('251','3','Charlie Williams')
+('251','3','Bob Williams')
 ;
 
 Insert into Author
@@ -17845,109 +18121,103 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('252','3','6. X. 9. inch lined pages Journal book, 6 x 9 inch lined pages')
+('252','3','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('253','3','Bob Williams')
+('252','3','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('253','3','Julius Loukas')
+('253','3','James H. Stronge')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('254','3','Bob Williams')
+('254','3','James H. Stronge')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('254','3','Julius Loukas')
+('255','3','Kurt Laue')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('255','3','Bob Williams')
+('255','3','Helmut Stenger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('255','3','Julius Loukas')
+('256','3','Peter E. Davies')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('256','3','Robert K. Kaufmann')
+('257','3','Peter E. Davies')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('256','3','Cutler J. Cleveland')
+('258','3','Peter E. Davies')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('257','3','H. Scott Fogler')
+('259','3','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('258','3','H. Scott Fogler')
+('259','3','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('259','3','H. Scott Fogler')
+('260','3','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('260','3','Peter E. Davies')
+('260','3','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('261','3','Peter E. Davies')
+('261','3','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('262','3','Bob Johnson')
+('261','3','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('262','3','Julius Loukas')
+('262','3','Dan Bailey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('263','3','Bob Johnson')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('263','3','Julius Loukas')
+('263','3','Dan Bailey')
 ;
 
 Insert into Author
@@ -17959,193 +18229,181 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('265','3','Dan Bailey')
+('265','3','Federation of American Societies for Experimental Biology')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('266','3','James S. Eustice')
+('266','3','Federation of American Societies for Experimental Biology')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('266','3','Joel D. Kuntz')
+('267','3','Federation of American Societies for Experimental Biology')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('267','3','James S. Eustice')
+('268','3','V. Alexander Stefan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('267','3','Joel D. Kuntz')
+('269','3','V. Alexander Stefan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('268','3','James S. Eustice')
+('270','3','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('268','3','Joel D. Kuntz')
+('270','3','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('269','3','Federation of American Societies for Experimental Biology')
+('271','3','Sung W. Lee')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('270','3','Federation of American Societies for Experimental Biology')
+('271','3','Peter W. Chung')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('271','3','V. Alexander Stefan')
+('272','3','Sung W. Lee')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('272','3','V. Alexander Stefan')
+('272','3','Peter W. Chung')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('273','3','Alice Smith')
+('273','3','Margaret L. Lial')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('273','3','Borat Perry')
+('273','3','Raymond N. Greenwell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('274','3','Sung W. Lee')
+('273','3','Nathan P. Ritchey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('274','3','Peter W. Chung')
+('274','3','Margaret L. Lial')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('275','3','Sung W. Lee')
+('274','3','Raymond N. Greenwell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('275','3','Peter W. Chung')
+('274','3','Nathan P. Ritchey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('276','3','Margaret L. Lial')
+('275','3','Raymond Chapman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('276','3','Raymond N. Greenwell')
+('276','3','Raymond Chapman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('276','3','Nathan P. Ritchey')
+('277','3','Raymond Chapman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('277','3','Margaret L. Lial')
+('278','3','John E. Halver')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('277','3','Raymond N. Greenwell')
+('278','3','Ronald W. Hardy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('277','3','Nathan P. Ritchey')
+('279','3','John E. Halver')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('278','3','Margaret L. Lial')
+('279','3','Ronald W. Hardy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('278','3','Raymond N. Greenwell')
+('280','3','John E. Halver')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('278','3','Nathan P. Ritchey')
+('280','3','Ronald W. Hardy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('279','3','Raymond Chapman')
+('281','3','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('280','3','Raymond Chapman')
+('282','3','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('281','3','Raymond Chapman')
+('283','3','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('282','3','R. E. Kendel')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('283','3','R. E. Kendel')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('284','3','R. E. Kendel')
+('284','3','Trader X')
 ;
 
 Insert into Author
@@ -18175,235 +18433,259 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('289','3','Trader X')
+('289','3','Douglas F Morgan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('290','3','Trader X')
+('289','3','Taylor & Francis Group')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('291','3','Trader X')
+('289','3','Richard T Green')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('292','3','Trader X')
+('289','3','Craig W Shinn')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('293','3','Trader X')
+('289','3','Kent S Robinson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('294','3','Douglas F Morgan')
+('289','3','Margaret E Banyan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('294','3','Taylor & Francis Group')
+('290','3','Douglas F Morgan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('294','3','Richard T Green')
+('290','3','Taylor & Francis Group')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('294','3','Craig W Shinn')
+('290','3','Richard T Green')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('294','3','Kent S Robinson')
+('290','3','Craig W Shinn')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('294','3','Margaret E Banyan')
+('290','3','Kent S Robinson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('295','3','Douglas F Morgan')
+('290','3','Margaret E Banyan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('295','3','Taylor & Francis Group')
+('291','3','Richard C. Holt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('295','3','Richard T Green')
+('291','3','J. N. P. Hume')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('295','3','Craig W Shinn')
+('292','3','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('295','3','Kent S Robinson')
+('292','3','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('295','3','Margaret E Banyan')
+('293','3','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('296','3','Thomas J. Delia')
+('293','3','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('297','3','Alice Smith')
+('294','3','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('297','3','Bill Stark')
+('294','3','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('298','3','Alice Smith')
+('295','3','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('298','3','Bill Stark')
+('295','3','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('299','3','Charlie Johnson')
+('296','3','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('299','3','Bill Stark')
+('296','3','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('300','3','Charlie Johnson')
+('297','3','Helen Dillon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('300','3','Bill Stark')
+('298','3','Helen Dillon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('301','3','Bob Williams')
+('299','3','Loucas G. Christophorou')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('301','3','Bill Jackson')
+('299','3','D.R. James')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('302','3','Bob Williams')
+('300','3','Loucas G. Christophorou')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('302','3','Bill Jackson')
+('300','3','D.R. James')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('303','3','Helen Dillon')
+('301','3','Brian OConnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('304','3','Helen Dillon')
+('302','3','Brian OConnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('305','3','Helen Dillon')
+('303','3','Elwood Watson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('306','3','Loucas G. Christophorou')
+('304','3','Elwood Watson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('306','3','D.R. James')
+('305','3','Adam Mansbach')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('307','3','Loucas G. Christophorou')
+('306','3','Adam Mansbach')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('307','3','D.R. James')
+('307','3','Vojtěch Janoušek')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('308','3','Brian O'Connell')
+('307','3','Jean-François Moyen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('309','3','Adam Mansbach')
+('307','3','Hervé Martin')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('307','3','Vojtěch Erban')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('307','3','Colin Farrow')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('308','3','Forrest C. Pogue')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('309','3','Forrest C. Pogue')
 ;
 
 Insert into Author
@@ -18427,151 +18709,187 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('312','3','Ira A. Glazier')
+('312','3','Barbara F Campbell, MDIV, Dmin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('312','3','Percy William Filby')
+('312','3','Barbara F. Campbell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('313','3','Ira A. Glazier')
+('312','3','James P. Campbell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('313','3','Percy William Filby')
+('313','3','Barbara F Campbell, MDIV, Dmin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('314','3','Flannery O'Connor')
+('313','3','Barbara F. Campbell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('315','3','Flannery O'Connor')
+('313','3','James P. Campbell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('316','3','Barbara F Campbell, MDIV, Dmin')
+('314','3','Philip Carabott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('316','3','Barbara F. Campbell')
+('315','3','Philip Carabott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('316','3','James P. Campbell')
+('316','3','Eric Lionel Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('317','3','Philip Carabott')
+('317','3','A. Mital')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('318','3','Philip Carabott')
+('318','3','A. Mital')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('319','3','Philip Carabott')
+('319','3','Anthony Marra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('320','3','Eric Lionel Jones')
+('320','3','Αλέξανδρος Δουμάς (υιός)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('321','3','Eric Lionel Jones')
+('321','3','Αλέξανδρος Δουμάς (υιός)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('322','3','Eric Lionel Jones')
+('322','3','A.S.A. Harrison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('323','3','Anthony Marra')
+('323','3','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('324','3','Αλέξανδρος Δουμάς (υιός)')
+('323','3','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('325','3','Αλέξανδρος Δουμάς (υιός)')
+('324','3','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('326','3','A.S.A. Harrison')
+('324','3','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('327','3','John Porges')
+('325','3','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('327','3','Fred Porges')
+('325','3','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('328','3','John Porges')
+('326','3','Pat Chin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('328','3','Fred Porges')
+('326','3','Greg Dunkel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('329','3','Lawrence A. Trissel')
+('326','3','Sara Flounders')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('330','3','Lawrence A. Trissel')
+('326','3','Kim Ives')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('327','3','W Samlet Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('328','3','W Samlet Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('329','3','Charlie Smith')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('329','3','Joseph Perry')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('330','3','Charlie Smith')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('330','3','Joseph Perry')
 ;
 
 Insert into Author
@@ -18589,13 +18907,7 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('332','3','Charlie Smith')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('332','3','Joseph Perry')
+('332','3','Richard H. Turner')
 ;
 
 Insert into Author
@@ -18607,13 +18919,13 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('334','3','Richard H. Turner')
+('334','3','James L. Hirsen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('335','3','Richard H. Turner')
+('335','3','James L. Hirsen')
 ;
 
 Insert into Author
@@ -18625,7 +18937,7 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('337','3','James L. Hirsen')
+('337','3','Norman K. Denzin')
 ;
 
 Insert into Author
@@ -18643,7 +18955,13 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('340','3','Norman K. Denzin')
+('340','3','Bob Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('340','3','Bill Loukas')
 ;
 
 Insert into Author
@@ -18661,31 +18979,49 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('342','3','Bob Williams')
+('342','3','Dominic OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('342','3','Bill Loukas')
+('343','3','Dominic OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('343','3','Dominic O'Brien')
+('344','3','Bernell Coleman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('344','3','Dominic O'Brien')
+('344','3','James W. M. Fletcher')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('345','3','Dominic O'Brien')
+('344','3','Hubert F. Bonfili')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('345','3','Bernell Coleman')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('345','3','James W. M. Fletcher')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('345','3','Hubert F. Bonfili')
 ;
 
 Insert into Author
@@ -18709,235 +19045,205 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('347','3','Bernell Coleman')
+('347','3','Arthur Henry Robertson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('347','3','James W. M. Fletcher')
+('348','3','Arthur Henry Robertson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('347','3','Hubert F. Bonfili')
+('349','3','Overseas Press Club of America')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('348','3','Bernell Coleman')
+('350','3','I Love Darin Publishing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('348','3','James W. M. Fletcher')
+('351','3','I Love Darin Publishing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('348','3','Hubert F. Bonfili')
+('352','3','Deanne Panday')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('349','3','Arthur Henry Robertson')
+('353','3','Deanne Panday')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('350','3','Charlie Johnson')
+('354','3','Deanne Panday')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('350','3','Borat Stark')
+('355','3','Tim Price')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('351','3','Charlie Johnson')
+('356','3','Prakash Mishra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('351','3','Borat Stark')
+('357','3','Prakash Mishra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('352','3','Charlie Johnson')
+('358','3','Ammonius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('352','3','Borat Stark')
+('359','3','Michael T. Henry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('353','3','Norma McCorvey')
+('360','3','Michael T. Henry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('354','3','Norma McCorvey')
+('361','3','Michael T. Henry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('355','3','Overseas Press Club of America')
+('362','3','R. Bruce Hull')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('356','3','Overseas Press Club of America')
+('363','3','Benjamin Millis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('357','3','I Love Darin Publishing')
+('363','3','Douglas Olson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('358','3','I Love Darin Publishing')
+('364','3','Benjamin Millis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('359','3','Donna Albrecht')
+('364','3','Douglas Olson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('360','3','Tim Price')
+('365','3','Angela E. Douglas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('361','3','Tim Price')
+('366','3','Syed V. Ahamed')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('362','3','Tim Price')
+('367','3','Syed V. Ahamed')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('363','3','Prakash Mishra')
+('368','3','Fatma Adam ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('364','3','Prakash Mishra')
+('368','3','Nasruddin Hassan ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('365','3','Prakash Mishra')
+('369','3','Fatma Adam ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('366','3','Ammonius')
+('369','3','Nasruddin Hassan ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('367','3','Ammonius')
+('370','3','Fatma Adam ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('368','3','Michael T. Henry')
+('370','3','Nasruddin Hassan ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('369','3','Michael T. Henry')
+('371','3','Manfred Stoll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('370','3','Michael T. Henry')
+('372','3','Manfred Stoll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('371','3','R. Bruce Hull')
+('373','3','Manfred Stoll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('372','3','Christian Robert')
+('374','3','Lev Ėrnestovich Ėlʹsgolʹt︠s︡')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('372','3','George Casella')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('373','3','Christian Robert')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('373','3','George Casella')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('374','3','Christian Robert')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('374','3','George Casella')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('375','3','Manfred Stoll')
+('375','3','Lev Ėrnestovich Ėlʹsgolʹt︠s︡')
 ;
 
 Insert into Author
@@ -18949,73 +19255,79 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('377','3','Lev Ėrnestovich Ėlʹsgolʹt︠s︡')
+('377','3','United States. Warren Commission')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('378','3','Lev Ėrnestovich Ėlʹsgolʹt︠s︡')
+('378','3','Philip Attwood')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('379','3','United States. Warren Commission')
+('379','3','Philip Attwood')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('380','3','United States. Warren Commission')
+('380','3','Philip Attwood')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('381','3','United States. Warren Commission')
+('381','3','Eamonn Dunne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('382','3','Philip Attwood')
+('382','3','Christopher W. Hughes')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('383','3','Philip Attwood')
+('383','3','Christopher W. Hughes')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('384','3','Philip Attwood')
+('384','3','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('385','3','Eamonn Dunne')
+('385','3','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('386','3','Christopher W. Hughes')
+('386','3','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('387','3','Christopher W. Hughes')
+('387','3','James Clark Sherburne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('388','3','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
+('388','3','János Xántus')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('388','3','Ann Zwinger')
 ;
 
 Insert into Author
@@ -19033,43 +19345,49 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('390','3','Washington (State). Legislature')
+('390','3','János Xántus')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('391','3','Washington (State). Legislature')
+('390','3','Ann Zwinger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('392','3','Elisha Mitchell Scientific Society (Chapel Hill, N.C.)')
+('391','3','Royal Australian Historical Society')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('393','3','Elisha Mitchell Scientific Society (Chapel Hill, N.C.)')
+('392','3','Royal Australian Historical Society')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('394','3','Elisha Mitchell Scientific Society (Chapel Hill, N.C.)')
+('393','3','Royal Australian Historical Society')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('395','3','Michael Atiyah')
+('394','3','Rex Chandrabose')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('396','3','Michael Atiyah')
+('395','3','Rex Chandrabose')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('396','3','Rex Chandrabose')
 ;
 
 Insert into Author
@@ -19081,19 +19399,13 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('398','3','Bill Jacob')
+('398','3','Michael Atiyah')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('399','3','Bob Williams')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('399','3','Borat Perry')
+('399','3','Bill Jacob')
 ;
 
 Insert into Author
@@ -19135,25 +19447,37 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('403','3','Bob Smith')
+('403','3','Koen Wessing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('403','3','Julius Loukas')
+('403','3','Pauline Terreehorst')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('404','3','Bob Smith')
+('403','3','Tineke de Ruiter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('404','3','Julius Loukas')
+('404','3','Koen Wessing')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('404','3','Pauline Terreehorst')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('404','3','Tineke de Ruiter')
 ;
 
 Insert into Author
@@ -19177,37 +19501,19 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('406','3','Koen Wessing')
+('406','3','Gordon Williamson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('406','3','Pauline Terreehorst')
+('407','3','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('406','3','Tineke de Ruiter')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('407','3','Koen Wessing')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('407','3','Pauline Terreehorst')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('407','3','Tineke de Ruiter')
+('407','3','Julius Perry')
 ;
 
 Insert into Author
@@ -19237,13 +19543,7 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('410','3','Jack Smith')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('410','3','Julius Perry')
+('410','3','Michael Dore')
 ;
 
 Insert into Author
@@ -19255,31 +19555,37 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('412','3','Michael Dore')
+('412','3','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('413','3','Jack Johnson')
+('412','3','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('413','3','Joseph Loukas')
+('413','3','Dave Taylor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('414','3','Jack Johnson')
+('413','3','Brian Jepson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('414','3','Joseph Loukas')
+('414','3','Dave Taylor')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('414','3','Brian Jepson')
 ;
 
 Insert into Author
@@ -19297,43 +19603,7 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('417','3','Melvil Dewey')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('417','3','Richard Rogers Bowker')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('417','3','L. Pylodet')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('417','3','Charles Ammi Cutter')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('417','3','Bertine Emma Weston')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('417','3','Karl Brown')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('417','3','Helen E. Wessells')
+('417','3','Manon P. Charbonneau')
 ;
 
 Insert into Author
@@ -19423,7 +19693,7 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('420','3','Herodotus')
+('420','3','Library of Congress')
 ;
 
 Insert into Author
@@ -19441,7 +19711,7 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('423','3','Geoffrey K. Pullum')
+('423','3','Herodotus')
 ;
 
 Insert into Author
@@ -19471,49 +19741,31 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('428','3','Shirley O'Neil')
+('428','3','Connie Campbell Dierking')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('429','3','Suresh K. Sharma')
+('429','3','Shirley ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('430','3','Great Britain. Scottish Office Inquiry Reporters')
+('430','3','Shirley ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('430','3','O. Paesano')
+('431','3','Suresh K. Sharma')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('431','3','Great Britain. Scottish Office Inquiry Reporters')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('431','3','O. Paesano')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('432','3','Great Britain. Scottish Office Inquiry Reporters')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('432','3','O. Paesano')
+('432','3','Suresh K. Sharma')
 ;
 
 Insert into Author
@@ -19525,745 +19777,877 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('434','3','Wendell V. Harris')
+('434','3','Sally L. Lagerquist')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('435','3','Sally L. Lagerquist')
+('435','3','Richard Walters')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('436','3','Sally L. Lagerquist')
+('436','3','Mohamed Ally')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('437','3','W. Stannard Allen')
+('436','3','Gill Needham')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('438','3','Daniel O'Donnell')
+('437','3','Mohamed Ally')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('439','3','Daniel O'Donnell')
+('437','3','Gill Needham')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('440','3','Daniel O'Donnell')
+('438','3','Adrian Phillips')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('441','3','Richard Walters')
+('439','3','Adrian Phillips')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('442','3','Richard Walters')
+('440','3','Adrian Phillips')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('443','3','Richard Walters')
+('441','3','Jack J. Phillips')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('444','3','Lárus Thorlacius')
+('441','3','Lisa Edwards')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('444','3','Thordur Jonsson')
+('442','3','Henry Martyn Cundy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('445','3','Renate Wiehager')
+('442','3','A. P. Rollett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('446','3','Adrian Phillips')
+('443','3','Henry Martyn Cundy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('447','3','Adrian Phillips')
+('443','3','A. P. Rollett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('448','3','Arsen Darnay')
+('444','3','Martha McJunkin Rhyne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('449','3','Arsen Darnay')
+('445','3','Martha McJunkin Rhyne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('450','3','Arsen Darnay')
+('446','3','Kevin Corcoran')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('451','3','John Whicher')
+('446','3','Joel Fischer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('452','3','John Whicher')
+('447','3','Kevin Corcoran')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('453','3','John Whicher')
+('447','3','Joel Fischer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('454','3','Henry Martyn Cundy')
+('448','3','University of South Africa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('454','3','A. P. Rollett')
+('449','3','Guido Schwarzer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('455','3','Société mathématique de France')
+('449','3','James R. Carpenter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('456','3','Kevin Corcoran')
+('449','3','Gerta Rücker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('456','3','Joel Fischer')
+('450','3','Guido Schwarzer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('457','3','Kevin Corcoran')
+('450','3','James R. Carpenter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('457','3','Joel Fischer')
+('450','3','Gerta Rücker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('458','3','Kevin Corcoran')
+('451','3','Guido Schwarzer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('458','3','Joel Fischer')
+('451','3','James R. Carpenter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('459','3','University of South Africa')
+('451','3','Gerta Rücker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('460','3','University of South Africa')
+('452','3','Monica L. Woodard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('461','3','Wisconsin. Governor')
+('453','3','Monica L. Woodard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('462','3','Wisconsin. Governor')
+('454','3','Fritz Pietzschke')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('463','3','Wisconsin. Governor')
+('454','3','Franz Wimmer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('464','3','Guido Schwarzer')
+('455','3','Fritz Pietzschke')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('464','3','James R. Carpenter')
+('455','3','Franz Wimmer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('464','3','Gerta Rücker')
+('456','3','Fritz Pietzschke')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('465','3','Guido Schwarzer')
+('456','3','Franz Wimmer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('465','3','James R. Carpenter')
+('457','3','Gary B. Shelly')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('465','3','Gerta Rücker')
+('457','3','Thomas J. Cashman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('466','3','Monica L. Woodard')
+('457','3','Misty Vermaat')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('467','3','Gary B. Shelly')
+('458','3','Gary B. Shelly')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('467','3','Thomas J. Cashman')
+('458','3','Thomas J. Cashman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('467','3','Misty Vermaat')
+('458','3','Misty Vermaat')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('468','3','Gary B. Shelly')
+('459','3','Temitope W Oshikoya')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('468','3','Thomas J. Cashman')
+('460','3','Temitope W Oshikoya')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('468','3','Misty Vermaat')
+('461','3','Temitope W Oshikoya')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('469','3','Gary B. Shelly')
+('462','3','India (Republic). Dept. of Commercial Intelligence and Statistics')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('469','3','Thomas J. Cashman')
+('463','3','India (Republic). Dept. of Commercial Intelligence and Statistics')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('469','3','Misty Vermaat')
+('464','3','India (Republic). Dept. of Commercial Intelligence and Statistics')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('470','3','Katie Layman')
+('465','3','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('470','3','LaVaughn Hart')
+('465','3','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('471','3','Katie Layman')
+('466','3','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('471','3','LaVaughn Hart')
+('466','3','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('472','3','Philip P. Betancourt')
+('467','3','Charles OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('472','3','Kōstēs Davaras')
+('468','3','Charles OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('473','3','Temitope W Oshikoya')
+('469','3','Allan Bérubé')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('474','3','Temitope W Oshikoya')
+('470','3','Allan Bérubé')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('475','3','Temitope W Oshikoya')
+('471','3','Sean OByrne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('476','3','India (Republic). Dept. of Commercial Intelligence and Statistics')
+('471','3','George Rouse')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('477','3','Charlie Johnson')
+('472','3','Sean OByrne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('477','3','Borat Stark')
+('472','3','George Rouse')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('478','3','Charles O'Brien')
+('473','3','Sean OByrne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('479','3','Charles O'Brien')
+('473','3','George Rouse')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('480','3','Allan Bérubé')
+('474','3','Laurell K. Hamilton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('481','3','Allan Bérubé')
+('475','3','Laurell K. Hamilton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('482','3','Sean O'Byrne')
+('476','3','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('482','3','George Rouse')
+('476','3','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('483','3','Susan, K. Johnsen')
+('477','3','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('483','3','Debbie Dailey')
+('477','3','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('483','3','Alicia Cotabish')
+('478','3','K. Thirusangu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('484','3','Susan, K. Johnsen')
+('478','3','S. Poornavel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('484','3','Debbie Dailey')
+('478','3','R. Vasuki')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('484','3','Alicia Cotabish')
+('479','3','K. Thirusangu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('485','3','Laurell K. Hamilton')
+('479','3','S. Poornavel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('486','3','Laurell K. Hamilton')
+('479','3','R. Vasuki')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('487','3','Organisation for Economic Co-operation and Development')
+('480','3','K. Thirusangu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('488','3','Organisation for Economic Co-operation and Development')
+('480','3','S. Poornavel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('489','3','Bob Smith')
+('480','3','R. Vasuki')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('489','3','Joseph Loukas')
+('481','3','Andrew L Sihler')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('490','3','Bob Smith')
+('482','3','Andrew L Sihler')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('490','3','Joseph Loukas')
+('483','3','New South Wales. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('491','3','K. Thirusangu')
+('484','3','New South Wales. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('491','3','S. Poornavel')
+('485','3','Grant Morrison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('491','3','R. Vasuki')
+('486','3','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('492','3','Andrew L Sihler')
+('486','3','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('493','3','Andrew L Sihler')
+('487','3','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('494','3','Andrew L Sihler')
+('487','3','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('495','3','Charlie Williams')
+('488','3','Ana Katrin Schenk')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('495','3','Julius Loukas')
+('489','3','Rooi Books')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('496','3','Charlie Williams')
+('490','3','M. M. Stuckey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('496','3','Julius Loukas')
+('490','3','L. L. Layton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('497','3','New South Wales. Supreme Court')
+('491','3','Laurene V. Fausett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('498','3','New South Wales. Supreme Court')
+('492','3','Laurene V. Fausett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('499','3','Grant Morrison')
+('493','3','Laurene V. Fausett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('500','3','Grant Morrison')
+('494','3','Z. Z. Rox Orpo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('501','3','Grant Morrison')
+('495','3','Z. Z. Rox Orpo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('502','3','Ana Katrin Schenk')
+('496','3','Λέων Τολστόι')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('503','3','Ana Katrin Schenk')
+('497','3','OECD')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('504','3','Rooi Books')
+('498','3','OECD')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('505','3','Rooi Books')
+('499','3','OECD')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('506','3','M. M. Stuckey')
+('500','3','Harrison H. Sheld')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('506','3','L. L. Layton')
+('501','3','Helmut Greim')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('507','3','M. M. Stuckey')
+('502','3','Bob Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('507','3','L. L. Layton')
+('502','3','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('508','3','M. M. Stuckey')
+('503','3','Bob Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('508','3','L. L. Layton')
+('503','3','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('509','3','Laurene V. Fausett')
+('504','3','Elizabeth Doherty Herzfeld')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('510','3','Laurene V. Fausett')
+('505','3','Elizabeth Doherty Herzfeld')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('511','3','Z. Z. Rox Orpo')
+('506','3','Elizabeth Doherty Herzfeld')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('512','3','Λέων Τολστόι')
+('507','3','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('513','3','Λέων Τολστόι')
+('507','3','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('514','3','Λέων Τολστόι')
+('508','3','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('515','3','OECD')
+('508','3','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('516','3','OECD')
+('509','3','Andreas Vesalius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('517','3','OECD')
+('509','3','William Frank Richardson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('518','3','Harrison H. Sheld')
+('509','3','John Burd Carman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('519','3','Harrison H. Sheld')
+('510','3','Laird C. Kirkpatrick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('520','3','Helmut Greim')
+('511','3','Laird C. Kirkpatrick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('521','3','Guy R. Lefrançois')
+('512','3','Tatiana V. Akhutina')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('522','3','Bob Jones')
+('512','3','Natalia M. Pylaeva')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('522','3','Borat Perry')
+('513','3','Tatiana V. Akhutina')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('523','3','Bob Jones')
+('513','3','Natalia M. Pylaeva')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('514','3','Charlie Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('514','3','Julius Perry')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('515','3','Charlie Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('515','3','Julius Perry')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('516','3','Charlie Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('516','3','Julius Perry')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('517','3','K.-W. Gaede')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('517','3','D.B. Pressmar')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('517','3','Ch. Schneeweiß')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('517','3','K.-P. Schuster')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('517','3','O. Seifert')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('518','3','K.-W. Gaede')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('518','3','D.B. Pressmar')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('518','3','Ch. Schneeweiß')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('518','3','K.-P. Schuster')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('518','3','O. Seifert')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('519','3','Nian-Feng Tzeng')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('520','3','Alice Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('520','3','Bill Perry')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('521','3','David K. Lewis')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('522','3','David K. Lewis')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('523','3','Charlie Williams')
 ;
 
 Insert into Author
@@ -20275,1177 +20659,1075 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('524','3','Elizabeth Doherty Herzfeld')
+('524','3','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('525','3','Elizabeth Doherty Herzfeld')
+('524','3','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('526','3','Elizabeth Doherty Herzfeld')
+('525','3','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('527','3','Charlie Johnson')
+('525','3','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('527','3','Julius Perry')
+('526','3','Dominic J. OMeara')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('528','3','Andreas Vesalius')
+('527','3','Gavin OToole')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('528','3','William Frank Richardson')
+('528','3','Gavin OToole')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('528','3','John Burd Carman')
+('529','3','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('529','3','Andreas Vesalius')
+('529','3','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('529','3','William Frank Richardson')
+('530','3','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('529','3','John Burd Carman')
+('530','3','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('530','3','Andreas Vesalius')
+('531','3','S. Mahmood Naqvi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('530','3','William Frank Richardson')
+('531','3','John James William Rogers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('530','3','John Burd Carman')
+('532','3','S. Mahmood Naqvi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('531','3','David Chudnovsky')
+('532','3','John James William Rogers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('532','3','Laird C. Kirkpatrick')
+('533','3','S. Mahmood Naqvi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('533','3','Laird C. Kirkpatrick')
+('533','3','John James William Rogers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('534','3','Laird C. Kirkpatrick')
+('534','3','Werner Boecker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('535','3','A. Schrijver')
+('535','3','Werner Boecker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('536','3','K.-W. Gaede')
+('536','3','Werner Boecker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('536','3','D.B. Pressmar')
+('537','3','Jashwant B. Mehta')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('536','3','Ch. Schneeweiß')
+('538','3','Jashwant B. Mehta')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('536','3','K.-P. Schuster')
+('539','3','Fred Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('536','3','O. Seifert')
+('540','3','Fred Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('537','3','K.-W. Gaede')
+('541','3','Fred Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('537','3','D.B. Pressmar')
+('542','3','Institution of Mechanical Engineers (Great Britain)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('537','3','Ch. Schneeweiß')
+('543','3','American Academy for Jewish Research')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('537','3','K.-P. Schuster')
+('544','3','American Academy for Jewish Research')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('537','3','O. Seifert')
+('545','3','Royal Irish Academy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('538','3','K.-W. Gaede')
+('546','3','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('538','3','D.B. Pressmar')
+('546','3','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('538','3','Ch. Schneeweiß')
+('547','3','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('538','3','K.-P. Schuster')
+('547','3','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('538','3','O. Seifert')
+('548','3','Ana Castillo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('539','3','Alice Williams')
+('549','3','Michigan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('539','3','Bill Perry')
+('550','3','Michigan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('540','3','Alice Williams')
+('551','3','Michigan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('540','3','Bill Perry')
+('552','3','Shawn Carruth')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('541','3','David K. Lewis')
+('552','3','Albrecht Garsky')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('542','3','David K. Lewis')
+('553','3','Steven R. Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('543','3','Charlie Williams')
+('554','3','Jim C. Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('543','3','Borat Perry')
+('554','3','Herbert A. Thompson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('544','3','Charlie Williams')
+('555','3','Jim C. Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('544','3','Borat Perry')
+('555','3','Herbert A. Thompson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('545','3','Dominic J. O'Meara')
+('556','3','Brian J. Mitchell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('546','3','Gavin O'Toole')
+('556','3','Barbara Romanowicz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('547','3','Gavin O'Toole')
+('557','3','Brian J. Mitchell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('548','3','Gavin O'Toole')
+('557','3','Barbara Romanowicz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('549','3','Charlie Smith')
+('558','3','Brian J. Mitchell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('549','3','Borat Perry')
+('558','3','Barbara Romanowicz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('550','3','Alice Johnson')
+('559','3','David Gerbing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('550','3','Borat Loukas')
+('560','3','David Gerbing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('551','3','Alice Johnson')
+('561','3','Wei Li')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('551','3','Borat Loukas')
+('561','3','Yuefei Sui')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('552','3','Bob Smith')
+('562','3','Wei Li')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('552','3','Julius Perry')
+('562','3','Yuefei Sui')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('553','3','Werner Boecker')
+('563','3','Susa Condliffe')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('554','3','Jashwant B. Mehta')
+('564','3','Susa Condliffe')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('555','3','Fred Williams')
+('565','3','Ruth Weltmann Begun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('556','3','Institution of Mechanical Engineers (Great Britain)')
+('566','3','Ruth Weltmann Begun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('557','3','Institution of Mechanical Engineers (Great Britain)')
+('567','3','Ruth Weltmann Begun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('558','3','Royal Irish Academy')
+('568','3','Murray L. Weidenbaum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('559','3','Royal Irish Academy')
+('569','3','Murray L. Weidenbaum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('560','3','Royal Irish Academy')
+('570','3','William H. Pivar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('561','3','Alice Johnson')
+('571','3','Unesco. General Conference')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('561','3','Julius Perry')
+('572','3','Unesco. General Conference')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('562','3','Alice Johnson')
+('573','3','Mark F. Meier')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('562','3','Julius Perry')
+('574','3','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('563','3','Ashok N. Kamthane')
+('574','3','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('564','3','Ashok N. Kamthane')
+('575','3','Denki Tsūshin Kenkyūjo (Japan)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('565','3','Ashok N. Kamthane')
+('576','3','Aeronautical Research Council (Great Britain)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('566','3','Jack Smith')
+('577','3','Sunder Magun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('566','3','Julius Stark')
+('577','3','Canada. Industry Canada')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('567','3','Jack Smith')
+('578','3','Sunder Magun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('567','3','Julius Stark')
+('578','3','Canada. Industry Canada')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('568','3','Ana Castillo')
+('579','3','Sunder Magun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('569','3','Ana Castillo')
+('579','3','Canada. Industry Canada')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('570','3','Ana Castillo')
+('580','3','Brent M. Haddad')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('571','3','Michigan')
+('581','3','Brent M. Haddad')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('572','3','Shawn Carruth')
+('582','3','Brent M. Haddad')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('572','3','Albrecht Garsky')
+('583','3','Noriichi Mano')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('573','3','Shawn Carruth')
+('583','3','Ikuma Hamada')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('573','3','Albrecht Garsky')
+('583','3','Mahlon R. DeLong')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('574','3','Steven R. Johnson')
+('584','3','Robert W Jamison, CPA, PH.D.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('575','3','Steven R. Johnson')
+('585','3','Robert W Jamison, CPA, PH.D.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('576','3','Jim C. Williams')
+('586','3','Jean Chrysostome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('576','3','Herbert A. Thompson')
+('587','3','Jean Chrysostome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('577','3','Jim C. Williams')
+('588','3','Jean Chrysostome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('577','3','Herbert A. Thompson')
+('589','3','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('578','3','Jim C. Williams')
+('589','3','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('578','3','Herbert A. Thompson')
+('590','3','Sean OCasey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('579','3','David Gerbing')
+('591','3','Sean OCasey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('580','3','David Gerbing')
+('592','3','Leonid A. Bokut')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('581','3','David Gerbing')
+('592','3','Victor Latyshev')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('582','3','Wei Li')
+('592','3','Ivan Shestakov')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('582','3','Yuefei Sui')
+('592','3','Efim Zelmanov')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('583','3','Wei Li')
+('593','3','Emanuele Guglielmino')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('583','3','Yuefei Sui')
+('593','3','Tudor Sireteanu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('584','3','Murray L. Weidenbaum')
+('593','3','Charles W. Stammers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('585','3','William H. Pivar')
+('593','3','Gheorghe Ghita')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('586','3','Unesco. General Conference')
+('593','3','Marius Giuclea')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('587','3','Unesco. General Conference')
+('594','3','Emanuele Guglielmino')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('588','3','Peter Flipsen Jr.')
+('594','3','Tudor Sireteanu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('589','3','Peter Flipsen Jr.')
+('594','3','Charles W. Stammers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('590','3','Mark F. Meier')
+('594','3','Gheorghe Ghita')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('591','3','Mark F. Meier')
+('594','3','Marius Giuclea')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('592','3','Mark F. Meier')
+('595','3','Great Britain. Parliament. House of Lords')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('593','3','Aeronautical Research Council (Great Britain)')
+('596','3','J.G. Carter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','3','Sunder Magun')
+('597','3','Vernon W. Ruttan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','3','Canada. Industry Canada')
+('597','3','Regents Professor in the Department of Applied Economics and in the Department of Economics Vernon W Ruttan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('595','3','Gerald O'Collins')
+('598','3','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('596','3','Brent M. Haddad')
+('598','3','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('597','3','Brent M. Haddad')
+('599','3','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('598','3','Brent M. Haddad')
+('599','3','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('599','3','Noriichi Mano')
+('600','3','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('599','3','Ikuma Hamada')
+('600','3','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('599','3','Mahlon R. DeLong')
+('601','3','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('600','3','Noriichi Mano')
+('601','3','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('600','3','Ikuma Hamada')
+('602','3','Bruce J. Berne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('600','3','Mahlon R. DeLong')
+('603','3','Bruce J. Berne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('601','3','Robert W Jamison, CPA, PH.D.')
+('604','3','Bruce J. Berne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('602','3','Jean Chrysostome')
+('605','3','New Zealand. Customs Department')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('603','3','Jean Chrysostome')
+('606','3','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('604','3','Jean Chrysostome')
+('606','3','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('605','3','Bob Smith')
+('607','3','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('605','3','Joseph Jackson')
+('607','3','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('606','3','Bob Smith')
+('608','3','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('606','3','Joseph Jackson')
+('608','3','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('607','3','Bob Smith')
+('609','3','David B. Loeper')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('607','3','Joseph Jackson')
+('610','3','David B. Loeper')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('608','3','Emanuele Guglielmino')
+('611','3','Stanford University. Thermosciences Division. Thermosciences Division')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('608','3','Tudor Sireteanu')
+('611','3','E. E. Bouchard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('608','3','Charles W. Stammers')
+('612','3','Stanford University. Thermosciences Division. Thermosciences Division')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('608','3','Gheorghe Ghita')
+('612','3','E. E. Bouchard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('608','3','Marius Giuclea')
+('613','3','Frederick H. Soon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('609','3','Great Britain. Parliament. House of Lords')
+('614','3','Frederick H. Soon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('610','3','Great Britain. Parliament. House of Lords')
+('615','3','Frederick H. Soon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('611','3','Great Britain. Parliament. House of Lords')
+('616','3','Gian-Carlo Rota')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('612','3','Canada. Parliament')
+('617','3','Gian-Carlo Rota')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('613','3','Canada. Parliament')
+('618','3','Gian-Carlo Rota')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('614','3','Canada. Parliament')
+('619','3','Susan McMurry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('615','3','J.G. Carter')
+('620','3','Something Extra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('616','3','J.G. Carter')
+('621','3','Something Extra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('617','3','J.G. Carter')
+('622','3','Something Extra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('618','3','Vernon W. Ruttan')
+('623','3','Christopher W. Carroll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('618','3','Regents Professor in the Department of Applied Economics and in the Department of Economics Vernon W Ruttan')
+('624','3','Christopher W. Carroll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('619','3','Vernon W. Ruttan')
+('625','3','Christopher W. Carroll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('619','3','Regents Professor in the Department of Applied Economics and in the Department of Economics Vernon W Ruttan')
+('626','3','Michael J. Waggoner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('620','3','Charlie Johnson')
+('627','3','Michael J. Waggoner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('620','3','Julius Loukas')
+('628','3','W. Longman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('621','3','Charlie Johnson')
+('629','3','W. Longman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('621','3','Julius Loukas')
+('630','3','Vito Tanzi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('622','3','Bob Smith')
+('630','3','Barry Bracewell-Milnes')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('622','3','Bill Jackson')
+('630','3','David Roderic Myddelton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('623','3','Bob Smith')
+('631','3','Thomas Hardy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('623','3','Bill Jackson')
+('632','3','Thomas Hardy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('624','3','Bruce J. Berne')
+('633','3','Thomas Hardy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('625','3','New Zealand. Customs Department')
+('634','3','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('626','3','Jack Smith')
+('634','3','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('626','3','Julius Perry')
+('635','3','Timothy S Good')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('627','3','Jack Smith')
+('636','3','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('627','3','Julius Perry')
+('636','3','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('628','3','Jack Smith')
+('637','3','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('628','3','Julius Perry')
+('637','3','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('629','3','David B. Loeper')
+('638','3','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('630','3','David B. Loeper')
+('638','3','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('631','3','Stanford University. Thermosciences Division. Thermosciences Division')
+('639','3','Frank OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('631','3','E. E. Bouchard')
+('640','3','Frank OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('632','3','Richard F. Tomasson')
+('641','3','Frank OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('633','3','Richard F. Tomasson')
+('642','3','L. Frank Baum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('634','3','Frederick H. Soon')
+('643','3','L. Frank Baum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('635','3','Frederick H. Soon')
+('644','3','Connecticut. Board of Finance and Control')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('636','3','Frederick H. Soon')
+('645','3','Hugh Oakley')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('637','3','Gian-Carlo Rota')
+('646','3','Charles Bruce Sissons')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('638','3','Gian-Carlo Rota')
+('646','3','Richard De Brisay')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('639','3','Gian-Carlo Rota')
+('647','3','Camilla V. Saulsbury')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('640','3','Something Extra')
+('648','3','Robert E. Howard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('641','3','Christopher W. Carroll')
+('648','3','H. P. Lovecraft')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('642','3','Christopher W. Carroll')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('643','3','Michael J. Waggoner')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('644','3','Alice Smith')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('644','3','Joseph Perry')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('645','3','Alice Smith')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('645','3','Joseph Perry')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('646','3','Alice Smith')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('646','3','Joseph Perry')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('647','3','H. G. Wells')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('647','3','Ayn Rand')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('647','3','Mark Twain')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('647','3','H. Beam Piper')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('647','3','Philip K. Dick')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('647','3','Fritz Leiber')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('647','3','Andre Norton')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('647','3','Lester Del Rey')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('647','3','August Derleth')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('647','3','Frederik Pohl')
+('648','3','G. G. Pendarves')
 ;
 
 Insert into Author
@@ -21457,55 +21739,61 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('648','3','Ayn Rand')
+('648','3','William Morris')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('648','3','Mark Twain')
+('648','3','Lafcadio Hearn')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('648','3','H. Beam Piper')
+('648','3','Abraham Merritt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('648','3','Philip K. Dick')
+('648','3','Arthur Machen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('648','3','Fritz Leiber')
+('648','3','Ernest Bramah')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('648','3','Andre Norton')
+('648','3','Robert W. Chambers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('648','3','Lester Del Rey')
+('648','3','George MacDonald')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('648','3','August Derleth')
+('649','3','Robert E. Howard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('648','3','Frederik Pohl')
+('649','3','H. P. Lovecraft')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('649','3','G. G. Pendarves')
 ;
 
 Insert into Author
@@ -21517,625 +21805,529 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('649','3','Ayn Rand')
+('649','3','William Morris')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('649','3','Mark Twain')
+('649','3','Lafcadio Hearn')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('649','3','H. Beam Piper')
+('649','3','Abraham Merritt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('649','3','Philip K. Dick')
+('649','3','Arthur Machen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('649','3','Fritz Leiber')
+('649','3','Ernest Bramah')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('649','3','Andre Norton')
+('649','3','Robert W. Chambers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('649','3','Lester Del Rey')
+('649','3','George MacDonald')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('649','3','August Derleth')
+('650','3','Robert E. Howard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('649','3','Frederik Pohl')
+('650','3','H. P. Lovecraft')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('650','3','W. Longman')
+('650','3','G. G. Pendarves')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('651','3','Commerce Clearing House')
+('650','3','H. G. Wells')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('651','3','United States. Tax Court')
+('650','3','William Morris')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('652','3','Vito Tanzi')
+('650','3','Lafcadio Hearn')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('652','3','Barry Bracewell-Milnes')
+('650','3','Abraham Merritt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('652','3','David Roderic Myddelton')
+('650','3','Arthur Machen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('653','3','Rollanda E. O'Connor')
+('650','3','Ernest Bramah')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('654','3','Pennsylvania State University. Mineral Industries Experiment Station')
+('650','3','Robert W. Chambers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('655','3','Pennsylvania State University. Mineral Industries Experiment Station')
+('650','3','George MacDonald')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('656','3','Thomas Hardy')
+('651','3','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('657','3','Thomas Hardy')
+('651','3','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('658','3','Knute Iwaszko')
+('652','3','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('658','3','Brian O'Connell')
+('652','3','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('659','3','Knute Iwaszko')
+('653','3','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('659','3','Brian O'Connell')
+('653','3','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('660','3','Timothy S Good')
+('654','3','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('661','3','Timothy S Good')
+('655','3','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('662','3','Timothy S Good')
+('656','3','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('663','3','Eberhard König')
+('657','3','B. M. Bower')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('664','3','Frank O'Connor')
+('658','3','B. M. Bower')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('665','3','Stephen R. Kellert')
+('659','3','B. M. Bower')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('665','3','Edward O. Wilson')
+('660','3','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('666','3','L. Frank Baum')
+('661','3','Harold J. Laski')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('667','3','L. Frank Baum')
+('662','3','Basil Hyman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('668','3','Connecticut. Board of Finance and Control')
+('662','3','Steven Braggs')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('669','3','Charles Bruce Sissons')
+('663','3','O. Henry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('669','3','Richard De Brisay')
+('664','3','O. Henry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('670','3','Charles Bruce Sissons')
+('665','3','Kenneth H. Brink')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('670','3','Richard De Brisay')
+('665','3','Allan R. Robinson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('671','3','Camilla V. Saulsbury')
+('666','3','W. Kendrick Pritchett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('672','3','Camilla V. Saulsbury')
+('667','3','W. Kendrick Pritchett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('673','3','Robert E. Howard')
+('668','3','W. Kendrick Pritchett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('673','3','H. P. Lovecraft')
+('669','3','Perry Anderson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('673','3','G. G. Pendarves')
+('670','3','Perry Anderson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('673','3','H. G. Wells')
+('671','3','Perry Anderson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('673','3','William Morris')
+('672','3','John W. Schwieter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('673','3','Lafcadio Hearn')
+('673','3','John W. Schwieter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('673','3','Abraham Merritt')
+('674','3','J. Paul Getty Museum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('673','3','Arthur Machen')
+('675','3','J. Paul Getty Museum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('673','3','Ernest Bramah')
+('676','3','George S. Everly Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('673','3','Robert W. Chambers')
+('676','3','Jeffrey M. Lating')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('673','3','George MacDonald')
+('677','3','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('674','3','Robert E. Howard')
+('677','3','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('674','3','H. P. Lovecraft')
+('678','3','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('674','3','G. G. Pendarves')
+('678','3','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('674','3','H. G. Wells')
+('679','3','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('674','3','William Morris')
+('679','3','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('674','3','Lafcadio Hearn')
+('680','3','Olivia Lelong')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('674','3','Abraham Merritt')
+('680','3','Gavin MacGregor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('674','3','Arthur Machen')
+('681','3','Laurence M. Lasater')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('674','3','Ernest Bramah')
+('682','3','Laurence M. Lasater')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('674','3','Robert W. Chambers')
+('683','3','Laurence M. Lasater')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('674','3','George MacDonald')
+('684','3','Mary R. Tahan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('675','3','Robert E. Howard')
+('685','3','Mary R. Tahan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('675','3','H. P. Lovecraft')
+('686','3','Frank OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('675','3','G. G. Pendarves')
+('687','3','Charles E. Brownell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('675','3','H. G. Wells')
+('688','3','R. Buccheri')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('675','3','William Morris')
+('688','3','Jan van Paradijs')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('675','3','Lafcadio Hearn')
+('688','3','M. A. Alpar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('675','3','Abraham Merritt')
+('689','3','R. Buccheri')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('675','3','Arthur Machen')
+('689','3','Jan van Paradijs')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('675','3','Ernest Bramah')
+('689','3','M. A. Alpar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('675','3','Robert W. Chambers')
+('690','3','R. Buccheri')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('675','3','George MacDonald')
+('690','3','Jan van Paradijs')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('676','3','Anthony O'Hear')
+('690','3','M. A. Alpar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('677','3','Franklin W. Dixon')
+('691','3','Bernard X. Bovasso')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('678','3','B. M. Bower')
+('692','3','Bernard X. Bovasso')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('679','3','B. M. Bower')
+('693','3','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('680','3','Trader X')
+('693','3','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('681','3','Trader X')
+('694','3','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('682','3','Basil Hyman')
+('694','3','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('682','3','Steven Braggs')
+('695','3','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('683','3','Basil Hyman')
+('695','3','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('683','3','Steven Braggs')
+('696','3','Monique OConnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('684','3','Basil Hyman')
+('696','3','Eric R Dursteler')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('684','3','Steven Braggs')
+('697','3','Monique OConnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('685','3','O. Henry')
+('697','3','Eric R Dursteler')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('686','3','Kenneth H. Brink')
+('698','3','Minnesota. Secretary of State')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('686','3','Allan R. Robinson')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('687','3','Kenneth H. Brink')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('687','3','Allan R. Robinson')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('688','3','Kenneth H. Brink')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('688','3','Allan R. Robinson')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('689','3','Matthew V. Novenson')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('690','3','Matthew V. Novenson')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('691','3','Perry Anderson')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('692','3','Perry Anderson')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('693','3','Perry Anderson')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('694','3','John W. Schwieter')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('695','3','John W. Schwieter')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('696','3','Fiona O'Neill')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('697','3','J. Paul Getty Museum')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('698','3','R. J. Arsenault')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('699','3','Alice Williams')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('699','3','Joseph Perry')
+('699','3','Minnesota. Secretary of State')
 ;
 
 Insert into Author
@@ -22165,1381 +22357,1309 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('702','3','Jack Johnson')
+('702','3','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('702','3','Bill Jackson')
+('702','3','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('703','3','Jack Johnson')
+('703','3','Friedrich List')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('703','3','Bill Jackson')
+('704','3','Friedrich List')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('704','3','Thomas G. Wack')
+('705','3','Friedrich List')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('705','3','Thomas G. Wack')
+('706','3','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('706','3','Olivia Lelong')
+('706','3','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('706','3','Gavin MacGregor')
+('707','3','David M. Sokol')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('707','3','Mary R. Tahan')
+('708','3','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('708','3','Mary R. Tahan')
+('708','3','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('709','3','Mary R. Tahan')
+('709','3','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('710','3','Charles E. Brownell')
+('709','3','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('711','3','Charles E. Brownell')
+('710','3','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('712','3','R. Buccheri')
+('710','3','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('712','3','Jan van Paradijs')
+('711','3','James Madison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('712','3','M. A. Alpar')
+('712','3','James Madison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('713','3','R. Buccheri')
+('713','3','Rosalind Fergusson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('713','3','Jan van Paradijs')
+('714','3','Michael D. Andrew')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('713','3','M. A. Alpar')
+('715','3','United States. Office of International Energy Affairs')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('714','3','R. Buccheri')
+('716','3','United States. Office of International Energy Affairs')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('714','3','Jan van Paradijs')
+('717','3','Theophilus G. Pinches')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('714','3','M. A. Alpar')
+('718','3','Theophilus G. Pinches')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('715','3','Bernard X. Bovasso')
+('719','3','Theophilus G. Pinches')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('716','3','Bernard X. Bovasso')
+('720','3','Younkyoo Kim')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('717','3','Bernard X. Bovasso')
+('721','3','Younkyoo Kim')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('718','3','Jack Johnson')
+('722','3','Vivienne OShannessy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('718','3','Bill Perry')
+('722','3','Dean Minett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('719','3','Monique O'Connell')
+('723','3','Vivienne OShannessy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('719','3','Eric R Dursteler')
+('723','3','Dean Minett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('720','3','Monique O'Connell')
+('724','3','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('720','3','Eric R Dursteler')
+('724','3','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('721','3','Monique O'Connell')
+('725','3','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('721','3','Eric R Dursteler')
+('725','3','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('722','3','Minnesota. Secretary of State')
+('726','3','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('723','3','Minnesota. Secretary of State')
+('726','3','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('724','3','Franklin W. Dixon')
+('727','3','Axel Angeli')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('725','3','Friedrich List')
+('727','3','Ulrich Streit')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('726','3','Friedrich List')
+('727','3','Robi Gonfalonieri')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('727','3','Friedrich List')
+('728','3','Axel Angeli')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('728','3','David M. Sokol')
+('728','3','Ulrich Streit')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('729','3','Charlie Smith')
+('728','3','Robi Gonfalonieri')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('729','3','Julius Loukas')
+('729','3','Axel Angeli')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('730','3','James Madison')
+('729','3','Ulrich Streit')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('731','3','Rosalind Fergusson')
+('729','3','Robi Gonfalonieri')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('732','3','Michael D. Andrew')
+('730','3','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('733','3','Michael D. Andrew')
+('730','3','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('734','3','Michael D. Andrew')
+('731','3','Shakespeare Association of America')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('735','3','Bob Williams')
+('732','3','Shakespeare Association of America')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('735','3','Bill Perry')
+('733','3','Cathy ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('736','3','United States. Office of International Energy Affairs')
+('734','3','Cathy ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('737','3','United States. Office of International Energy Affairs')
+('735','3','Cathy ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('738','3','Theophilus G. Pinches')
+('736','3','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('739','3','Theophilus G. Pinches')
+('736','3','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('740','3','Younkyoo Kim')
+('737','3','W. Morgan Shuster')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('741','3','Younkyoo Kim')
+('738','3','W. Morgan Shuster')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('742','3','Younkyoo Kim')
+('739','3','W. Morgan Shuster')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('743','3','Vivienne O'Shannessy')
+('740','3','Stephen P. Robbins')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('743','3','Dean Minett')
+('740','3','Martha I. Finney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('744','3','Jack Smith')
+('740','3','James ORourke')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('744','3','Borat Perry')
+('740','3','William S. Kane')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('745','3','Axel Angeli')
+('741','3','Stephen P. Robbins')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('745','3','Ulrich Streit')
+('741','3','Martha I. Finney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('745','3','Robi Gonfalonieri')
+('741','3','James ORourke')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('746','3','Axel Angeli')
+('741','3','William S. Kane')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('746','3','Ulrich Streit')
+('742','3','Robin MacKenzie')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('746','3','Robi Gonfalonieri')
+('743','3','Robin MacKenzie')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('747','3','Axel Angeli')
+('744','3','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('747','3','Ulrich Streit')
+('744','3','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('747','3','Robi Gonfalonieri')
+('745','3','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('748','3','Alice Smith')
+('745','3','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('748','3','Bill Loukas')
+('746','3','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('749','3','Alice Smith')
+('746','3','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('749','3','Bill Loukas')
+('747','3','Patrick OBrian')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('750','3','Shakespeare Association of America')
+('748','3','Patrick OBrian')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('751','3','Cathy O'Neil')
+('749','3','Patrick OBrian')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('752','3','Cathy O'Neil')
+('750','3','Walter Braddock Hickman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('753','3','Cathy O'Neil')
+('751','3','Zondervan,')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('754','3','W. Morgan Shuster')
+('752','3','Zondervan,')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('755','3','Stephen P. Robbins')
+('753','3','Zondervan,')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('755','3','Martha I. Finney')
+('754','3','John F. Kennedy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('755','3','James O'Rourke')
+('754','3','Dominique Enright')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('755','3','William S. Kane')
+('755','3','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('756','3','Stephen P. Robbins')
+('755','3','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('756','3','Martha I. Finney')
+('756','3','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('756','3','James O'Rourke')
+('756','3','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('756','3','William S. Kane')
+('757','3','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('757','3','Robin MacKenzie')
+('757','3','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('758','3','Robin MacKenzie')
+('758','3','BERNARD. BUDIANSKY')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('759','3','Robin MacKenzie')
+('758','3','Tai Te Wu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('760','3','Jack Williams')
+('759','3','Geoffrey Perret')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('760','3','Joseph Loukas')
+('760','3','Buford D. Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('761','3','Jack Williams')
+('760','3','Rakesh Srivastava')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('761','3','Joseph Loukas')
+('761','3','Paul D. Molnar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('762','3','Jack Williams')
+('762','3','Charlie Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('762','3','Joseph Loukas')
+('762','3','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('763','3','Walter Braddock Hickman')
+('763','3','Charlie Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('764','3','Walter Braddock Hickman')
+('763','3','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('765','3','Zondervan,')
+('764','3','Jerome K Jerome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('766','3','Richard Allestree')
+('765','3','Jerome K Jerome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('766','3','C. Matthew McMahon')
+('766','3','Kathleen L. Scott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('767','3','Richard Allestree')
+('767','3','Kathleen L. Scott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('767','3','C. Matthew McMahon')
+('768','3','Dwight L. Evans')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('768','3','John F. Kennedy')
+('768','3','Edna B. Foa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('768','3','Dominique Enright')
+('768','3','Raquel E. Gur')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('769','3','John F. Kennedy')
+('768','3','Herbert Hendin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('769','3','Dominique Enright')
+('768','3','Charles P. OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('770','3','John F. Kennedy')
+('768','3','Daniel Romer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('770','3','Dominique Enright')
+('768','3','Martin E.P. Seligman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('771','3','L. Frank Baum')
+('768','3','B. Timothy Walsh')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('772','3','L. Frank Baum')
+('769','3','Samuel W. Mitcham Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('773','3','Bob Johnson')
+('770','3','Samuel W. Mitcham Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('773','3','Joseph Stark')
+('771','3','George F. Custen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('774','3','Bob Johnson')
+('772','3','George F. Custen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('774','3','Joseph Stark')
+('773','3','George F. Custen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('775','3','Geoffrey Perret')
+('774','3','Mark A. Lovewell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('776','3','Buford D. Smith')
+('775','3','United States')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('776','3','Rakesh Srivastava')
+('776','3','Trevor C. Salmon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('777','3','Buford D. Smith')
+('777','3','C. A. Brebbia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('777','3','Rakesh Srivastava')
+('777','3','Lal Chand Wadhwa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('778','3','Buford D. Smith')
+('778','3','C. A. Brebbia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('778','3','Rakesh Srivastava')
+('778','3','Lal Chand Wadhwa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('779','3','Paul D. Molnar')
+('779','3','C. A. Brebbia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('780','3','Charlie Jones')
+('779','3','Lal Chand Wadhwa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('780','3','Julius Loukas')
+('780','3','Patricia A. Messner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('781','3','Jerome K Jerome')
+('780','3','Brenda S. Copeland')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('782','3','Jerome K Jerome')
+('781','3','Marion E. Marshall')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('783','3','Kathleen L. Scott')
+('782','3','Marion E. Marshall')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('784','3','Kathleen L. Scott')
+('783','3','Marion E. Marshall')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('785','3','Kathleen L. Scott')
+('784','3','Tim OReilly')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('786','3','Samuel W. Mitcham Jr.')
+('785','3','Tim OReilly')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('787','3','Samuel W. Mitcham Jr.')
+('786','3','James H. Wittebols')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('788','3','George F. Custen')
+('787','3','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('789','3','A J. Lee')
+('787','3','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('790','3','Commerce Clearing House')
+('788','3','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('791','3','Commerce Clearing House')
+('788','3','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('792','3','Commerce Clearing House')
+('789','3','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('793','3','Mark A. Lovewell')
+('789','3','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('794','3','United States')
+('790','3','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('795','3','United States')
+('790','3','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('796','3','United States')
+('791','3','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('797','3','Alice Jones')
+('791','3','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('797','3','Julius Loukas')
+('792','3','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('798','3','Alice Jones')
+('792','3','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('798','3','Julius Loukas')
+('793','3','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('799','3','Alice Jones')
+('793','3','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('799','3','Julius Loukas')
+('794','3','LeRoy R. Maleck')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('800','3','United States. Supreme Court')
+('794','3','Leroy R. Maleck O.D.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('801','3','United States. Supreme Court')
+('795','3','William J. Gedney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('802','3','Trevor C. Salmon')
+('796','3','William J. Gedney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('803','3','Trevor C. Salmon')
+('797','3','Wisconsin. State Board of Vocational, Technical and Adult Education')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('804','3','C. A. Brebbia')
+('798','3','Wisconsin. State Board of Vocational, Technical and Adult Education')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('804','3','Lal Chand Wadhwa')
+('799','3','Wisconsin. State Board of Vocational, Technical and Adult Education')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('805','3','C. A. Brebbia')
+('800','3','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('805','3','Lal Chand Wadhwa')
+('800','3','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('806','3','Patricia A. Messner')
+('801','3','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('806','3','Brenda S. Copeland')
+('801','3','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('807','3','Patricia A. Messner')
+('802','3','Wisconsin. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('807','3','Brenda S. Copeland')
+('802','3','Frederic King Conover')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('808','3','Tim O'Reilly')
+('802','3','Frederick William Arthur')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('809','3','James H. Wittebols')
+('802','3','Frederick C. Seibold')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('810','3','Alice Smith')
+('802','3','Arnold LeBell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('810','3','Borat Perry')
+('803','3','Wisconsin. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('811','3','Jack Williams')
+('803','3','Frederic King Conover')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('811','3','Borat Stark')
+('803','3','Frederick William Arthur')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('812','3','Jack Williams')
+('803','3','Frederick C. Seibold')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('812','3','Borat Stark')
+('803','3','Arnold LeBell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('813','3','Jack Williams')
+('804','3','Wisconsin. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('813','3','Borat Stark')
+('804','3','Frederic King Conover')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('814','3','LeRoy R. Maleck')
+('804','3','Frederick William Arthur')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('814','3','Leroy R. Maleck O.D.')
+('804','3','Frederick C. Seibold')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('815','3','Cees H. Goekoop')
+('804','3','Arnold LeBell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('816','3','William J. Gedney')
+('805','3','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('817','3','William J. Gedney')
+('805','3','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('818','3','William J. Gedney')
+('806','3','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('819','3','Wisconsin. State Board of Vocational, Technical and Adult Education')
+('806','3','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('820','3','Wisconsin. State Board of Vocational, Technical and Adult Education')
+('807','3','Elfan Ap Rees')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('821','3','Wisconsin. State Board of Vocational, Technical and Adult Education')
+('808','3','Elfan Ap Rees')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('822','3','Jack Jones')
+('809','3','Elfan Ap Rees')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('822','3','Borat Perry')
+('810','3','Jeremy Adelman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('823','3','Jack Jones')
+('811','3','Jeremy Adelman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('823','3','Borat Perry')
+('812','3','Robert S. Lai')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('824','3','Jack Jones')
+('812','3','Waite Group')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('824','3','Borat Perry')
+('813','3','Indiana. Division of Accounting and Statistics')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('825','3','Wisconsin. Supreme Court')
+('814','3','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('825','3','Frederic King Conover')
+('814','3','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('825','3','Frederick William Arthur')
+('815','3','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('825','3','Frederick C. Seibold')
+('815','3','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('825','3','Arnold LeBell')
+('816','3','Masha Gessen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('826','3','Wisconsin. Supreme Court')
+('817','3','Τάκης Πέρκιζας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('826','3','Frederic King Conover')
+('818','3','Τάκης Πέρκιζας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('826','3','Frederick William Arthur')
+('819','3','Τάκης Πέρκιζας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('826','3','Frederick C. Seibold')
+('820','3','Γκλυν Άιλιφ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('826','3','Arnold LeBell')
+('821','3','Paul Auster')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('827','3','S. Shortall')
+('822','3','Εδουάρδ Εστιβίλ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('828','3','Alice Smith')
+('823','3','Εδουάρδ Εστιβίλ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('828','3','Bill Loukas')
+('824','3','Εδουάρδ Εστιβίλ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('829','3','Alice Smith')
+('825','3','Μιχάλης Ντουνέτας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('829','3','Bill Loukas')
+('826','3','Μιχάλης Ντουνέτας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('830','3','Alice Smith')
+('827','3','Arturo Schwarz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('830','3','Bill Loukas')
+('827','3','Mordecai Ardon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('831','3','Jeremy Adelman')
+('827','3','Muzeon Yisrael')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('832','3','Jeremy Adelman')
+('828','3','Arturo Schwarz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('833','3','Robert S. Lai')
+('828','3','Mordecai Ardon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('833','3','Waite Group')
+('828','3','Muzeon Yisrael')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('834','3','Indiana. Division of Accounting and Statistics')
+('829','3','Arturo Schwarz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('835','3','Bob Williams')
+('829','3','Mordecai Ardon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('835','3','Joseph Stark')
+('829','3','Muzeon Yisrael')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('836','3','Masha Gessen')
+('830','3','تماري، سليم')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('837','3','Τάκης Πέρκιζας')
+('831','3','Isao Yajima')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('838','3','Τάκης Πέρκιζας')
+('832','3','Isao Yajima')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('839','3','Τάκης Πέρκιζας')
+('833','3','张学英')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('840','3','Γκλυν Άιλιφ')
+('834','3','张学英')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('841','3','Γκλυν Άιλιφ')
+('835','3','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('842','3','Paul Auster')
+('835','3','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('843','3','Paul Auster')
+('836','3','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('844','3','Paul Auster')
+('836','3','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('845','3','Εδουάρδ Εστιβίλ')
+('837','3','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('846','3','Εδουάρδ Εστιβίλ')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('847','3','Εδουάρδ Εστιβίλ')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('848','3','Μιχάλης Ντουνέτας')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('849','3','You-Jeong Jeong')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('850','3','You-Jeong Jeong')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('851','3','You-Jeong Jeong')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('852','3','Isao Yajima')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('853','3','Isao Yajima')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('854','3','Isao Yajima')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('855','3','张学英')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('856','3','张学英')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('857','3','Alice Johnson')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('857','3','Julius Loukas')
+('837','3','Julius Loukas')
 ;
 
 Insert into Author
@@ -23551,13 +23671,25 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('2','4','Larry Malcolm')
+('2','4','James D. Ployhar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('3','4','Robert W. Yarbrough')
+('2','4','George B. Zepp')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('3','4','James D. Ployhar')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('3','4','George B. Zepp')
 ;
 
 Insert into Author
@@ -23575,163 +23707,169 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('5','4','Peter Ratner')
+('5','4','Royal Anthropological Institute of Great Britain and Ireland. Library')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('6','4','Peter Ratner')
+('5','4','Sir Richard Francis Burton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('7','4','Peter Ratner')
+('6','4','Richard Raskin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('8','4','Richard Schmitt')
+('7','4','Thomas F. Michel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('9','4','Richard Schmitt')
+('8','4','Thomas F. Michel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('10','4','S (Sabine) 1834-1924 Baring-Gould')
+('9','4','Thomas F. Michel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('11','4','S (Sabine) 1834-1924 Baring-Gould')
+('10','4','Thomas Ernst')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('12','4','Royal Anthropological Institute of Great Britain and Ireland. Library')
+('11','4','Andrew Skilton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('12','4','Sir Richard Francis Burton')
+('12','4','Andrew Skilton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('13','4','Royal Anthropological Institute of Great Britain and Ireland. Library')
+('13','4','Samuel E. Buttrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('13','4','Sir Richard Francis Burton')
+('13','4','Lyn R. Whitaker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('14','4','Royal Anthropological Institute of Great Britain and Ireland. Library')
+('14','4','Samuel E. Buttrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('14','4','Sir Richard Francis Burton')
+('14','4','Lyn R. Whitaker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('15','4','Richard Raskin')
+('15','4','Samuel E. Buttrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('16','4','Richard Raskin')
+('15','4','Lyn R. Whitaker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('17','4','Thomas F. Michel')
+('16','4','Richard J. Durling')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('18','4','Thomas F. Michel')
+('17','4','Richard J. Durling')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('19','4','Thomas F. Michel')
+('18','4','Andrew John Wilde')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('20','4','Andrew Skilton')
+('19','4','Andrew John Wilde')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('21','4','Samuel E. Buttrey')
+('20','4','Andrew John Wilde')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('21','4','Lyn R. Whitaker')
+('21','4','W. John Braun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('22','4','Richard J. Durling')
+('21','4','Duncan J. Murdoch')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('23','4','Richard J. Durling')
+('22','4','W. John Braun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('24','4','W. John Braun')
+('22','4','Duncan J. Murdoch')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('24','4','Duncan J. Murdoch')
+('23','4','W. John Braun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('25','4','W. John Braun')
+('23','4','Duncan J. Murdoch')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('25','4','Duncan J. Murdoch')
+('24','4','Eung-Do Cook')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('25','4','Eung-Do Cook')
 ;
 
 Insert into Author
@@ -23743,55 +23881,43 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('27','4','Eung-Do Cook')
+('27','4','Edmund L. Epstein')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('28','4','Eung-Do Cook')
+('28','4','Edmund L. Epstein')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('29','4','Edmund L. Epstein')
+('29','4','Angharad N. Valdivia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('30','4','Lois N. Magner')
+('30','4','Angharad N. Valdivia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('30','4','Oliver J Kim')
+('31','4','Robert C. Koons')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('31','4','Lois N. Magner')
+('32','4','Robert C. Koons')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('31','4','Oliver J Kim')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('32','4','Angharad N. Valdivia')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('33','4','Robert C. Koons')
+('33','4','Gary Kielhofner')
 ;
 
 Insert into Author
@@ -23803,619 +23929,733 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('35','4','Gary Kielhofner')
+('35','4','J. Laughton Johnston')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('36','4','Gary Kielhofner')
+('36','4','Robert Burns')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('37','4','Robert Burns')
+('37','4','Sir Thomas Henley')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('38','4','Robert Burns')
+('38','4','Onora ONeill')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('39','4','Robert Burns')
+('39','4','John R. Pattison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('40','4','Sir Thomas Henley')
+('39','4','R. N. Gruneberg')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('41','4','Sir Thomas Henley')
+('39','4','J. Holton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('42','4','Sir Thomas Henley')
+('39','4','G. L. Ridgway')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('43','4','Onora O'Neill')
+('39','4','G. Scott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('44','4','Onora O'Neill')
+('39','4','A. P. R. Wilson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('45','4','Onora O'Neill')
+('40','4','John R. Pattison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('46','4','Edward Upward')
+('40','4','R. N. Gruneberg')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('47','4','Edward Upward')
+('40','4','J. Holton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('48','4','Edward Upward')
+('40','4','G. L. Ridgway')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('49','4','Richard Price')
+('40','4','G. Scott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('50','4','Richard Price')
+('40','4','A. P. R. Wilson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('51','4','Donald Ray Davis')
+('41','4','John R. Pattison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('52','4','Donald Ray Davis')
+('41','4','R. N. Gruneberg')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('53','4','Ellen Bayuk Rosenman')
+('41','4','J. Holton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('54','4','Ellen Bayuk Rosenman')
+('41','4','G. L. Ridgway')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('55','4','Andrew Laurence Comrey')
+('41','4','G. Scott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('55','4','Thomas E. Backer')
+('41','4','A. P. R. Wilson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('55','4','Edward Maynard Glaser')
+('42','4','Edward Upward')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('56','4','Andrew Laurence Comrey')
+('43','4','Richard Price')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('56','4','Thomas E. Backer')
+('44','4','Donald Ray Davis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('56','4','Edward Maynard Glaser')
+('45','4','Donald Ray Davis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('57','4','Andrew Laurence Comrey')
+('46','4','Donald Ray Davis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('57','4','Thomas E. Backer')
+('47','4','Ellen Bayuk Rosenman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('57','4','Edward Maynard Glaser')
+('48','4','Ellen Bayuk Rosenman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('58','4','Lewis H. King')
+('49','4','Lewis H. King')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('58','4','Frances E. Goodspeed')
+('49','4','Frances E. Goodspeed')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('58','4','D. S. Montgomery')
+('49','4','D. S. Montgomery')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('58','4','M. F. Millson')
+('49','4','M. F. Millson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('59','4','Illinois')
+('50','4','Lewis H. King')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('60','4','Jack Smith')
+('50','4','Frances E. Goodspeed')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('60','4','Bill Loukas')
+('50','4','D. S. Montgomery')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('61','4','Jack Smith')
+('50','4','M. F. Millson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('61','4','Bill Loukas')
+('51','4','Christopher Wayne Curry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('62','4','Jack Smith')
+('51','4','John W. Curry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('62','4','Bill Loukas')
+('52','4','Christopher Wayne Curry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('63','4','Bob Jones')
+('52','4','John W. Curry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('63','4','Borat Perry')
+('53','4','Christopher Wayne Curry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('64','4','Bob Jones')
+('53','4','John W. Curry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('64','4','Borat Perry')
+('54','4','Athenaeus Naucratites')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('65','4','Bob Jones')
+('55','4','Illinois')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('65','4','Borat Perry')
+('56','4','Illinois')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('66','4','Antoinette Elizabeth Kavanaugh')
+('57','4','Illinois')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('67','4','Antoinette Elizabeth Kavanaugh')
+('58','4','Bob Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('68','4','Robert Shenk')
+('58','4','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('69','4','Everett R. Rhoades')
+('59','4','Bob Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('70','4','Everett R. Rhoades')
+('59','4','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('71','4','Everett R. Rhoades')
+('60','4','Bob Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('72','4','Jack-Michel Cornil')
+('60','4','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('72','4','Philippe Testud')
+('61','4','Antoinette Elizabeth Kavanaugh')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('73','4','Jack-Michel Cornil')
+('62','4','Antoinette Elizabeth Kavanaugh')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('73','4','Philippe Testud')
+('63','4','Antoinette Elizabeth Kavanaugh')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('74','4','Jack-Michel Cornil')
+('64','4','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('74','4','Philippe Testud')
+('64','4','Borat Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('75','4','Sebastien Le')
+('65','4','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('75','4','Thierry Worch')
+('65','4','Borat Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('76','4','Sebastien Le')
+('66','4','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('76','4','Thierry Worch')
+('66','4','Borat Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('77','4','Sebastien Le')
+('67','4','Werner Jüptner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('77','4','Thierry Worch')
+('67','4','Thomas Kreis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('78','4','Daniel W. Graham')
+('68','4','Werner Jüptner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('79','4','Juan Carlos Kaski')
+('68','4','Thomas Kreis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('80','4','Gretel H. Schueller')
+('69','4','Jack-Michel Cornil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('80','4','Sheila K. Schueller')
+('69','4','Philippe Testud')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('81','4','Gretel H. Schueller')
+('70','4','Gretel H. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('81','4','Sheila K. Schueller')
+('70','4','Sheila K. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('82','4','American Society for Testing and Materials')
+('71','4','Gretel H. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('83','4','American Society for Testing and Materials')
+('71','4','Sheila K. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('84','4','American Society for Testing and Materials')
+('72','4','Gretel H. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('85','4','Texas Judicial Council')
+('72','4','Sheila K. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('86','4','Inch̊ōn (Korea). Meteorological Observatory')
+('73','4','American Society for Testing and Materials')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('87','4','Inch̊ōn (Korea). Meteorological Observatory')
+('74','4','American Society for Testing and Materials')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('88','4','Thomas William Gardner')
+('75','4','Texas Judicial Council')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('88','4','William D. Sevon')
+('76','4','Texas Judicial Council')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('89','4','Daniel John Meador')
+('77','4','Texas Judicial Council')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('89','4','Thomas E. Baker')
+('78','4','Inch̊ōn (Korea). Meteorological Observatory')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('89','4','Joan E. Steinman')
+('79','4','Inch̊ōn (Korea). Meteorological Observatory')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('90','4','Daniel John Meador')
+('80','4','Michigan. State Board of Agriculture')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('90','4','Thomas E. Baker')
+('81','4','Thomas William Gardner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('90','4','Joan E. Steinman')
+('81','4','William D. Sevon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('91','4','New Zealand. Parliament. House of Representatives')
+('82','4','Daniel John Meador')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('92','4','New Zealand. Parliament. House of Representatives')
+('82','4','Thomas E. Baker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('93','4','New Zealand. Parliament. House of Representatives')
+('82','4','Joan E. Steinman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('94','4','Bob Johnson')
+('83','4','Daniel John Meador')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('94','4','Bill Jackson')
+('83','4','Thomas E. Baker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('95','4','William Vaughan')
+('83','4','Joan E. Steinman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('96','4','Demetrius Charles de Kavanagh Boulger')
+('84','4','Daniel John Meador')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('97','4','Jack Smith')
+('84','4','Thomas E. Baker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('97','4','Borat Jackson')
+('84','4','Joan E. Steinman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('98','4','Bob Johnson')
+('85','4','New Zealand. Parliament. House of Representatives')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('98','4','Bill Jackson')
+('86','4','New Zealand. Parliament. House of Representatives')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('99','4','Bob Johnson')
+('87','4','New Zealand. Parliament. House of Representatives')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('99','4','Bill Jackson')
+('88','4','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('100','4','Bob Johnson')
+('88','4','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('100','4','Bill Jackson')
+('89','4','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('101','4','Stephen Barker')
+('89','4','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('102','4','Stephen Barker')
+('90','4','James P. Brennan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('103','4','Stephen Barker')
+('91','4','Demetrius Charles de Kavanagh Boulger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('104','4','Nick Fieller')
+('92','4','Demetrius Charles de Kavanagh Boulger')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('93','4','Demetrius Charles de Kavanagh Boulger')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('94','4','Jack Smith')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('94','4','Borat Jackson')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('95','4','Jack Smith')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('95','4','Borat Jackson')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('96','4','Jack Jones')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('96','4','Borat Stark')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('97','4','Jack Jones')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('97','4','Borat Stark')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('98','4','Jack Jones')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('98','4','Borat Stark')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('99','4','Stephen Barker')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('100','4','Stephen Barker')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('101','4','Rick Remender')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('102','4','Rick Remender')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('103','4','Bob Smith')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('103','4','Joseph Jackson')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('104','4','Bob Smith')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('104','4','Joseph Jackson')
 ;
 
 Insert into Author
@@ -24427,85 +24667,211 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('106','4','Edward O. Thorp')
+('106','4','Nick Fieller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('107','4','Conor O'Brien')
+('107','4','Edward O. Thorp')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('108','4','Francie Wolgin')
+('108','4','Sydney J. Bounds')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('109','4','Bernice Pauahi Bishop Museum')
+('109','4','Sydney J. Bounds')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('110','4','Bernice Pauahi Bishop Museum')
+('110','4','Sydney J. Bounds')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('111','4','Bernice Pauahi Bishop Museum')
+('111','4','Kathy J. Scheffer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('112','4','Sydney J. Bounds')
+('111','4','Richard S. Tobin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','4','Sydney J. Bounds')
+('112','4','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('114','4','Kathy J. Scheffer')
+('112','4','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('114','4','Richard S. Tobin')
+('113','4','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('115','4','Bob Smith')
+('113','4','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('115','4','Joseph Loukas')
+('114','4','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('116','4','Bob Smith')
+('114','4','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('116','4','Joseph Loukas')
+('115','4','Norman Uphoff')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('115','4','Andrew S. Ball')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('115','4','Erick Fernandes')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('115','4','Hans Herren')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('115','4','Olivier Husson')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('115','4','Mark Laing')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('115','4','Cheryl Palm')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('115','4','Jules Pretty')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('115','4','Pedro Sanchez')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('115','4','Nteranya Sanginga')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('115','4','Janice Thies')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('116','4','Norman Uphoff')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('116','4','Andrew S. Ball')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('116','4','Erick Fernandes')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('116','4','Hans Herren')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('116','4','Olivier Husson')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('116','4','Mark Laing')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('116','4','Cheryl Palm')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('116','4','Jules Pretty')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('116','4','Pedro Sanchez')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('116','4','Nteranya Sanginga')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('116','4','Janice Thies')
 ;
 
 Insert into Author
@@ -24577,43 +24943,61 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('118','4','G. E. Bentley')
+('118','4','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('118','4','Martin K. Nurmi')
+('118','4','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('119','4','G. E. Bentley')
+('119','4','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('119','4','Martin K. Nurmi')
+('119','4','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('120','4','Graham Hood')
+('120','4','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('121','4','Graham Hood')
+('120','4','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('122','4','Graham Hood')
+('121','4','Jack Jones')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('121','4','Bill Jackson')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('122','4','Jack Jones')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('122','4','Bill Jackson')
 ;
 
 Insert into Author
@@ -24631,19 +25015,19 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('124','4','Jack Jones')
+('124','4','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('124','4','Bill Jackson')
+('124','4','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('125','4','Charlie Williams')
+('125','4','Jack Williams')
 ;
 
 Insert into Author
@@ -24655,565 +25039,487 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('126','4','Thomas W. Schultz')
+('126','4','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('127','4','Herbert Schildt')
+('126','4','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('128','4','Herbert Schildt')
+('127','4','American Association of Petroleum Geologists')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('129','4','Bob Smith')
+('128','4','Thomas W. Schultz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('129','4','Borat Stark')
+('129','4','Thomas W. Schultz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('130','4','Ron Larson')
+('130','4','Thomas W. Schultz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('130','4','Bruce H. Edwards')
+('131','4','V. RAJARAMAN')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('131','4','Charlotte K Lowrie')
+('132','4','V. RAJARAMAN')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('132','4','William Warner Bishop')
+('133','4','Ron Larson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('133','4','William Warner Bishop')
+('133','4','Bruce H. Edwards')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('134','4','Library of Congress. Copyright Office')
+('134','4','Ron Larson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('135','4','Library of Congress. Copyright Office')
+('134','4','Bruce H. Edwards')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('136','4','Library of Congress. Copyright Office')
+('135','4','Charlotte K Lowrie')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('137','4','Great Britain. Census Office')
+('136','4','William Warner Bishop')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('138','4','Alice Smith')
+('137','4','Library of Congress. Copyright Office')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('138','4','Joseph Jackson')
+('138','4','Library of Congress. Copyright Office')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('139','4','Alice Smith')
+('139','4','Great Britain. Census Office')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('139','4','Joseph Jackson')
+('140','4','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('140','4','Muhammad Akram')
+('140','4','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('140','4','Hina Gulzar')
+('141','4','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('140','4',' K. P. Shum')
+('141','4','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('141','4','Alice Williams')
+('142','4','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('141','4','Bill Perry')
+('142','4','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('142','4','Dave Douglas')
+('143','4','Muhammad Akram')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('142','4','Gregory Michael Papadopoulos')
+('143','4','Hina Gulzar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('142','4','John Boutelle')
+('143','4',' K. P. Shum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('143','4','Dave Douglas')
+('144','4','Muhammad Akram')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('143','4','Gregory Michael Papadopoulos')
+('144','4','Hina Gulzar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('143','4','John Boutelle')
+('144','4',' K. P. Shum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('144','4','Dave Douglas')
+('145','4','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('144','4','Gregory Michael Papadopoulos')
+('145','4','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('144','4','John Boutelle')
+('146','4','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('145','4','W. Kim Halford')
+('146','4','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('145','4','Jemima Petch')
+('147','4','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('145','4','Debra Creedy')
+('147','4','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('146','4','W. Kim Halford')
+('148','4','Dave Douglas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('146','4','Jemima Petch')
+('148','4','Gregory Michael Papadopoulos')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('146','4','Debra Creedy')
+('148','4','John Boutelle')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('147','4','W. Kim Halford')
+('149','4','Dave Douglas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('147','4','Jemima Petch')
+('149','4','Gregory Michael Papadopoulos')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('147','4','Debra Creedy')
+('149','4','John Boutelle')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('148','4','A. Ross Johnson')
+('150','4','Dave Douglas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('148','4','R. Eugene Parta')
+('150','4','Gregory Michael Papadopoulos')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('149','4','A. Ross Johnson')
+('150','4','John Boutelle')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('149','4','R. Eugene Parta')
+('151','4','W. Kim Halford')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('150','4','A. Ross Johnson')
+('151','4','Jemima Petch')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('150','4','R. Eugene Parta')
+('151','4','Debra Creedy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('151','4','Ross Rueger')
+('152','4','Anthony W. Knapp')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('151','4','David C. Cohen')
+('152','4','David A. Vogan, Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('152','4','Ross Rueger')
+('152','4','David A. Vogan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('152','4','David C. Cohen')
+('153','4','Anthony W. Knapp')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('153','4','Pamela K. Hill')
+('153','4','David A. Vogan, Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('154','4','Steve Tulliu')
+('153','4','David A. Vogan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('154','4','Thomas Schmalberger')
+('154','4','A. Ross Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('155','4','Steve Tulliu')
+('154','4','R. Eugene Parta')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('155','4','Thomas Schmalberger')
+('155','4','Kaushik Basu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('156','4','John Morgan O'Connell')
+('156','4','Kaushik Basu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('157','4','Carson-Dellosa Publishing')
+('157','4','Ross Rueger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('158','4','Australian Conciliation and Arbitration Commission')
+('157','4','David C. Cohen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('159','4','Australian Conciliation and Arbitration Commission')
+('158','4','Ross Rueger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('160','4','David Dunlap Observatory')
+('158','4','David C. Cohen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('161','4','David Dunlap Observatory')
+('159','4','Ross Rueger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('162','4','David Dunlap Observatory')
+('159','4','David C. Cohen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('163','4','Alice Williams')
+('160','4','John Morgan OConnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('163','4','Julius Perry')
+('161','4','John Morgan OConnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('164','4','Alice Williams')
+('162','4','John Morgan OConnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('164','4','Julius Perry')
+('163','4','Carson-Dellosa Publishing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('165','4','Rosa Maria Benito')
+('164','4','Carson-Dellosa Publishing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('165','4','Chantal Cherifi')
+('165','4','David Dunlap Observatory')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('165','4','Hocine Cherifi')
+('166','4','David Dunlap Observatory')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('165','4','Esteban Moro')
+('167','4','Spectator Company (New York, N.Y.)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('165','4','Luis M. Rocha')
+('168','4','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('165','4','Marta Sales-Pardo')
+('168','4','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('166','4','Rosa Maria Benito')
+('169','4','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('166','4','Chantal Cherifi')
+('169','4','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('166','4','Hocine Cherifi')
+('170','4','Joseph M. Wepman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('166','4','Esteban Moro')
+('170','4','Ralph W. Heine')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('166','4','Luis M. Rocha')
+('171','4','Armand Borel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('166','4','Marta Sales-Pardo')
+('171','4','Nolan R. Wallach')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('167','4','OECD Nuclear Energy Agency')
+('172','4','Armand Borel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('167','4','International Atomic Energy Agency')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('167','4','Commission of the European Communities')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('168','4','OECD Nuclear Energy Agency')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('168','4','International Atomic Energy Agency')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('168','4','Commission of the European Communities')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('169','4','OECD Nuclear Energy Agency')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('169','4','International Atomic Energy Agency')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('169','4','Commission of the European Communities')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('170','4','Jack Johnson')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('170','4','Joseph Stark')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('171','4','Joseph M. Wepman')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('171','4','Ralph W. Heine')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('172','4','Joseph M. Wepman')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('172','4','Ralph W. Heine')
+('172','4','Nolan R. Wallach')
 ;
 
 Insert into Author
@@ -25231,13 +25537,7 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('174','4','Armand Borel')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('174','4','Nolan R. Wallach')
+('174','4','V. Sucharita')
 ;
 
 Insert into Author
@@ -25255,61 +25555,37 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('177','4','V. Sucharita')
+('177','4','Stanford University. Department of Chemistry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('178','4','Edith O'Gorman Auffrey')
+('178','4','Stanford University. Department of Chemistry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('179','4','Edith O'Gorman Auffrey')
+('179','4','Stanford University. Department of Chemistry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('180','4','Edith O'Gorman Auffrey')
+('180','4','Edith OGorman Auffrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('181','4','Michelle R. Clayman')
+('181','4','Edith OGorman Auffrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('181','4','Martin S. Fridson')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('181','4','George H. Troughton')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('182','4','Michelle R. Clayman')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('182','4','Martin S. Fridson')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('182','4','George H. Troughton')
+('182','4','Edith OGorman Auffrey')
 ;
 
 Insert into Author
@@ -25333,13 +25609,19 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('184','4','Mark W. McElroy')
+('184','4','Michelle R. Clayman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('184','4','Jo van Engelen')
+('184','4','Martin S. Fridson')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('184','4','George H. Troughton')
 ;
 
 Insert into Author
@@ -25357,13 +25639,13 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('186','4','Mark W. McElroy')
+('186','4','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('186','4','Jo van Engelen')
+('186','4','Julius Stark')
 ;
 
 Insert into Author
@@ -25381,25 +25663,37 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('188','4','Bob Johnson')
+('188','4','Michael Schütze')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('188','4','Julius Stark')
+('188','4','Raul B. Rebak')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('189','4','Bob Johnson')
+('188','4','Roman Bender')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('189','4','Julius Stark')
+('189','4','Michael Schütze')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('189','4','Raul B. Rebak')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('189','4','Roman Bender')
 ;
 
 Insert into Author
@@ -25423,19 +25717,13 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('191','4','Michael Schütze')
+('191','4','Charlie Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('191','4','Raul B. Rebak')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('191','4','Roman Bender')
+('191','4','Joseph Loukas')
 ;
 
 Insert into Author
@@ -25489,31 +25777,25 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('196','4','Jack Johnson')
+('196','4','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('196','4','Bill Jackson')
+('196','4','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('197','4','Charlie Williams')
+('197','4','Carlo DeVito')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('197','4','Bill Stark')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('198','4','Carlo DeVito')
+('198','4','Franklin W. Dixon')
 ;
 
 Insert into Author
@@ -25531,19 +25813,19 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('201','4','Anthony Fischetti')
+('201','4','Akhtarhusein A. Tayebali')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('202','4','Anthony Fischetti')
+('202','4','Akhtarhusein A. Tayebali')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('203','4','Akhtarhusein A. Tayebali')
+('203','4','Robert W. Chambers')
 ;
 
 Insert into Author
@@ -25555,61 +25837,49 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('205','4','Robert W. Chambers')
+('205','4','A. Geis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('206','4','A. Geis')
+('205','4','L. Brock')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('206','4','L. Brock')
+('205','4','H. Mueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('206','4','H. Mueller')
+('206','4','University of California (System)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('207','4','A. Geis')
+('207','4','University of California (System)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('207','4','L. Brock')
+('208','4','Kenny R. Burck')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('207','4','H. Mueller')
+('209','4','Kenny R. Burck')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('208','4','Charles Overton Handley')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('209','4','Will C. Pirkle')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('210','4','Will C. Pirkle')
+('210','4','Kenny R. Burck')
 ;
 
 Insert into Author
@@ -25621,19 +25891,7 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('212','4','Kenneth Weingarten')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('212','4','Jacklyn E. Hungerland')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('212','4','Mark F. Brennan')
+('212','4','Will C. Pirkle')
 ;
 
 Insert into Author
@@ -25675,19 +25933,19 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('215','4','N. J. McMillan')
+('215','4','Kenneth Weingarten')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('215','4','Ashton F. Embry')
+('215','4','Jacklyn E. Hungerland')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('215','4','Donald J. Glass')
+('215','4','Mark F. Brennan')
 ;
 
 Insert into Author
@@ -25729,133 +25987,151 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('218','4','Inez Robb')
+('218','4','N. J. McMillan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('219','4','Inez Robb')
+('218','4','Ashton F. Embry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('220','4','Scott E. Spradlin')
+('218','4','Donald J. Glass')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('221','4','Scott E. Spradlin')
+('219','4','Betsy Sholl')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('222','4','Alice Williams')
+('220','4','Betsy Sholl')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('222','4','Borat Stark')
+('221','4','Betsy Sholl')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('223','4','Alice Williams')
+('222','4','Graeme P. Maxton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('223','4','Borat Stark')
+('222','4','John Wormald')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('224','4','Persi Diaconis')
+('223','4','Graeme P. Maxton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('225','4','George Kish')
+('223','4','John Wormald')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('226','4','Paul Hoang')
+('224','4','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('226','4','Margaret Ducie')
+('224','4','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('227','4','June Alexander')
+('225','4','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('227','4','Cate Sangster')
+('225','4','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('228','4','June Alexander')
+('226','4','Persi Diaconis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('228','4','Cate Sangster')
+('227','4','Persi Diaconis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('229','4','June Alexander')
+('228','4','Persi Diaconis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('229','4','Cate Sangster')
+('229','4','George Kish')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('230','4','Jerome G. Delaney')
+('230','4','George Kish')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('231','4','Jerome G. Delaney')
+('231','4','Paul Hoang')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('232','4','Columbia University. Teachers College. International Institute')
+('231','4','Margaret Ducie')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('233','4','Columbia University. Teachers College. International Institute')
+('232','4','Paul Hoang')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('232','4','Margaret Ducie')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('233','4','June Alexander')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('233','4','Cate Sangster')
 ;
 
 Insert into Author
@@ -25867,7 +26143,7 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('235','4','Harry. H. Chaudhary.')
+('235','4','Columbia University. Teachers College. International Institute')
 ;
 
 Insert into Author
@@ -25879,4453 +26155,4387 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('237','4','Delwin R. Croom')
+('237','4','Harry. H. Chaudhary.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('238','4','Michael Lloyd Reese')
+('238','4','Harry. H. Chaudhary.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('239','4','Michael Lloyd Reese')
+('239','4','Bryan P. Stone')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('240','4','John Leo Moore')
+('240','4','Bryan P. Stone')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('241','4','John Leo Moore')
+('241','4','Bryan P. Stone')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('242','4','John Leo Moore')
+('242','4','Michael Lloyd Reese')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('243','4','Donald A. Drum')
+('243','4','Michael Lloyd Reese')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('244','4','Charlie Williams')
+('244','4','John Leo Moore')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('244','4','Julius Loukas')
+('245','4','John Leo Moore')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('245','4','Charlie Williams')
+('246','4','Donald A. Drum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('245','4','Julius Loukas')
+('247','4','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('246','4','Charlie Williams')
+('247','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('246','4','Julius Loukas')
+('248','4','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('247','4','Robert K. Kaufmann')
+('248','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('247','4','Cutler J. Cleveland')
+('249','4','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('248','4','Robert K. Kaufmann')
+('249','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('248','4','Cutler J. Cleveland')
+('250','4','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('249','4','Robert K. Kaufmann')
+('250','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('249','4','Cutler J. Cleveland')
+('251','4','Robert K. Kaufmann')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('250','4','H. Scott Fogler')
+('251','4','Cutler J. Cleveland')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('251','4','Daniel Kehlmann')
+('252','4','Robert K. Kaufmann')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('252','4','Peter E. Davies')
+('252','4','Cutler J. Cleveland')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('253','4','Peter E. Davies')
+('253','4','Robert K. Kaufmann')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('254','4','Bob Johnson')
+('253','4','Cutler J. Cleveland')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('254','4','Julius Loukas')
+('254','4','H. Scott Fogler')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('255','4','Bob Johnson')
+('255','4','H. Scott Fogler')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('255','4','Julius Loukas')
+('256','4','H. Scott Fogler')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('256','4','Bob Johnson')
+('257','4','James H. Stronge')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('256','4','Julius Loukas')
+('258','4','Kurt Laue')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('257','4','James S. Eustice')
+('258','4','Helmut Stenger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('257','4','Joel D. Kuntz')
+('259','4','Daniel Kehlmann')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('258','4','Federation of American Societies for Experimental Biology')
+('260','4','Dan Bailey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('259','4','V. Alexander Stefan')
+('261','4','James S. Eustice')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('260','4','V. Alexander Stefan')
+('261','4','Joel D. Kuntz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('261','4','Alice Smith')
+('262','4','James S. Eustice')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('261','4','Borat Perry')
+('262','4','Joel D. Kuntz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('262','4','Sung W. Lee')
+('263','4','James S. Eustice')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('262','4','Peter W. Chung')
+('263','4','Joel D. Kuntz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('263','4','Sung W. Lee')
+('264','4','Federation of American Societies for Experimental Biology')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('263','4','Peter W. Chung')
+('265','4','V. Alexander Stefan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('264','4','Raymond Chapman')
+('266','4','V. Alexander Stefan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('265','4','Trader X')
+('267','4','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('266','4','Trader X')
+('267','4','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('267','4','Trader X')
+('268','4','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('268','4','Trader X')
+('268','4','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('269','4','Trader X')
+('269','4','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('270','4','Alice Smith')
+('269','4','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('270','4','Bill Stark')
+('270','4','Margaret L. Lial')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('271','4','Alice Smith')
+('270','4','Raymond N. Greenwell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('271','4','Bill Stark')
+('270','4','Nathan P. Ritchey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('272','4','Alice Smith')
+('271','4','Margaret L. Lial')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('272','4','Bill Stark')
+('271','4','Raymond N. Greenwell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('273','4','Charlie Johnson')
+('271','4','Nathan P. Ritchey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('273','4','Bill Stark')
+('272','4','Margaret L. Lial')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('274','4','Charlie Johnson')
+('272','4','Raymond N. Greenwell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('274','4','Bill Stark')
+('272','4','Nathan P. Ritchey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('275','4','Helen Dillon')
+('273','4','Raymond Chapman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('276','4','Helen Dillon')
+('274','4','Raymond Chapman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('277','4','Brian O'Connell')
+('275','4','Raymond Chapman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('278','4','Brian O'Connell')
+('276','4','John E. Halver')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('279','4','Brian O'Connell')
+('276','4','Ronald W. Hardy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('280','4','Adam Mansbach')
+('277','4','John E. Halver')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('281','4','Forrest C. Pogue')
+('277','4','Ronald W. Hardy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('282','4','Ira A. Glazier')
+('278','4','John E. Halver')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('282','4','Percy William Filby')
+('278','4','Ronald W. Hardy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('283','4','Susan O'Brien')
+('279','4','R. E. Kendel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('284','4','Susan O'Brien')
+('280','4','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('285','4','Flannery O'Connor')
+('281','4','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('286','4','Flannery O'Connor')
+('282','4','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('287','4','Barbara F Campbell, MDIV, Dmin')
+('283','4','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('287','4','Barbara F. Campbell')
+('284','4','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('287','4','James P. Campbell')
+('285','4','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('288','4','Barbara F Campbell, MDIV, Dmin')
+('286','4','Douglas F Morgan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('288','4','Barbara F. Campbell')
+('286','4','Taylor & Francis Group')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('288','4','James P. Campbell')
+('286','4','Richard T Green')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('289','4','Barbara F Campbell, MDIV, Dmin')
+('286','4','Craig W Shinn')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('289','4','Barbara F. Campbell')
+('286','4','Kent S Robinson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('289','4','James P. Campbell')
+('286','4','Margaret E Banyan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('290','4','Philip Carabott')
+('287','4','Richard C. Holt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('291','4','Eric Lionel Jones')
+('287','4','J. N. P. Hume')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('292','4','Eric Lionel Jones')
+('288','4','Thomas J. Delia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('293','4','A. Mital')
+('289','4','Thomas J. Delia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('294','4','Anthony Marra')
+('290','4','Thomas J. Delia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('295','4','Αλέξανδρος Δουμάς (υιός)')
+('291','4','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('296','4','Αλέξανδρος Δουμάς (υιός)')
+('291','4','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('297','4','A.S.A. Harrison')
+('292','4','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('298','4','A.S.A. Harrison')
+('292','4','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('299','4','Jack Jones')
+('293','4','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('299','4','Bill Jackson')
+('293','4','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('300','4','Jack Jones')
+('294','4','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('300','4','Bill Jackson')
+('294','4','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('301','4','Pat Chin')
+('295','4','Helen Dillon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('301','4','Greg Dunkel')
+('296','4','Helen Dillon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('301','4','Sara Flounders')
+('297','4','Loucas G. Christophorou')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('301','4','Kim Ives')
+('297','4','D.R. James')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('302','4','Pat Chin')
+('298','4','Elwood Watson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('302','4','Greg Dunkel')
+('299','4','Elwood Watson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('302','4','Sara Flounders')
+('300','4','Adam Mansbach')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('302','4','Kim Ives')
+('301','4','Adam Mansbach')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('303','4','Pat Chin')
+('302','4','Adam Mansbach')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('303','4','Greg Dunkel')
+('303','4','Vojtěch Janoušek')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('303','4','Sara Flounders')
+('303','4','Jean-François Moyen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('303','4','Kim Ives')
+('303','4','Hervé Martin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('304','4','W Samlet Williams')
+('303','4','Vojtěch Erban')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('305','4','W Samlet Williams')
+('303','4','Colin Farrow')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('306','4','W Samlet Williams')
+('304','4','Vojtěch Janoušek')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('307','4','Robert J. Mayhew')
+('304','4','Jean-François Moyen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('308','4','Robert J. Mayhew')
+('304','4','Hervé Martin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('309','4','Charlie Smith')
+('304','4','Vojtěch Erban')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('309','4','Joseph Perry')
+('304','4','Colin Farrow')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('310','4','Richard H. Turner')
+('305','4','Forrest C. Pogue')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('311','4','Norman K. Denzin')
+('306','4','Flannery OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('312','4','Norman K. Denzin')
+('307','4','Barbara F Campbell, MDIV, Dmin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('313','4','Bob Williams')
+('307','4','Barbara F. Campbell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('313','4','Bill Loukas')
+('307','4','James P. Campbell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('314','4','Bob Williams')
+('308','4','Barbara F Campbell, MDIV, Dmin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('314','4','Bill Loukas')
+('308','4','Barbara F. Campbell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('315','4','Bob Williams')
+('308','4','James P. Campbell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('315','4','Bill Loukas')
+('309','4','Philip Carabott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('316','4','Arthur Henry Robertson')
+('310','4','Philip Carabott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('317','4','Arthur Henry Robertson')
+('311','4','A. Mital')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('318','4','Charlie Johnson')
+('312','4','Anthony Marra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('318','4','Borat Stark')
+('313','4','Anthony Marra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('319','4','I Love Darin Publishing')
+('314','4','Anthony Marra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('320','4','I Love Darin Publishing')
+('315','4','Αλέξανδρος Δουμάς (υιός)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('321','4','I Love Darin Publishing')
+('316','4','A.S.A. Harrison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('322','4','Donna Albrecht')
+('317','4','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('323','4','Donna Albrecht')
+('317','4','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('324','4','Donna Albrecht')
+('318','4','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('325','4','Deanne Panday')
+('318','4','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('326','4','Deanne Panday')
+('319','4','Pat Chin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('327','4','Deanne Panday')
+('319','4','Greg Dunkel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('328','4','Tim Price')
+('319','4','Sara Flounders')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('329','4','Prakash Mishra')
+('319','4','Kim Ives')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('330','4','Ammonius')
+('320','4','Pat Chin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('331','4','Michael T. Henry')
+('320','4','Greg Dunkel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('332','4','Alice Williams')
+('320','4','Sara Flounders')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('332','4','Julius Stark')
+('320','4','Kim Ives')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('333','4','Alice Williams')
+('321','4','Pat Chin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('333','4','Julius Stark')
+('321','4','Greg Dunkel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('334','4','R. Bruce Hull')
+('321','4','Sara Flounders')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('335','4','R. Bruce Hull')
+('321','4','Kim Ives')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('336','4','R. Bruce Hull')
+('322','4','Lawrence A. Trissel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('337','4','Benjamin Millis')
+('323','4','W Samlet Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('337','4','Douglas Olson')
+('324','4','W Samlet Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('338','4','Benjamin Millis')
+('325','4','W Samlet Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('338','4','Douglas Olson')
+('326','4','Robert J. Mayhew')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('339','4','Redmond O'Hanlon')
+('327','4','Robert J. Mayhew')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('340','4','Christian Robert')
+('328','4','Robert J. Mayhew')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('340','4','George Casella')
+('329','4','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('341','4','Christian Robert')
+('329','4','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('341','4','George Casella')
+('330','4','Richard H. Turner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('342','4','Christian Robert')
+('331','4','Richard H. Turner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('342','4','George Casella')
+('332','4','Richard H. Turner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('343','4','Manfred Stoll')
+('333','4','James L. Hirsen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('344','4','Lev Ėrnestovich Ėlʹsgolʹt︠s︡')
+('334','4','James L. Hirsen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('345','4','Lev Ėrnestovich Ėlʹsgolʹt︠s︡')
+('335','4','Norman K. Denzin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('346','4','United States. Warren Commission')
+('336','4','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('347','4','United States. Warren Commission')
+('336','4','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('348','4','Philip Attwood')
+('337','4','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('349','4','Philip Attwood')
+('337','4','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('350','4','Philip Attwood')
+('338','4','Dominic OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('351','4','Eamonn Dunne')
+('339','4','Bernell Coleman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('352','4','Roshen Dalal')
+('339','4','James W. M. Fletcher')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('353','4','Roshen Dalal')
+('339','4','Hubert F. Bonfili')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('354','4','Christopher W. Hughes')
+('340','4','Bernell Coleman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('355','4','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
+('340','4','James W. M. Fletcher')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('356','4','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
+('340','4','Hubert F. Bonfili')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('357','4','János Xántus')
+('341','4','Bernell Coleman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('357','4','Ann Zwinger')
+('341','4','James W. M. Fletcher')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('358','4','János Xántus')
+('341','4','Hubert F. Bonfili')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('358','4','Ann Zwinger')
+('342','4','Arthur Henry Robertson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('359','4','Washington (State). Legislature')
+('343','4','Arthur Henry Robertson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('360','4','Washington (State). Legislature')
+('344','4','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('361','4','Royal Australian Historical Society')
+('344','4','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('362','4','Elisha Mitchell Scientific Society (Chapel Hill, N.C.)')
+('345','4','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('363','4','Elisha Mitchell Scientific Society (Chapel Hill, N.C.)')
+('345','4','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('364','4','Rex Chandrabose')
+('346','4','Norma McCorvey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('365','4','Rex Chandrabose')
+('347','4','Norma McCorvey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('366','4','Michael Atiyah')
+('348','4','Overseas Press Club of America')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('367','4','Michael Atiyah')
+('349','4','Overseas Press Club of America')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('368','4','Michael Atiyah')
+('350','4','Donna Albrecht')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('369','4','Bob Williams')
+('351','4','Donna Albrecht')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('369','4','Borat Perry')
+('352','4','Donna Albrecht')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('370','4','Bob Williams')
+('353','4','Tim Price')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('370','4','Borat Perry')
+('354','4','Prakash Mishra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('371','4','Bob Williams')
+('355','4','Ammonius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('371','4','Borat Perry')
+('356','4','R. Bruce Hull')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('372','4','Bob Smith')
+('357','4','R. Bruce Hull')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('372','4','Julius Loukas')
+('358','4','Benjamin Millis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('373','4','Bob Smith')
+('358','4','Douglas Olson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('373','4','Julius Loukas')
+('359','4','Benjamin Millis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('374','4','Bob Smith')
+('359','4','Douglas Olson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('374','4','Julius Loukas')
+('360','4','Angela E. Douglas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('375','4','Gordon Williamson')
+('361','4','Angela E. Douglas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('376','4','Jack Smith')
+('362','4','Syed V. Ahamed')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('376','4','Julius Perry')
+('363','4','Syed V. Ahamed')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('377','4','Michael Dore')
+('364','4','Fatma Adam ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('378','4','Jack Johnson')
+('364','4','Nasruddin Hassan ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('378','4','Joseph Loukas')
+('365','4','Fatma Adam ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('379','4','Dave Taylor')
+('365','4','Nasruddin Hassan ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('379','4','Brian Jepson')
+('366','4','Redmond OHanlon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('380','4','Dave Taylor')
+('367','4','Redmond OHanlon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('380','4','Brian Jepson')
+('368','4','Christian Robert')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('381','4','Manon P. Charbonneau')
+('368','4','George Casella')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('382','4','Manon P. Charbonneau')
+('369','4','Christian Robert')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('383','4','Melvil Dewey')
+('369','4','George Casella')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('383','4','Richard Rogers Bowker')
+('370','4','Manfred Stoll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('383','4','L. Pylodet')
+('371','4','Manfred Stoll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('383','4','Charles Ammi Cutter')
+('372','4','Manfred Stoll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('383','4','Bertine Emma Weston')
+('373','4','Lev Ėrnestovich Ėlʹsgolʹt︠s︡')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('383','4','Karl Brown')
+('374','4','Lev Ėrnestovich Ėlʹsgolʹt︠s︡')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('383','4','Helen E. Wessells')
+('375','4','Lev Ėrnestovich Ėlʹsgolʹt︠s︡')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('384','4','Melvil Dewey')
+('376','4','United States. Warren Commission')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('384','4','Richard Rogers Bowker')
+('377','4','Philip Attwood')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('384','4','L. Pylodet')
+('378','4','Philip Attwood')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('384','4','Charles Ammi Cutter')
+('379','4','Eamonn Dunne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('384','4','Bertine Emma Weston')
+('380','4','Eamonn Dunne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('384','4','Karl Brown')
+('381','4','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('384','4','Helen E. Wessells')
+('382','4','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('385','4','Library of Congress')
+('383','4','James Clark Sherburne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('386','4','Herodotus')
+('384','4','James Clark Sherburne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('387','4','Herodotus')
+('385','4','James Clark Sherburne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('388','4','Geoffrey K. Pullum')
+('386','4','Washington (State). Legislature')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('389','4','Geoffrey K. Pullum')
+('387','4','Washington (State). Legislature')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('390','4','Connie Campbell Dierking')
+('388','4','Royal Australian Historical Society')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('391','4','Shirley O'Neil')
+('389','4','Royal Australian Historical Society')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('392','4','Suresh K. Sharma')
+('390','4','Royal Australian Historical Society')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('393','4','Wendell V. Harris')
+('391','4','Elisha Mitchell Scientific Society (Chapel Hill, N.C.)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('394','4','Wendell V. Harris')
+('392','4','Rex Chandrabose')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('395','4','Wendell V. Harris')
+('393','4','Rex Chandrabose')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('396','4','Sally L. Lagerquist')
+('394','4','Bill Jacob')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('397','4','Sally L. Lagerquist')
+('395','4','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('398','4','Sally L. Lagerquist')
+('395','4','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('399','4','W. Stannard Allen')
+('396','4','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('400','4','Richard Walters')
+('396','4','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('401','4','Lárus Thorlacius')
+('397','4','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('401','4','Thordur Jonsson')
+('397','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('402','4','Lárus Thorlacius')
+('398','4','Gordon Williamson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('402','4','Thordur Jonsson')
+('399','4','Gordon Williamson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('403','4','Lárus Thorlacius')
+('400','4','Manon P. Charbonneau')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('403','4','Thordur Jonsson')
+('401','4','Manon P. Charbonneau')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('404','4','Renate Wiehager')
+('402','4','Manon P. Charbonneau')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('405','4','Renate Wiehager')
+('403','4','Library of Congress')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('406','4','Samuel A. Litt')
+('404','4','Herodotus')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('407','4','Samuel A. Litt')
+('405','4','Herodotus')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('408','4','John Whicher')
+('406','4','Herodotus')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('409','4','J Brennan')
+('407','4','Geoffrey K. Pullum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('410','4','J Brennan')
+('408','4','Geoffrey K. Pullum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('411','4','J Brennan')
+('409','4','Geoffrey K. Pullum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('412','4','Henry Martyn Cundy')
+('410','4','Shirley ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('412','4','A. P. Rollett')
+('411','4','Shirley ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('413','4','Henry Martyn Cundy')
+('412','4','Suresh K. Sharma')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('413','4','A. P. Rollett')
+('413','4','Sally L. Lagerquist')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('414','4','Société mathématique de France')
+('414','4','Sally L. Lagerquist')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('415','4','Société mathématique de France')
+('415','4','Sally L. Lagerquist')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('416','4','Kevin Corcoran')
+('416','4','W. Stannard Allen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('416','4','Joel Fischer')
+('417','4','W. Stannard Allen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('417','4','University of South Africa')
+('418','4','W. Stannard Allen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('418','4','University of South Africa')
+('419','4','Daniel ODonnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('419','4','University of South Africa')
+('420','4','Daniel ODonnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('420','4','Monica L. Woodard')
+('421','4','Daniel ODonnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('421','4','Monica L. Woodard')
+('422','4','Richard Walters')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('422','4','Gary B. Shelly')
+('423','4','Richard Walters')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('422','4','Thomas J. Cashman')
+('424','4','Richard Walters')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('422','4','Misty Vermaat')
+('425','4','Mohamed Ally')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('423','4','Katie Layman')
+('425','4','Gill Needham')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('423','4','LaVaughn Hart')
+('426','4','Lárus Thorlacius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('424','4','Katie Layman')
+('426','4','Thordur Jonsson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('424','4','LaVaughn Hart')
+('427','4','Lárus Thorlacius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('425','4','Philip P. Betancourt')
+('427','4','Thordur Jonsson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('425','4','Kōstēs Davaras')
+('428','4','Renate Wiehager')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('426','4','Philip P. Betancourt')
+('429','4','Renate Wiehager')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('426','4','Kōstēs Davaras')
+('430','4','Samuel A. Litt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('427','4','Philip P. Betancourt')
+('431','4','Samuel A. Litt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('427','4','Kōstēs Davaras')
+('432','4','Samuel A. Litt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('428','4','Temitope W Oshikoya')
+('433','4','Adrian Phillips')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('429','4','India (Republic). Dept. of Commercial Intelligence and Statistics')
+('434','4','Adrian Phillips')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('430','4','India (Republic). Dept. of Commercial Intelligence and Statistics')
+('435','4','Jack J. Phillips')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('431','4','India (Republic). Dept. of Commercial Intelligence and Statistics')
+('435','4','Lisa Edwards')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('432','4','Charlie Johnson')
+('436','4','Jack J. Phillips')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('432','4','Borat Stark')
+('436','4','Lisa Edwards')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('433','4','Peggy O'Mara')
+('437','4','John Whicher')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('434','4','Peggy O'Mara')
+('438','4','John Whicher')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('435','4','Peggy O'Mara')
+('439','4','John Whicher')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('436','4','Charles O'Brien')
+('440','4','Henry Martyn Cundy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('437','4','Charles O'Brien')
+('440','4','A. P. Rollett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('438','4','Allan Bérubé')
+('441','4','Société mathématique de France')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('439','4','Susan, K. Johnsen')
+('442','4','University of South Africa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('439','4','Debbie Dailey')
+('443','4','University of South Africa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('439','4','Alicia Cotabish')
+('444','4','University of South Africa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('440','4','Laurell K. Hamilton')
+('445','4','Wisconsin. Governor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('441','4','Organisation for Economic Co-operation and Development')
+('446','4','Guido Schwarzer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('442','4','Bob Smith')
+('446','4','James R. Carpenter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('442','4','Joseph Loukas')
+('446','4','Gerta Rücker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('443','4','Bob Smith')
+('447','4','Guido Schwarzer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('443','4','Joseph Loukas')
+('447','4','James R. Carpenter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('444','4','Bob Smith')
+('447','4','Gerta Rücker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('444','4','Joseph Loukas')
+('448','4','Guido Schwarzer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('445','4','Charlie Smith')
+('448','4','James R. Carpenter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('445','4','Joseph Jackson')
+('448','4','Gerta Rücker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('446','4','Charlie Smith')
+('449','4','Monica L. Woodard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('446','4','Joseph Jackson')
+('450','4','Monica L. Woodard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('447','4','K. Thirusangu')
+('451','4','Monica L. Woodard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('447','4','S. Poornavel')
+('452','4','Gary B. Shelly')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('447','4','R. Vasuki')
+('452','4','Thomas J. Cashman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('448','4','K. Thirusangu')
+('452','4','Misty Vermaat')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('448','4','S. Poornavel')
+('453','4','Katie Layman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('448','4','R. Vasuki')
+('453','4','LaVaughn Hart')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('449','4','K. Thirusangu')
+('454','4','Katie Layman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('449','4','S. Poornavel')
+('454','4','LaVaughn Hart')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('449','4','R. Vasuki')
+('455','4','Philip P. Betancourt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('450','4','Andrew L Sihler')
+('455','4','Kōstēs Davaras')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('451','4','New South Wales. Supreme Court')
+('456','4','Philip P. Betancourt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('452','4','New South Wales. Supreme Court')
+('456','4','Kōstēs Davaras')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('453','4','New South Wales. Supreme Court')
+('457','4','Temitope W Oshikoya')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('454','4','Bob Johnson')
+('458','4','Temitope W Oshikoya')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('454','4','Borat Loukas')
+('459','4','Temitope W Oshikoya')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('455','4','Bob Johnson')
+('460','4','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('455','4','Borat Loukas')
+('460','4','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('456','4','Bob Johnson')
+('461','4','Peggy OMara')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('456','4','Borat Loukas')
+('462','4','Peggy OMara')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('457','4','Ana Katrin Schenk')
+('463','4','Charles OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('458','4','Ana Katrin Schenk')
+('464','4','Charles OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('459','4','Ana Katrin Schenk')
+('465','4','Charles OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('460','4','Rooi Books')
+('466','4','Susan, K. Johnsen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('461','4','M. M. Stuckey')
+('466','4','Debbie Dailey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('461','4','L. L. Layton')
+('466','4','Alicia Cotabish')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('462','4','M. M. Stuckey')
+('467','4','Susan, K. Johnsen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('462','4','L. L. Layton')
+('467','4','Debbie Dailey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('463','4','M. M. Stuckey')
+('467','4','Alicia Cotabish')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('463','4','L. L. Layton')
+('468','4','Laurell K. Hamilton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('464','4','Λέων Τολστόι')
+('469','4','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('465','4','Λέων Τολστόι')
+('469','4','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('466','4','Λέων Τολστόι')
+('470','4','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('467','4','OECD')
+('470','4','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('468','4','OECD')
+('471','4','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('469','4','Harrison H. Sheld')
+('471','4','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('470','4','Harrison H. Sheld')
+('472','4','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('471','4','Harrison H. Sheld')
+('472','4','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('472','4','Helmut Greim')
+('473','4','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('473','4','Helmut Greim')
+('473','4','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('474','4','Guy R. Lefrançois')
+('474','4','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('475','4','Bob Jones')
+('474','4','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('475','4','Borat Perry')
+('475','4','Andrew L Sihler')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('476','4','Elizabeth Doherty Herzfeld')
+('476','4','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('477','4','Charlie Johnson')
+('476','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('477','4','Julius Perry')
+('477','4','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('478','4','Andreas Vesalius')
+('477','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('478','4','William Frank Richardson')
+('478','4','Grant Morrison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('478','4','John Burd Carman')
+('479','4','Grant Morrison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('479','4','Andreas Vesalius')
+('480','4','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('479','4','William Frank Richardson')
+('480','4','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('479','4','John Burd Carman')
+('481','4','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('480','4','Andreas Vesalius')
+('481','4','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('480','4','William Frank Richardson')
+('482','4','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('480','4','John Burd Carman')
+('482','4','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('481','4','David Chudnovsky')
+('483','4','Rooi Books')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('482','4','David Chudnovsky')
+('484','4','Laurene V. Fausett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('483','4','Tatiana V. Akhutina')
+('485','4','Laurene V. Fausett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('483','4','Natalia M. Pylaeva')
+('486','4','Z. Z. Rox Orpo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('484','4','Tatiana V. Akhutina')
+('487','4','Z. Z. Rox Orpo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('484','4','Natalia M. Pylaeva')
+('488','4','Z. Z. Rox Orpo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('485','4','Tatiana V. Akhutina')
+('489','4','OECD')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('485','4','Natalia M. Pylaeva')
+('490','4','OECD')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('486','4','Charlie Williams')
+('491','4','OECD')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('486','4','Julius Perry')
+('492','4','Helmut Greim')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('487','4','Charlie Williams')
+('493','4','Helmut Greim')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('487','4','Julius Perry')
+('494','4','Helmut Greim')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('488','4','Charlie Williams')
+('495','4','Guy R. Lefrançois')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('488','4','Julius Perry')
+('496','4','Guy R. Lefrançois')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('489','4','K.-W. Gaede')
+('497','4','Elizabeth Doherty Herzfeld')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('489','4','D.B. Pressmar')
+('498','4','Elizabeth Doherty Herzfeld')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('489','4','Ch. Schneeweiß')
+('499','4','Andreas Vesalius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('489','4','K.-P. Schuster')
+('499','4','William Frank Richardson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('489','4','O. Seifert')
+('499','4','John Burd Carman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('490','4','K.-W. Gaede')
+('500','4','Laird C. Kirkpatrick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('490','4','D.B. Pressmar')
+('501','4','Laird C. Kirkpatrick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('490','4','Ch. Schneeweiß')
+('502','4','Laird C. Kirkpatrick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('490','4','K.-P. Schuster')
+('503','4','Tatiana V. Akhutina')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('490','4','O. Seifert')
+('503','4','Natalia M. Pylaeva')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('491','4','Nian-Feng Tzeng')
+('504','4','Tatiana V. Akhutina')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('492','4','Alice Williams')
+('504','4','Natalia M. Pylaeva')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('492','4','Bill Perry')
+('505','4','A. Schrijver')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('493','4','David K. Lewis')
+('506','4','Nian-Feng Tzeng')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('494','4','David K. Lewis')
+('507','4','Nian-Feng Tzeng')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('495','4','Dominic J. O'Meara')
+('508','4','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('496','4','Gavin O'Toole')
+('508','4','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('497','4','Gavin O'Toole')
+('509','4','David K. Lewis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('498','4','Charlie Smith')
+('510','4','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('498','4','Borat Perry')
+('510','4','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('499','4','Charlie Smith')
+('511','4','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('499','4','Borat Perry')
+('511','4','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('500','4','Alice Johnson')
+('512','4','Gavin OToole')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('500','4','Borat Loukas')
+('513','4','Gavin OToole')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('501','4','Alice Johnson')
+('514','4','Gavin OToole')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('501','4','Borat Loukas')
+('515','4','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('502','4','Alice Johnson')
+('515','4','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('502','4','Borat Loukas')
+('516','4','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('503','4','Bob Smith')
+('516','4','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('503','4','Julius Perry')
+('517','4','S. Mahmood Naqvi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('504','4','Bob Smith')
+('517','4','John James William Rogers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('504','4','Julius Perry')
+('518','4','Jashwant B. Mehta')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('505','4','Bob Smith')
+('519','4','Jashwant B. Mehta')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('505','4','Julius Perry')
+('520','4','Jashwant B. Mehta')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('506','4','S. Mahmood Naqvi')
+('521','4','Fred Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('506','4','John James William Rogers')
+('522','4','Fred Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('507','4','Jashwant B. Mehta')
+('523','4','Fred Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('508','4','Fred Williams')
+('524','4','Eugene F. Scoles')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('509','4','Fred Williams')
+('525','4','Eugene F. Scoles')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('510','4','Eugene F. Scoles')
+('526','4','Institution of Mechanical Engineers (Great Britain)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('511','4','Eugene F. Scoles')
+('527','4','Institution of Mechanical Engineers (Great Britain)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('512','4','Eugene F. Scoles')
+('528','4','Royal Irish Academy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('513','4','Institution of Mechanical Engineers (Great Britain)')
+('529','4','Royal Irish Academy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('514','4','Institution of Mechanical Engineers (Great Britain)')
+('530','4','Royal Irish Academy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('515','4','Institution of Mechanical Engineers (Great Britain)')
+('531','4','Ashok N. Kamthane')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('516','4','Royal Irish Academy')
+('532','4','Ashok N. Kamthane')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('517','4','Ashok N. Kamthane')
+('533','4','Ashok N. Kamthane')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('518','4','Ashok N. Kamthane')
+('534','4','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('519','4','Jack Smith')
+('534','4','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('519','4','Julius Stark')
+('535','4','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('520','4','Jack Smith')
+('535','4','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('520','4','Julius Stark')
+('536','4','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('521','4','Jack Smith')
+('536','4','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('521','4','Julius Stark')
+('537','4','Ana Castillo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('522','4','Ana Castillo')
+('538','4','Shawn Carruth')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('523','4','Michigan')
+('538','4','Albrecht Garsky')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('524','4','Michigan')
+('539','4','Shawn Carruth')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('525','4','Steven R. Johnson')
+('539','4','Albrecht Garsky')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('526','4','Jim C. Williams')
+('540','4','Shawn Carruth')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('526','4','Herbert A. Thompson')
+('540','4','Albrecht Garsky')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('527','4','Jim C. Williams')
+('541','4','Steven R. Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('527','4','Herbert A. Thompson')
+('542','4','Steven R. Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('528','4','Jim C. Williams')
+('543','4','Steven R. Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('528','4','Herbert A. Thompson')
+('544','4','Jim C. Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('529','4','Brian J. Mitchell')
+('544','4','Herbert A. Thompson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('529','4','Barbara Romanowicz')
+('545','4','Jim C. Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('530','4','Wei Li')
+('545','4','Herbert A. Thompson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('530','4','Yuefei Sui')
+('546','4','Brian J. Mitchell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('531','4','Wei Li')
+('546','4','Barbara Romanowicz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('531','4','Yuefei Sui')
+('547','4','Brian J. Mitchell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('532','4','Wei Li')
+('547','4','Barbara Romanowicz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('532','4','Yuefei Sui')
+('548','4','David Gerbing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('533','4','Ruth Weltmann Begun')
+('549','4','David Gerbing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('534','4','Ruth Weltmann Begun')
+('550','4','David Gerbing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('535','4','Ruth Weltmann Begun')
+('551','4','Wei Li')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('536','4','Murray L. Weidenbaum')
+('551','4','Yuefei Sui')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('537','4','Murray L. Weidenbaum')
+('552','4','Wei Li')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('538','4','Murray L. Weidenbaum')
+('552','4','Yuefei Sui')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('539','4','William H. Pivar')
+('553','4','Susa Condliffe')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('540','4','William H. Pivar')
+('554','4','Susa Condliffe')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('541','4','Unesco. General Conference')
+('555','4','Susa Condliffe')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('542','4','Peter Flipsen Jr.')
+('556','4','W. H. Andrews')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('543','4','Peter Flipsen Jr.')
+('557','4','W. H. Andrews')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('544','4','Alice Williams')
+('558','4','Ruth Weltmann Begun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('544','4','Julius Loukas')
+('559','4','Ruth Weltmann Begun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('545','4','Alice Williams')
+('560','4','Ruth Weltmann Begun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('545','4','Julius Loukas')
+('561','4','Murray L. Weidenbaum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('546','4','Denki Tsūshin Kenkyūjo (Japan)')
+('562','4','Murray L. Weidenbaum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('547','4','Denki Tsūshin Kenkyūjo (Japan)')
+('563','4','William H. Pivar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('548','4','Denki Tsūshin Kenkyūjo (Japan)')
+('564','4','Unesco. General Conference')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('549','4','Aeronautical Research Council (Great Britain)')
+('565','4','Mark F. Meier')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('550','4','Aeronautical Research Council (Great Britain)')
+('566','4','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('551','4','Aeronautical Research Council (Great Britain)')
+('566','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('552','4','Sunder Magun')
+('567','4','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('552','4','Canada. Industry Canada')
+('567','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('553','4','Sunder Magun')
+('568','4','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('553','4','Canada. Industry Canada')
+('568','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('554','4','Gerald O'Collins')
+('569','4','Denki Tsūshin Kenkyūjo (Japan)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('555','4','Brent M. Haddad')
+('570','4','Aeronautical Research Council (Great Britain)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('556','4','Robert W Jamison, CPA, PH.D.')
+('571','4','Aeronautical Research Council (Great Britain)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('557','4','Robert W Jamison, CPA, PH.D.')
+('572','4','Aeronautical Research Council (Great Britain)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('558','4','Leonid A. Bokut')
+('573','4','Sunder Magun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('558','4','Victor Latyshev')
+('573','4','Canada. Industry Canada')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('558','4','Ivan Shestakov')
+('574','4','Sunder Magun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('558','4','Efim Zelmanov')
+('574','4','Canada. Industry Canada')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('559','4','Emanuele Guglielmino')
+('575','4','Sunder Magun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('559','4','Tudor Sireteanu')
+('575','4','Canada. Industry Canada')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('559','4','Charles W. Stammers')
+('576','4','Gerald OCollins')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('559','4','Gheorghe Ghita')
+('577','4','Gerald OCollins')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('559','4','Marius Giuclea')
+('578','4','Brent M. Haddad')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('560','4','Canada. Parliament')
+('579','4','Brent M. Haddad')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('561','4','Canada. Parliament')
+('580','4','Noriichi Mano')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('562','4','Great Britain. Parliament. House of Lords')
+('580','4','Ikuma Hamada')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('563','4','Great Britain. Parliament. House of Lords')
+('580','4','Mahlon R. DeLong')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('564','4','Great Britain. Parliament. House of Lords')
+('581','4','Robert W Jamison, CPA, PH.D.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('565','4','Canada. Parliament')
+('582','4','Robert W Jamison, CPA, PH.D.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('566','4','J.G. Carter')
+('583','4','Robert W Jamison, CPA, PH.D.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('567','4','J.G. Carter')
+('584','4','Jean Chrysostome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('568','4','J.G. Carter')
+('585','4','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('569','4','Marco Battaglini')
+('585','4','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('569','4','Rebecca B. Morton')
+('586','4','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('569','4','Eleonora Patacchini')
+('586','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('570','4','Marco Battaglini')
+('587','4','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('570','4','Rebecca B. Morton')
+('587','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('570','4','Eleonora Patacchini')
+('588','4','Sean OCasey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('571','4','Vernon W. Ruttan')
+('589','4','Sean OCasey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('571','4','Regents Professor in the Department of Applied Economics and in the Department of Economics Vernon W Ruttan')
+('590','4','Sean OCasey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('572','4','Vernon W. Ruttan')
+('591','4','Leonid A. Bokut')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('572','4','Regents Professor in the Department of Applied Economics and in the Department of Economics Vernon W Ruttan')
+('591','4','Victor Latyshev')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('573','4','Charlie Johnson')
+('591','4','Ivan Shestakov')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('573','4','Julius Loukas')
+('591','4','Efim Zelmanov')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('574','4','Charlie Johnson')
+('592','4','Emanuele Guglielmino')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('574','4','Julius Loukas')
+('592','4','Tudor Sireteanu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('575','4','Charlie Johnson')
+('592','4','Charles W. Stammers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('575','4','Julius Loukas')
+('592','4','Gheorghe Ghita')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('576','4','Bob Smith')
+('592','4','Marius Giuclea')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('576','4','Bill Jackson')
+('593','4','Emanuele Guglielmino')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('577','4','Bruce J. Berne')
+('593','4','Tudor Sireteanu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('578','4','Jack Smith')
+('593','4','Charles W. Stammers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('578','4','Julius Perry')
+('593','4','Gheorghe Ghita')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('579','4','David B. Loeper')
+('593','4','Marius Giuclea')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('580','4','David B. Loeper')
+('594','4','Emanuele Guglielmino')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('581','4','David B. Loeper')
+('594','4','Tudor Sireteanu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('582','4','Stanford University. Thermosciences Division. Thermosciences Division')
+('594','4','Charles W. Stammers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('582','4','E. E. Bouchard')
+('594','4','Gheorghe Ghita')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('583','4','Richard F. Tomasson')
+('594','4','Marius Giuclea')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('584','4','Richard F. Tomasson')
+('595','4','Canada. Parliament')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('585','4','Susan McMurry')
+('596','4','Great Britain. Parliament. House of Lords')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('586','4','Susan McMurry')
+('597','4','Great Britain. Parliament. House of Lords')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('587','4','Susan McMurry')
+('598','4','Great Britain. Parliament. House of Lords')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('588','4','Something Extra')
+('599','4','Canada. Parliament')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('589','4','Something Extra')
+('600','4','J.G. Carter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('590','4','Christopher W. Carroll')
+('601','4','J.G. Carter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('591','4','Christopher W. Carroll')
+('602','4','Marco Battaglini')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('592','4','W. Longman')
+('602','4','Rebecca B. Morton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('593','4','W. Longman')
+('602','4','Eleonora Patacchini')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','4','W. Longman')
+('603','4','Marco Battaglini')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('595','4','Commerce Clearing House')
+('603','4','Rebecca B. Morton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('595','4','United States. Tax Court')
+('603','4','Eleonora Patacchini')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('596','4','Commerce Clearing House')
+('604','4','Vernon W. Ruttan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('596','4','United States. Tax Court')
+('604','4','Regents Professor in the Department of Applied Economics and in the Department of Economics Vernon W Ruttan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('597','4','Commerce Clearing House')
+('605','4','Vernon W. Ruttan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('597','4','United States. Tax Court')
+('605','4','Regents Professor in the Department of Applied Economics and in the Department of Economics Vernon W Ruttan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('598','4','Vito Tanzi')
+('606','4','Vernon W. Ruttan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('598','4','Barry Bracewell-Milnes')
+('606','4','Regents Professor in the Department of Applied Economics and in the Department of Economics Vernon W Ruttan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('598','4','David Roderic Myddelton')
+('607','4','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('599','4','Vito Tanzi')
+('607','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('599','4','Barry Bracewell-Milnes')
+('608','4','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('599','4','David Roderic Myddelton')
+('608','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('600','4','Pennsylvania State University. Mineral Industries Experiment Station')
+('609','4','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('601','4','Pennsylvania State University. Mineral Industries Experiment Station')
+('609','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('602','4','Thomas Hardy')
+('610','4','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('603','4','Alice Johnson')
+('610','4','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('603','4','Joseph Loukas')
+('611','4','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('604','4','Timothy S Good')
+('611','4','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('605','4','Timothy S Good')
+('612','4','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('606','4','Timothy S Good')
+('612','4','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('607','4','Charlie Smith')
+('613','4','Bruce J. Berne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('607','4','Julius Stark')
+('614','4','Bruce J. Berne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('608','4','Charlie Smith')
+('615','4','New Zealand. Customs Department')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('608','4','Julius Stark')
+('616','4','New Zealand. Customs Department')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('609','4','Charlie Smith')
+('617','4','David B. Loeper')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('609','4','Julius Stark')
+('618','4','Stanford University. Thermosciences Division. Thermosciences Division')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('610','4','Eberhard König')
+('618','4','E. E. Bouchard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('611','4','Eberhard König')
+('619','4','Richard F. Tomasson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('612','4','Frank O'Connor')
+('620','4','Richard F. Tomasson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('613','4','Frank O'Connor')
+('621','4','Richard F. Tomasson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('614','4','Stephen R. Kellert')
+('622','4','Frederick H. Soon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('614','4','Edward O. Wilson')
+('623','4','Frederick H. Soon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('615','4','L. Frank Baum')
+('624','4','Frederick H. Soon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('616','4','L. Frank Baum')
+('625','4','Gian-Carlo Rota')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('617','4','Hugh Oakley')
+('626','4','Gian-Carlo Rota')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('618','4','Jack Johnson')
+('627','4','Gian-Carlo Rota')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('618','4','Joseph Stark')
+('628','4','Something Extra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('619','4','Jack Johnson')
+('629','4','Something Extra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('619','4','Joseph Stark')
+('630','4','Michael J. Waggoner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('620','4','Jack Johnson')
+('631','4','Michael J. Waggoner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('620','4','Joseph Stark')
+('632','4','Michael J. Waggoner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('621','4','Anthony O'Hear')
+('633','4','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('622','4','Roy Lewis')
+('633','4','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('623','4','Franklin W. Dixon')
+('634','4','W. Longman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('624','4','B. M. Bower')
+('635','4','Commerce Clearing House')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('625','4','B. M. Bower')
+('635','4','United States. Tax Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('626','4','B. M. Bower')
+('636','4','Commerce Clearing House')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('627','4','Trader X')
+('636','4','United States. Tax Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('628','4','Trader X')
+('637','4','Pennsylvania State University. Mineral Industries Experiment Station')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('629','4','Harold J. Laski')
+('638','4','Pennsylvania State University. Mineral Industries Experiment Station')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('630','4','Harold J. Laski')
+('639','4','Pennsylvania State University. Mineral Industries Experiment Station')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('631','4','O. Henry')
+('640','4','Thomas Hardy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('632','4','O. Henry')
+('641','4','Thomas Hardy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('633','4','O. Henry')
+('642','4','Thomas Hardy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('634','4','Kenneth H. Brink')
+('643','4','Knute Iwaszko')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('634','4','Allan R. Robinson')
+('643','4','Brian OConnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('635','4','Kenneth H. Brink')
+('644','4','Timothy S Good')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('635','4','Allan R. Robinson')
+('645','4','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('636','4','Kenneth H. Brink')
+('645','4','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('636','4','Allan R. Robinson')
+('646','4','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('637','4','Matthew V. Novenson')
+('646','4','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('638','4','Matthew V. Novenson')
+('647','4','Eberhard König')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('639','4','Matthew V. Novenson')
+('648','4','Eberhard König')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('640','4','W. Kendrick Pritchett')
+('649','4','Frank OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('641','4','W. Kendrick Pritchett')
+('650','4','Frank OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('642','4','W. Kendrick Pritchett')
+('651','4','Connecticut. Board of Finance and Control')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('643','4','Perry Anderson')
+('652','4','Connecticut. Board of Finance and Control')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('644','4','Perry Anderson')
+('653','4','Camilla V. Saulsbury')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('645','4','John W. Schwieter')
+('654','4','Camilla V. Saulsbury')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('646','4','John W. Schwieter')
+('655','4','Camilla V. Saulsbury')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('647','4','Fiona O'Neill')
+('656','4','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('648','4','Fiona O'Neill')
+('656','4','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('649','4','R. J. Arsenault')
+('657','4','Anthony OHear')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('650','4','R. J. Arsenault')
+('658','4','Sampson Low')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('651','4','George S. Everly Jr.')
+('659','4','Sampson Low')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('651','4','Jeffrey M. Lating')
+('660','4','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('652','4','George S. Everly Jr.')
+('661','4','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('652','4','Jeffrey M. Lating')
+('662','4','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('653','4','Alice Williams')
+('663','4','B. M. Bower')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('653','4','Joseph Perry')
+('664','4','B. M. Bower')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('654','4','Jack Johnson')
+('665','4','B. M. Bower')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('654','4','Bill Jackson')
+('666','4','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('655','4','Jack Johnson')
+('667','4','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('655','4','Bill Jackson')
+('668','4','Harold J. Laski')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('656','4','Olivia Lelong')
+('669','4','O. Henry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('656','4','Gavin MacGregor')
+('670','4','O. Henry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('657','4','Laurence M. Lasater')
+('671','4','O. Henry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('658','4','Laurence M. Lasater')
+('672','4','Matthew V. Novenson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('659','4','Frank O'Connor')
+('673','4','Matthew V. Novenson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('660','4','Frank O'Connor')
+('674','4','Matthew V. Novenson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('661','4','Frank O'Connor')
+('675','4','Perry Anderson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('662','4','Charles E. Brownell')
+('676','4','Perry Anderson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('663','4','Charles E. Brownell')
+('677','4','Perry Anderson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('664','4','Bernard X. Bovasso')
+('678','4','John W. Schwieter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('665','4','Bernard X. Bovasso')
+('679','4','John W. Schwieter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('666','4','Jack Johnson')
+('680','4','Fiona ONeill')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('666','4','Bill Perry')
+('681','4','Fiona ONeill')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('667','4','Jack Johnson')
+('682','4','Fiona ONeill')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('667','4','Bill Perry')
+('683','4','R. J. Arsenault')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('668','4','Minnesota. Secretary of State')
+('684','4','R. J. Arsenault')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('669','4','Minnesota. Secretary of State')
+('685','4','R. J. Arsenault')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('670','4','B. L. Farjeon')
+('686','4','George S. Everly Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('671','4','B. L. Farjeon')
+('686','4','Jeffrey M. Lating')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('672','4','B. L. Farjeon')
+('687','4','George S. Everly Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('673','4','Friedrich List')
+('687','4','Jeffrey M. Lating')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('674','4','Friedrich List')
+('688','4','George S. Everly Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('675','4','Friedrich List')
+('688','4','Jeffrey M. Lating')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('676','4','Jack Williams')
+('689','4','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('676','4','Joseph Jackson')
+('689','4','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('677','4','Jack Williams')
+('690','4','Thomas G. Wack')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('677','4','Joseph Jackson')
+('691','4','Thomas G. Wack')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('678','4','David M. Sokol')
+('692','4','Laurence M. Lasater')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('679','4','David M. Sokol')
+('693','4','Laurence M. Lasater')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('680','4','Alice Williams')
+('694','4','Laurence M. Lasater')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('680','4','Julius Perry')
+('695','4','Frank OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('681','4','Alice Williams')
+('696','4','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('681','4','Julius Perry')
+('696','4','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('682','4','Alice Williams')
+('697','4','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('682','4','Julius Perry')
+('697','4','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('683','4','James Madison')
+('698','4','Monique OConnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('684','4','James Madison')
+('698','4','Eric R Dursteler')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('685','4','United States. Office of International Energy Affairs')
+('699','4','Minnesota. Secretary of State')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('686','4','United States. Office of International Energy Affairs')
+('700','4','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('687','4','United States. Office of International Energy Affairs')
+('701','4','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('688','4','Theophilus G. Pinches')
+('702','4','B. L. Farjeon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('689','4','Theophilus G. Pinches')
+('703','4','B. L. Farjeon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('690','4','Theophilus G. Pinches')
+('704','4','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('691','4','Younkyoo Kim')
+('704','4','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('692','4','Younkyoo Kim')
+('705','4','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('693','4','Younkyoo Kim')
+('705','4','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('694','4','Vivienne O'Shannessy')
+('706','4','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('694','4','Dean Minett')
+('706','4','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('695','4','Vivienne O'Shannessy')
+('707','4','Friedrich List')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('695','4','Dean Minett')
+('708','4','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('696','4','Jack Smith')
+('708','4','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('696','4','Borat Perry')
+('709','4','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('697','4','Axel Angeli')
+('709','4','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('697','4','Ulrich Streit')
+('710','4','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('697','4','Robi Gonfalonieri')
+('710','4','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('698','4','Axel Angeli')
+('711','4','David M. Sokol')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('698','4','Ulrich Streit')
+('712','4','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('698','4','Robi Gonfalonieri')
+('712','4','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('699','4','Axel Angeli')
+('713','4','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('699','4','Ulrich Streit')
+('713','4','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('699','4','Robi Gonfalonieri')
+('714','4','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('700','4','Alice Smith')
+('714','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('700','4','Bill Loukas')
+('715','4','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('701','4','Alice Smith')
+('715','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('701','4','Bill Loukas')
+('716','4','Rosalind Fergusson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('702','4','Alice Smith')
+('717','4','Michael D. Andrew')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('702','4','Bill Loukas')
+('718','4','United States. Office of International Energy Affairs')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('703','4','Shakespeare Association of America')
+('719','4','United States. Office of International Energy Affairs')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('704','4','Shakespeare Association of America')
+('720','4','Theophilus G. Pinches')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('705','4','Shakespeare Association of America')
+('721','4','Theophilus G. Pinches')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('706','4','Cathy O'Neil')
+('722','4','Younkyoo Kim')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('707','4','Cathy O'Neil')
+('723','4','Younkyoo Kim')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('708','4','Cathy O'Neil')
+('724','4','Younkyoo Kim')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('709','4','Jack Jones')
+('725','4','Vivienne OShannessy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('709','4','Borat Loukas')
+('725','4','Dean Minett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('710','4','W. Morgan Shuster')
+('726','4','Vivienne OShannessy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('711','4','W. Morgan Shuster')
+('726','4','Dean Minett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('712','4','Robin MacKenzie')
+('727','4','Vivienne OShannessy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('713','4','Jack Williams')
+('727','4','Dean Minett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('713','4','Joseph Loukas')
+('728','4','Axel Angeli')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('714','4','Jack Williams')
+('728','4','Ulrich Streit')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('714','4','Joseph Loukas')
+('728','4','Robi Gonfalonieri')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('715','4','Jack Williams')
+('729','4','Axel Angeli')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('715','4','Joseph Loukas')
+('729','4','Ulrich Streit')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('716','4','Patrick O'Brian')
+('729','4','Robi Gonfalonieri')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('717','4','Patrick O'Brian')
+('730','4','Axel Angeli')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('718','4','Walter Braddock Hickman')
+('730','4','Ulrich Streit')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('719','4','Zondervan,')
+('730','4','Robi Gonfalonieri')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('720','4','Zondervan,')
+('731','4','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('721','4','Zondervan,')
+('731','4','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('722','4','Richard Allestree')
+('732','4','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('722','4','C. Matthew McMahon')
+('732','4','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('723','4','John F. Kennedy')
+('733','4','Shakespeare Association of America')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('723','4','Dominique Enright')
+('734','4','Shakespeare Association of America')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('724','4','John F. Kennedy')
+('735','4','Shakespeare Association of America')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('724','4','Dominique Enright')
+('736','4','Cathy ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('725','4','John F. Kennedy')
+('737','4','Cathy ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('725','4','Dominique Enright')
+('738','4','Cathy ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('726','4','Jack Jones')
+('739','4','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('726','4','Julius Loukas')
+('739','4','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('727','4','Bob Johnson')
+('740','4','W. Morgan Shuster')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('727','4','Joseph Stark')
+('741','4','Stephen P. Robbins')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('728','4','Bob Johnson')
+('741','4','Martha I. Finney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('728','4','Joseph Stark')
+('741','4','James ORourke')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('729','4','BERNARD. BUDIANSKY')
+('741','4','William S. Kane')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('729','4','Tai Te Wu')
+('742','4','Stephen P. Robbins')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('730','4','BERNARD. BUDIANSKY')
+('742','4','Martha I. Finney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('730','4','Tai Te Wu')
+('742','4','James ORourke')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('731','4','BERNARD. BUDIANSKY')
+('742','4','William S. Kane')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('731','4','Tai Te Wu')
+('743','4','Patrick OBrian')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('732','4','Geoffrey Perret')
+('744','4','Patrick OBrian')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('733','4','Geoffrey Perret')
+('745','4','Patrick OBrian')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('734','4','Geoffrey Perret')
+('746','4','Walter Braddock Hickman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('735','4','Buford D. Smith')
+('747','4','Walter Braddock Hickman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('735','4','Rakesh Srivastava')
+('748','4','Richard Allestree')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('736','4','Paul D. Molnar')
+('748','4','C. Matthew McMahon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('737','4','Paul D. Molnar')
+('749','4','Richard Allestree')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('738','4','Jerome K Jerome')
+('749','4','C. Matthew McMahon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('739','4','Jerome K Jerome')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('740','4','Kathleen L. Scott')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('741','4','Kathleen L. Scott')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('742','4','Kathleen L. Scott')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('743','4','American Proctologic Society')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('744','4','American Proctologic Society')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('745','4','George F. Custen')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('746','4','George F. Custen')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('747','4','George F. Custen')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('748','4','Commerce Clearing House')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('749','4','Mark A. Lovewell')
-;
-
-Insert into Author
-(`BookID`,`SchoolID`,`AuthorName`)
-Values
-('750','4','Alice Jones')
+('750','4','Jack Jones')
 ;
 
 Insert into Author
@@ -30337,7 +30547,7 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('751','4','Alice Jones')
+('751','4','Jack Jones')
 ;
 
 Insert into Author
@@ -30349,7 +30559,7 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('752','4','Alice Jones')
+('752','4','Jack Jones')
 ;
 
 Insert into Author
@@ -30361,901 +30571,1135 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('753','4','United States. Supreme Court')
+('753','4','L. Frank Baum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('754','4','Trevor C. Salmon')
+('754','4','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('755','4','Trevor C. Salmon')
+('754','4','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('756','4','C. A. Brebbia')
+('755','4','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('756','4','Lal Chand Wadhwa')
+('755','4','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('757','4','Patricia A. Messner')
+('756','4','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('757','4','Brenda S. Copeland')
+('756','4','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('758','4','Marion E. Marshall')
+('757','4','Geoffrey Perret')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('759','4','Marion E. Marshall')
+('758','4','Geoffrey Perret')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('760','4','James H. Wittebols')
+('759','4','Buford D. Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('761','4','Charlie Johnson')
+('759','4','Rakesh Srivastava')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('761','4','Joseph Perry')
+('760','4','Buford D. Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('762','4','Jack Williams')
+('760','4','Rakesh Srivastava')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('762','4','Borat Stark')
+('761','4','Buford D. Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('763','4','Jack Williams')
+('761','4','Rakesh Srivastava')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('763','4','Borat Stark')
+('762','4','Paul D. Molnar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('764','4','Jack Williams')
+('763','4','Paul D. Molnar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('764','4','Borat Stark')
+('764','4','Paul D. Molnar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('765','4','LeRoy R. Maleck')
+('765','4','Charlie Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('765','4','Leroy R. Maleck O.D.')
+('765','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('766','4','LeRoy R. Maleck')
+('766','4','Charlie Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('766','4','Leroy R. Maleck O.D.')
+('766','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('767','4','LeRoy R. Maleck')
+('767','4','Charlie Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('767','4','Leroy R. Maleck O.D.')
+('767','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('768','4','Cees H. Goekoop')
+('768','4','Jerome K Jerome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('769','4','Cees H. Goekoop')
+('769','4','Jerome K Jerome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('770','4','Cees H. Goekoop')
+('770','4','Jerome K Jerome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('771','4','Anteup Poker Player Journals')
+('771','4','American Proctologic Society')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('772','4','Anteup Poker Player Journals')
+('772','4','Samuel W. Mitcham Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('773','4','William J. Gedney')
+('773','4','Samuel W. Mitcham Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('774','4','William J. Gedney')
+('774','4','Samuel W. Mitcham Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('775','4','William J. Gedney')
+('775','4','George F. Custen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('776','4','Wisconsin. State Board of Vocational, Technical and Adult Education')
+('776','4','George F. Custen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('777','4','Wisconsin. Supreme Court')
+('777','4','George F. Custen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('777','4','Frederic King Conover')
+('778','4','Commerce Clearing House')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('777','4','Frederick William Arthur')
+('779','4','Mark A. Lovewell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('777','4','Frederick C. Seibold')
+('780','4','United States. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('777','4','Arnold LeBell')
+('781','4','Trevor C. Salmon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('778','4','Alice Smith')
+('782','4','C. A. Brebbia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('778','4','Bill Loukas')
+('782','4','Lal Chand Wadhwa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('779','4','Elfan Ap Rees')
+('783','4','C. A. Brebbia')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('780','4','Elfan Ap Rees')
+('783','4','Lal Chand Wadhwa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('781','4','Jeremy Adelman')
+('784','4','Tim OReilly')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('782','4','Robert S. Lai')
+('785','4','Tim OReilly')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('782','4','Waite Group')
+('786','4','James H. Wittebols')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('783','4','Bob Williams')
+('787','4','James H. Wittebols')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('783','4','Joseph Stark')
+('788','4','James H. Wittebols')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('784','4','Bob Williams')
+('789','4','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('784','4','Joseph Stark')
+('789','4','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('785','4','Bob Williams')
+('790','4','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('785','4','Joseph Stark')
+('790','4','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('786','4','Τάκης Πέρκιζας')
+('791','4','LeRoy R. Maleck')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('787','4','Τάκης Πέρκιζας')
+('791','4','Leroy R. Maleck O.D.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('788','4','Τάκης Πέρκιζας')
+('792','4','Cees H. Goekoop')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('789','4','Τάκης Πέρκιζας')
+('793','4','Cees H. Goekoop')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('790','4','Γκλυν Άιλιφ')
+('794','4','William J. Gedney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('791','4','Paul Auster')
+('795','4','William J. Gedney')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('792','4','Paul Auster')
+('796','4','Wisconsin. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('793','4','Paul Auster')
+('796','4','Frederic King Conover')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('794','4','Εδουάρδ Εστιβίλ')
+('796','4','Frederick William Arthur')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('795','4','Μιχάλης Ντουνέτας')
+('796','4','Frederick C. Seibold')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('796','4','Μιχάλης Ντουνέτας')
+('796','4','Arnold LeBell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('797','4','You-Jeong Jeong')
+('797','4','Wisconsin. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('798','4','You-Jeong Jeong')
+('797','4','Frederic King Conover')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('799','4','You-Jeong Jeong')
+('797','4','Frederick William Arthur')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('800','4','Arturo Schwarz')
+('797','4','Frederick C. Seibold')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('800','4','Mordecai Ardon')
+('797','4','Arnold LeBell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('800','4','Muzeon Yisrael')
+('798','4','Wisconsin. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('801','4','Arturo Schwarz')
+('798','4','Frederic King Conover')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('801','4','Mordecai Ardon')
+('798','4','Frederick William Arthur')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('801','4','Muzeon Yisrael')
+('798','4','Frederick C. Seibold')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('802','4','تماري، سليم')
+('798','4','Arnold LeBell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('803','4','تماري، سليم')
+('799','4','S. Shortall')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('804','4','تماري، سليم')
+('800','4','Elfan Ap Rees')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('805','4','Isao Yajima')
+('801','4','Elfan Ap Rees')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('806','4','Isao Yajima')
+('802','4','Elfan Ap Rees')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('807','4','Isao Yajima')
+('803','4','Jeremy Adelman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('808','4','张学英')
+('804','4','Robert S. Lai')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('809','4','Alice Johnson')
+('804','4','Waite Group')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('809','4','Julius Loukas')
+('805','4','Robert S. Lai')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('1','5','Robert W. Yarbrough')
+('805','4','Waite Group')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('2','5','Peter Ratner')
+('806','4','Indiana. Division of Accounting and Statistics')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('3','5','Richard Schmitt')
+('807','4','Masha Gessen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('4','5','S (Sabine) 1834-1924 Baring-Gould')
+('808','4','Masha Gessen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('5','5','S (Sabine) 1834-1924 Baring-Gould')
+('809','4','Masha Gessen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('6','5','Royal Anthropological Institute of Great Britain and Ireland. Library')
+('810','4','Τάκης Πέρκιζας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('6','5','Sir Richard Francis Burton')
+('811','4','Τάκης Πέρκιζας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('7','5','Richard Raskin')
+('812','4','Τάκης Πέρκιζας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('8','5','Richard Raskin')
+('813','4','Τάκης Πέρκιζας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('9','5','Thomas Ernst')
+('814','4','Τάκης Πέρκιζας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('10','5','Thomas Ernst')
+('815','4','Γκλυν Άιλιφ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('11','5','Andrew Skilton')
+('816','4','Γκλυν Άιλιφ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('12','5','Samuel E. Buttrey')
+('817','4','Γκλυν Άιλιφ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('12','5','Lyn R. Whitaker')
+('818','4','Paul Auster')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('13','5','Andrew John Wilde')
+('819','4','Paul Auster')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('14','5','Andrew John Wilde')
+('820','4','Εδουάρδ Εστιβίλ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('15','5','Andrew John Wilde')
+('821','4','Εδουάρδ Εστιβίλ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('16','5','W. John Braun')
+('822','4','Μιχάλης Ντουνέτας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('16','5','Duncan J. Murdoch')
+('823','4','Μιχάλης Ντουνέτας')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('17','5','W. John Braun')
+('824','4','You-Jeong Jeong')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('17','5','Duncan J. Murdoch')
+('825','4','You-Jeong Jeong')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('18','5','Eung-Do Cook')
+('826','4','You-Jeong Jeong')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('19','5','Eung-Do Cook')
+('827','4','Arturo Schwarz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('20','5','Eung-Do Cook')
+('827','4','Mordecai Ardon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('21','5','Edmund L. Epstein')
+('827','4','Muzeon Yisrael')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('22','5','Lois N. Magner')
+('828','4','Arturo Schwarz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('22','5','Oliver J Kim')
+('828','4','Mordecai Ardon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('23','5','Lois N. Magner')
+('828','4','Muzeon Yisrael')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('23','5','Oliver J Kim')
+('829','4','Arturo Schwarz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('24','5','Lois N. Magner')
+('829','4','Mordecai Ardon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('24','5','Oliver J Kim')
+('829','4','Muzeon Yisrael')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('25','5','Angharad N. Valdivia')
+('830','4','تماري، سليم')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('26','5','Angharad N. Valdivia')
+('831','4','تماري، سليم')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('27','5','Robert C. Koons')
+('832','4','تماري، سليم')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('28','5','Gary Kielhofner')
+('833','4','张学英')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('29','5','Gary Kielhofner')
+('834','4','张学英')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('30','5','J. Laughton Johnston')
+('835','4','张学英')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('31','5','Sir Thomas Henley')
+('836','4','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('32','5','Sir Thomas Henley')
+('836','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('33','5','Onora O'Neill')
+('837','4','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('34','5','Onora O'Neill')
+('837','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('35','5','Onora O'Neill')
+('838','4','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('36','5','John R. Pattison')
+('838','4','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('36','5','R. N. Gruneberg')
+('1','5','Larry Malcolm')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('36','5','J. Holton')
+('2','5','Robert W. Yarbrough')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('36','5','G. L. Ridgway')
+('3','5','Robert W. Yarbrough')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('36','5','G. Scott')
+('4','5','Peter Ratner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('36','5','A. P. R. Wilson')
+('5','5','Peter Ratner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('37','5','John R. Pattison')
+('6','5','Peter Ratner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('37','5','R. N. Gruneberg')
+('7','5','S (Sabine) 1834-1924 Baring-Gould')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('37','5','J. Holton')
+('8','5','S (Sabine) 1834-1924 Baring-Gould')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('37','5','G. L. Ridgway')
+('9','5','S (Sabine) 1834-1924 Baring-Gould')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('37','5','G. Scott')
+('10','5','Royal Anthropological Institute of Great Britain and Ireland. Library')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('37','5','A. P. R. Wilson')
+('10','5','Sir Richard Francis Burton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('38','5','John R. Pattison')
+('11','5','Thomas F. Michel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('38','5','R. N. Gruneberg')
+('12','5','Thomas F. Michel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('38','5','J. Holton')
+('13','5','Thomas Ernst')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('38','5','G. L. Ridgway')
+('14','5','Thomas Ernst')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('38','5','G. Scott')
+('15','5','Thomas Ernst')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('38','5','A. P. R. Wilson')
+('16','5','Andrew Skilton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('39','5','Edward Upward')
+('17','5','Andrew Skilton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('40','5','Edward Upward')
+('18','5','Samuel E. Buttrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('41','5','Edward Upward')
+('18','5','Lyn R. Whitaker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('42','5','Richard Price')
+('19','5','Richard J. Durling')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('43','5','Richard Price')
+('20','5','Richard J. Durling')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('44','5','Richard Price')
+('21','5','Richard J. Durling')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('45','5','Donald Ray Davis')
+('22','5','Andrew John Wilde')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('46','5','Ellen Bayuk Rosenman')
+('23','5','Andrew John Wilde')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('47','5','Ellen Bayuk Rosenman')
+('24','5','W. John Braun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('48','5','Ellen Bayuk Rosenman')
+('24','5','Duncan J. Murdoch')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('25','5','W. John Braun')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('25','5','Duncan J. Murdoch')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('26','5','W. John Braun')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('26','5','Duncan J. Murdoch')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('27','5','Eung-Do Cook')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('28','5','Eung-Do Cook')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('29','5','Lois N. Magner')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('29','5','Oliver J Kim')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('30','5','Lois N. Magner')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('30','5','Oliver J Kim')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('31','5','Lois N. Magner')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('31','5','Oliver J Kim')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('32','5','Angharad N. Valdivia')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('33','5','Angharad N. Valdivia')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('34','5','Angharad N. Valdivia')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('35','5','Gary Kielhofner')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('36','5','J. Laughton Johnston')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('37','5','J. Laughton Johnston')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('38','5','Sir Thomas Henley')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('39','5','Sir Thomas Henley')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('40','5','Sir Thomas Henley')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('41','5','Onora ONeill')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('42','5','John R. Pattison')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('42','5','R. N. Gruneberg')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('42','5','J. Holton')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('42','5','G. L. Ridgway')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('42','5','G. Scott')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('42','5','A. P. R. Wilson')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('43','5','John R. Pattison')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('43','5','R. N. Gruneberg')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('43','5','J. Holton')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('43','5','G. L. Ridgway')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('43','5','G. Scott')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('43','5','A. P. R. Wilson')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('44','5','Edward Upward')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('45','5','Edward Upward')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('46','5','Richard Price')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('47','5','Donald Ray Davis')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('48','5','Donald Ray Davis')
 ;
 
 Insert into Author
@@ -31327,1117 +31771,1183 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('53','5','Christopher Wayne Curry')
+('53','5','Athenaeus Naucratites')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('53','5','John W. Curry')
+('54','5','Athenaeus Naucratites')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('54','5','Jack Smith')
+('55','5','Athenaeus Naucratites')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('54','5','Bill Loukas')
+('56','5','Illinois')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('55','5','Jack Smith')
+('57','5','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('55','5','Bill Loukas')
+('57','5','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('56','5','Jack Smith')
+('58','5','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('56','5','Bill Loukas')
+('58','5','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('57','5','Emily M. Brown')
+('59','5','Bob Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('58','5','Emily M. Brown')
+('59','5','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('59','5','Robert Shenk')
+('60','5','Antoinette Elizabeth Kavanaugh')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('60','5','Jack Johnson')
+('61','5','Antoinette Elizabeth Kavanaugh')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('60','5','Borat Jackson')
+('62','5','Antoinette Elizabeth Kavanaugh')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('61','5','Everett R. Rhoades')
+('63','5','Robert Shenk')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('62','5','Werner Jüptner')
+('64','5','Robert Shenk')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('62','5','Thomas Kreis')
+('65','5','Robert Shenk')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('63','5','Jack-Michel Cornil')
+('66','5','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('63','5','Philippe Testud')
+('66','5','Borat Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('64','5','Jack-Michel Cornil')
+('67','5','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('64','5','Philippe Testud')
+('67','5','Borat Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('65','5','Sebastien Le')
+('68','5','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('65','5','Thierry Worch')
+('68','5','Borat Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('66','5','Sebastien Le')
+('69','5','Werner Jüptner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('66','5','Thierry Worch')
+('69','5','Thomas Kreis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('67','5','Gretel H. Schueller')
+('70','5','Werner Jüptner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('67','5','Sheila K. Schueller')
+('70','5','Thomas Kreis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('68','5','Texas Judicial Council')
+('71','5','Jack-Michel Cornil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('69','5','Inch̊ōn (Korea). Meteorological Observatory')
+('71','5','Philippe Testud')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('70','5','Inch̊ōn (Korea). Meteorological Observatory')
+('72','5','Jack-Michel Cornil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('71','5','Michigan. State Board of Agriculture')
+('72','5','Philippe Testud')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('72','5','Michigan. State Board of Agriculture')
+('73','5','Daniel W. Graham')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('73','5','Thomas William Gardner')
+('74','5','Daniel W. Graham')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('73','5','William D. Sevon')
+('75','5','Daniel W. Graham')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('74','5','Thomas William Gardner')
+('76','5','Juan Carlos Kaski')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('74','5','William D. Sevon')
+('77','5','Juan Carlos Kaski')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('75','5','Daniel John Meador')
+('78','5','Gretel H. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('75','5','Thomas E. Baker')
+('78','5','Sheila K. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('75','5','Joan E. Steinman')
+('79','5','Gretel H. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('76','5','New Zealand. Parliament. House of Representatives')
+('79','5','Sheila K. Schueller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('77','5','New Zealand. Parliament. House of Representatives')
+('80','5','American Society for Testing and Materials')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('78','5','James P. Brennan')
+('81','5','American Society for Testing and Materials')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('79','5','James P. Brennan')
+('82','5','American Society for Testing and Materials')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('80','5','William Vaughan')
+('83','5','Texas Judicial Council')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('81','5','William Vaughan')
+('84','5','Inch̊ōn (Korea). Meteorological Observatory')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('82','5','William Vaughan')
+('85','5','Thomas William Gardner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('83','5','Jack Jones')
+('85','5','William D. Sevon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('83','5','Borat Stark')
+('86','5','Daniel John Meador')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('84','5','Jack Jones')
+('86','5','Thomas E. Baker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('84','5','Borat Stark')
+('86','5','Joan E. Steinman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('85','5','Jack Jones')
+('87','5','Daniel John Meador')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('85','5','Borat Stark')
+('87','5','Thomas E. Baker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('86','5','Stephen Barker')
+('87','5','Joan E. Steinman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('87','5','Stephen Barker')
+('88','5','Daniel John Meador')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('88','5','Rick Remender')
+('88','5','Thomas E. Baker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('89','5','Rick Remender')
+('88','5','Joan E. Steinman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('90','5','Rick Remender')
+('89','5','New Zealand. Parliament. House of Representatives')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('91','5','Beth Slick')
+('90','5','New Zealand. Parliament. House of Representatives')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('91','5','Steve Gerber')
+('91','5','New Zealand. Parliament. House of Representatives')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('92','5','Bob Smith')
+('92','5','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('92','5','Joseph Jackson')
+('92','5','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('93','5','Nick Fieller')
+('93','5','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('94','5','Nick Fieller')
+('93','5','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('95','5','Edward O. Thorp')
+('94','5','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('96','5','Edward O. Thorp')
+('94','5','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('97','5','Conor O'Brien')
+('95','5','James P. Brennan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('98','5','Conor O'Brien')
+('96','5','William Vaughan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('99','5','Conor O'Brien')
+('97','5','William Vaughan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('100','5','Francie Wolgin')
+('98','5','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('101','5','Bernice Pauahi Bishop Museum')
+('98','5','Borat Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('102','5','Bernice Pauahi Bishop Museum')
+('99','5','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('103','5','Bernice Pauahi Bishop Museum')
+('99','5','Borat Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('104','5','Sydney J. Bounds')
+('100','5','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('105','5','Sydney J. Bounds')
+('100','5','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('106','5','Sydney J. Bounds')
+('101','5','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('107','5','Kathy J. Scheffer')
+('101','5','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('107','5','Richard S. Tobin')
+('102','5','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('108','5','Kathy J. Scheffer')
+('102','5','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('108','5','Richard S. Tobin')
+('103','5','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('109','5','Kathy J. Scheffer')
+('103','5','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('109','5','Richard S. Tobin')
+('104','5','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('110','5','Bob Smith')
+('104','5','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('110','5','Joseph Loukas')
+('105','5','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('111','5','Alice Williams')
+('105','5','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('111','5','Borat Stark')
+('106','5','Stephen Barker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('112','5','Jack Smith')
+('107','5','Stephen Barker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('112','5','Julius Perry')
+('108','5','Stephen Barker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','5','G. E. Bentley')
+('109','5','Rick Remender')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('113','5','Martin K. Nurmi')
+('110','5','Rick Remender')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('114','5','G. E. Bentley')
+('111','5','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('114','5','Martin K. Nurmi')
+('111','5','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('115','5','Jack Jones')
+('112','5','Michael J. Lisicky')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('115','5','Bill Jackson')
+('113','5','Michael J. Lisicky')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('116','5','Jack Jones')
+('114','5','Nick Fieller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('116','5','Bill Jackson')
+('115','5','Nick Fieller')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('117','5','Jack Jones')
+('116','5','Conor OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('117','5','Bill Jackson')
+('117','5','Francie Wolgin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('118','5','Jack Williams')
+('118','5','Francie Wolgin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('118','5','Joseph Jackson')
+('119','5','Francie Wolgin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('119','5','Jack Williams')
+('120','5','Bernice Pauahi Bishop Museum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('119','5','Joseph Jackson')
+('121','5','Bernice Pauahi Bishop Museum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('120','5','Jack Williams')
+('122','5','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('120','5','Joseph Jackson')
+('122','5','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('121','5','American Association of Petroleum Geologists')
+('123','5','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('122','5','Thomas W. Schultz')
+('123','5','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('123','5','Herbert Schildt')
+('124','5','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('124','5','Herbert Schildt')
+('124','5','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('125','5','V. RAJARAMAN')
+('125','5','Norman Uphoff')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('126','5','Bob Smith')
+('125','5','Andrew S. Ball')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('126','5','Borat Stark')
+('125','5','Erick Fernandes')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('127','5','Bob Smith')
+('125','5','Hans Herren')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('127','5','Borat Stark')
+('125','5','Olivier Husson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('128','5','Bob Smith')
+('125','5','Mark Laing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('128','5','Borat Stark')
+('125','5','Cheryl Palm')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('129','5','Ron Larson')
+('125','5','Jules Pretty')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('129','5','Bruce H. Edwards')
+('125','5','Pedro Sanchez')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('130','5','Ron Larson')
+('125','5','Nteranya Sanginga')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('130','5','Bruce H. Edwards')
+('125','5','Janice Thies')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('131','5','Ron Larson')
+('126','5','Norman Uphoff')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('131','5','Bruce H. Edwards')
+('126','5','Andrew S. Ball')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('132','5','Charlotte K Lowrie')
+('126','5','Erick Fernandes')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('133','5','Charlotte K Lowrie')
+('126','5','Hans Herren')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('134','5','Charlotte K Lowrie')
+('126','5','Olivier Husson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('135','5','William Warner Bishop')
+('126','5','Mark Laing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('136','5','Library of Congress. Copyright Office')
+('126','5','Cheryl Palm')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('137','5','Library of Congress. Copyright Office')
+('126','5','Jules Pretty')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('138','5','Great Britain. Census Office')
+('126','5','Pedro Sanchez')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('139','5','Great Britain. Census Office')
+('126','5','Nteranya Sanginga')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('140','5','Alice Smith')
+('126','5','Janice Thies')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('140','5','Joseph Jackson')
+('127','5','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('141','5','Alice Smith')
+('127','5','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('141','5','Joseph Jackson')
+('128','5','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('142','5','Alice Smith')
+('128','5','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('142','5','Joseph Jackson')
+('129','5','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('143','5','Muhammad Akram')
+('129','5','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('143','5','Hina Gulzar')
+('130','5','G. E. Bentley')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('143','5',' K. P. Shum')
+('130','5','Martin K. Nurmi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('144','5','Muhammad Akram')
+('131','5','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('144','5','Hina Gulzar')
+('131','5','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('144','5',' K. P. Shum')
+('132','5','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('145','5','Muhammad Akram')
+('132','5','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('145','5','Hina Gulzar')
+('133','5','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('145','5',' K. P. Shum')
+('133','5','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('146','5','Mark P. Widrlechner')
+('134','5','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('147','5','Alice Williams')
+('134','5','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('147','5','Bill Perry')
+('135','5','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('148','5','Alice Williams')
+('135','5','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('148','5','Bill Perry')
+('136','5','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('149','5','Dave Douglas')
+('136','5','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('149','5','Gregory Michael Papadopoulos')
+('137','5','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('149','5','John Boutelle')
+('137','5','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('150','5','Dave Douglas')
+('138','5','Thomas W. Schultz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('150','5','Gregory Michael Papadopoulos')
+('139','5','Thomas W. Schultz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('150','5','John Boutelle')
+('140','5','Herbert Schildt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('151','5','Anthony W. Knapp')
+('141','5','V. RAJARAMAN')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('151','5','David A. Vogan, Jr.')
+('142','5','V. RAJARAMAN')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('151','5','David A. Vogan')
+('143','5','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('152','5','Anthony W. Knapp')
+('143','5','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('152','5','David A. Vogan, Jr.')
+('144','5','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('152','5','David A. Vogan')
+('144','5','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('153','5','Anthony W. Knapp')
+('145','5','William Warner Bishop')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('153','5','David A. Vogan, Jr.')
+('146','5','William Warner Bishop')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('153','5','David A. Vogan')
+('147','5','Library of Congress. Copyright Office')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('154','5','Kaushik Basu')
+('148','5','Library of Congress. Copyright Office')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('155','5','Kaushik Basu')
+('149','5','Great Britain. Census Office')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('156','5','Kaushik Basu')
+('150','5','Great Britain. Census Office')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('157','5','Ross Rueger')
+('151','5','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('157','5','David C. Cohen')
+('151','5','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('158','5','Ross Rueger')
+('152','5','Mark P. Widrlechner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('158','5','David C. Cohen')
+('153','5','Mark P. Widrlechner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('159','5','Ross Rueger')
+('154','5','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('159','5','David C. Cohen')
+('154','5','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('160','5','Steve Tulliu')
+('155','5','Dave Douglas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('160','5','Thomas Schmalberger')
+('155','5','Gregory Michael Papadopoulos')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('161','5','Steve Tulliu')
+('155','5','John Boutelle')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('161','5','Thomas Schmalberger')
+('156','5','Dave Douglas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('162','5','Steve Tulliu')
+('156','5','Gregory Michael Papadopoulos')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('162','5','Thomas Schmalberger')
+('156','5','John Boutelle')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('163','5','John Morgan O'Connell')
+('157','5','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('164','5','John Morgan O'Connell')
+('157','5','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('165','5','Australian Conciliation and Arbitration Commission')
+('158','5','Anthony W. Knapp')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('166','5','David Dunlap Observatory')
+('158','5','David A. Vogan, Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('167','5','Spectator Company (New York, N.Y.)')
+('158','5','David A. Vogan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('168','5','Spectator Company (New York, N.Y.)')
+('159','5','Kaushik Basu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('169','5','Spectator Company (New York, N.Y.)')
+('160','5','Ross Rueger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('170','5','Alice Williams')
+('160','5','David C. Cohen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('170','5','Julius Perry')
+('161','5','Ross Rueger')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('161','5','David C. Cohen')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('162','5','Ross Rueger')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('162','5','David C. Cohen')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('163','5','Pamela K. Hill')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('164','5','Pamela K. Hill')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('165','5','Pamela K. Hill')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('166','5','John Morgan OConnell')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('167','5','Carson-Dellosa Publishing')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('168','5','Carson-Dellosa Publishing')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('169','5','Australian Conciliation and Arbitration Commission')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('170','5','Spectator Company (New York, N.Y.)')
 ;
 
 Insert into Author
@@ -32455,13 +32965,37 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('172','5','Alice Williams')
+('172','5','Rosa Maria Benito')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('172','5','Julius Perry')
+('172','5','Chantal Cherifi')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('172','5','Hocine Cherifi')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('172','5','Esteban Moro')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('172','5','Luis M. Rocha')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('172','5','Marta Sales-Pardo')
 ;
 
 Insert into Author
@@ -32539,13 +33073,13 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('177','5','Armand Borel')
+('177','5','Joseph M. Wepman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('177','5','Nolan R. Wallach')
+('177','5','Ralph W. Heine')
 ;
 
 Insert into Author
@@ -32563,613 +33097,679 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('179','5','V. Sucharita')
+('179','5','Armand Borel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('180','5','Edith O'Gorman Auffrey')
+('179','5','Nolan R. Wallach')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('181','5','Edith O'Gorman Auffrey')
+('180','5','Armand Borel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('182','5','Charlie Jones')
+('180','5','Nolan R. Wallach')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('182','5','Joseph Loukas')
+('181','5','V. Sucharita')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('183','5','Charlie Jones')
+('182','5','V. Sucharita')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('183','5','Joseph Loukas')
+('183','5','Stanford University. Department of Chemistry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('184','5','Charlie Jones')
+('184','5','Stanford University. Department of Chemistry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('184','5','Joseph Loukas')
+('185','5','Edith OGorman Auffrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('185','5','Jack Johnson')
+('186','5','Edith OGorman Auffrey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('185','5','Bill Jackson')
+('187','5','Michelle R. Clayman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('186','5','Jack Johnson')
+('187','5','Martin S. Fridson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('186','5','Bill Jackson')
+('187','5','George H. Troughton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('187','5','Jack Johnson')
+('188','5','Michelle R. Clayman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('187','5','Bill Jackson')
+('188','5','Martin S. Fridson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('188','5','Charlie Williams')
+('188','5','George H. Troughton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('188','5','Bill Stark')
+('189','5','Mark W. McElroy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('189','5','Charlie Williams')
+('189','5','Jo van Engelen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('189','5','Bill Stark')
+('190','5','Mark W. McElroy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('190','5','Carlo DeVito')
+('190','5','Jo van Engelen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('191','5','Franklin W. Dixon')
+('191','5','Michael Schütze')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('192','5','Franklin W. Dixon')
+('191','5','Raul B. Rebak')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('193','5','Franklin W. Dixon')
+('191','5','Roman Bender')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('194','5','Anthony Fischetti')
+('192','5','Charlie Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('195','5','Anthony Fischetti')
+('192','5','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('196','5','Akhtarhusein A. Tayebali')
+('193','5','Charlie Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('197','5','Robert W. Chambers')
+('193','5','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('198','5','A. Geis')
+('194','5','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('198','5','L. Brock')
+('194','5','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('198','5','H. Mueller')
+('195','5','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('199','5','A. Geis')
+('195','5','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('199','5','L. Brock')
+('196','5','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('199','5','H. Mueller')
+('196','5','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('200','5','Charles Overton Handley')
+('197','5','Carlo DeVito')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('201','5','Charles Overton Handley')
+('198','5','Carlo DeVito')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('202','5','Charles Overton Handley')
+('199','5','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('203','5','University of California (System)')
+('200','5','Anthony Fischetti')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('204','5','University of California (System)')
+('201','5','Anthony Fischetti')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('205','5','Kenny R. Burck')
+('202','5','Akhtarhusein A. Tayebali')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('206','5','Kenny R. Burck')
+('203','5','Akhtarhusein A. Tayebali')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('207','5','Kenny R. Burck')
+('204','5','Akhtarhusein A. Tayebali')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('208','5','Will C. Pirkle')
+('205','5','Robert W. Chambers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('209','5','Will C. Pirkle')
+('206','5','Robert W. Chambers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('210','5','Will C. Pirkle')
+('207','5','Charles Overton Handley')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('211','5','N. J. McMillan')
+('208','5','Charles Overton Handley')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('211','5','Ashton F. Embry')
+('209','5','University of California (System)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('211','5','Donald J. Glass')
+('210','5','Kenny R. Burck')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('212','5','Alice Smith')
+('211','5','Kenny R. Burck')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('212','5','Bill Loukas')
+('212','5','Will C. Pirkle')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('213','5','Alice Smith')
+('213','5','Will C. Pirkle')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('213','5','Bill Loukas')
+('214','5','Will C. Pirkle')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('214','5','Betsy Sholl')
+('215','5','N. J. McMillan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('215','5','Inez Robb')
+('215','5','Ashton F. Embry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('216','5','Scott E. Spradlin')
+('215','5','Donald J. Glass')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('217','5','Graeme P. Maxton')
+('216','5','N. J. McMillan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('217','5','John Wormald')
+('216','5','Ashton F. Embry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('218','5','Marc van der Woude')
+('216','5','Donald J. Glass')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('218','5','Christopher Jones')
+('217','5','N. J. McMillan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('218','5','Nicolas Charbit')
+('217','5','Ashton F. Embry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('219','5','Marc van der Woude')
+('217','5','Donald J. Glass')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('219','5','Christopher Jones')
+('218','5','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('219','5','Nicolas Charbit')
+('218','5','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('220','5','Alice Williams')
+('219','5','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('220','5','Borat Stark')
+('219','5','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('221','5','Alice Williams')
+('220','5','Inez Robb')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('221','5','Borat Stark')
+('221','5','Graeme P. Maxton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('222','5','Persi Diaconis')
+('221','5','John Wormald')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('223','5','Persi Diaconis')
+('222','5','Graeme P. Maxton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('224','5','George Kish')
+('222','5','John Wormald')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('225','5','George Kish')
+('223','5','Marc van der Woude')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('226','5','Paul Hoang')
+('223','5','Christopher Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('226','5','Margaret Ducie')
+('223','5','Nicolas Charbit')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('227','5','Paul Hoang')
+('224','5','Marc van der Woude')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('227','5','Margaret Ducie')
+('224','5','Christopher Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('228','5','June Alexander')
+('224','5','Nicolas Charbit')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('228','5','Cate Sangster')
+('225','5','Marc van der Woude')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('229','5','Jerome G. Delaney')
+('225','5','Christopher Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('230','5','Jerome G. Delaney')
+('225','5','Nicolas Charbit')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('231','5','Columbia University. Teachers College. International Institute')
+('226','5','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('232','5','Columbia University. Teachers College. International Institute')
+('226','5','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('233','5','Columbia University. Teachers College. International Institute')
+('227','5','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('234','5','Harry. H. Chaudhary.')
+('227','5','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('235','5','Bryan P. Stone')
+('228','5','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('236','5','Bryan P. Stone')
+('228','5','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('237','5','Bryan P. Stone')
+('229','5','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('238','5','Delwin R. Croom')
+('229','5','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('239','5','Delwin R. Croom')
+('230','5','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('240','5','Michael Lloyd Reese')
+('230','5','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('241','5','John Leo Moore')
+('231','5','Persi Diaconis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('242','5','John Leo Moore')
+('232','5','Persi Diaconis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('243','5','John Leo Moore')
+('233','5','Persi Diaconis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('244','5','Donald A. Drum')
+('234','5','George Kish')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('245','5','Charlie Williams')
+('235','5','Paul Hoang')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('245','5','Julius Loukas')
+('235','5','Margaret Ducie')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('246','5','Charlie Williams')
+('236','5','Paul Hoang')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('246','5','Julius Loukas')
+('236','5','Margaret Ducie')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('247','5','6. X. 9. inch lined pages Journal book, 6 x 9 inch lined pages')
+('237','5','June Alexander')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('248','5','6. X. 9. inch lined pages Journal book, 6 x 9 inch lined pages')
+('237','5','Cate Sangster')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('249','5','Bob Williams')
+('238','5','June Alexander')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('249','5','Julius Loukas')
+('238','5','Cate Sangster')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('250','5','Bob Williams')
+('239','5','June Alexander')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('250','5','Julius Loukas')
+('239','5','Cate Sangster')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('240','5','Columbia University. Teachers College. International Institute')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('241','5','Columbia University. Teachers College. International Institute')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('242','5','Harry. H. Chaudhary.')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('243','5','Harry. H. Chaudhary.')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('244','5','Bryan P. Stone')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('245','5','Bryan P. Stone')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('246','5','Bryan P. Stone')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('247','5','John Leo Moore')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('248','5','Donald A. Drum')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('249','5','6. X. 9. inch lined pages Journal book, 6 x 9 inch lined pages')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('250','5','6. X. 9. inch lined pages Journal book, 6 x 9 inch lined pages')
 ;
 
 Insert into Author
@@ -33211,4315 +33811,4555 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('255','5','Peter E. Davies')
+('255','5','James H. Stronge')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('256','5','Peter E. Davies')
+('256','5','James H. Stronge')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('257','5','Dan Bailey')
+('257','5','Kurt Laue')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('258','5','Dan Bailey')
+('257','5','Helmut Stenger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('259','5','James S. Eustice')
+('258','5','Daniel Kehlmann')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('259','5','Joel D. Kuntz')
+('259','5','Daniel Kehlmann')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('260','5','Federation of American Societies for Experimental Biology')
+('260','5','Daniel Kehlmann')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('261','5','Federation of American Societies for Experimental Biology')
+('261','5','Peter E. Davies')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('262','5','V. Alexander Stefan')
+('262','5','Peter E. Davies')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('263','5','V. Alexander Stefan')
+('263','5','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('264','5','Alice Smith')
+('263','5','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('264','5','Borat Perry')
+('264','5','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('265','5','Alice Smith')
+('264','5','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('265','5','Borat Perry')
+('265','5','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('266','5','Alice Smith')
+('265','5','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('266','5','Borat Perry')
+('266','5','Dan Bailey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('267','5','Sung W. Lee')
+('267','5','Dan Bailey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('267','5','Peter W. Chung')
+('268','5','James S. Eustice')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('268','5','Sung W. Lee')
+('268','5','Joel D. Kuntz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('268','5','Peter W. Chung')
+('269','5','James S. Eustice')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('269','5','Margaret L. Lial')
+('269','5','Joel D. Kuntz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('269','5','Raymond N. Greenwell')
+('270','5','Federation of American Societies for Experimental Biology')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('269','5','Nathan P. Ritchey')
+('271','5','V. Alexander Stefan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('270','5','Raymond Chapman')
+('272','5','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('271','5','Raymond Chapman')
+('272','5','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('272','5','Raymond Chapman')
+('273','5','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('273','5','John E. Halver')
+('273','5','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('273','5','Ronald W. Hardy')
+('274','5','Sung W. Lee')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('274','5','R. E. Kendel')
+('274','5','Peter W. Chung')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('275','5','Trader X')
+('275','5','Sung W. Lee')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('276','5','Trader X')
+('275','5','Peter W. Chung')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('277','5','Trader X')
+('276','5','Margaret L. Lial')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('278','5','Thomas J. Delia')
+('276','5','Raymond N. Greenwell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('279','5','Thomas J. Delia')
+('276','5','Nathan P. Ritchey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('280','5','Thomas J. Delia')
+('277','5','John E. Halver')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('281','5','Alice Smith')
+('277','5','Ronald W. Hardy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('281','5','Bill Stark')
+('278','5','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('282','5','Alice Smith')
+('279','5','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('282','5','Bill Stark')
+('280','5','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('283','5','Charlie Johnson')
+('281','5','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('283','5','Bill Stark')
+('282','5','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('284','5','Helen Dillon')
+('283','5','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('285','5','Brian O'Connell')
+('284','5','Douglas F Morgan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('286','5','Brian O'Connell')
+('284','5','Taylor & Francis Group')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('287','5','Elwood Watson')
+('284','5','Richard T Green')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('288','5','Adam Mansbach')
+('284','5','Craig W Shinn')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('289','5','Adam Mansbach')
+('284','5','Kent S Robinson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('290','5','Adam Mansbach')
+('284','5','Margaret E Banyan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('291','5','Vojtěch Janoušek')
+('285','5','Richard C. Holt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('291','5','Jean-François Moyen')
+('285','5','J. N. P. Hume')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('291','5','Hervé Martin')
+('286','5','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('291','5','Vojtěch Erban')
+('286','5','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('291','5','Colin Farrow')
+('287','5','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('292','5','Vojtěch Janoušek')
+('287','5','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('292','5','Jean-François Moyen')
+('288','5','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('292','5','Hervé Martin')
+('288','5','Bill Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('292','5','Vojtěch Erban')
+('289','5','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('292','5','Colin Farrow')
+('289','5','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('293','5','Vojtěch Janoušek')
+('290','5','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('293','5','Jean-François Moyen')
+('290','5','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('293','5','Hervé Martin')
+('291','5','Helen Dillon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('293','5','Vojtěch Erban')
+('292','5','Helen Dillon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('293','5','Colin Farrow')
+('293','5','Helen Dillon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('294','5','Susan O'Brien')
+('294','5','Loucas G. Christophorou')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('295','5','Flannery O'Connor')
+('294','5','D.R. James')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('296','5','Flannery O'Connor')
+('295','5','Elwood Watson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('297','5','Barbara F Campbell, MDIV, Dmin')
+('296','5','Elwood Watson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('297','5','Barbara F. Campbell')
+('297','5','Elwood Watson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('297','5','James P. Campbell')
+('298','5','Adam Mansbach')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('298','5','Barbara F Campbell, MDIV, Dmin')
+('299','5','Adam Mansbach')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('298','5','Barbara F. Campbell')
+('300','5','Vojtěch Janoušek')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('298','5','James P. Campbell')
+('300','5','Jean-François Moyen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('299','5','Barbara F Campbell, MDIV, Dmin')
+('300','5','Hervé Martin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('299','5','Barbara F. Campbell')
+('300','5','Vojtěch Erban')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('299','5','James P. Campbell')
+('300','5','Colin Farrow')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('300','5','A. Mital')
+('301','5','Vojtěch Janoušek')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('301','5','A. Mital')
+('301','5','Jean-François Moyen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('302','5','A. Mital')
+('301','5','Hervé Martin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('303','5','Anthony Marra')
+('301','5','Vojtěch Erban')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('304','5','Αλέξανδρος Δουμάς (υιός)')
+('301','5','Colin Farrow')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('305','5','Αλέξανδρος Δουμάς (υιός)')
+('302','5','Vojtěch Janoušek')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('306','5','Jack Jones')
+('302','5','Jean-François Moyen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('306','5','Bill Jackson')
+('302','5','Hervé Martin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('307','5','Jack Jones')
+('302','5','Vojtěch Erban')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('307','5','Bill Jackson')
+('302','5','Colin Farrow')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('308','5','Jack Jones')
+('303','5','Forrest C. Pogue')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('308','5','Bill Jackson')
+('304','5','Forrest C. Pogue')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('309','5','Pat Chin')
+('305','5','Ira A. Glazier')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('309','5','Greg Dunkel')
+('305','5','Percy William Filby')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('309','5','Sara Flounders')
+('306','5','Ira A. Glazier')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('309','5','Kim Ives')
+('306','5','Percy William Filby')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('310','5','John Porges')
+('307','5','Susan OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('310','5','Fred Porges')
+('308','5','Susan OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('311','5','John Porges')
+('309','5','Susan OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('311','5','Fred Porges')
+('310','5','Flannery OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('312','5','John Porges')
+('311','5','Flannery OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('312','5','Fred Porges')
+('312','5','Barbara F Campbell, MDIV, Dmin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('313','5','Lawrence A. Trissel')
+('312','5','Barbara F. Campbell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('314','5','Lawrence A. Trissel')
+('312','5','James P. Campbell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('315','5','Lawrence A. Trissel')
+('313','5','Philip Carabott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('316','5','W Samlet Williams')
+('314','5','Philip Carabott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('317','5','W Samlet Williams')
+('315','5','Eric Lionel Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('318','5','W Samlet Williams')
+('316','5','Eric Lionel Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('319','5','Robert J. Mayhew')
+('317','5','Eric Lionel Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('320','5','Charlie Smith')
+('318','5','A. Mital')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('320','5','Joseph Perry')
+('319','5','A. Mital')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('321','5','Richard H. Turner')
+('320','5','Αλέξανδρος Δουμάς (υιός)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('322','5','Richard H. Turner')
+('321','5','Αλέξανδρος Δουμάς (υιός)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('323','5','Richard H. Turner')
+('322','5','A.S.A. Harrison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('324','5','James L. Hirsen')
+('323','5','A.S.A. Harrison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('325','5','James L. Hirsen')
+('324','5','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('326','5','James L. Hirsen')
+('324','5','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('327','5','Dominic O'Brien')
+('325','5','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('328','5','Bernell Coleman')
+('325','5','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('328','5','James W. M. Fletcher')
+('326','5','Jack Jones')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('328','5','Hubert F. Bonfili')
+('326','5','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('329','5','Bernell Coleman')
+('327','5','Pat Chin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('329','5','James W. M. Fletcher')
+('327','5','Greg Dunkel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('329','5','Hubert F. Bonfili')
+('327','5','Sara Flounders')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('330','5','Arthur Henry Robertson')
+('327','5','Kim Ives')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('331','5','Arthur Henry Robertson')
+('328','5','Pat Chin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('332','5','Charlie Johnson')
+('328','5','Greg Dunkel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('332','5','Borat Stark')
+('328','5','Sara Flounders')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('333','5','Charlie Johnson')
+('328','5','Kim Ives')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('333','5','Borat Stark')
+('329','5','John Porges')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('334','5','Charlie Johnson')
+('329','5','Fred Porges')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('334','5','Borat Stark')
+('330','5','John Porges')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('335','5','Norma McCorvey')
+('330','5','Fred Porges')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('336','5','Donna Albrecht')
+('331','5','John Porges')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('337','5','Donna Albrecht')
+('331','5','Fred Porges')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('338','5','Deanne Panday')
+('332','5','Lawrence A. Trissel')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('339','5','Prakash Mishra')
+('333','5','W Samlet Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('340','5','Prakash Mishra')
+('334','5','W Samlet Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('341','5','Michael T. Henry')
+('335','5','Robert J. Mayhew')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('342','5','Michael T. Henry')
+('336','5','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('343','5','Michael T. Henry')
+('336','5','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('344','5','R. Bruce Hull')
+('337','5','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('345','5','R. Bruce Hull')
+('337','5','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('346','5','R. Bruce Hull')
+('338','5','Norman K. Denzin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('347','5','Angela E. Douglas')
+('339','5','Norman K. Denzin')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('348','5','Syed V. Ahamed')
+('340','5','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('349','5','Fatma Adam ')
+('340','5','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('349','5','Nasruddin Hassan ')
+('341','5','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('350','5','Christian Robert')
+('341','5','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('350','5','George Casella')
+('342','5','Bob Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('351','5','Manfred Stoll')
+('342','5','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('352','5','Lev Ėrnestovich Ėlʹsgolʹt︠s︡')
+('343','5','Dominic OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('353','5','United States. Warren Commission')
+('344','5','Bernell Coleman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('354','5','United States. Warren Commission')
+('344','5','James W. M. Fletcher')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('355','5','Philip Attwood')
+('344','5','Hubert F. Bonfili')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('356','5','Roshen Dalal')
+('345','5','Bernell Coleman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('357','5','Christopher W. Hughes')
+('345','5','James W. M. Fletcher')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('358','5','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
+('345','5','Hubert F. Bonfili')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('359','5','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
+('346','5','Bernell Coleman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('360','5','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
+('346','5','James W. M. Fletcher')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('361','5','James Clark Sherburne')
+('346','5','Hubert F. Bonfili')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('362','5','Elisha Mitchell Scientific Society (Chapel Hill, N.C.)')
+('347','5','Arthur Henry Robertson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('363','5','Elisha Mitchell Scientific Society (Chapel Hill, N.C.)')
+('348','5','Arthur Henry Robertson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('364','5','Elisha Mitchell Scientific Society (Chapel Hill, N.C.)')
+('349','5','Arthur Henry Robertson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('365','5','Michael Atiyah')
+('350','5','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('366','5','Bill Jacob')
+('350','5','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('367','5','Bill Jacob')
+('351','5','Charlie Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('368','5','Bill Jacob')
+('351','5','Borat Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('369','5','Bob Williams')
+('352','5','Norma McCorvey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('369','5','Borat Perry')
+('353','5','Norma McCorvey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('370','5','Bob Williams')
+('354','5','Overseas Press Club of America')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('370','5','Borat Perry')
+('355','5','Overseas Press Club of America')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('371','5','Bob Smith')
+('356','5','Overseas Press Club of America')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('371','5','Julius Loukas')
+('357','5','Donna Albrecht')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('372','5','Bob Smith')
+('358','5','Donna Albrecht')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('372','5','Julius Loukas')
+('359','5','Tim Price')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('373','5','Gordon Williamson')
+('360','5','Prakash Mishra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('374','5','Michael Dore')
+('361','5','Michael T. Henry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('375','5','Michael Dore')
+('362','5','Michael T. Henry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('376','5','Dave Taylor')
+('363','5','Michael T. Henry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('376','5','Brian Jepson')
+('364','5','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('377','5','Dave Taylor')
+('364','5','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('377','5','Brian Jepson')
+('365','5','R. Bruce Hull')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('378','5','Manon P. Charbonneau')
+('366','5','R. Bruce Hull')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('379','5','Manon P. Charbonneau')
+('367','5','R. Bruce Hull')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('380','5','Melvil Dewey')
+('368','5','Benjamin Millis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('380','5','Richard Rogers Bowker')
+('368','5','Douglas Olson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('380','5','L. Pylodet')
+('369','5','Syed V. Ahamed')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('380','5','Charles Ammi Cutter')
+('370','5','Syed V. Ahamed')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('380','5','Bertine Emma Weston')
+('371','5','Syed V. Ahamed')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('380','5','Karl Brown')
+('372','5','Fatma Adam ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('380','5','Helen E. Wessells')
+('372','5','Nasruddin Hassan ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('381','5','Library of Congress')
+('373','5','Fatma Adam ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('382','5','Library of Congress')
+('373','5','Nasruddin Hassan ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('383','5','Herodotus')
+('374','5','Fatma Adam ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('384','5','Herodotus')
+('374','5','Nasruddin Hassan ')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('385','5','Geoffrey K. Pullum')
+('375','5','Redmond OHanlon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('386','5','Suresh K. Sharma')
+('376','5','Manfred Stoll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('387','5','Suresh K. Sharma')
+('377','5','United States. Warren Commission')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('388','5','Suresh K. Sharma')
+('378','5','United States. Warren Commission')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('389','5','Great Britain. Scottish Office Inquiry Reporters')
+('379','5','United States. Warren Commission')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('389','5','O. Paesano')
+('380','5','Philip Attwood')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('390','5','Wendell V. Harris')
+('381','5','Eamonn Dunne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('391','5','Wendell V. Harris')
+('382','5','Roshen Dalal')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('392','5','Sally L. Lagerquist')
+('383','5','Roshen Dalal')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('393','5','Sally L. Lagerquist')
+('384','5','Christopher W. Hughes')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('394','5','W. Stannard Allen')
+('385','5','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('395','5','Daniel O'Donnell')
+('386','5','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('396','5','Daniel O'Donnell')
+('387','5','James Clark Sherburne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('397','5','Mohamed Ally')
+('388','5','James Clark Sherburne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('397','5','Gill Needham')
+('389','5','János Xántus')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('398','5','Lárus Thorlacius')
+('389','5','Ann Zwinger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('398','5','Thordur Jonsson')
+('390','5','János Xántus')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('399','5','Lárus Thorlacius')
+('390','5','Ann Zwinger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('399','5','Thordur Jonsson')
+('391','5','János Xántus')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('400','5','Renate Wiehager')
+('391','5','Ann Zwinger')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('401','5','Renate Wiehager')
+('392','5','Washington (State). Legislature')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('402','5','Renate Wiehager')
+('393','5','Washington (State). Legislature')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('403','5','Jack J. Phillips')
+('394','5','Royal Australian Historical Society')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('403','5','Lisa Edwards')
+('395','5','Royal Australian Historical Society')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('404','5','Arsen Darnay')
+('396','5','Elisha Mitchell Scientific Society (Chapel Hill, N.C.)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('405','5','Arsen Darnay')
+('397','5','Elisha Mitchell Scientific Society (Chapel Hill, N.C.)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('406','5','John Whicher')
+('398','5','Rex Chandrabose')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('407','5','J Brennan')
+('399','5','Rex Chandrabose')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('408','5','J Brennan')
+('400','5','Michael Atiyah')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('409','5','J Brennan')
+('401','5','Bill Jacob')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('410','5','Société mathématique de France')
+('402','5','Bill Jacob')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('411','5','Société mathématique de France')
+('403','5','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('412','5','University of South Africa')
+('403','5','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('413','5','University of South Africa')
+('404','5','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('414','5','University of South Africa')
+('404','5','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('415','5','Wisconsin. Governor')
+('405','5','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('416','5','Wisconsin. Governor')
+('405','5','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('417','5','Wisconsin. Governor')
+('406','5','Gordon Williamson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('418','5','Guido Schwarzer')
+('407','5','Gordon Williamson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('418','5','James R. Carpenter')
+('408','5','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('418','5','Gerta Rücker')
+('408','5','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('419','5','Guido Schwarzer')
+('409','5','Dave Taylor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('419','5','James R. Carpenter')
+('409','5','Brian Jepson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('419','5','Gerta Rücker')
+('410','5','Dave Taylor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('420','5','Guido Schwarzer')
+('410','5','Brian Jepson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('420','5','James R. Carpenter')
+('411','5','Manon P. Charbonneau')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('420','5','Gerta Rücker')
+('412','5','Melvil Dewey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('421','5','Fritz Pietzschke')
+('412','5','Richard Rogers Bowker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('421','5','Franz Wimmer')
+('412','5','L. Pylodet')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('422','5','Fritz Pietzschke')
+('412','5','Charles Ammi Cutter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('422','5','Franz Wimmer')
+('412','5','Bertine Emma Weston')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('423','5','Gary B. Shelly')
+('412','5','Karl Brown')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('423','5','Thomas J. Cashman')
+('412','5','Helen E. Wessells')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('423','5','Misty Vermaat')
+('413','5','Melvil Dewey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('424','5','Katie Layman')
+('413','5','Richard Rogers Bowker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('424','5','LaVaughn Hart')
+('413','5','L. Pylodet')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('425','5','Katie Layman')
+('413','5','Charles Ammi Cutter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('425','5','LaVaughn Hart')
+('413','5','Bertine Emma Weston')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('426','5','Philip P. Betancourt')
+('413','5','Karl Brown')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('426','5','Kōstēs Davaras')
+('413','5','Helen E. Wessells')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('427','5','Philip P. Betancourt')
+('414','5','Melvil Dewey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('427','5','Kōstēs Davaras')
+('414','5','Richard Rogers Bowker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('428','5','Philip P. Betancourt')
+('414','5','L. Pylodet')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('428','5','Kōstēs Davaras')
+('414','5','Charles Ammi Cutter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('429','5','Temitope W Oshikoya')
+('414','5','Bertine Emma Weston')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('430','5','India (Republic). Dept. of Commercial Intelligence and Statistics')
+('414','5','Karl Brown')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('431','5','India (Republic). Dept. of Commercial Intelligence and Statistics')
+('414','5','Helen E. Wessells')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('432','5','India (Republic). Dept. of Commercial Intelligence and Statistics')
+('415','5','Library of Congress')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('433','5','Charlie Johnson')
+('416','5','Library of Congress')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('433','5','Borat Stark')
+('417','5','Geoffrey K. Pullum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('434','5','Charlie Johnson')
+('418','5','Connie Campbell Dierking')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('434','5','Borat Stark')
+('419','5','Connie Campbell Dierking')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('435','5','Peggy O'Mara')
+('420','5','Connie Campbell Dierking')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('436','5','Charles O'Brien')
+('421','5','Shirley ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('437','5','Charles O'Brien')
+('422','5','Shirley ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('438','5','Charles O'Brien')
+('423','5','Shirley ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('439','5','Allan Bérubé')
+('424','5','Suresh K. Sharma')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('440','5','Allan Bérubé')
+('425','5','Suresh K. Sharma')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('441','5','Sean O'Byrne')
+('426','5','Suresh K. Sharma')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('441','5','George Rouse')
+('427','5','Great Britain. Scottish Office Inquiry Reporters')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('442','5','Sean O'Byrne')
+('427','5','O. Paesano')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('442','5','George Rouse')
+('428','5','Wendell V. Harris')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('443','5','Susan, K. Johnsen')
+('429','5','Wendell V. Harris')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('443','5','Debbie Dailey')
+('430','5','Sally L. Lagerquist')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('443','5','Alicia Cotabish')
+('431','5','Sally L. Lagerquist')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('444','5','Susan, K. Johnsen')
+('432','5','Sally L. Lagerquist')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('444','5','Debbie Dailey')
+('433','5','W. Stannard Allen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('444','5','Alicia Cotabish')
+('434','5','W. Stannard Allen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('445','5','Susan, K. Johnsen')
+('435','5','W. Stannard Allen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('445','5','Debbie Dailey')
+('436','5','Daniel ODonnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('445','5','Alicia Cotabish')
+('437','5','Daniel ODonnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('446','5','Laurell K. Hamilton')
+('438','5','Richard Walters')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('447','5','Laurell K. Hamilton')
+('439','5','Richard Walters')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('448','5','Laurell K. Hamilton')
+('440','5','Richard Walters')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('449','5','Organisation for Economic Co-operation and Development')
+('441','5','Mohamed Ally')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('450','5','Organisation for Economic Co-operation and Development')
+('441','5','Gill Needham')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('451','5','Bob Smith')
+('442','5','Mohamed Ally')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('451','5','Joseph Loukas')
+('442','5','Gill Needham')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('452','5','Charlie Smith')
+('443','5','Mohamed Ally')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('452','5','Joseph Jackson')
+('443','5','Gill Needham')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('453','5','Charlie Smith')
+('444','5','Lárus Thorlacius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('453','5','Joseph Jackson')
+('444','5','Thordur Jonsson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('454','5','Charlie Smith')
+('445','5','Lárus Thorlacius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('454','5','Joseph Jackson')
+('445','5','Thordur Jonsson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('455','5','K. Thirusangu')
+('446','5','Lárus Thorlacius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('455','5','S. Poornavel')
+('446','5','Thordur Jonsson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('455','5','R. Vasuki')
+('447','5','Samuel A. Litt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('456','5','K. Thirusangu')
+('448','5','Samuel A. Litt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('456','5','S. Poornavel')
+('449','5','Samuel A. Litt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('456','5','R. Vasuki')
+('450','5','Adrian Phillips')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('457','5','K. Thirusangu')
+('451','5','Adrian Phillips')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('457','5','S. Poornavel')
+('452','5','Adrian Phillips')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('457','5','R. Vasuki')
+('453','5','Arsen Darnay')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('458','5','Charlie Williams')
+('454','5','Arsen Darnay')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('458','5','Julius Loukas')
+('455','5','J Brennan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('459','5','Charlie Williams')
+('456','5','J Brennan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('459','5','Julius Loukas')
+('457','5','Henry Martyn Cundy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('460','5','New South Wales. Supreme Court')
+('457','5','A. P. Rollett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('461','5','New South Wales. Supreme Court')
+('458','5','Henry Martyn Cundy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('462','5','New South Wales. Supreme Court')
+('458','5','A. P. Rollett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('463','5','Grant Morrison')
+('459','5','Henry Martyn Cundy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('464','5','Ana Katrin Schenk')
+('459','5','A. P. Rollett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('465','5','Rooi Books')
+('460','5','Martha McJunkin Rhyne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('466','5','Rooi Books')
+('461','5','University of South Africa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('467','5','Rooi Books')
+('462','5','University of South Africa')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('468','5','Laurene V. Fausett')
+('463','5','Guido Schwarzer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('469','5','Laurene V. Fausett')
+('463','5','James R. Carpenter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('470','5','Λέων Τολστόι')
+('463','5','Gerta Rücker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('471','5','Λέων Τολστόι')
+('464','5','Guido Schwarzer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('472','5','OECD')
+('464','5','James R. Carpenter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('473','5','OECD')
+('464','5','Gerta Rücker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('474','5','OECD')
+('465','5','Guido Schwarzer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('475','5','Harrison H. Sheld')
+('465','5','James R. Carpenter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('476','5','Harrison H. Sheld')
+('465','5','Gerta Rücker')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('477','5','Harrison H. Sheld')
+('466','5','Fritz Pietzschke')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('478','5','Helmut Greim')
+('466','5','Franz Wimmer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('479','5','Helmut Greim')
+('467','5','Fritz Pietzschke')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('480','5','Helmut Greim')
+('467','5','Franz Wimmer')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('481','5','Guy R. Lefrançois')
+('468','5','Gary B. Shelly')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('482','5','Bob Jones')
+('468','5','Thomas J. Cashman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('482','5','Borat Perry')
+('468','5','Misty Vermaat')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('483','5','Bob Jones')
+('469','5','Gary B. Shelly')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('483','5','Borat Perry')
+('469','5','Thomas J. Cashman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('484','5','Bob Jones')
+('469','5','Misty Vermaat')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('484','5','Borat Perry')
+('470','5','Katie Layman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('485','5','Charlie Johnson')
+('470','5','LaVaughn Hart')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('485','5','Julius Perry')
+('471','5','Katie Layman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('486','5','Charlie Johnson')
+('471','5','LaVaughn Hart')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('486','5','Julius Perry')
+('472','5','Katie Layman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('487','5','Charlie Johnson')
+('472','5','LaVaughn Hart')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('487','5','Julius Perry')
+('473','5','Philip P. Betancourt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('488','5','Andreas Vesalius')
+('473','5','Kōstēs Davaras')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('488','5','William Frank Richardson')
+('474','5','Philip P. Betancourt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('488','5','John Burd Carman')
+('474','5','Kōstēs Davaras')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('489','5','David Chudnovsky')
+('475','5','Temitope W Oshikoya')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('490','5','David Chudnovsky')
+('476','5','India (Republic). Dept. of Commercial Intelligence and Statistics')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('491','5','David Chudnovsky')
+('477','5','India (Republic). Dept. of Commercial Intelligence and Statistics')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('492','5','Laird C. Kirkpatrick')
+('478','5','Peggy OMara')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('493','5','Laird C. Kirkpatrick')
+('479','5','Peggy OMara')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('494','5','A. Schrijver')
+('480','5','Charles OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('495','5','Charlie Williams')
+('481','5','Charles OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('495','5','Julius Perry')
+('482','5','Charles OBrien')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('496','5','Charlie Williams')
+('483','5','Allan Bérubé')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('496','5','Julius Perry')
+('484','5','Sean OByrne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('497','5','Charlie Williams')
+('484','5','George Rouse')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('497','5','Julius Perry')
+('485','5','Sean OByrne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('498','5','Nian-Feng Tzeng')
+('485','5','George Rouse')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('499','5','David K. Lewis')
+('486','5','Sean OByrne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('500','5','David K. Lewis')
+('486','5','George Rouse')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('501','5','Gavin O'Toole')
+('487','5','Organisation for Economic Co-operation and Development')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('502','5','Charlie Smith')
+('488','5','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('502','5','Borat Perry')
+('488','5','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('503','5','Charlie Smith')
+('489','5','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('503','5','Borat Perry')
+('489','5','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('504','5','Alice Johnson')
+('490','5','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('504','5','Borat Loukas')
+('490','5','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('505','5','Alice Johnson')
+('491','5','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('505','5','Borat Loukas')
+('491','5','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('506','5','Bob Smith')
+('492','5','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('506','5','Julius Perry')
+('492','5','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('507','5','S. Mahmood Naqvi')
+('493','5','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('507','5','John James William Rogers')
+('493','5','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('508','5','S. Mahmood Naqvi')
+('494','5','New South Wales. Supreme Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('508','5','John James William Rogers')
+('495','5','Grant Morrison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('509','5','Fred Williams')
+('496','5','Grant Morrison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('510','5','Eugene F. Scoles')
+('497','5','Grant Morrison')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('511','5','Eugene F. Scoles')
+('498','5','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('512','5','Eugene F. Scoles')
+('498','5','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('513','5','Institution of Mechanical Engineers (Great Britain)')
+('499','5','Ana Katrin Schenk')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('514','5','Institution of Mechanical Engineers (Great Britain)')
+('500','5','Ana Katrin Schenk')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('515','5','Royal Irish Academy')
+('501','5','M. M. Stuckey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('516','5','Royal Irish Academy')
+('501','5','L. L. Layton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('517','5','Royal Irish Academy')
+('502','5','Laurene V. Fausett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('518','5','Ashok N. Kamthane')
+('503','5','Laurene V. Fausett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('519','5','Ashok N. Kamthane')
+('504','5','Laurene V. Fausett')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('520','5','Jack Smith')
+('505','5','Z. Z. Rox Orpo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('520','5','Julius Stark')
+('506','5','Z. Z. Rox Orpo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('521','5','Jack Smith')
+('507','5','Z. Z. Rox Orpo')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('521','5','Julius Stark')
+('508','5','Λέων Τολστόι')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('522','5','Jack Smith')
+('509','5','Harrison H. Sheld')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('522','5','Julius Stark')
+('510','5','Harrison H. Sheld')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('523','5','Michigan')
+('511','5','Helmut Greim')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('524','5','Michigan')
+('512','5','Helmut Greim')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('525','5','Michigan')
+('513','5','Guy R. Lefrançois')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('526','5','Steven R. Johnson')
+('514','5','Guy R. Lefrançois')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('527','5','Steven R. Johnson')
+('515','5','Guy R. Lefrançois')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('528','5','Steven R. Johnson')
+('516','5','Elizabeth Doherty Herzfeld')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('529','5','Jim C. Williams')
+('517','5','Elizabeth Doherty Herzfeld')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('529','5','Herbert A. Thompson')
+('518','5','Andreas Vesalius')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('530','5','Jim C. Williams')
+('518','5','William Frank Richardson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('530','5','Herbert A. Thompson')
+('518','5','John Burd Carman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('531','5','Brian J. Mitchell')
+('519','5','David Chudnovsky')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('531','5','Barbara Romanowicz')
+('520','5','Laird C. Kirkpatrick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('532','5','Brian J. Mitchell')
+('521','5','Laird C. Kirkpatrick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('532','5','Barbara Romanowicz')
+('522','5','Laird C. Kirkpatrick')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('533','5','Wei Li')
+('523','5','Tatiana V. Akhutina')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('533','5','Yuefei Sui')
+('523','5','Natalia M. Pylaeva')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('534','5','Wei Li')
+('524','5','A. Schrijver')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('534','5','Yuefei Sui')
+('525','5','A. Schrijver')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('535','5','Wei Li')
+('526','5','K.-W. Gaede')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('535','5','Yuefei Sui')
+('526','5','D.B. Pressmar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('536','5','Susa Condliffe')
+('526','5','Ch. Schneeweiß')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('537','5','Susa Condliffe')
+('526','5','K.-P. Schuster')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('538','5','Susa Condliffe')
+('526','5','O. Seifert')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('539','5','W. H. Andrews')
+('527','5','K.-W. Gaede')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('540','5','W. H. Andrews')
+('527','5','D.B. Pressmar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('541','5','Murray L. Weidenbaum')
+('527','5','Ch. Schneeweiß')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('542','5','Murray L. Weidenbaum')
+('527','5','K.-P. Schuster')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('543','5','Murray L. Weidenbaum')
+('527','5','O. Seifert')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('544','5','William H. Pivar')
+('528','5','K.-W. Gaede')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('545','5','William H. Pivar')
+('528','5','D.B. Pressmar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('546','5','William H. Pivar')
+('528','5','Ch. Schneeweiß')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('547','5','Unesco. General Conference')
+('528','5','K.-P. Schuster')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('548','5','Unesco. General Conference')
+('528','5','O. Seifert')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('549','5','Mark F. Meier')
+('529','5','Nian-Feng Tzeng')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('550','5','Mark F. Meier')
+('530','5','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('551','5','Mark F. Meier')
+('530','5','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('552','5','Aeronautical Research Council (Great Britain)')
+('531','5','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('553','5','Aeronautical Research Council (Great Britain)')
+('531','5','Bill Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('554','5','Aeronautical Research Council (Great Britain)')
+('532','5','David K. Lewis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('555','5','Sunder Magun')
+('533','5','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('555','5','Canada. Industry Canada')
+('533','5','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('556','5','Sunder Magun')
+('534','5','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('556','5','Canada. Industry Canada')
+('534','5','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('557','5','Gerald O'Collins')
+('535','5','Charlie Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('558','5','Brent M. Haddad')
+('535','5','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('559','5','Brent M. Haddad')
+('536','5','Gavin OToole')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('560','5','Noriichi Mano')
+('537','5','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('560','5','Ikuma Hamada')
+('537','5','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('560','5','Mahlon R. DeLong')
+('538','5','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('561','5','Noriichi Mano')
+('538','5','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('561','5','Ikuma Hamada')
+('539','5','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('561','5','Mahlon R. DeLong')
+('539','5','Borat Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('562','5','Robert W Jamison, CPA, PH.D.')
+('540','5','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('563','5','Robert W Jamison, CPA, PH.D.')
+('540','5','Borat Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('564','5','Jean Chrysostome')
+('541','5','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('565','5','Jean Chrysostome')
+('541','5','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('566','5','Sean O'Casey')
+('542','5','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('567','5','Sean O'Casey')
+('542','5','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('568','5','Sean O'Casey')
+('543','5','S. Mahmood Naqvi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('569','5','Canada. Parliament')
+('543','5','John James William Rogers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('570','5','Canada. Parliament')
+('544','5','S. Mahmood Naqvi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('571','5','Canada. Parliament')
+('544','5','John James William Rogers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('572','5','J.G. Carter')
+('545','5','S. Mahmood Naqvi')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('573','5','Vernon W. Ruttan')
+('545','5','John James William Rogers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('573','5','Regents Professor in the Department of Applied Economics and in the Department of Economics Vernon W Ruttan')
+('546','5','Jashwant B. Mehta')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('574','5','Vernon W. Ruttan')
+('547','5','Fred Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('574','5','Regents Professor in the Department of Applied Economics and in the Department of Economics Vernon W Ruttan')
+('548','5','Fred Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('575','5','Charlie Johnson')
+('549','5','Eugene F. Scoles')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('575','5','Julius Loukas')
+('550','5','Eugene F. Scoles')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('576','5','Bob Smith')
+('551','5','Institution of Mechanical Engineers (Great Britain)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('576','5','Bill Jackson')
+('552','5','Institution of Mechanical Engineers (Great Britain)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('577','5','Bob Smith')
+('553','5','Institution of Mechanical Engineers (Great Britain)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('577','5','Bill Jackson')
+('554','5','American Academy for Jewish Research')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('578','5','Bruce J. Berne')
+('555','5','American Academy for Jewish Research')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('579','5','New Zealand. Customs Department')
+('556','5','American Academy for Jewish Research')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('580','5','New Zealand. Customs Department')
+('557','5','Royal Irish Academy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('581','5','New Zealand. Customs Department')
+('558','5','Royal Irish Academy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('582','5','Jack Smith')
+('559','5','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('582','5','Julius Perry')
+('559','5','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('583','5','Jack Smith')
+('560','5','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('583','5','Julius Perry')
+('560','5','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('584','5','David B. Loeper')
+('561','5','Ashok N. Kamthane')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('585','5','Stanford University. Thermosciences Division. Thermosciences Division')
+('562','5','Ashok N. Kamthane')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('585','5','E. E. Bouchard')
+('563','5','Ashok N. Kamthane')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('586','5','Stanford University. Thermosciences Division. Thermosciences Division')
+('564','5','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('586','5','E. E. Bouchard')
+('564','5','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('587','5','Richard F. Tomasson')
+('565','5','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('588','5','Richard F. Tomasson')
+('565','5','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('589','5','Frederick H. Soon')
+('566','5','Shawn Carruth')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('590','5','Frederick H. Soon')
+('566','5','Albrecht Garsky')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('591','5','Frederick H. Soon')
+('567','5','Shawn Carruth')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('592','5','Christopher W. Carroll')
+('567','5','Albrecht Garsky')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('593','5','Michael J. Waggoner')
+('568','5','Steven R. Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','5','H. G. Wells')
+('569','5','Jim C. Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','5','Ayn Rand')
+('569','5','Herbert A. Thompson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','5','Mark Twain')
+('570','5','Brian J. Mitchell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','5','H. Beam Piper')
+('570','5','Barbara Romanowicz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','5','Philip K. Dick')
+('571','5','Brian J. Mitchell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','5','Fritz Leiber')
+('571','5','Barbara Romanowicz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','5','Andre Norton')
+('572','5','Brian J. Mitchell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','5','Lester Del Rey')
+('572','5','Barbara Romanowicz')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','5','August Derleth')
+('573','5','David Gerbing')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('594','5','Frederik Pohl')
+('574','5','Wei Li')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('595','5','W. Longman')
+('574','5','Yuefei Sui')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('596','5','W. Longman')
+('575','5','Susa Condliffe')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('597','5','W. Longman')
+('576','5','Susa Condliffe')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('598','5','Commerce Clearing House')
+('577','5','W. H. Andrews')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('598','5','United States. Tax Court')
+('578','5','Ruth Weltmann Begun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('599','5','Vito Tanzi')
+('579','5','Ruth Weltmann Begun')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('599','5','Barry Bracewell-Milnes')
+('580','5','Murray L. Weidenbaum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('599','5','David Roderic Myddelton')
+('581','5','William H. Pivar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('600','5','Vito Tanzi')
+('582','5','William H. Pivar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('600','5','Barry Bracewell-Milnes')
+('583','5','William H. Pivar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('600','5','David Roderic Myddelton')
+('584','5','Peter Flipsen Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('601','5','Rollanda E. O'Connor')
+('585','5','Peter Flipsen Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('602','5','Rollanda E. O'Connor')
+('586','5','Mark F. Meier')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('603','5','Pennsylvania State University. Mineral Industries Experiment Station')
+('587','5','Mark F. Meier')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('604','5','Pennsylvania State University. Mineral Industries Experiment Station')
+('588','5','Mark F. Meier')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('605','5','Pennsylvania State University. Mineral Industries Experiment Station')
+('589','5','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('606','5','Thomas Hardy')
+('589','5','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('607','5','Thomas Hardy')
+('590','5','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('608','5','Thomas Hardy')
+('590','5','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('609','5','Knute Iwaszko')
+('591','5','Denki Tsūshin Kenkyūjo (Japan)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('609','5','Brian O'Connell')
+('592','5','Denki Tsūshin Kenkyūjo (Japan)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('610','5','Eberhard König')
+('593','5','Denki Tsūshin Kenkyūjo (Japan)')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('611','5','Eberhard König')
+('594','5','Gerald OCollins')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('612','5','Frank O'Connor')
+('595','5','Brent M. Haddad')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('613','5','Frank O'Connor')
+('596','5','Brent M. Haddad')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('614','5','Frank O'Connor')
+('597','5','Brent M. Haddad')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('615','5','Frank O'Connor')
+('598','5','Jean Chrysostome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('616','5','Connecticut. Board of Finance and Control')
+('599','5','Jean Chrysostome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('617','5','Charles Bruce Sissons')
+('600','5','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('617','5','Richard De Brisay')
+('600','5','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('618','5','Charles Bruce Sissons')
+('601','5','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('618','5','Richard De Brisay')
+('601','5','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('619','5','Charles Bruce Sissons')
+('602','5','Bob Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('619','5','Richard De Brisay')
+('602','5','Joseph Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('620','5','Camilla V. Saulsbury')
+('603','5','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('621','5','Jack Johnson')
+('603','5','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('621','5','Joseph Stark')
+('604','5','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('622','5','Jack Johnson')
+('604','5','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('622','5','Joseph Stark')
+('605','5','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('623','5','Anthony O'Hear')
+('605','5','Julius Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('624','5','Anthony O'Hear')
+('606','5','Sean OCasey')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('625','5','Sampson Low')
+('607','5','Leonid A. Bokut')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('626','5','Sampson Low')
+('607','5','Victor Latyshev')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('627','5','Sampson Low')
+('607','5','Ivan Shestakov')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('628','5','Roy Lewis')
+('607','5','Efim Zelmanov')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('629','5','Roy Lewis')
+('608','5','Emanuele Guglielmino')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('630','5','Franklin W. Dixon')
+('608','5','Tudor Sireteanu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('631','5','Franklin W. Dixon')
+('608','5','Charles W. Stammers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('632','5','Franklin W. Dixon')
+('608','5','Gheorghe Ghita')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('633','5','B. M. Bower')
+('608','5','Marius Giuclea')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('634','5','B. M. Bower')
+('609','5','Emanuele Guglielmino')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('635','5','Trader X')
+('609','5','Tudor Sireteanu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('636','5','Trader X')
+('609','5','Charles W. Stammers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('637','5','Trader X')
+('609','5','Gheorghe Ghita')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('638','5','Harold J. Laski')
+('609','5','Marius Giuclea')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('639','5','O. Henry')
+('610','5','Canada. Parliament')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('640','5','O. Henry')
+('611','5','Great Britain. Parliament. House of Lords')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('641','5','O. Henry')
+('612','5','Great Britain. Parliament. House of Lords')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('642','5','W. Kendrick Pritchett')
+('613','5','Canada. Parliament')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('643','5','W. Kendrick Pritchett')
+('614','5','J.G. Carter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('644','5','W. Kendrick Pritchett')
+('615','5','J.G. Carter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('645','5','Perry Anderson')
+('616','5','Marco Battaglini')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('646','5','Perry Anderson')
+('616','5','Rebecca B. Morton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('647','5','J. Paul Getty Museum')
+('616','5','Eleonora Patacchini')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('648','5','George S. Everly Jr.')
+('617','5','Marco Battaglini')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('648','5','Jeffrey M. Lating')
+('617','5','Rebecca B. Morton')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('649','5','Jack Johnson')
+('617','5','Eleonora Patacchini')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('649','5','Bill Jackson')
+('618','5','Vernon W. Ruttan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('650','5','Laurence M. Lasater')
+('618','5','Regents Professor in the Department of Applied Economics and in the Department of Economics Vernon W Ruttan')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('651','5','Laurence M. Lasater')
+('619','5','Bruce J. Berne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('652','5','Laurence M. Lasater')
+('620','5','Bruce J. Berne')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('653','5','Mary R. Tahan')
+('621','5','New Zealand. Customs Department')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('654','5','Mary R. Tahan')
+('622','5','New Zealand. Customs Department')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('655','5','Mary R. Tahan')
+('623','5','New Zealand. Customs Department')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('656','5','Frank O'Connor')
+('624','5','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('657','5','Frank O'Connor')
+('624','5','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('658','5','Frank O'Connor')
+('625','5','Jack Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('659','5','Charles E. Brownell')
+('625','5','Julius Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('660','5','Charles E. Brownell')
+('626','5','David B. Loeper')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('661','5','R. Buccheri')
+('627','5','Stanford University. Thermosciences Division. Thermosciences Division')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('661','5','Jan van Paradijs')
+('627','5','E. E. Bouchard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('661','5','M. A. Alpar')
+('628','5','Richard F. Tomasson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('662','5','R. Buccheri')
+('629','5','Richard F. Tomasson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('662','5','Jan van Paradijs')
+('630','5','Frederick H. Soon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('662','5','M. A. Alpar')
+('631','5','Frederick H. Soon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('663','5','R. Buccheri')
+('632','5','Gian-Carlo Rota')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('663','5','Jan van Paradijs')
+('633','5','Something Extra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('663','5','M. A. Alpar')
+('634','5','Something Extra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('664','5','Bernard X. Bovasso')
+('635','5','Something Extra')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('665','5','Jack Johnson')
+('636','5','Christopher W. Carroll')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('665','5','Bill Perry')
+('637','5','Michael J. Waggoner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('666','5','Monique O'Connell')
+('638','5','Michael J. Waggoner')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('666','5','Eric R Dursteler')
+('639','5','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('667','5','Monique O'Connell')
+('639','5','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('667','5','Eric R Dursteler')
+('640','5','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('668','5','Monique O'Connell')
+('640','5','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('668','5','Eric R Dursteler')
+('641','5','Alice Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('669','5','Minnesota. Secretary of State')
+('641','5','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('670','5','Minnesota. Secretary of State')
+('642','5','W. Longman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('671','5','B. L. Farjeon')
+('643','5','Commerce Clearing House')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('672','5','Alice Williams')
+('643','5','United States. Tax Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('672','5','Joseph Perry')
+('644','5','Commerce Clearing House')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('673','5','Alice Williams')
+('644','5','United States. Tax Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('673','5','Joseph Perry')
+('645','5','Commerce Clearing House')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('674','5','Alice Williams')
+('645','5','United States. Tax Court')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('674','5','Joseph Perry')
+('646','5','Rollanda E. OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('675','5','Friedrich List')
+('647','5','Rollanda E. OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('676','5','Friedrich List')
+('648','5','Pennsylvania State University. Mineral Industries Experiment Station')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('677','5','Friedrich List')
+('649','5','T. Harrison Gary')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('678','5','Jack Williams')
+('650','5','T. Harrison Gary')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('678','5','Joseph Jackson')
+('651','5','Thomas Hardy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('679','5','David M. Sokol')
+('652','5','Thomas Hardy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('680','5','David M. Sokol')
+('653','5','Thomas Hardy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('681','5','Alice Williams')
+('654','5','Knute Iwaszko')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('681','5','Julius Perry')
+('654','5','Brian OConnell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('682','5','Alice Williams')
+('655','5','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('682','5','Julius Perry')
+('655','5','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('683','5','Michael D. Andrew')
+('656','5','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('684','5','Bob Williams')
+('656','5','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('684','5','Bill Perry')
+('657','5','Alice Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('685','5','United States. Office of International Energy Affairs')
+('657','5','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('686','5','Younkyoo Kim')
+('658','5','Timothy S Good')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('687','5','Younkyoo Kim')
+('659','5','Timothy S Good')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('688','5','Younkyoo Kim')
+('660','5','Timothy S Good')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('689','5','Vivienne O'Shannessy')
+('661','5','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('689','5','Dean Minett')
+('661','5','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('690','5','Vivienne O'Shannessy')
+('662','5','Charlie Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('690','5','Dean Minett')
+('662','5','Julius Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('691','5','Vivienne O'Shannessy')
+('663','5','Eberhard König')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('691','5','Dean Minett')
+('664','5','Frank OConnor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('692','5','Jack Smith')
+('665','5','Stephen R. Kellert')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('692','5','Borat Perry')
+('665','5','Edward O. Wilson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('693','5','Jack Smith')
+('666','5','Stephen R. Kellert')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('693','5','Borat Perry')
+('666','5','Edward O. Wilson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('694','5','Jack Smith')
+('667','5','Stephen R. Kellert')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('694','5','Borat Perry')
+('667','5','Edward O. Wilson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('695','5','Alice Smith')
+('668','5','Connecticut. Board of Finance and Control')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('695','5','Bill Loukas')
+('669','5','Connecticut. Board of Finance and Control')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('696','5','Shakespeare Association of America')
+('670','5','Hugh Oakley')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('697','5','Shakespeare Association of America')
+('671','5','Hugh Oakley')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('698','5','Shakespeare Association of America')
+('672','5','Hugh Oakley')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('699','5','Jack Jones')
+('673','5','Camilla V. Saulsbury')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('699','5','Borat Loukas')
+('674','5','Camilla V. Saulsbury')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('700','5','W. Morgan Shuster')
+('675','5','Robert E. Howard')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('701','5','Stephen P. Robbins')
+('675','5','H. P. Lovecraft')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('701','5','Martha I. Finney')
+('675','5','G. G. Pendarves')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('701','5','James O'Rourke')
+('675','5','H. G. Wells')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('701','5','William S. Kane')
+('675','5','William Morris')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('702','5','Robin MacKenzie')
+('675','5','Lafcadio Hearn')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('703','5','Jack Williams')
+('675','5','Abraham Merritt')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('703','5','Joseph Loukas')
+('675','5','Arthur Machen')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('704','5','Patrick O'Brian')
+('675','5','Ernest Bramah')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('705','5','Patrick O'Brian')
+('675','5','Robert W. Chambers')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('706','5','Walter Braddock Hickman')
+('675','5','George MacDonald')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('707','5','Walter Braddock Hickman')
+('676','5','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('708','5','Walter Braddock Hickman')
+('676','5','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('709','5','Richard Allestree')
+('677','5','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('709','5','C. Matthew McMahon')
+('677','5','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('710','5','John F. Kennedy')
+('678','5','Sampson Low')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('710','5','Dominique Enright')
+('679','5','Sampson Low')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('711','5','Jack Jones')
+('680','5','Roy Lewis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('711','5','Julius Loukas')
+('681','5','Roy Lewis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('712','5','L. Frank Baum')
+('682','5','Roy Lewis')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('713','5','L. Frank Baum')
+('683','5','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('714','5','Bob Johnson')
+('684','5','Franklin W. Dixon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('714','5','Joseph Stark')
+('685','5','B. M. Bower')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('715','5','Bob Johnson')
+('686','5','B. M. Bower')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('715','5','Joseph Stark')
+('687','5','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('716','5','Bob Johnson')
+('688','5','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('716','5','Joseph Stark')
+('689','5','Trader X')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('717','5','BERNARD. BUDIANSKY')
+('690','5','Basil Hyman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('717','5','Tai Te Wu')
+('690','5','Steven Braggs')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('718','5','BERNARD. BUDIANSKY')
+('691','5','Basil Hyman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('718','5','Tai Te Wu')
+('691','5','Steven Braggs')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('719','5','BERNARD. BUDIANSKY')
+('692','5','Basil Hyman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('719','5','Tai Te Wu')
+('692','5','Steven Braggs')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('720','5','Geoffrey Perret')
+('693','5','O. Henry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('721','5','Geoffrey Perret')
+('694','5','O. Henry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('722','5','Buford D. Smith')
+('695','5','O. Henry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('722','5','Rakesh Srivastava')
+('696','5','Kenneth H. Brink')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('723','5','Buford D. Smith')
+('696','5','Allan R. Robinson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('723','5','Rakesh Srivastava')
+('697','5','Kenneth H. Brink')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('724','5','Paul D. Molnar')
+('697','5','Allan R. Robinson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('725','5','Paul D. Molnar')
+('698','5','Kenneth H. Brink')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('726','5','Jerome K Jerome')
+('698','5','Allan R. Robinson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('727','5','Kathleen L. Scott')
+('699','5','Matthew V. Novenson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('728','5','Kathleen L. Scott')
+('700','5','Matthew V. Novenson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('729','5','Dwight L. Evans')
+('701','5','Perry Anderson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('729','5','Edna B. Foa')
+('702','5','John W. Schwieter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('729','5','Raquel E. Gur')
+('703','5','John W. Schwieter')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('729','5','Herbert Hendin')
+('704','5','J. Paul Getty Museum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('729','5','Charles P. O'Brien')
+('705','5','J. Paul Getty Museum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('729','5','Daniel Romer')
+('706','5','R. J. Arsenault')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('729','5','Martin E.P. Seligman')
+('707','5','R. J. Arsenault')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('729','5','B. Timothy Walsh')
+('708','5','George S. Everly Jr.')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('730','5','Commerce Clearing House')
+('708','5','Jeffrey M. Lating')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('731','5','Commerce Clearing House')
+('709','5','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('732','5','Commerce Clearing House')
+('709','5','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('733','5','Mark A. Lovewell')
+('710','5','Alice Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('734','5','Mark A. Lovewell')
+('710','5','Joseph Perry')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('735','5','United States')
+('711','5','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('736','5','United States')
+('711','5','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('737','5','United States. Supreme Court')
+('712','5','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('738','5','United States. Supreme Court')
+('712','5','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('739','5','United States. Supreme Court')
+('713','5','Jack Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('740','5','Trevor C. Salmon')
+('713','5','Bill Jackson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('741','5','C. A. Brebbia')
+('714','5','Olivia Lelong')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('741','5','Lal Chand Wadhwa')
+('714','5','Gavin MacGregor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('742','5','C. A. Brebbia')
+('715','5','Olivia Lelong')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('742','5','Lal Chand Wadhwa')
+('715','5','Gavin MacGregor')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('743','5','C. A. Brebbia')
+('716','5','Laurence M. Lasater')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('743','5','Lal Chand Wadhwa')
+('717','5','Laurence M. Lasater')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('744','5','Patricia A. Messner')
+('718','5','Laurence M. Lasater')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('744','5','Brenda S. Copeland')
+('719','5','Charles E. Brownell')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('745','5','Tim O'Reilly')
+('720','5','R. Buccheri')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('746','5','Tim O'Reilly')
+('720','5','Jan van Paradijs')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('747','5','James H. Wittebols')
+('720','5','M. A. Alpar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('748','5','James H. Wittebols')
+('721','5','R. Buccheri')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('749','5','Charlie Johnson')
+('721','5','Jan van Paradijs')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('749','5','Joseph Perry')
+('721','5','M. A. Alpar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('750','5','Charlie Johnson')
+('722','5','Bernard X. Bovasso')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('750','5','Joseph Perry')
+('723','5','Minnesota. Secretary of State')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('751','5','Charlie Johnson')
+('724','5','Minnesota. Secretary of State')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('751','5','Joseph Perry')
+('725','5','Minnesota. Secretary of State')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('726','5','Franklin W. Dixon')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('727','5','B. L. Farjeon')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('728','5','Alice Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('728','5','Joseph Perry')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('729','5','Alice Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('729','5','Joseph Perry')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('730','5','Friedrich List')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('731','5','Friedrich List')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('732','5','Friedrich List')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('733','5','Jack Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('733','5','Joseph Jackson')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('734','5','David M. Sokol')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('735','5','Alice Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('735','5','Julius Perry')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('736','5','Alice Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('736','5','Julius Perry')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('737','5','Charlie Smith')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('737','5','Julius Loukas')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('738','5','James Madison')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('739','5','James Madison')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('740','5','James Madison')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('741','5','Rosalind Fergusson')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('742','5','Michael D. Andrew')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('743','5','Theophilus G. Pinches')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('744','5','Younkyoo Kim')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('745','5','Younkyoo Kim')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('746','5','Vivienne OShannessy')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('746','5','Dean Minett')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('747','5','Vivienne OShannessy')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('747','5','Dean Minett')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('748','5','Jack Smith')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('748','5','Borat Perry')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('749','5','Axel Angeli')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('749','5','Ulrich Streit')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('749','5','Robi Gonfalonieri')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('750','5','Axel Angeli')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('750','5','Ulrich Streit')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('750','5','Robi Gonfalonieri')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('751','5','Alice Smith')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('751','5','Bill Loukas')
 ;
 
 Insert into Author
@@ -37531,7 +38371,7 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('752','5','Borat Perry')
+('752','5','Bill Loukas')
 ;
 
 Insert into Author
@@ -37543,294 +38383,846 @@ Values
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('753','5','Borat Perry')
+('753','5','Bill Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('754','5','Jack Williams')
+('754','5','Shakespeare Association of America')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('754','5','Borat Stark')
+('755','5','Shakespeare Association of America')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('755','5','Jack Williams')
+('756','5','Cathy ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('755','5','Borat Stark')
+('757','5','Cathy ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('756','5','LeRoy R. Maleck')
+('758','5','Cathy ONeil')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('756','5','Leroy R. Maleck O.D.')
+('759','5','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('757','5','Cees H. Goekoop')
+('759','5','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('758','5','Cees H. Goekoop')
+('760','5','Jack Williams')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('759','5','Anteup Poker Player Journals')
+('760','5','Joseph Loukas')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('760','5','Anteup Poker Player Journals')
+('761','5','Patrick OBrian')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('761','5','Anteup Poker Player Journals')
+('762','5','Patrick OBrian')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('762','5','William J. Gedney')
+('763','5','Patrick OBrian')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('763','5','William J. Gedney')
+('764','5','Walter Braddock Hickman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('764','5','William J. Gedney')
+('765','5','Walter Braddock Hickman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('765','5','Jack Jones')
+('766','5','Walter Braddock Hickman')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('765','5','Borat Perry')
+('767','5','Zondervan,')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('766','5','Alice Smith')
+('768','5','Richard Allestree')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('766','5','Bill Loukas')
+('768','5','C. Matthew McMahon')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('767','5','Elfan Ap Rees')
+('769','5','John F. Kennedy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('768','5','Elfan Ap Rees')
+('769','5','Dominique Enright')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('769','5','Elfan Ap Rees')
+('770','5','John F. Kennedy')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('770','5','Jeremy Adelman')
+('770','5','Dominique Enright')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('771','5','Jeremy Adelman')
+('771','5','L. Frank Baum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('772','5','Robert S. Lai')
+('772','5','L. Frank Baum')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('772','5','Waite Group')
+('773','5','Bob Johnson')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('773','5','Robert S. Lai')
+('773','5','Joseph Stark')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('773','5','Waite Group')
+('774','5','BERNARD. BUDIANSKY')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('774','5','Indiana. Division of Accounting and Statistics')
+('774','5','Tai Te Wu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('775','5','Indiana. Division of Accounting and Statistics')
+('775','5','BERNARD. BUDIANSKY')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('776','5','Masha Gessen')
+('775','5','Tai Te Wu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('777','5','Masha Gessen')
+('776','5','BERNARD. BUDIANSKY')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('778','5','Masha Gessen')
+('776','5','Tai Te Wu')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('779','5','Τάκης Πέρκιζας')
+('777','5','Geoffrey Perret')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('780','5','Τάκης Πέρκιζας')
+('778','5','Geoffrey Perret')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('781','5','Γκλυν Άιλιφ')
+('779','5','Buford D. Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('782','5','Paul Auster')
+('779','5','Rakesh Srivastava')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('783','5','Εδουάρδ Εστιβίλ')
+('780','5','Buford D. Smith')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('784','5','You-Jeong Jeong')
+('780','5','Rakesh Srivastava')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('785','5','You-Jeong Jeong')
+('781','5','Paul D. Molnar')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('786','5','Arturo Schwarz')
+('782','5','Jerome K Jerome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('786','5','Mordecai Ardon')
+('783','5','Jerome K Jerome')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('786','5','Muzeon Yisrael')
+('784','5','Kathleen L. Scott')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('787','5','Isao Yajima')
+('785','5','American Proctologic Society')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('788','5','Isao Yajima')
+('786','5','A J. Lee')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('789','5','Isao Yajima')
+('787','5','A J. Lee')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('790','5','张学英')
+('788','5','Commerce Clearing House')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('791','5','张学英')
+('789','5','Commerce Clearing House')
 ;
 
 Insert into Author
 (`BookID`,`SchoolID`,`AuthorName`)
 Values
-('792','5','张学英')
+('790','5','Commerce Clearing House')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('791','5','Mark A. Lovewell')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('792','5','Mark A. Lovewell')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('793','5','Mark A. Lovewell')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('794','5','United States')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('795','5','United States')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('796','5','Alice Jones')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('796','5','Julius Loukas')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('797','5','United States. Supreme Court')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('798','5','United States. Supreme Court')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('799','5','United States. Supreme Court')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('800','5','Trevor C. Salmon')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('801','5','C. A. Brebbia')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('801','5','Lal Chand Wadhwa')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('802','5','Marion E. Marshall')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('803','5','Marion E. Marshall')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('804','5','Marion E. Marshall')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('805','5','Teunis A. P. Kwak')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('806','5','Teunis A. P. Kwak')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('807','5','Charlie Johnson')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('807','5','Joseph Perry')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('808','5','Alice Smith')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('808','5','Borat Perry')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('809','5','Jack Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('809','5','Borat Stark')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('810','5','Jack Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('810','5','Borat Stark')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('811','5','Jack Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('811','5','Borat Stark')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('812','5','LeRoy R. Maleck')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('812','5','Leroy R. Maleck O.D.')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('813','5','LeRoy R. Maleck')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('813','5','Leroy R. Maleck O.D.')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('814','5','LeRoy R. Maleck')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('814','5','Leroy R. Maleck O.D.')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('815','5','Anteup Poker Player Journals')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('816','5','William J. Gedney')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('817','5','William J. Gedney')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('818','5','William J. Gedney')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('819','5','William J. Gedney')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('820','5','William J. Gedney')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('821','5','William J. Gedney')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('822','5','Wisconsin. State Board of Vocational, Technical and Adult Education')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('823','5','Wisconsin. State Board of Vocational, Technical and Adult Education')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('824','5','Jack Jones')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('824','5','Borat Perry')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('825','5','Jack Jones')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('825','5','Borat Perry')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('826','5','Wisconsin. Supreme Court')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('826','5','Frederic King Conover')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('826','5','Frederick William Arthur')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('826','5','Frederick C. Seibold')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('826','5','Arnold LeBell')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('827','5','Wisconsin. Supreme Court')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('827','5','Frederic King Conover')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('827','5','Frederick William Arthur')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('827','5','Frederick C. Seibold')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('827','5','Arnold LeBell')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('828','5','Alice Smith')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('828','5','Bill Loukas')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('829','5','Elfan Ap Rees')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('830','5','Elfan Ap Rees')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('831','5','Elfan Ap Rees')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('832','5','Jeremy Adelman')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('833','5','Jeremy Adelman')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('834','5','Robert S. Lai')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('834','5','Waite Group')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('835','5','Robert S. Lai')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('835','5','Waite Group')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('836','5','Indiana. Division of Accounting and Statistics')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('837','5','Indiana. Division of Accounting and Statistics')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('838','5','Indiana. Division of Accounting and Statistics')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('839','5','Bob Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('839','5','Joseph Stark')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('840','5','Bob Williams')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('840','5','Joseph Stark')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('841','5','Masha Gessen')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('842','5','Masha Gessen')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('843','5','Masha Gessen')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('844','5','Τάκης Πέρκιζας')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('845','5','Τάκης Πέρκιζας')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('846','5','Τάκης Πέρκιζας')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('847','5','Τάκης Πέρκιζας')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('848','5','Τάκης Πέρκιζας')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('849','5','Μιχάλης Ντουνέτας')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('850','5','You-Jeong Jeong')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('851','5','Arturo Schwarz')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('851','5','Mordecai Ardon')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('851','5','Muzeon Yisrael')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('852','5','تماري، سليم')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('853','5','تماري، سليم')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('854','5','张学英')
+;
+
+Insert into Author
+(`BookID`,`SchoolID`,`AuthorName`)
+Values
+('855','5','张学英')
 ;
 
