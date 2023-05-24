@@ -22,32 +22,53 @@ def replace_special_characters2(string):
 
 def book_to_text():
     input_file = path+"output.json"
-    output_file = path+"Data/Book.txt"
+    output_file1 = path+"Data/Book.txt"
+    output_file2 = path+"Data/Author.txt"
+    with open(output_file2, "w") as file:
+        pass  # No need to write anything; the file will be emptied
+    print("File contents erased:", output_file2)
 
     with open(input_file, "r") as file:
         data = json.load(file)
 
-    with open(output_file, "w", encoding="utf-8") as file:
+    with open(output_file1, "w", encoding="utf-8") as file:
         book_titles=[]
-        for i, book in enumerate(data):
-            book_id = i+1
-            title = replace_special_characters(book.get("title", "*"))
-            book_titles.append(title)
-            publisher = replace_special_characters(book.get("publisher", "*"))
-            isbn = book.get("isbn", "*")
-            num_of_pages = book.get("pageCount", "*")
-            inventory = book.get("Inventory", "True")
-            image = book.get("thumbnail", "*")
-            language = book.get("language", "*")
+        #5 schools
+        for SchoolID in range(1,6):
+            book_id=1
+            #get all possible books
+            for i, book in enumerate(data):
+                #add 0-3 books to the school
+                for j in range(random.randint(0,3)):
+                    title = replace_special_characters(book.get("title", "*"))
+                    publisher = replace_special_characters(book.get("publisher", "*"))
+                    isbn = book.get("isbn", "*")
+                    num_of_pages = book.get("pageCount", "*")
+                    inventory = book.get("Inventory", "True")
+                    image = book.get("thumbnail", "*")
+                    language = book.get("language", "*")
+                    file.write("Insert into Book\n")
+                    file.write("(`BookID`,`SchoolID`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)\n")
+                    file.write("Values\n")
+                    file.write(f"('{book_id}','{SchoolID}','{title}','{publisher}','{isbn}','{num_of_pages}','{inventory}','{image}','{language}')\n")
+                    file.write(";\n\n")
+                    addAuthor(SchoolID,book_id,book,output_file2)
+                    book_id+=1
 
-            file.write("Insert into Book\n")
-            file.write("(`BookId`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)\n")
-            file.write("Values\n")
-            file.write(f"('{book_id}','{title}','{publisher}','{isbn}','{num_of_pages}','{inventory}','{image}','{language}')\n")
-            file.write(";\n\n")
-
-    print("Data exported to", output_file)
+    print("Data exported to", output_file1)
+    print("Data exported to", output_file2)
     return book_titles
+
+def addAuthor(SchID,BookID,book,output_file):
+
+    with open(output_file, "a", encoding="utf-8") as file:
+        authors=book.get("authors")
+        for j,auth in enumerate(authors):
+            file.write("Insert into Author\n")
+            file.write("(`BookID`,`SchoolID`,`AuthorName`)\n")
+            file.write("Values\n")
+            file.write(f"('{BookID}','{SchID}','{replace_special_characters(auth)}')\n")
+            file.write(";\n\n")
 
 
 def replace_special_characters(string):
@@ -311,9 +332,29 @@ def borrowercard_to_text(all_users):
                 count=0
     print("Data exported to", output_file)
     return all_categories
+
+def borrowercard_to_text(all_users):
+    output_file = path+"Data/BorrowerCard.txt"
+
+    with open(output_file, "w", encoding="utf-8") as file:
+        all_categories=[]
+        count=0
+        for i,user in enumerate(all_users):
+            count+=1
+            UserID=count
+            if not count>98:
+                file.write("Insert into BorrowerCard\n")
+                file.write("(`BorrowerCardID`,`UserID`)\n")
+                file.write("Values\n")
+                file.write(f"('{random.randint(10**12, (10**13)-1)}','{UserID}')\n")
+                file.write(";\n\n")
+            elif count==100:
+                count=0
+    print("Data exported to", output_file)
+    return all_categories
 #===================================================
 
-# all_book_titles=book_to_text()
+all_book_titles=book_to_text()
 
 # all_authors=author_to_text()
 
@@ -329,8 +370,12 @@ def borrowercard_to_text(all_users):
 
 # all_summary=summary_to_text()
 
-all_users,oper_5_admin_5=user_to_text()
+#these give each time different values
+#we have 100 users for each of the 5 schools
+# all_users,oper_5_admin_5=user_to_text()
 
-all_schools=school_to_text(oper_5_admin_5)
+# all_schools=school_to_text(oper_5_admin_5)
 
-all_borrowercards=borrowercard_to_text(all_users)
+# all_borrowercards=borrowercard_to_text(all_users)
+
+# review_to_text(all_users)
