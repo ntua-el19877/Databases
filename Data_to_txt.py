@@ -106,7 +106,7 @@ def addSummary(output_file,book,book_id,SchoolID):
         file.write("Insert into Summary\n")
         file.write("(`BookID`,`SchoolID`,`Summary`)\n")
         file.write("Values\n")
-        file.write(f"('{book_id}','{SchoolID}','{summary}')\n")
+        file.write(f"('{book_id}','{SchoolID}','{replace_special_characters(summary)}')\n")
         file.write(";\n\n")
 
 def addCategory(output_file,book,book_id,SchoolID):
