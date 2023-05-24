@@ -1,1 +1,2 @@
-ub\\
+
+mycursor.execute("CREATE

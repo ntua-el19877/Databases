@@ -20,13 +20,22 @@ def replace_special_characters2(string):
     replaced_string = re.sub(pattern, replace, string)
     return replaced_string
 
+def removedata(output_file):
+    with open(output_file, "w") as file:
+        pass  # No need to write anything; the file will be emptied
+    print("File contents erased:", output_file)
+
 def book_to_text():
     input_file = path+"output.json"
-    output_file1 = path+"Data/Book.txt"
-    output_file2 = path+"Data/Author.txt"
-    with open(output_file2, "w") as file:
-        pass  # No need to write anything; the file will be emptied
-    print("File contents erased:", output_file2)
+    output_file1 = path+"Data/Book.sql"
+    output_file2 = path+"Data/Author.sql"
+    output_file3 = path+"Data/Keyword.sql"
+    output_file4 = path+"Data/Summary.sql"
+    output_file5 = path+"Data/Category.sql"
+    removedata(output_file2)
+    removedata(output_file3)
+    removedata(output_file4)
+    removedata(output_file5)
 
     with open(input_file, "r") as file:
         data = json.load(file)
@@ -53,10 +62,12 @@ def book_to_text():
                     file.write(f"('{book_id}','{SchoolID}','{title}','{publisher}','{isbn}','{num_of_pages}','{inventory}','{image}','{language}')\n")
                     file.write(";\n\n")
                     addAuthor(SchoolID,book_id,book,output_file2)
+                    addKeyword(output_file3,book,book_id,SchoolID)
+                    addSummary(output_file4,book,book_id,SchoolID)
+                    addCategory(output_file5,book,book_id,SchoolID)
                     book_id+=1
 
-    print("Data exported to", output_file1)
-    print("Data exported to", output_file2)
+    print("Data exported")
     return book_titles
 
 def addAuthor(SchID,BookID,book,output_file):
@@ -70,7 +81,37 @@ def addAuthor(SchID,BookID,book,output_file):
             file.write(f"('{BookID}','{SchID}','{replace_special_characters(auth)}')\n")
             file.write(";\n\n")
 
+def addKeyword(output_file,book,bookid,schid):
+    with open(output_file, "a", encoding="utf-8") as file:
+        categories=book.get("keywords")
+        for j,categ in enumerate(categories):
+            file.write("Insert into Keyword\n")
+            file.write("(`BookID`,`SchoolID`,`KeywordName`)\n")
+            file.write("Values\n")
+            file.write(f"('{bookid}','{schid}','{categ}')\n")
+            file.write(";\n\n")
 
+def addSummary(output_file,book,book_id,SchoolID):
+    with open(output_file, "a", encoding="utf-8") as file:
+        summary=book.get("summary")
+        file.write("Insert into Summary\n")
+        file.write("(`BookID`,`SchoolID`,`Summary`)\n")
+        file.write("Values\n")
+        file.write(f"('{book_id}','{SchoolID}','{summary}')\n")
+        file.write(";\n\n")
+
+def addCategory(output_file,book,book_id,SchoolID):
+
+    with open(output_file, "a", encoding="utf-8") as file:
+            categories=book.get("categories")
+            for j,categ in enumerate(categories):
+                    file.write("Insert into Category\n")
+                    file.write("(`BookID`,`SchoolID`,`CategoryName`)\n")
+                    file.write("Values\n")
+                    file.write(f"('{book_id}','{SchoolID}','{replace_special_characters(categ)}')\n")
+                    file.write(";\n\n")
+
+#########################################
 def replace_special_characters(string):
     pattern = r'\\u([0-9a-fA-F]{4})'
 
