@@ -128,7 +128,9 @@ def user_to_text():
     
     output_file = path+"Data/User.sql"
     output_file2 = path+"Data/Reservation.sql"
+    output_file3 = path+"Data/Review.sql"
     removedata(output_file2)
+    removedata(output_file3)
     with open(output_file, "w", encoding="utf-8") as file:
         #5 schools
         for i in range(5):
@@ -155,8 +157,8 @@ def user_to_text():
                 file.write("Values\n")
                 file.write(f"('{j+1}','{i+1}','{Username}','{Password}','{Role}','{FirstName}','{LastName}','{BorrowerCard}')\n")
                 file.write(";\n\n")
-                # if random.randint(0, 5)==0:
-                #     addReview()
+                if random.randint(0, 5)==0:
+                    addReview(output_file3,j+1,i+1,resID)
                 if random.randint(0, 5)==0:
                     L=addReservation(output_file2,j+1,i+1,resID,L)
                     resID+=1
@@ -172,9 +174,9 @@ def addReservation(output_file,userid,schoolid,ReservationID,L):
             nowDate=datetime.datetime.strptime("4/6/2023","%d/%m/%Y")
             ExpirationDate = u + d
             if ExpirationDate<nowDate:
-                Active=False
+                Active="Inactive"
             else:
-                Active=True
+                Active="Active"
             
             while True:
                 bookid=random.randint(1,500)
@@ -187,9 +189,38 @@ def addReservation(output_file,userid,schoolid,ReservationID,L):
             file.write("Insert into Reservation\n")
             file.write("(`ReservationID`,`SchoolID`,`UserID`,`BookID`,`ReservationDate`,`ExpirationDate`,`Active`)\n")
             file.write("Values\n")
-            file.write(f"('{ReservationID}','{schoolid}','{userid}','{bookid}','{us}','{ExpirationDates}','{str(Active)}')\n")
+            file.write(f"('{ReservationID}','{schoolid}','{userid}','{bookid}','{us}','{ExpirationDates}','{Active}')\n")
             file.write(";\n\n")
     return L
+
+def addReview(output_file,userid,schoolid,ReviewID):
+    with open(output_file, "a", encoding="utf-8") as file:
+
+        for i in range(random.randint(1,5)):
+            bookid=random.randint(1,500)
+            Rating=random.randint(1,5)
+            ran=random.randint(0,4)
+            L5=["I really enjoyed reading this book.","It was a fantastic book, I highly recommend it.",
+                "This book captivated me from start to finish.","I found it engaging and thought-provoking.",
+                "Its definitely one of my favorite books.","I couldnt put it down; it was so good.",
+                "The characters and story were incredibly well-developed."]
+            L1=["Unfortunately, this book wasnt to my liking.","I didnt enjoy reading it; it didnt resonate with me.",
+                "The plot felt weak and the characters were uninteresting.","It didnt meet my expectations; I was disappointed.",                
+                "I struggled to connect with the story or the writing style.","It just wasnt my cup of tea.",
+                "I found it boring and couldnt get into it."]
+            if Rating>2:
+                Comment=random.choice(L5)
+            else:
+                Comment=random.choice(L1)
+            ApprovalStatus="Approved"
+            if ran==0:
+                ApprovalStatus="Rejected"
+            file.write("Insert into Review\n")
+            file.write("(`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)\n")
+            file.write("Values\n")
+            file.write(f"('{ReviewID}','{schoolid}','{userid}','{bookid}','{Rating}','{Comment}','{ApprovalStatus}')\n")
+            file.write(";\n\n")
+
 
 
 #########################################
