@@ -1,0 +1,49 @@
+{% extends "global_layout.html" %}
+{% block content %}
+<div class="container">
+    {% include "flash_messages.html" %}
+    <div class="row" id="row">
+        <div class="col-md-12">
+            <form class="form-horizontal" name="grade-form" method="POST">
+                <!-- hidden_tag returns the form's security metadata -->
+                {{ form.hidden_tag() }}
+                <div class="form-group col-sm-3 mb-3">
+                    {{ form.student_id.label(class = "form-label") }}
+                    <!-- Setting required to false disables the HTML attribute and leaves input validation to the backend -->
+                    {{ form.student_id(class = "form-select", required = False) }}
+                    {% if form.student_id.errors %}
+                    <ul class = "errors">
+                        {% for error in form.student_id.errors %}
+                        <li class = "text-danger">{{ error }}</li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                </div>
+                <div class="form-group col-sm-3 mb-3">
+                    {{ form.course_name.label(class = "form-label") }}
+                    {{ form.course_name(class = "form-select", placeholder = "Course name", required = False) }}
+                    {% if form.course_name.errors %}
+                    <ul class = "errors">
+                        {% for error in form.course_name.errors %}
+                        <li class = "text-danger">{{ error }}</li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                </div>
+                <div class="form-group col-sm-3 mb-3">
+                    {{ form.grade.label(class = "form-label") }}
+                    {{ form.grade(class = "form-control", required = False) }}
+                    {% if form.grade.errors %}
+                    <ul class = "errors">
+                        {% for error in form.grade.errors %}
+                        <li class = "text-danger">{{ error }}</li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                </div>
+                {{ form.submit(class = "btn btn-primary btn-submit-custom") }}
+            </form>
+    </div>
+    </div>
+</div>
+{% endblock content %}
