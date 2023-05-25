@@ -128,12 +128,16 @@ CREATE TABLE Summary (
 );
 
 --
--- Table structure for table `Summary`
+-- Table structure for table `User`
 --
 
 CREATE TABLE USER(
     UserID INT UNSIGNED PRIMARY KEY AUTO_INCREMENT ,
     SchoolID INT UNSIGNED,
     Username VARCHAR(50),
-    Password
+    `Role` VARCHAR(20),
+    FirstName VARCHAR(30),
+    LastName VARCHAR(30),
+    BorrowerCard VARCHAR(13),
+    HashedPassword VARCHAR(100)
 )
