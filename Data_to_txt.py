@@ -53,72 +53,93 @@ def book_to_text():
 
     with open(output_file1, "w", encoding="utf-8") as file:
         #5 schools
+        Auth=[]
+        Cat=[]
+        Sum=[]
+        Key=[]
         for SchoolID in range(1,6):
             book_id=1
             #get all possible books
+
             for i, book in enumerate(data):
                 #add 0-3 books to the school
                 for j in range(random.randint(0,3)):
                     title = replace_special_characters(book.get("title", "*"))
                     publisher = replace_special_characters(book.get("publisher", "*"))
-                    isbn = book.get("isbn", "*")
+                    isbn = str(book.get("isbn", "*"))
                     num_of_pages = book.get("pageCount", "*")
                     inventory = book.get("Inventory", "True")
                     image = book.get("thumbnail", "*")
-                    language = book.get("language", "*")
+                    language = replace_special_characters(book.get("language", "*"))
                     file.write("Insert into Book\n")
                     file.write("(`BookID`,`SchoolID`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)\n")
                     file.write("Values\n")
                     file.write(f"('{book_id}','{SchoolID}','{title}','{publisher}','{isbn}','{num_of_pages}','{inventory}','{image}','{language}')\n")
                     file.write(";\n\n")
-                    addAuthor(SchoolID,book_id,book,output_file2)
-                    addKeyword(output_file3,book,book_id,SchoolID)
-                    addSummary(output_file4,book,book_id,SchoolID)
-                    addCategory(output_file5,book,book_id,SchoolID)
+                    Auth=addAuthor(isbn,book,output_file2,Auth)
+                    Key=addKeyword(output_file3,book,isbn,Key)
+                    Sum=addSummary(output_file4,book,isbn,Sum)
+                    Cat=addCategory(output_file5,book,isbn,Cat)
+                    # addAuthor(SchoolID,book_id,book,output_file2)
+                    # addKeyword(output_file3,book,book_id,SchoolID)
+                    # addSummary(output_file4,book,book_id,SchoolID)
+                    # addCategory(output_file5,book,book_id,SchoolID)
                     book_id+=1
 
     print("Data exported")
 
-def addAuthor(SchID,BookID,book,output_file):
 
-    with open(output_file, "a", encoding="utf-8") as file:
-        authors=book.get("authors")
-        for j,auth in enumerate(authors):
-            file.write("Insert into Author\n")
-            file.write("(`BookID`,`SchoolID`,`AuthorName`)\n")
-            file.write("Values\n")
-            file.write(f"('{BookID}','{SchID}','{replace_special_characters(auth)}')\n")
-            file.write(";\n\n")
 
-def addKeyword(output_file,book,bookid,schid):
-    with open(output_file, "a", encoding="utf-8") as file:
-        categories=book.get("keywords")
-        for j,categ in enumerate(categories):
-            file.write("Insert into Keyword\n")
-            file.write("(`BookID`,`SchoolID`,`KeywordName`)\n")
-            file.write("Values\n")
-            file.write(f"('{bookid}','{schid}','{categ}')\n")
-            file.write(";\n\n")
+def addAuthor(isbn,book,output_file,L):
+    if not isbn in L:
+        with open(output_file, "a", encoding="utf-8") as file:
+            authors=book.get("authors")
+            for j,auth in enumerate(authors):
+                file.write("Insert into Author\n")
+                file.write("(`ISBN`,`AuthorName`)\n")
+                file.write("Values\n")
+                file.write(f"('{isbn},'{replace_special_characters(auth)}')\n")
+                file.write(";\n\n")
+        L.append(isbn)
+    return L
 
-def addSummary(output_file,book,book_id,SchoolID):
-    with open(output_file, "a", encoding="utf-8") as file:
-        summary=book.get("summary")
-        file.write("Insert into Summary\n")
-        file.write("(`BookID`,`SchoolID`,`Summary`)\n")
-        file.write("Values\n")
-        file.write(f"('{book_id}','{SchoolID}','{replace_special_characters(summary)}')\n")
-        file.write(";\n\n")
-
-def addCategory(output_file,book,book_id,SchoolID):
-
-    with open(output_file, "a", encoding="utf-8") as file:
-            categories=book.get("categories")
+def addKeyword(output_file,book,isbn,L):
+    if not isbn in L:
+        with open(output_file, "a", encoding="utf-8") as file:
+            categories=book.get("keywords")
             for j,categ in enumerate(categories):
-                    file.write("Insert into Category\n")
-                    file.write("(`BookID`,`SchoolID`,`CategoryName`)\n")
-                    file.write("Values\n")
-                    file.write(f"('{book_id}','{SchoolID}','{replace_special_characters(categ)}')\n")
-                    file.write(";\n\n")
+                file.write("Insert into Keyword\n")
+                file.write("(`ISBN`,`KeywordName`)\n")
+                file.write("Values\n")
+                file.write(f"('{isbn}','{replace_special_characters(categ)}')\n")
+                file.write(";\n\n")
+        L.append(isbn)
+    return L
+
+def addSummary(output_file,book,isbn,L):
+    if not isbn in L:
+        with open(output_file, "a", encoding="utf-8") as file:
+            summary=book.get("summary")
+            file.write("Insert into Summary\n")
+            file.write("(`ISBN`,`Summary`)\n")
+            file.write("Values\n")
+            file.write(f"('{isbn}','{replace_special_characters(summary)}')\n")
+            file.write(";\n\n")
+        L.append(isbn)
+    return L
+
+def addCategory(output_file,book,isbn,L):
+    if not isbn in L:
+        with open(output_file, "a", encoding="utf-8") as file:
+                categories=book.get("categories")
+                for j,categ in enumerate(categories):
+                        file.write("Insert into Category\n")
+                        file.write("(`ISBN`,`CategoryName`)\n")
+                        file.write("Values\n")
+                        file.write(f"('{isbn}','{replace_special_characters(categ)}')\n")
+                        file.write(";\n\n")
+        L.append(isbn)
+    return L
 #########################################
 
 def user_to_text():
