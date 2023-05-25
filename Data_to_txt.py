@@ -204,7 +204,7 @@ def school_to_text(output_file,lib_operator,SchoolID):
         file.write("Insert into School\n")
         file.write("(`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)\n")
         file.write("Values\n")
-        file.write(f"('{SchoolID}','{SchoolName}','{Address}','{City}','{PhoneNumber}','{Email}','{lib_operator}','{SchoolDirectorFullName})\n")
+        file.write(f"('{SchoolID}','{SchoolName}','{Address}','{City}','{PhoneNumber}','{Email}','{lib_operator}','{SchoolDirectorFullName}')\n")
         file.write(";\n\n")
 
 

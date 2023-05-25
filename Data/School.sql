@@ -1,30 +1,30 @@
 Insert into School
 (`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)
 Values
-('1','Lakewood Institute','2537 Commerce Boulevard,78234','Paris','6970172276','Lakewood Institute@mail.com','Carolyn Lemley','Mae Price)
+('1','Riverdale Technical School','2969 Charmaine Lane,79373','Somerset','6971726511','Riverdale Technical School@mail.com','Sandra Holman','James Stites')
 ;
 
 Insert into School
 (`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)
 Values
-('2','Riverdale Institute','2537 Commerce Boulevard,78234','Somerset','6971107574','Riverdale Institute@mail.com','Kathryn Guzman','Miguel Alvarez)
+('2','Lakewood Institute','2969 Charmaine Lane,68669','Patricia','6972424848','Lakewood Institute@mail.com','Noel Willard','Kimberly Jones')
 ;
 
 Insert into School
 (`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)
 Values
-('3','Riverdale Institute','2537 Commerce Boulevard,79373','Somerset','6979023739','Riverdale Institute@mail.com','Rosa Nieto','Erick Hadlock)
+('3','Riverdale Technical School','2969 Charmaine Lane,78234','Paris','6977476840','Riverdale Technical School@mail.com','Juan Tinsley','Deborah Patterson')
 ;
 
 Insert into School
 (`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)
 Values
-('4','Lakewood Technical School','2066 North Bend River Road,68669','Patricia','6978133546','Lakewood Technical School@mail.com','Darryl Birdsong','David Piche)
+('4','Pinewood Institute','2537 Commerce Boulevard,68669','Patricia','6970750244','Pinewood Institute@mail.com','Robert Dawson','Valerie Wallace')
 ;
 
 Insert into School
 (`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)
 Values
-('5','Cape Coral Institute','2537 Commerce Boulevard,79373','Patricia','6974501258','Cape Coral Institute@mail.com','Gussie Converse','Bruce Rudnick)
+('5','Livanates Institute','2537 Commerce Boulevard,68669','Paris','6976391703','Livanates Institute@mail.com','Jeffrey Curry','Dorothy Walter')
 ;
 

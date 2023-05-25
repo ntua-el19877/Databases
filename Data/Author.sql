@@ -7,6 +7,12 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('9780801026874','Robert W. Yarbrough')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('9781457455407','James D. Ployhar')
 ;
 
@@ -20,6 +26,12 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('3010394189246','Peter Ratner')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781118128237','Richard Schmitt')
 ;
 
 Insert into Author
@@ -49,7 +61,7 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('8527462456836','Andrew John Wilde')
+('3410521589779','Richard J. Durling')
 ;
 
 Insert into Author
@@ -68,6 +80,12 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('4802699305197','Eung-Do Cook')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8446938180166','Edmund L. Epstein')
 ;
 
 Insert into Author
@@ -98,6 +116,12 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('7032507910760','J. Laughton Johnston')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781847674500','Robert Burns')
 ;
 
 Insert into Author
@@ -157,7 +181,31 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('7276931382468','Donald Ray Davis')
+('1183723144563','Richard Price')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('5866876408677','Ellen Bayuk Rosenman')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('3911313257930','Andrew Laurence Comrey')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('3911313257930','Thomas E. Backer')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('3911313257930','Edward Maynard Glaser')
 ;
 
 Insert into Author
@@ -217,18 +265,6 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('7677649946027','Bob Jones')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('7677649946027','Borat Perry')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('9781118493601','Emily M. Brown')
 ;
 
@@ -277,13 +313,13 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9783540664420','Jack-Michel Cornil')
+('9781466565739','Sebastien Le')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9783540664420','Philippe Testud')
+('9781466565739','Thierry Worch')
 ;
 
 Insert into Author
@@ -301,13 +337,7 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9781604131277','Gretel H. Schueller')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781604131277','Sheila K. Schueller')
+('1336391790351','American Society for Testing and Materials')
 ;
 
 Insert into Author
@@ -343,7 +373,19 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('7432419165320','New Zealand. Parliament. House of Representatives')
+('4518395195185','Daniel John Meador')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4518395195185','Thomas E. Baker')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4518395195185','Joan E. Steinman')
 ;
 
 Insert into Author
@@ -391,6 +433,18 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('8402219985994','Stephen Barker')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9783736727687','Rick Remender')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('9781568849003','Beth Slick')
 ;
 
@@ -398,18 +452,6 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('9781568849003','Steve Gerber')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4790110543078','Bob Smith')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4790110543078','Joseph Jackson')
 ;
 
 Insert into Author
@@ -439,12 +481,6 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('2281987089953','Francie Wolgin')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('1655075536069','Bernice Pauahi Bishop Museum')
 ;
 
@@ -469,79 +505,13 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9781420017113','Norman Uphoff')
+('5942741291408','Bob Smith')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9781420017113','Andrew S. Ball')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781420017113','Erick Fernandes')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781420017113','Hans Herren')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781420017113','Olivier Husson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781420017113','Mark Laing')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781420017113','Cheryl Palm')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781420017113','Jules Pretty')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781420017113','Pedro Sanchez')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781420017113','Nteranya Sanginga')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781420017113','Janice Thies')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2241938454411','Raymond Sauder Martin')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2241938454411','Elizabeth Sauder Martin')
+('5942741291408','Joseph Loukas')
 ;
 
 Insert into Author
@@ -589,13 +559,19 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('4243835834855','Jack Jones')
+('9179184195864','Jack Williams')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('4243835834855','Bill Jackson')
+('9179184195864','Joseph Jackson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7432384842915','American Association of Petroleum Geologists')
 ;
 
 Insert into Author
@@ -613,13 +589,37 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('1199768770505','Herbert Schildt')
+('1756784819931','Thomas W. Schultz')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('9788120311725','V. RAJARAMAN')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9695802507401','Bob Smith')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9695802507401','Borat Stark')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781111785437','Ron Larson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781111785437','Bruce H. Edwards')
 ;
 
 Insert into Author
@@ -632,6 +632,12 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('4792102495373','Library of Congress. Copyright Office')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7816401486590','Great Britain. Census Office')
 ;
 
 Insert into Author
@@ -667,7 +673,13 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('1552342606350','Mark P. Widrlechner')
+('2797648173861','Alice Williams')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2797648173861','Bill Perry')
 ;
 
 Insert into Author
@@ -691,13 +703,37 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9964489713174','Jack Smith')
+('9781493916139','W. Kim Halford')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9964489713174','Julius Stark')
+('9781493916139','Jemima Petch')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781493916139','Debra Creedy')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780691037561','Anthony W. Knapp')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780691037561','David A. Vogan, Jr.')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780691037561','David A. Vogan')
 ;
 
 Insert into Author
@@ -721,6 +757,12 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('9781602682429','Pamela K. Hill')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('3325419574408','Steve Tulliu')
 ;
 
@@ -733,7 +775,13 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('1392275054736','Australian Conciliation and Arbitration Commission')
+('9781498556217','John Morgan OConnell')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9004015897826','David Dunlap Observatory')
 ;
 
 Insert into Author
@@ -835,13 +883,19 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9781000886054','V. Sucharita')
+('9780821808511','Armand Borel')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('1897320476484','Stanford University. Department of Chemistry')
+('9780821808511','Nolan R. Wallach')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781611042139','Edith OGorman Auffrey')
 ;
 
 Insert into Author
@@ -860,18 +914,6 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('9781118105375','George H. Troughton')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781844079117','Mark W. McElroy')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781844079117','Jo van Engelen')
 ;
 
 Insert into Author
@@ -931,7 +973,19 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9781788397339','Anthony Fischetti')
+('4214173006592','Charlie Williams')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4214173006592','Bill Stark')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780071387378','Carlo DeVito')
 ;
 
 Insert into Author
@@ -944,6 +998,24 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('2586195843800','Robert W. Chambers')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780230626560','A. Geis')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780230626560','L. Brock')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780230626560','H. Mueller')
 ;
 
 Insert into Author
@@ -1021,19 +1093,55 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9781847032416','Marc van der Woude')
+('5190816227773','Inez Robb')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9781847032416','Christopher Jones')
+('9781458755957','Scott E. Spradlin')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9781847032416','Nicolas Charbit')
+('2630598468725','Graeme P. Maxton')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2630598468725','John Wormald')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2794076348355','Alice Williams')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2794076348355','Borat Stark')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9368169495253','Jack Williams')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9368169495253','Joseph Perry')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('5937164531041','Persi Diaconis')
 ;
 
 Insert into Author
@@ -1075,13 +1183,13 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('8871596802592','Columbia University. Teachers College. International Institute')
+('9781500329747','Harry. H. Chaudhary.')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9781500329747','Harry. H. Chaudhary.')
+('9780819191069','Bryan P. Stone')
 ;
 
 Insert into Author
@@ -1099,7 +1207,7 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('3343993443555','John Leo Moore')
+('3183862734033','Donald A. Drum')
 ;
 
 Insert into Author
@@ -1123,18 +1231,6 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('5422778111289','Bob Williams')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('5422778111289','Julius Loukas')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('9070875968183','Robert K. Kaufmann')
 ;
 
@@ -1153,7 +1249,13 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9781452212142','James H. Stronge')
+('8818443591566','Kurt Laue')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8818443591566','Helmut Stenger')
 ;
 
 Insert into Author
@@ -1201,7 +1303,7 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9781889545288','V. Alexander Stefan')
+('9389926014999','Federation of American Societies for Experimental Biology')
 ;
 
 Insert into Author
@@ -1214,18 +1316,6 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('6598354019550','Borat Perry')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781108750912','Sung W. Lee')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781108750912','Peter W. Chung')
 ;
 
 Insert into Author
@@ -1244,12 +1334,6 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('9780321067159','Nathan P. Ritchey')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2543664589491','Raymond Chapman')
 ;
 
 Insert into Author
@@ -1274,6 +1358,12 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('9781537497822','Trader X')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781514761267','Trader X')
 ;
 
 Insert into Author
@@ -1345,6 +1435,18 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('9780128202319','Alice Smith')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780128202319','Bill Stark')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('9890569218724','Charlie Johnson')
 ;
 
@@ -1352,6 +1454,18 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('9890569218724','Bill Stark')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7554002417959','Bob Williams')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7554002417959','Bill Jackson')
 ;
 
 Insert into Author
@@ -1370,12 +1484,6 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('9781489912954','D.R. James')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1524187592146','Brian OConnell')
 ;
 
 Insert into Author
@@ -1429,7 +1537,25 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('2756404075600','Ira A. Glazier')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2756404075600','Percy William Filby')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('9780738215501','Susan OBrien')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780525575078','Flannery OConnor')
 ;
 
 Insert into Author
@@ -1471,12 +1597,6 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9789601657660','A.S.A. Harrison')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('2862541278413','Jack Jones')
 ;
 
@@ -1484,30 +1604,6 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('2862541278413','Bill Jackson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1355341236322','Pat Chin')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1355341236322','Greg Dunkel')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1355341236322','Sara Flounders')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1355341236322','Kim Ives')
 ;
 
 Insert into Author
@@ -1525,6 +1621,12 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('9781585281077','Lawrence A. Trissel')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('9781296295936','W Samlet Williams')
 ;
 
@@ -1532,6 +1634,18 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('9781855069985','Robert J. Mayhew')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9283035716863','Charlie Smith')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9283035716863','Joseph Perry')
 ;
 
 Insert into Author
@@ -1567,25 +1681,19 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('8605900225030','Bernell Coleman')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8605900225030','James W. M. Fletcher')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8605900225030','Hubert F. Bonfili')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('4488053454911','Arthur Henry Robertson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('3722018098635','Charlie Johnson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('3722018098635','Borat Stark')
 ;
 
 Insert into Author
@@ -1609,19 +1717,7 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9780425172308','Donna Albrecht')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9788184002287','Deanne Panday')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781472526885','Tim Price')
+('9789353226152','Prakash Mishra')
 ;
 
 Insert into Author
@@ -1639,19 +1735,19 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9780226359441','R. Bruce Hull')
+('8071741481239','Alice Williams')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8071741481239','Julius Stark')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('9780691236230','Angela E. Douglas')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780470055984','Syed V. Ahamed')
 ;
 
 Insert into Author
@@ -1669,12 +1765,6 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9780140073973','Redmond OHanlon')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('9781441915764','Christian Robert')
 ;
 
@@ -1687,6 +1777,12 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('5583988007832','Manfred Stoll')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('3384847360741','Lev Ėrnestovich Ėlʹsgolʹt︠s︡')
 ;
 
@@ -1694,12 +1790,6 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('4570639026449','United States. Warren Commission')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1085934931874','Philip Attwood')
 ;
 
 Insert into Author
@@ -1723,6 +1813,12 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('1744186352671','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('1606260990664','James Clark Sherburne')
 ;
 
@@ -1736,6 +1832,12 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('2058891975865','Ann Zwinger')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('3365678793334','Washington (State). Legislature')
 ;
 
 Insert into Author
@@ -1766,18 +1868,6 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('9780821803400','Bill Jacob')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2970891692624','Bob Williams')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2970891692624','Borat Perry')
 ;
 
 Insert into Author
@@ -1831,24 +1921,6 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('7336593547783','Michael Dore')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2332494260496','Jack Johnson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2332494260496','Joseph Loukas')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('5437391319149','Dave Taylor')
 ;
 
@@ -1861,13 +1933,43 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9064363154053','Manon P. Charbonneau')
+('4163451179847','Melvil Dewey')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('6720433146318','Library of Congress')
+('4163451179847','Richard Rogers Bowker')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4163451179847','L. Pylodet')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4163451179847','Charles Ammi Cutter')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4163451179847','Bertine Emma Weston')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4163451179847','Karl Brown')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4163451179847','Helen E. Wessells')
 ;
 
 Insert into Author
@@ -1879,25 +1981,7 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9781509530786','Geoffrey K. Pullum')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('9781625216212','Connie Campbell Dierking')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781629899534','Shirley ONeil')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9789351295747','Suresh K. Sharma')
 ;
 
 Insert into Author
@@ -1939,13 +2023,13 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9780792364740','Lárus Thorlacius')
+('9781856047760','Mohamed Ally')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9780792364740','Thordur Jonsson')
+('9781856047760','Gill Needham')
 ;
 
 Insert into Author
@@ -1975,13 +2059,13 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9780810396814','Arsen Darnay')
+('9308628575111','John Whicher')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9308628575111','John Whicher')
+('2087286548608','J Brennan')
 ;
 
 Insert into Author
@@ -2018,6 +2102,12 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('4062324467946','Joel Fischer')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8046093841534','University of South Africa')
 ;
 
 Insert into Author
@@ -2083,6 +2173,18 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('9780130129512','Katie Layman')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780130129512','LaVaughn Hart')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('9646787627030','Philip P. Betancourt')
 ;
 
@@ -2096,12 +2198,6 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('9781136935305','Temitope W Oshikoya')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8384701687048','India (Republic). Dept. of Commercial Intelligence and Statistics')
 ;
 
 Insert into Author
@@ -2149,67 +2245,13 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9781000494860','Susan, K. Johnsen')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781000494860','Debbie Dailey')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781000494860','Alicia Cotabish')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('9781841491349','Laurell K. Hamilton')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('5221509491060','Bob Smith')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('5221509491060','Joseph Loukas')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8160634951811','Charlie Smith')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8160634951811','Joseph Jackson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4254782678638','K. Thirusangu')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4254782678638','S. Poornavel')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4254782678638','R. Vasuki')
+('9780195373363','Andrew L Sihler')
 ;
 
 Insert into Author
@@ -2222,18 +2264,6 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('4190242034766','Grant Morrison')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('7341088594034','Bob Johnson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('7341088594034','Borat Loukas')
 ;
 
 Insert into Author
@@ -2275,6 +2305,12 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('9789600310092','Λέων Τολστόι')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('9789264028449','OECD')
 ;
 
@@ -2287,25 +2323,31 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('7006237746946','Helmut Greim')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('5851317745526','Guy R. Lefrançois')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('6440400104879','Bob Jones')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('6440400104879','Borat Perry')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('2987928153650','Elizabeth Doherty Herzfeld')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2093669533626','Charlie Johnson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2093669533626','Julius Perry')
 ;
 
 Insert into Author
@@ -2329,6 +2371,12 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('9949551473019','David Chudnovsky')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('9780327168836','Laird C. Kirkpatrick')
 ;
 
@@ -2342,6 +2390,12 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('9781107378940','Natalia M. Pylaeva')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4967608260888','A. Schrijver')
 ;
 
 Insert into Author
@@ -2401,24 +2455,6 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9100501993211','Charlie Williams')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9100501993211','Borat Perry')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780198751472','Dominic J. OMeara')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('9781351996402','Gavin OToole')
 ;
 
@@ -2461,31 +2497,7 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('8778086134544','S. Mahmood Naqvi')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8778086134544','John James William Rogers')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780958103404','Fred Williams')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9526801292608','Eugene F. Scoles')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('7507894078741','Institution of Mechanical Engineers (Great Britain)')
+('1162996415386','Werner Boecker')
 ;
 
 Insert into Author
@@ -2497,19 +2509,37 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('8017305502370','Jack Smith')
+('8859713910210','Royal Irish Academy')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('8017305502370','Julius Stark')
+('3084374407813','Alice Johnson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('3084374407813','Julius Perry')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9788131760314','Ashok N. Kamthane')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('4547518441006','Ana Castillo')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('5970608212755','Michigan')
 ;
 
 Insert into Author
@@ -2533,43 +2563,19 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9780849359835','Jim C. Williams')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780849359835','Herbert A. Thompson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9783764360498','Brian J. Mitchell')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9783764360498','Barbara Romanowicz')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('9780429894923','David Gerbing')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9789811942709','Wei Li')
+('5217554351279','Susa Condliffe')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9789811942709','Yuefei Sui')
+('9442594687793','W. H. Andrews')
 ;
 
 Insert into Author
@@ -2581,7 +2587,25 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('6412036499604','Murray L. Weidenbaum')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780071436182','William H. Pivar')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('5919170476531','Unesco. General Conference')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781635503029','Peter Flipsen Jr.')
 ;
 
 Insert into Author
@@ -2593,7 +2617,13 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('6198802769121','Denki Tsūshin Kenkyūjo (Japan)')
+('5798169864378','Alice Williams')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('5798169864378','Julius Loukas')
 ;
 
 Insert into Author
@@ -2605,7 +2635,43 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('1123728624206','Sunder Magun')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1123728624206','Canada. Industry Canada')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('9780191620607','Gerald OCollins')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781559637121','Brent M. Haddad')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1221946840480','Noriichi Mano')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1221946840480','Ikuma Hamada')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1221946840480','Mahlon R. DeLong')
 ;
 
 Insert into Author
@@ -2630,6 +2696,18 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('8898432740002','Joseph Jackson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('6961757461482','Alice Johnson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('6961757461482','Julius Loukas')
 ;
 
 Insert into Author
@@ -2701,12 +2779,6 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('8434486530641','Canada. Parliament')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('2509706194268','J.G. Carter')
 ;
 
@@ -2726,6 +2798,18 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('5228540756316','Eleonora Patacchini')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780472113552','Vernon W. Ruttan')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780472113552','Regents Professor in the Department of Applied Economics and in the Department of Economics Vernon W Ruttan')
 ;
 
 Insert into Author
@@ -2755,7 +2839,7 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('3649168884223','Bruce J. Berne')
+('5166324601174','New Zealand. Customs Department')
 ;
 
 Insert into Author
@@ -2768,12 +2852,6 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('2064393478751','Julius Perry')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781934454077','David B. Loeper')
 ;
 
 Insert into Author
@@ -2810,6 +2888,24 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('9780135689813','Susan McMurry')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781712860700','Something Extra')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8731262073824','Christopher W. Carroll')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781664295131','Michael J. Waggoner')
 ;
 
 Insert into Author
@@ -2923,12 +3019,6 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9781462516315','Rollanda E. OConnor')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('7584854303064','Pennsylvania State University. Mineral Industries Experiment Station')
 ;
 
@@ -2977,37 +3067,7 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('6695695750543','Charlie Smith')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('6695695750543','Julius Stark')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9328807864645','Eberhard König')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780312180508','Frank OConnor')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('2820182207572','Connecticut. Board of Finance and Control')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2655377408456','Hugh Oakley')
 ;
 
 Insert into Author
@@ -3020,12 +3080,6 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('3959761625206','Richard De Brisay')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781891105609','Camilla V. Saulsbury')
 ;
 
 Insert into Author
@@ -3097,19 +3151,13 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('8526552276284','Jack Johnson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8526552276284','Joseph Stark')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('9781317917366','Anthony OHear')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8742245958366','Sampson Low')
 ;
 
 Insert into Author
@@ -3133,6 +3181,12 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('9781507685563','Trader X')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('9781317586838','Harold J. Laski')
 ;
 
@@ -3151,6 +3205,12 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('9781633551701','O. Henry')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('7460556809254','Kenneth H. Brink')
 ;
 
@@ -3163,19 +3223,19 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9780520073746','W. Kendrick Pritchett')
+('9780190255039','Matthew V. Novenson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781786633682','Perry Anderson')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('9781119387749','John W. Schwieter')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9783030525316','Fiona ONeill')
 ;
 
 Insert into Author
@@ -3193,6 +3253,18 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('9781421422718','George S. Everly Jr.')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781421422718','Jeffrey M. Lating')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('4097794389367','Alice Williams')
 ;
 
@@ -3205,18 +3277,6 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('1913934642909','Jack Johnson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1913934642909','Bill Jackson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('8267783246568','Thomas G. Wack')
 ;
 
@@ -3224,6 +3284,36 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('9783319672687','Mary R. Tahan')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8192025725106','Frank OConnor')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7006837646132','Charles E. Brownell')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7954709590878','R. Buccheri')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7954709590878','Jan van Paradijs')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7954709590878','M. A. Alpar')
 ;
 
 Insert into Author
@@ -3259,19 +3349,7 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('8832616673365','Minnesota. Secretary of State')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('9781481451789','Franklin W. Dixon')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8000520970880','B. L. Farjeon')
 ;
 
 Insert into Author
@@ -3289,6 +3367,12 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('9781922602350','Friedrich List')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('6306572532933','Jack Williams')
 ;
 
@@ -3301,13 +3385,7 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('3685738059399','Alice Williams')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('3685738059399','Julius Perry')
+('9780978927035','David M. Sokol')
 ;
 
 Insert into Author
@@ -3325,37 +3403,19 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('6644809142395','James Madison')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('6595438145602','Rosalind Fergusson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('9781524601485','Michael D. Andrew')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('3754107705670','United States. Office of International Energy Affairs')
+('3869691509816','Bob Williams')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('3477429766330','Theophilus G. Pinches')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('6925192377369','Younkyoo Kim')
+('3869691509816','Bill Perry')
 ;
 
 Insert into Author
@@ -3368,6 +3428,18 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('9780170364348','Dean Minett')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1865412971788','Jack Smith')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1865412971788','Borat Perry')
 ;
 
 Insert into Author
@@ -3427,36 +3499,6 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9781015515345','W. Morgan Shuster')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780133445855','Stephen P. Robbins')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780133445855','Martha I. Finney')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780133445855','James ORourke')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780133445855','William S. Kane')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('8000486343676','Robin MacKenzie')
 ;
 
@@ -3476,6 +3518,12 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('9780393315387','Patrick OBrian')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2056065554756','Walter Braddock Hickman')
 ;
 
 Insert into Author
@@ -3571,12 +3619,6 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9781317010470','Paul D. Molnar')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('4482824828288','Charlie Jones')
 ;
 
@@ -3590,12 +3632,6 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('9798651056033','Jerome K Jerome')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2827833055766','American Proctologic Society')
 ;
 
 Insert into Author
@@ -3649,6 +3685,12 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('9780811750585','Samuel W. Mitcham Jr.')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('9780465076192','George F. Custen')
 ;
 
@@ -3668,6 +3710,12 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('9780070954922','Mark A. Lovewell')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1348331681222','United States')
 ;
 
 Insert into Author
@@ -3703,43 +3751,13 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9781440841347','Patricia A. Messner')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781440841347','Brenda S. Copeland')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('9781003284741','Marion E. Marshall')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9780062565723','Tim OReilly')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780786417018','James H. Wittebols')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2020577020768','Charlie Johnson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2020577020768','Joseph Perry')
+('6356624217003','Teunis A. P. Kwak')
 ;
 
 Insert into Author
@@ -3757,36 +3775,6 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('7419329756101','Jack Williams')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('7419329756101','Borat Stark')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781438979069','LeRoy R. Maleck')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781438979069','Leroy R. Maleck O.D.')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9789059723443','Cees H. Goekoop')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
 ('9781097533190','Anteup Poker Player Journals')
 ;
 
@@ -3794,12 +3782,6 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('3962739542193','William J. Gedney')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('5712225515025','William J. Gedney')
 ;
 
 Insert into Author
@@ -3818,924 +3800,6 @@ Insert into Author
 (`ISBN`,`AuthorName`)
 Values
 ('5088410528789','Borat Perry')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780333983713','S. Shortall')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9266106939334','Elfan Ap Rees')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780691155678','Jeremy Adelman')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1592025534234','Robert S. Lai')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1592025534234','Waite Group')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9789601647869','Masha Gessen')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9791220291989','Τάκης Πέρκιζας')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9791220294010','Τάκης Πέρκιζας')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9789601659497','Γκλυν Άιλιφ')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9789601655932','Εδουάρδ Εστιβίλ')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9791220274029','Μιχάλης Ντουνέτας')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9786180323948','You-Jeong Jeong')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4670047440356','Arturo Schwarz')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4670047440356','Mordecai Ardon')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4670047440356','Muzeon Yisrael')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9096085350159','تماري، سليم')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9735532382518','张学英')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780801026874','Robert W. Yarbrough')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781118128237','Richard Schmitt')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8843122548229','Royal Anthropological Institute of Great Britain and Ireland. Library')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8843122548229','Sir Richard Francis Burton')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781119080022','Samuel E. Buttrey')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781119080022','Lyn R. Whitaker')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('3410521589779','Richard J. Durling')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8446938180166','Edmund L. Epstein')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781725257511','Robert C. Koons')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781847674500','Robert Burns')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1183723144563','Richard Price')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('3911313257930','Andrew Laurence Comrey')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('3911313257930','Thomas E. Backer')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('3911313257930','Edward Maynard Glaser')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9783110567397','Athenaeus Naucratites')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781466565739','Sebastien Le')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781466565739','Thierry Worch')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4518395195185','Daniel John Meador')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4518395195185','Thomas E. Baker')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4518395195185','Joan E. Steinman')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2344482497479','Jack Smith')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2344482497479','Borat Jackson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2895030282206','Bob Johnson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2895030282206','Bill Jackson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9783736727687','Rick Remender')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9179184195864','Jack Williams')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9179184195864','Joseph Jackson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1756784819931','Thomas W. Schultz')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4420268451608','Charlotte K Lowrie')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('7816401486590','Great Britain. Census Office')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2797648173861','Alice Williams')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2797648173861','Bill Perry')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780691037561','Anthony W. Knapp')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780691037561','David A. Vogan, Jr.')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780691037561','David A. Vogan')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('3817439810086','Ross Rueger')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('3817439810086','David C. Cohen')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780821808511','Armand Borel')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780821808511','Nolan R. Wallach')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781611042139','Edith OGorman Auffrey')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780230626560','A. Geis')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780230626560','L. Brock')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780230626560','H. Mueller')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8303401589159','Kenny R. Burck')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('5190816227773','Inez Robb')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781458755957','Scott E. Spradlin')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2630598468725','Graeme P. Maxton')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2630598468725','John Wormald')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2794076348355','Alice Williams')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2794076348355','Borat Stark')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9368169495253','Jack Williams')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9368169495253','Joseph Perry')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('5937164531041','Persi Diaconis')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('3183862734033','Donald A. Drum')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8818443591566','Kurt Laue')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8818443591566','Helmut Stenger')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9389926014999','Federation of American Societies for Experimental Biology')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781514761267','Trader X')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780128202319','Alice Smith')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780128202319','Bill Stark')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('7554002417959','Bob Williams')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('7554002417959','Bill Jackson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2756404075600','Ira A. Glazier')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2756404075600','Percy William Filby')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780525575078','Flannery OConnor')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9789600308297','Αλέξανδρος Δουμάς (υιός)')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781585281077','Lawrence A. Trissel')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9283035716863','Charlie Smith')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9283035716863','Joseph Perry')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780202303444','Norman K. Denzin')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('3722018098635','Charlie Johnson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('3722018098635','Borat Stark')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8071741481239','Alice Williams')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8071741481239','Julius Stark')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9789004229129','Benjamin Millis')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9789004229129','Douglas Olson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('5583988007832','Manfred Stoll')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1744186352671','United States. Congress. Senate. Committee on Public Works. Subcommittee on Public Buildings and Grounds')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('3365678793334','Washington (State). Legislature')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4163451179847','Melvil Dewey')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4163451179847','Richard Rogers Bowker')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4163451179847','L. Pylodet')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4163451179847','Charles Ammi Cutter')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4163451179847','Bertine Emma Weston')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4163451179847','Karl Brown')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4163451179847','Helen E. Wessells')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780080510514','Richard Walters')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781856047760','Mohamed Ally')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781856047760','Gill Needham')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9880142375037','Samuel A. Litt')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2087286548608','J Brennan')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8046093841534','University of South Africa')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780130129512','Katie Layman')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780130129512','LaVaughn Hart')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('5345523076199','Organisation for Economic Co-operation and Development')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('7627676437591','Charlie Williams')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('7627676437591','Julius Loukas')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9789600310092','Λέων Τολστόι')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('6440400104879','Bob Jones')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('6440400104879','Borat Perry')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9949551473019','David Chudnovsky')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4967608260888','A. Schrijver')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1162996415386','Werner Boecker')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9178180696511','Jashwant B. Mehta')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8859713910210','Royal Irish Academy')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9788131760314','Ashok N. Kamthane')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('5970608212755','Michigan')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('5217554351279','Susa Condliffe')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9442594687793','W. H. Andrews')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('6412036499604','Murray L. Weidenbaum')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780071436182','William H. Pivar')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781559637121','Brent M. Haddad')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4803294578242','Canada. Parliament')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780472113552','Vernon W. Ruttan')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780472113552','Regents Professor in the Department of Applied Economics and in the Department of Economics Vernon W Ruttan')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('5166324601174','New Zealand. Customs Department')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781712860700','Something Extra')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8731262073824','Christopher W. Carroll')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781841593210','Frank OConnor')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781788771405','L. Frank Baum')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8742245958366','Sampson Low')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781507685563','Trader X')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781633551701','O. Henry')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780190255039','Matthew V. Novenson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8103504625193','Olivia Lelong')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8103504625193','Gavin MacGregor')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8192025725106','Frank OConnor')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('7006837646132','Charles E. Brownell')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781922602350','Friedrich List')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780978927035','David M. Sokol')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1865412971788','Jack Smith')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1865412971788','Borat Perry')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('2056065554756','Walter Braddock Hickman')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1348331681222','United States')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1538603070876','Trevor C. Salmon')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('6356624217003','Teunis A. P. Kwak')
 ;
 
 Insert into Author
@@ -4771,6 +3835,12 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
+('9780333983713','S. Shortall')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
 ('7750546535627','Alice Smith')
 ;
 
@@ -4783,301 +3853,13 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('7715846698488','Indiana. Division of Accounting and Statistics')
+('1592025534234','Robert S. Lai')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9786180302950','Paul Auster')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('7204509298220','Isao Yajima')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('6126663207309','Alice Johnson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('6126663207309','Julius Loukas')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1125115413293','Richard Raskin')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('5866876408677','Ellen Bayuk Rosenman')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('8402219985994','Stephen Barker')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9695802507401','Bob Smith')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9695802507401','Borat Stark')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781493916139','W. Kim Halford')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781493916139','Jemima Petch')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781493916139','Debra Creedy')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781602682429','Pamela K. Hill')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781624427923','Carson-Dellosa Publishing')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9004015897826','David Dunlap Observatory')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4214173006592','Charlie Williams')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4214173006592','Bill Stark')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780071387378','Carlo DeVito')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781416925835','Franklin W. Dixon')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9789605725396','Anthony Marra')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9789353226152','Prakash Mishra')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780195373363','Andrew L Sihler')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('7006237746946','Helmut Greim')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4146912208873','Charlie Williams')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('4146912208873','Julius Perry')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781635503029','Peter Flipsen Jr.')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('5798169864378','Alice Williams')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('5798169864378','Julius Loukas')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1123728624206','Sunder Magun')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1123728624206','Canada. Industry Canada')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1221946840480','Noriichi Mano')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1221946840480','Ikuma Hamada')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1221946840480','Mahlon R. DeLong')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('6961757461482','Alice Johnson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('6961757461482','Julius Loukas')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781664295131','Michael J. Waggoner')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781559631471','Stephen R. Kellert')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781559631471','Edward O. Wilson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781786633682','Perry Anderson')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781421422718','George S. Everly Jr.')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9781421422718','Jeffrey M. Lating')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('7369633321814','Laurence M. Lasater')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('7954709590878','R. Buccheri')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('7954709590878','Jan van Paradijs')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('7954709590878','M. A. Alpar')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('3869691509816','Bob Williams')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('3869691509816','Bill Perry')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('1074359593248','Kathleen L. Scott')
-;
-
-Insert into Author
-(`ISBN`,`AuthorName`)
-Values
-('9780811750585','Samuel W. Mitcham Jr.')
+('1592025534234','Waite Group')
 ;
 
 Insert into Author
@@ -5095,60 +3877,1272 @@ Values
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('1336391790351','American Society for Testing and Materials')
+('9789601647869','Masha Gessen')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('7432384842915','American Association of Petroleum Geologists')
+('9791220291989','Τάκης Πέρκιζας')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9781498556217','John Morgan OConnell')
+('9791220294010','Τάκης Πέρκιζας')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9780819191069','Bryan P. Stone')
+('9789601659497','Γκλυν Άιλιφ')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('3084374407813','Alice Johnson')
+('9789601655932','Εδουάρδ Εστιβίλ')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('3084374407813','Julius Perry')
+('9786180323948','You-Jeong Jeong')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('5942741291408','Bob Smith')
+('9096085350159','تماري، سليم')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('5942741291408','Joseph Loukas')
+('6126663207309','Alice Johnson')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9781111785437','Ron Larson')
+('6126663207309','Julius Loukas')
 ;
 
 Insert into Author
 (`ISBN`,`AuthorName`)
 Values
-('9781111785437','Bruce H. Edwards')
+('8843122548229','Royal Anthropological Institute of Great Britain and Ireland. Library')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8843122548229','Sir Richard Francis Burton')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1125115413293','Richard Raskin')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781119080022','Samuel E. Buttrey')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781119080022','Lyn R. Whitaker')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781725257511','Robert C. Koons')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7276931382468','Donald Ray Davis')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9783110567397','Athenaeus Naucratites')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7677649946027','Bob Jones')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7677649946027','Borat Perry')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781604131277','Gretel H. Schueller')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781604131277','Sheila K. Schueller')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7432419165320','New Zealand. Parliament. House of Representatives')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2895030282206','Bob Johnson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2895030282206','Bill Jackson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4790110543078','Bob Smith')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4790110543078','Joseph Jackson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781420017113','Norman Uphoff')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781420017113','Andrew S. Ball')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781420017113','Erick Fernandes')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781420017113','Hans Herren')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781420017113','Olivier Husson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781420017113','Mark Laing')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781420017113','Cheryl Palm')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781420017113','Jules Pretty')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781420017113','Pedro Sanchez')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781420017113','Nteranya Sanginga')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781420017113','Janice Thies')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4243835834855','Jack Jones')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4243835834855','Bill Jackson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1199768770505','Herbert Schildt')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4420268451608','Charlotte K Lowrie')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9964489713174','Jack Smith')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9964489713174','Julius Stark')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('3817439810086','Ross Rueger')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('3817439810086','David C. Cohen')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781000886054','V. Sucharita')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1897320476484','Stanford University. Department of Chemistry')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781844079117','Mark W. McElroy')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781844079117','Jo van Engelen')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781416925835','Franklin W. Dixon')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781788397339','Anthony Fischetti')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8303401589159','Kenny R. Burck')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781847032416','Marc van der Woude')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781847032416','Christopher Jones')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781847032416','Nicolas Charbit')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('3343993443555','John Leo Moore')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781889545288','V. Alexander Stefan')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781108750912','Sung W. Lee')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781108750912','Peter W. Chung')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1524187592146','Brian OConnell')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9789605725396','Anthony Marra')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9789600308297','Αλέξανδρος Δουμάς (υιός)')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9789601657660','A.S.A. Harrison')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1355341236322','Pat Chin')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1355341236322','Greg Dunkel')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1355341236322','Sara Flounders')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1355341236322','Kim Ives')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780202303444','Norman K. Denzin')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8605900225030','Bernell Coleman')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8605900225030','James W. M. Fletcher')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8605900225030','Hubert F. Bonfili')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780425172308','Donna Albrecht')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9788184002287','Deanne Panday')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781472526885','Tim Price')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780226359441','R. Bruce Hull')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9789004229129','Benjamin Millis')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9789004229129','Douglas Olson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780470055984','Syed V. Ahamed')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780140073973','Redmond OHanlon')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2970891692624','Bob Williams')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2970891692624','Borat Perry')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7336593547783','Michael Dore')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2332494260496','Jack Johnson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2332494260496','Joseph Loukas')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9064363154053','Manon P. Charbonneau')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('6720433146318','Library of Congress')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9789351295747','Suresh K. Sharma')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780080510514','Richard Walters')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9880142375037','Samuel A. Litt')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8384701687048','India (Republic). Dept. of Commercial Intelligence and Statistics')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('5345523076199','Organisation for Economic Co-operation and Development')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('5221509491060','Bob Smith')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('5221509491060','Joseph Loukas')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8160634951811','Charlie Smith')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8160634951811','Joseph Jackson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4254782678638','K. Thirusangu')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4254782678638','S. Poornavel')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4254782678638','R. Vasuki')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7627676437591','Charlie Williams')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7627676437591','Julius Loukas')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7341088594034','Bob Johnson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7341088594034','Borat Loukas')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2093669533626','Charlie Johnson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2093669533626','Julius Perry')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4146912208873','Charlie Williams')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4146912208873','Julius Perry')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780198751472','Dominic J. OMeara')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8778086134544','S. Mahmood Naqvi')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8778086134544','John James William Rogers')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9178180696511','Jashwant B. Mehta')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780958103404','Fred Williams')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9526801292608','Eugene F. Scoles')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8017305502370','Jack Smith')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8017305502370','Julius Stark')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780849359835','Jim C. Williams')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780849359835','Herbert A. Thompson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9783764360498','Brian J. Mitchell')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9783764360498','Barbara Romanowicz')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9789811942709','Wei Li')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9789811942709','Yuefei Sui')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('6198802769121','Denki Tsūshin Kenkyūjo (Japan)')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4803294578242','Canada. Parliament')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8434486530641','Canada. Parliament')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('3649168884223','Bruce J. Berne')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781934454077','David B. Loeper')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781462516315','Rollanda E. OConnor')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('6695695750543','Charlie Smith')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('6695695750543','Julius Stark')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9328807864645','Eberhard König')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781841593210','Frank OConnor')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780312180508','Frank OConnor')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781559631471','Stephen R. Kellert')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781559631471','Edward O. Wilson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781788771405','L. Frank Baum')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2655377408456','Hugh Oakley')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781891105609','Camilla V. Saulsbury')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8526552276284','Jack Johnson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8526552276284','Joseph Stark')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8832616673365','Minnesota. Secretary of State')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8000520970880','B. L. Farjeon')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('3685738059399','Alice Williams')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('3685738059399','Julius Perry')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('6644809142395','James Madison')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('6595438145602','Rosalind Fergusson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('3754107705670','United States. Office of International Energy Affairs')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('3477429766330','Theophilus G. Pinches')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('6925192377369','Younkyoo Kim')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781015515345','W. Morgan Shuster')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780133445855','Stephen P. Robbins')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780133445855','Martha I. Finney')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780133445855','James ORourke')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780133445855','William S. Kane')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781317010470','Paul D. Molnar')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1074359593248','Kathleen L. Scott')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1538603070876','Trevor C. Salmon')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781440841347','Patricia A. Messner')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781440841347','Brenda S. Copeland')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780062565723','Tim OReilly')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780786417018','James H. Wittebols')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7419329756101','Jack Williams')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7419329756101','Borat Stark')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781438979069','LeRoy R. Maleck')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781438979069','Leroy R. Maleck O.D.')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9789059723443','Cees H. Goekoop')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('5712225515025','William J. Gedney')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9266106939334','Elfan Ap Rees')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7715846698488','Indiana. Division of Accounting and Statistics')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9786180302950','Paul Auster')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9791220274029','Μιχάλης Ντουνέτας')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7204509298220','Isao Yajima')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9735532382518','张学英')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8527462456836','Andrew John Wilde')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9783540664420','Jack-Michel Cornil')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9783540664420','Philippe Testud')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2281987089953','Francie Wolgin')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2241938454411','Raymond Sauder Martin')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2241938454411','Elizabeth Sauder Martin')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1552342606350','Mark P. Widrlechner')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781624427923','Carson-Dellosa Publishing')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1392275054736','Australian Conciliation and Arbitration Commission')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8871596802592','Columbia University. Teachers College. International Institute')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('5422778111289','Bob Williams')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('5422778111289','Julius Loukas')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781452212142','James H. Stronge')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2543664589491','Raymond Chapman')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781509530786','Geoffrey K. Pullum')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781629899534','Shirley ONeil')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780792364740','Lárus Thorlacius')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780792364740','Thordur Jonsson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780810396814','Arsen Darnay')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781000494860','Susan, K. Johnsen')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781000494860','Debbie Dailey')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9781000494860','Alicia Cotabish')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9100501993211','Charlie Williams')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9100501993211','Borat Perry')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780520073746','W. Kendrick Pritchett')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9783030525316','Fiona ONeill')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1913934642909','Jack Johnson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1913934642909','Bill Jackson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8103504625193','Olivia Lelong')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('8103504625193','Gavin MacGregor')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('7369633321814','Laurence M. Lasater')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2020577020768','Charlie Johnson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2020577020768','Joseph Perry')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('9780691155678','Jeremy Adelman')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4670047440356','Arturo Schwarz')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4670047440356','Mordecai Ardon')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('4670047440356','Muzeon Yisrael')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2344482497479','Jack Smith')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2344482497479','Borat Jackson')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('1085934931874','Philip Attwood')
+;
+
+Insert into Author
+(`ISBN`,`AuthorName`)
+Values
+('2827833055766','American Proctologic Society')
 ;
 
