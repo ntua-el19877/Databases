@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T00:20:57.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="TI6_5TqzLzyraApGjKDE" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T00:25:29.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="WWObeqeQbp6L7THh2rtR" version="21.3.3" type="github">
   <diagram name="Σελίδα-1" id="zOCQZcjmYUrIdOuTZQAy">
-    <mxGraphModel dx="1841" dy="2168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2765" dy="2657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,13 +82,13 @@
           <mxGeometry y="50" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="oJ1XokG1mtXctFdXL_2H-55" value="Views" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="390" y="160" width="160" height="90" as="geometry" />
+          <mxGeometry x="550" y="160" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oJ1XokG1mtXctFdXL_2H-56" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;User_id (FK)&lt;/u&gt;&lt;/b&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Book_id&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;b&gt;&lt;u&gt;(FK)&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="oJ1XokG1mtXctFdXL_2H-55" vertex="1">
           <mxGeometry y="50" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oJ1XokG1mtXctFdXL_2H-67" value="Reservation" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="460" y="270" width="160" height="150" as="geometry" />
+          <mxGeometry x="550" y="270" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="oJ1XokG1mtXctFdXL_2H-68" value="&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;User_id (FK)&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Book_id (FK)&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Reservation_id&lt;/b&gt;&lt;br&gt;ReservationDate&lt;br&gt;ExpirationDate&lt;br&gt;Active" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="oJ1XokG1mtXctFdXL_2H-67" vertex="1">
           <mxGeometry y="50" width="160" height="100" as="geometry" />
