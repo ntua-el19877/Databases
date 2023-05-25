@@ -19,19 +19,19 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('8843122548229','Sir Richard Burton left a large working library at the time of his death in 1890. This library, formerly held by the Royal Anthropological Institute, London, is now at the Huntington Library. The catalogue lists the more than 2500 books, pamphlets, collections, and manuscripts that make up the archive.')
+('3010394189246','3-D Human Modeling and Animation fills a tremendous void that has become even more evident with the successful use of 3-D in movies like Disneys Toy Story. While there has been much written about drawing the human form in relation to art, commercial design, and 2-D cartooning, the subject of 3-D modeling and animation of the human form has been neglected at the same time that the use of 3-D tools has been exploding. It is my judgment that [this] book will become the reference that professional and student artists and animators turn to in order to master one of the most challenging yet exciting subjects to model and animate-the human form. -Nick Pavlovic, CEO, Visual Information Development, Inc., Monrovia, CA Ideal for graphic designers, artists, and others, 3-D Human Modeling and Animation builds a bridge from traditional figure drawing, painting, and sculpture to the creation and animation of figures using computer technology. With a step-by-step approach, the book leads readers through the process of modeling human figures, with specific yet flexible techniques that can be applied to many different hardware/software setups. Separate chapters cover different areas of the body, and contain everything readers need to know about proportion, basic design strategies, 3-D construction methods, and other essential information. The final chapters show how to prepare figures for animation and get them up and running-and jumping, walking, turning, and twisting! Complete with illustrations, helpful exercises, and more, 3-D Human Modeling and Animation opens up a whole new world of creative possibilities to explore.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('1125115413293','This may well be the first book devoted to a single photograph. And surely no photo is more deserving of a comprehensive study than this one, widely considered the most striking and unforgettable image we have of the Holocaust.')
+('9781118128237','For many, retirement has become increasingly difficult to both attain and afford. But there is a way todays 401(k) participant, as well as those contributing to similar retirement savings plans, can turn their retirement dreams into reality. With over twenty-five years of experience consulting on retirement plans, author Richard Schmitt knows what it takes to make the most of them, and now, in 401(k) Day Trading: The Art of Cashing in on a Shaky Market in Minutes a Day, he shows you how. Divided into four comprehensive parts, this reliable resource takes you step-by-step through the environment, rationale, and process of day trading your retirement portfolio in minutes a day. It skillfully outlines an approach to buying low and selling high through daily fund exchanges—that draws on many of the fundamental principles of investment management—to exploit daily market volatility.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('7671795814878','A collection of essays on Christian-Muslim relations by one of the worlds leading experts.')
+('9781014914736','This work has been selected by scholars as being culturally important and is part of the knowledge base of civilization as we know it. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. To ensure a quality reading experience, this work has been proofread and republished using a format that seamlessly blends the original graphical elements with text in an easy-to-read typeface. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.')
 ;
 
 Insert into Summary
@@ -56,6 +56,12 @@ Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('3410521589779','This work studies the vocabulary of Galen, a physician in the 2nd century A.D., as culled from his voluminous works. It covers a wide field in diet, drugs and surgery. It is essential for the study of medical Greek.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('8527462456836','This monograph is concerned with the study of Dual Boundary Element formulation using continuous elements in three dimensions and its application to the analysis of fracture problems and crack growth. Formulations for modelling geomechanical fracture are also presented.')
 ;
 
 Insert into Summary
@@ -133,7 +139,7 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('1183723144563','A Review of the Principal Questions in Morals')
+('5798719231991','A legendary figure among the Auden generation’ of young writers in the 1930s, Edward Upward continuted writing into his late nineties. This new selection of his best short stories spans a literary career of almost eight decades, and was published to celebrate his centenary in 2003. Beginning in 1928 with the fantastical world of Mortmere in The Railway Accident, the stories continue through the era of political engagement in the Thirties to the reflective and poignant studies of old age that have underpinned his revival in the past decade. Together they represent a lifetime of achievement in modern literature.')
 ;
 
 Insert into Summary
@@ -151,6 +157,12 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('7504333888110','In this report, techniques are described for the preparation of samples of organic matter from geological formations whereby ash contents can be lowered to a level where reliable property measurements can usually be obtained. Property measurements were made on a wide variety of samples which vary in structure from aliphatic to graphitic types. The properties measured include: elemental analysis, volatile matter content, refractive index, density, solubility in carbon disulphide, and infrared spectra--Abstract')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('7699762726243','A taste Of Blood is a definitive study which not only chronicles Lewis career as the master of exploitation, but also contains interviews with him and many of his former collaborators, including David F Friedman, Bill Rogers, Daniel Krogh, Mal Arnold and Hedda Lubin. These are interwoven with commentary, extremely rare photographs, ad mats, production stills, posters, and thorough synopsis of each Lewis three dozen influential films.')
 ;
 
@@ -158,18 +170,6 @@ Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('9783110567397','This new critical edition of Athenaeus’ Deipnosophists (The Learned Banqueters) replaces that of Kaibel. A separate, parallel edition of the Epitome is included, as is extensive documentation of cognate or derivative material in authors such as Aelian and Eustathius. The text is based on far more extensive manuscript work than Kaibel’s edition was, and treats the Epitome manuscripts as substantial and important witnesses to the text.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('7935680262722','Vols. for 1917/18- contain reports of the following departments: Dept. of Finance, Dept. of Agriculture, Dept. of Labor, Dept. of Mines and Minerals, Dept. of Public Works and Buildings, Dept. of Public Welfare, Dept. of Public Health, Dept. of Trade and Commerce, Dept. of Registration and Education, Military nd Naval Dept.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('2856186245945','An international quarterly devoted to the physiological, psychological, psychiatric, sociological, and educational aspects of the second decade of human life.')
 ;
 
 Insert into Summary
@@ -193,13 +193,19 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('9781612513027','In a high-tempo series of operations throughout the Black Sea, Aegean Sea and eastern Mediterranean, a small American fleet of destroyers and other naval vessels responded ably to several major international crises including the last days of the Russian Revolution and the 1920-1922 Turkish Nationalist Revolution. Officers and men of the navys four-piper destroyers began by investigating circumstances on the ground in mainland Turkey right after World War I, and by transporting American relief teams to ports throughout Turkey and Southern Russia to aid the tens of thousands of orphans and refugees who had survived the wartime Armenian genocide. Then the destroyers assisted in the final evacuation of 150,000 White Russians from the Crimea to Constantinople (one of the final acts of the Russian Revolution); coordinated the visits of the Hoover grain ships to ports in Southern Russia where millions were enduring a horrendous famine; witnessed and reported on the terrible dolorosa of the Greeks of the Pontus regious of Turkey; and, in September of 1922, conducted the evacuation of hundreds of thousands of Greek and Armenian refugees from burning Smyrna. This latter event was the cataclysmic conclusion of the Turkish Nationalist Revolutino, which had begun in early 1920. After Smyrna, the destroyers escorted Greek steamers in their rescue of ethnic Christian civilians being expelled from all the ports of Anatolian Turkey. As the conclusion of a long war between Nationalist Turks and an invading Hellenic Greek army, these people were being forced out of their ancestral homes by the Turks. Sometimes American destroyers carried hundreds of such refugees to friendly ports on their own weather decks. Upon the burning of Smyrna of September of 1922, Admiral Mark Bristols small fleet had grown to some 26 naval vessels, most of them destroyers, although some cruisers, naval repair vessels and supply ships also came, and the battleships Arizona and Utah also appeared briefly. It was during 1922 that the destroyer BAinbridge rescued 482 of 495 men, women and children from the burning French transport Vinh Long in teh Sea of Marmora. The destroyer accomplished this by the expedient of ramming the large French ship so the exploding ammunition could not continue to force the vessels apart. For this action, Lieut.Commander W. Atlee Edwards was awarded the Medal of Honor by America, and the Legion of Honor by France. Over four years, Admiral Bristol maintained a strong grip on American naval and diplomatic affairs throughout the region. Headquartered at the American Embassy at Constantinople, Bristol also worked to further American business interests in Turkey, and tended to favor Turks over Greeks and Armenians in the process. Many Americans were convinced that Bristol was biased on behalf of the Turks, and a couple of navy captains risked their careers by speaking out about impending Turkish massacres that Bristol wanted to hush up.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('1154524830184','Published for devotees of the cowboy and the West, American Cowboy covers all aspects of the Western lifestyle, delivering the best in entertainment, personalities, travel, rodeo action, human interest, art, poetry, fashion, food, horsemanship, history, and every other facet of Western culture. With stunning photography and you-are-there reportage, American Cowboy immerses readers in the cowboy life and the magic that is the great American West.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9783642837135','Internationally recognized experts in the field of holographic interferometric testing, X-ray testing, and structural analysis by finite element techniques have come together in ESPRIT project 898 to develop a system that integrates these techniques. This system acts as an external interface between the complementary nondestructive testing methods and computer based structural analysis. In the book the testing and analysis techniques are presented and compared with special emphasis on problems regarding their combination and integration. The architecture and the components of the interface system are described. Experiments proving the feasibility and applicability of the concepts are presented. The chapters of the book dealing with the different techniques are written by the individual partners of the project. A common test object is investigated by all techniques. The book helps the customer to select the testing and analysis method most suitable for his problem. It also presents the background for building up integrated testing equipment for analysis and control.')
+('9780801869044','Disease processes among American Indians and Alaska Natives often have distinct manifestations that need to be considered by clinicians and health policy makers involved with these populations. Equally important, all aspects of Indian life—including health—are governed by the special relationship between Indian tribes and the U.S. federal government. For American Indian Health, Everett R. Rhoades has gathered a distinguished group of scholars and practitioners to present a comprehensive assessment of the health of American Indian peoples today and the delivery of health services to them.')
 ;
 
 Insert into Summary
@@ -217,31 +223,19 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781119110163','A comprehensive yet accessible survey of ancient philosophy, covering Greek, Roman, and early Judeo-Christian philosophy, ideal for introductory courses in the ancient roots of modern worldviews Part of the popular Fundamentals of Philosophy series, Ancient Philosophy is an ideal resource for beginning students as well as for advanced students wishing to hone their understanding of the philosophies of the ancient world. Clear and engaging, this book covers a representative selection of major ancient thinkers, movements, and schools of thought, including the Sophists and other significant Presocratics, Socrates, Plato, Aristotle, Hellenistic philosophy, the Stoics, the Skeptics, and early Judeo-Christian philosophy up to Augustine. Written by a prominent scholar and author in ancient philosophy studies, this book: Provides an overview of important issues in the study of the philosophies of the ancient world Explores the relevance of the theories of ancient thinkers to the modern world Charts the progression in the ancient world from worldviews based in mythology to systems of thought based on the analysis of evidence Presents up-to-date scholarship as well as historical material from ancient sources Assumes no prior knowledge of philosophy and examines all arguments carefully and sequentially')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
 ('7613722763235','Angina pectoris with normal coronary arteriograms is a common entity which has puzzled cardiologists almost since the advent of coronary arteriography. Despite major advances in the understanding of the pathophysiology of angina in recent years and a multitude of studies on the subject, the cause and mechanisms underlying the syndrome of angina with normal coronary arteries remain unknown. Indeed, results of investigations are controversial and speculation still prevails regarding the nature of the so called `Syndrome X. Almost every important aspect of Syndrome X has been tackled in the book and the reader is exposed not only to the cardiologists opinion, but also to the authoritative views of the gastroenterologists, gynaecologists and psychiatrists, extremely well represented in this monograph. The book deals with `cardiologists Syndrome X and not the metabolic entity termed `Syndrome X. The possible connection between the two, however, is discussed. Angina with Normal Coronary Arteries: Syndrome X contributes to the understanding of Syndrome X and helps clinicians manage their Syndrome X-patients better and investigators to open new avenues for research.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781604131277','Migration is one of the most fascinating and dramatic of all animal behaviors. From insects and birds to reindeer and giant whales, many animals fly, swim, walk, and even hitchhike in search of better food, milder climate, or suitable mate. Some cross entire oceans; a few even circle the globe. These marathon journeys animals take are filled with great tests of physical strength and endurance - as well as danger and sometimes death. In Animal Migration, learn why animals are compelled to migrate and the various patterns and cycles of their migrations.')
+('1336391790351','Index to ASTM standards issued as last part of each vol.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('2794489780453','Report for 1978 includes Texas Office of Court Administration. Annual report.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('4518395195185','This edition promises to redefine the canon of the study of appellate courts, continuing the comprehensiveness and increasing the depth of the First Edition. This edition of Appellate Courts provides teachers with choices that are suitable for a two- or three-unit course or a seminar. The book permits emphasis on either appellate jurisdiction and practice or on the structural and policy aspects of appellate court organization and administration. All the chapters have been revamped and updated, with coverage of appellate jurisdiction substantially expanded. Using both classic and new cases, the book examines theoretical and practical issues arising from the appellate courts dual roles to correct trial court error and to generate common law. Its coverage of the dramatic rise in the volume of appeals and the resultant institutional reforms far surpasses that of any other law school course book. Fresh materials present new perspectives on appellate structures, personnel, and procedures--preparing students to practice in the contemporary state and federal appellate courts. This provocative book considers such issues as the delegation of responsibility to law clerks and staff attorneys, the threats to judicial collegiality, the selection of state and federal judges--including the regulation of judicial candidates speech, and the role and ethics of the appellate lawyer. It devotes a separate chapter to the U.S. Supreme Courts discretionary jurisdiction while another chapter draws upon Professor Meadors unique understanding of the English and German appellate systems to contrast those systems with our own. In short, this book is unique in not only exploring appellate jurisdiction and procedure but also in taking the measure of the appellate courts in all their dimensions as important institutions in the American legal order. The Teachers Manual also has been updated and greatly expanded to assist both experienced and less-experienced teachers. It includes discussion of the principal cases and secondary materials as well as expert suggestions concerning answers to questions posed in the Notes. It also provides a wealth of supplemental material to bolster any professors expertise and make it easy for an instructor new to the subject to teach from the book effectively and confidently.')
+('4197558888165','In 1889 William Morris Davis offered in his paper The Rivers and Valleys of Pennsylvania an elegant set of arguments for the origin of the ridges and gaps, and went on to propose a model for the drainage development and geomorphic evolution of the Appalachians. His work served to focus the geomorphic community into an intense, extended debate on the nature and fundamental controls of the long-term erosion of the Appalachians. The 100th anniversary of Davis provocative paper prompted the convening of a symposium to address some of the fundamental questions about the Appalachians, the 1989 Geomorphology Symposium. The theme of this symposium was the geomorphic evolution of the Appalachians. This volume brings together a collection of papers from the symposium, to provide a summary of the current state of knowledge.')
 ;
 
 Insert into Summary
@@ -259,7 +253,13 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('2344482497479','Vols. for 1841-1914 include Rates of box and pocket chronometers on trial for purchase by the Board of Admiralty (varies slightly); 1888-1914 include Rates of chronometer watches on trial for purchase by the Board of Admiralty (varies slightly); 1838, 1845- include Reports of the Astronomer Royal to the Board of Visitors (these titles also issued separately).')
+('9780520297913','Argentinas missing bones: revisiting the history of the dirty war examines the history of state terrorism during Argentinas 1976-83 military dictatorship in a single place: the industrial city of Córdoba, Argentinas second largest city and the site of some of the dirty wars greatest crimes. It examines the citys previous history of social protest, working-class militancy, and leftist activism as an explanation for the particular nature of the dirty war there. Argentinas missing bones examines both national and transnational influences on the counter-revolutionary war in Córdoba. The book also considers the legacy of this period and examines the role of the state in constructing a public memory of the violence and holding those responsible accountable through the most extensive trials for crimes against humanity to take place anywhere in Latin America--Provided by publisher.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('2722528225864','Beginning in 1895, includes the Proceedings of the East India Association.')
 ;
 
 Insert into Summary
@@ -283,25 +283,13 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9783736727687','Um den wütenden Red Onslaught aufzuhalten, verbünden sich Avengers, X-Men und sogar einige Superkriminelle. Als alles verloren scheint, hilft nur noch ein mächtiger Zauber. Der verändert jedoch auch viele Helden und Schurken dramatisch.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
 ('9781568849003','Walking the reader through logging on and moving around the top 40 BBSs in the United States, this book takes the reader on a whirlwind tour that includes navigational tips, helpful commands and real-world use of concepts. It focuses more on the unique BBSs and avoids the major on-line services covered by other books.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('4790110543078','Backpacker brings the outdoors straight to the readers doorstep, inspiring and enabling them to go more places and enjoy nature more often. The authority on active adventure, Backpacker is the worlds first GPS-enabled magazine, and the only magazine whose editors personally test the hiking trails, camping gear, and survival tips they publish. Backpackers Editors Choice Awards, an industry honor recognizing design, feature and product innovation, has become the gold standard against which all other outdoor-industry awards are measured.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9781439658369','For almost one hundred years, generations of New Jersey customers flocked to Bamberger’s. From its grand Newark flagship to numerous suburban locations, the store was hailed for its myriad quality merchandise and its dedicated staff. Its promotional events were the highlight of every season, from the Thanksgiving Parade to elaborate Christmas festivals featuring celebrities such as Bob Hope, Carol Channing and Jerry Lewis. Though the once mighty flagship closed in 1992, Bamberger’s is still fondly remembered as a retail haven. With vintage photographs, interviews with store insiders and favorite recipes, nationally renowned department store historian and New Jersey native Michael J. Lisicky brings the story of New Jersey’s Greatest Store back to life.')
+('9781315360058','A Thorough Guide to Elementary Matrix Algebra and Implementation in R Basics of Matrix Algebra for Statistics with R provides a guide to elementary matrix algebra sufficient for undertaking specialized courses, such as multivariate data analysis and linear models. It also covers advanced topics, such as generalized inverses of singular and rectangular matrices and manipulation of partitioned matrices, for those who want to delve deeper into the subject. The book introduces the definition of a matrix and the basic rules of addition, subtraction, multiplication, and inversion. Later topics include determinants, calculation of eigenvectors and eigenvalues, and differentiation of linear and quadratic forms with respect to vectors. The text explores how these concepts arise in statistical techniques, including principal component analysis, canonical correlation analysis, and linear modeling. In addition to the algebraic manipulation of matrices, the book presents numerical examples that illustrate how to perform calculations by hand and using R. Many theoretical and numerical exercises of varying levels of difficulty aid readers in assessing their knowledge of the material. Outline solutions at the back of the book enable readers to verify the techniques required and obtain numerical answers. Avoiding vector spaces and other advanced mathematics, this book shows how to manipulate matrices and perform numerical calculations in R. It prepares readers for higher-level and specialized studies in statistics.')
 ;
 
 Insert into Summary
@@ -337,6 +325,18 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('5942741291408','In its 114th year, Billboard remains the worlds premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9781420017113','Global agriculture is now at the crossroads. The Green Revolution of the last century is losing momentum. Rates of growth in food production are now declining, with land and water resources becoming scarcer, while world population continues to grow. We need to continue to identify and share the knowledge that will support successful and sustainable agriculture systems. These depend crucially on soil. Gaining international attention, Dr. Uphoff’s efforts to promote and develop sustainable agriculture was recently featured in the N.Y. Times Led by Norman Uphoff, internationally renowned for his proactive approach to world hunger, this volume brings together 102 experts representing 28 nations and multiple disciplines to report on achievements in sustainable soil-system management. While accepting some continuing role for chemical and other external inputs, this book presents ways in which crops can be produced cost effectively in greater abundance with lessened dependence on the exogenous resources that have driven the expansion of agriculture in the past. Including the work of both researchers and practitioners, this important volume — · Explores soil systems in a variety of climate conditions · Discusses the importance of symbiotic relationships between plants and soil organisms, looking at crops as integral and interdependent participants in ecosystems · Seeks to reduce the distance between scientific research and technical practice · Examines related considerations such as pest and disease control, climate change, fertility restoration, and uses of monitoring and modeling With 50 self-contained chapters, this work provides researchers, practitioners, and policy makers with a comprehensive understanding of the science and steps needed to utilize soil systems for the long-term benefit of humankind. For information on the SRI, System of Rice Intensification being developed by Uphoff and others, go to http://ciifad.cornell.edu/sri/')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('2241938454411','Jonas Hershey Martin (1839-1925) was born near Goodville, Lancaster County, Pennsylvania. He married Sarah Witwer in 1863. She died in 1889, and Jonas married Anna Wenger in 1890. He was a bishop and leader of the Mennonite church. Descendants, who were Menonnites, lived chiefly in Pennsylvania. Includes history of the Mennonite Church in America.')
 ;
 
@@ -344,18 +344,6 @@ Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('3954098455625','BLACK ENTERPRISE is the ultimate source for wealth creation for African American professionals, entrepreneurs and corporate executives. Every month, BLACK ENTERPRISE delivers timely, useful information on careers, small business and personal finance.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('5383378293835','An illustrated quarterly.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('1545217038429','A Blake Bibliography was first published in 1964. Minnesota Archive Editions uses digital technology to make long-unavailable books once again accessible, and are published unaltered from the original University of Minnesota Press editions. The aim of this book is to list every reference to William Blake published between 1757 and 1863 and every criticism and edition of his works from the beginning to the present. Partly because of the deluge of scholarship in the last forty years, it includes perhaps twice as many titles as Sir Geoffrey Keyness great bibliography of 1921. An introductory essay on the history of Blake scholarship puts the most significant works into perspective, indicates the best work that has been done, and points to some neglected areas. In addition, all the most important references and many of the less significant ones are briefly annotated as to subject and value. Because many of the works are difficult to locate, specimen copies of all works published before 1831 have been traced to specific libraries. Each of Blakes manuscripts is also traced to its present owner. Two areas which have received relatively novel attention are early references to Blake (before 1863) and important sale and exhibition catalogues of his works. In both areas there are significant number of important entries which have not been noticed before by Blake scholars. The section on Blakes engravings for commercial works receives especially detailed treatment. A few of the titles listed here have not been described previously in connection with Blake.')
 ;
 
 Insert into Summary
@@ -373,31 +361,25 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('9179184195864','The Construction and Building Management Journal.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('7432384842915','List of members in each volume.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('1756784819931','Today, everything from cell phones to microwaves to CD players all contain microcontrollers, or miniature computers, which need to be programmed to perform specific tasks. Designing such systems requires an understanding of both microprocessor electronics and programming languages. This book is written for the industrial electronics engineer who needs to use or switch to the Intel 8051 family of microcontrollers and implement it using a C programming language.')
+('9779245190510','Issues for 1925-37 include the academys Annual report for 1924-36.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('1199768770505','Revised and expanded for the new C/C++ Standard, C 99, this bestseller is a must-have reference and idea generator for millions of programmers. Its organized for easy access and designed as a lookup resource and idea generator for programming in C and C++.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9788120311725','This is a revised and enlarged version of the authors book which received wide acclamations in its earlier three editions. It provides a lucid and in-depth introduction to the programming language Fortran 77 which is widely used by scientists and engineers.The fourth edition is completely revised chapterwise and also minor corrections incorporated. A new standard for Fortran called Fortran 90 was introduced in early 90s and compilers for this version of Fortran were sold in early 1995 by computer vendors. All Fortran 77 programs will run without change with Fortran 90 compilers; however some aspects of Fortran 77 have been declared obsolete and will not run on future Fortran compilers_these are explained in this revised edition. An appendix consolidates these features. Fortran 90 is introduced in a new chapter which summarises all its features.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9781111785437','The Larson Calculus program has a long history of innovation in the calculus market. It has been widely praised by a generation of students and professors for its solid and effective pedagogy that addresses the needs of a broad range of teaching and learning styles and environments. Each title is just one component in a comprehensive calculus course program that carefully integrates and coordinates print, media, and technology products for successful teaching and learning. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.')
+('9695802507401','Études sur la pré-renaissance et la renaissance anglaises.')
 ;
 
 Insert into Summary
@@ -421,7 +403,19 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('4507401592253','Abstracts dealing with combination of ceramic materials with metals, selected from Ceramic abstracts.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('7223704992487','We apply the notion of single-valued neutrosophic sets to K-algebras. We develop the concept of single-valued neutrosophic K-subalgebras, and present some of their properties. Moreover, we study the behavior of single-valued neutrosophic K-subalgebras under homomorphism.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('1552342606350','This brief new collection of poems (and one short story) explores the Jungian world of archetypes, myth-making, and the collective unconscious, pondering metaphors in the broadest sense.')
 ;
 
 Insert into Summary
@@ -445,13 +439,7 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781493916139','This accessible guide details an evidence-based educational program to help couples adapt to parenthood while minimizing the inevitable stress on the relationship. Complete with content, rationales, activities, and client materials, its flexible format allows for home and office visits and phone/online support across the transition, starting during pregnancy and continuing into early infancy. Activities build on themes of caring, change, and cooperation as couples learn to identify and address sources of conflict, solve infant-care problems, and to become optimal partners as well as optimal parents. The books hands-on presentation includes chapter highlights, boxed Practice Tips and Clinical Connections sections, client handouts and worksheets, and examples of clinician interactions with couples. The sessions described in Clinical Guide to Helping New Parents: The Couple CARE for Parents Program are organized to meet challenges and reinforce skills in key areas including: Developing realistic and shared expectations. Promoting positive communications and self-change. Conflict management communication skills. Developing sensitive and responsive parenting Reviewing personal and social support. Developing caring and healthy sexuality. Anticipating and preventing relationship deterioration.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9780691037561','This book offers a systematic treatment--the first in book form--of the development and use of cohomological induction to construct unitary representations. George Mackey introduced induction in 1950 as a real analysis construction for passing from a unitary representation of a closed subgroup of a locally compact group to a unitary representation of the whole group. Later a parallel construction using complex analysis and its associated co-homology theories grew up as a result of work by Borel, Weil, Harish-Chandra, Bott, Langlands, Kostant, and Schmid. Cohomological induction, introduced by Zuckerman, is an algebraic analog that is technically more manageable than the complex-analysis construction and leads to a large repertory of irreducible unitary representations of reductive Lie groups. The book, which is accessible to students beyond the first year of graduate school, will interest mathematicians and physicists who want to learn about and take advantage of the algebraic side of the representation theory of Lie groups. Cohomological Induction and Unitary Representations develops the necessary background in representation theory and includes an introductory chapter of motivation, a thorough treatment of the translation principle, and four appendices on algebra and analysis.')
+('9789639776807','It was not a matter of propaganda ... black and white ideological broadcasts ... What made [Radio Free Europe] important were its impartiality, independence, and objectivity.---Vaclav Havel Radio Free Europe and Radio Liberty were critically important weapons in the free worlds competition with Soviet totalitarianism---and without them the Soviet bloc might even have not disintegrated ... The account in this book of their activities is therefore not only informative, but critical to understanding recent history.---Zbigniew Brzezinski The studies and translated Soviet bloc documents published in this book demonstrate the enormous impact of Radio Free Europe, Radio Liberty, and Voice of America during the Cold War. By promoting democratic values and undermining the monopoly of information on which Communist regimes relied, the Radios contributed greatly to the end of the Cold War.---George P. Shultz I know of no other mass media organization that has done more than RFE/RL to help create the Europe in which we live today---a Europe not divided into two opposing camps.---Elena Bonner Examines the role of Western broadcasting to the Soviet Union and Eastern Europe during the Cold War, with a focus on Radio Free Europe and Radio Liberty. It includes chapters by radio veterans and by scholars who have conducted research on the subject in once-secret Soviet bloc archives and in Western records. It also contains a selection of translated documents from formerly secret Soviet and East European archives, most of them published here for the first time.')
 ;
 
 Insert into Summary
@@ -464,6 +452,12 @@ Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('3817439810086','The student solutions manual provides worked out solutions to the odd-numbered problems in the text.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9781602682429','In any classroom, there are times when the teacher needs a quick way to reinforce essential literacy skills. Color Photo Games provide simple, fun, and engaging games that are perfect for those times. Easy-to-assemble, fun to play, and designed for individual or small group use, Super Sight Words reinforces 170 essential sight words and more! Each game includes photographic artwork, game strategies with differentiated instruction, and a CD so the teacher is able to print pages and make several games for her classroom. It also supports NAEYC standards.')
 ;
 
 Insert into Summary
@@ -499,12 +493,6 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('1713848742234','Shows the business and financial standing of all the life insurance companies.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
 ('8985861933767','Competition Science Vision (monthly magazine) is published by Pratiyogita Darpan Group in India and is one of the best Science monthly magazines available for medical entrance examination students in India. Well-qualified professionals of Physics, Chemistry, Zoology and Botany make contributions to this magazine and craft it with focus on providing complete and to-the-point study material for aspiring candidates. The magazine covers General Knowledge, Science and Technology news, Interviews of toppers of examinations, study material of Physics, Chemistry, Zoology and Botany with model papers, reasoning test questions, facts, quiz contest, general awareness and mental ability test in every monthly issue.')
 ;
 
@@ -524,6 +512,12 @@ Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('3499346617726','For more than 40 years, Computerworld has been the leading source of technology news and information for IT influencers worldwide. Computerworlds award-winning Web site (Computerworld.com), twice-monthly publication, focused conference series and custom research form the hub of the worlds largest global IT media network.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9780202362847','The psychologist who pursues an interest in personality is constantly faced by a dilemma. He seeks to investigate what is to him the most intriguing and interesting subject--the multifaceted operations of man in his natural environment. The predicament lies in the discrepancy between the complexity and richness of mans subjective experience, and the pallid analog of these experiences the psychologist is able to study effectively with the research procedures available to him. In Concepts of Personality Joseph M. Wepman and Ralph W. Heine offer a comprehensive survey of classical and contemporary personality theory, including a wide array of examples of these two trends. If the psychologist holds to the premises of strict objectivity through controlled observations, he finds himself driven to the periphery of the very problem he seeks to understand. This is a place where the reliability of measurement and the validity and predictability of his instruments can often be specified, but only at the cost of abandoning the goal of useful generality or of application to the individual in his ordinary life circumstances. Concepts of Personality, unlike most books on the subject, is not limited to broad, general theories. It includes chapters on basic processes--learning, perception, genetics, and drive theory; on the major analytical approaches of psychology and psychiatry; on anthropological and sociological contributions; and on the problems of measurement and assessment. Each chapter is by an authority on the point of view expressed. The editors introduction, itself a major essay on the complex and divergent patterns and themes of contemporary views of personality, carefully leads the reader through the information at hand. The book as a whole constitutes an encyclopedic summary of the state of the science. Joseph M. Wepman was professor of psychology and surgery and chairman of the Interdepartmental Clinical and Counseling Psychology Training Program of the University of Chicago. He is the author of Recovering from Aphasia and Aphasia and the Family. Ralph W. Heine was professor of psychiatry and psychology and chief clinical psychologist in the department of psychiatry at the University of Chicago. He is the author of The Student Physician as Psychotherapist and Psychotherapy.')
 ;
 
 Insert into Summary
@@ -553,31 +547,7 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781118105375','The book that fills the practitioner need for a distillation of the most important tools and concepts of corporate finance In todays competitive business environment, companies must find innovative ways to enable rapid and sustainable growth not just to survive, but to thrive. Corporate Finance: A Practical Approach is designed to help financial analysts, executives, and investors achieve this goal with a practice-oriented distillation of the most important tools and concepts of corporate finance. Updated for a post-financial crisis environment, the Second Edition provides coverage of the most important issues surrounding modern corporate finance for the new global economy: Preserves the hallmark conciseness of the first edition while offering expanded coverage of key topics including dividend policy, share repurchases, and capital structure Current, real-world examples are integrated throughout the book to provide the reader with a concrete understanding of critical business growth concepts Explanations and examples are rigorous and global, but make minimal use of mathematics Each chapter presents learning objectives which highlight key material, helping the reader glean the most effective business advice possible Written by the experts at CFA Institute, the worlds largest association of professional investment managers Created for current and aspiring financial professionals and investors alike, Corporate Finance focuses on the knowledge, skills, and abilities necessary to succeed in todays global corporate world.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
 ('9781844079117','First Published in 2011. Routledge is an imprint of Taylor & Francis, an informa company.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('3974516353475','Resource added for the Paralegal program 101101.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9783527338498','Derived from the online reference Corrosion Handbook, this handbook brings together all the relevant information on corrosion protection and prevention for nickel-based materials, all in a convenient and easy-to-use format. As such, it provides scientists and engineers manufacturing and utilizing these materials with comprehensive information, including tabulated data and references, on their corrosion behavior when in contact with acids and hydroxides.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('5004267738921','Includes quarterly and annual reviews.')
 ;
 
 Insert into Summary
@@ -601,7 +571,7 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781416925835','Paradise Island, Hawaii ∼ the perfect place to witness a once-in-a-lifetime event: a total solar eclipse. Frank and Joe Hardy are there, along with a group of eminent scientists, watching with anticipation and excitement. But as the moon shrouds the sun, and darkness falls, an unseen danger creeps up. When the light returns, a leading astrologer is dead and the Hardy Boys find themselves at the centre of a brutal murder…')
+('9781788397339','Learn, by example, the fundamentals of data analysis as well as several intermediate to advanced methods and techniques ranging from classification and regression to Bayesian methods and MCMC, which can be put to immediate use. Key Features Analyze your data using R – the most powerful statistical programming language Learn how to implement applied statistics using practical use-cases Use popular R packages to work with unstructured and structured data Book Description Frequently the tool of choice for academics, R has spread deep into the private sector and can be found in the production pipelines at some of the most advanced and successful enterprises. The power and domain-specificity of R allows the user to express complex analytics easily, quickly, and succinctly. Starting with the basics of R and statistical reasoning, this book dives into advanced predictive analytics, showing how to apply those techniques to real-world data though with real-world examples. Packed with engaging problems and exercises, this book begins with a review of R and its syntax with packages like Rcpp, ggplot2, and dplyr. From there, get to grips with the fundamentals of applied statistics and build on this knowledge to perform sophisticated and powerful analytics. Solve the difficulties relating to performing data analysis in practice and find solutions to working with messy data, large data, communicating results, and facilitating reproducibility. This book is engineered to be an invaluable resource through many stages of anyone’s career as a data analyst. What you will learn Gain a thorough understanding of statistical reasoning and sampling theory Employ hypothesis testing to draw inferences from your data Learn Bayesian methods for estimating parameters Train regression, classification, and time series models Handle missing data gracefully using multiple imputation Identify and manage problematic data points Learn how to scale your analyses to larger data with Rcpp, data.table, dplyr, and parallelization Put best practices into effect to make your job easier and facilitate reproducibility Who this book is for Budding data scientists and data analysts who are new to the concept of data analysis, or who want to build efficient analytical models in R will find this book to be useful. No prior exposure to data analysis is needed, although a fundamental understanding of the R programming language is required to get the best out of this book.')
 ;
 
 Insert into Summary
@@ -625,18 +595,6 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('7350464307981','This volume summarizes the only intensive, long-term study conducted on the local distribution, abundance, and natural history of the Common Fruit Bat.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9815037840666','Includes detailed budgets by campus.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
 ('8303401589159','Johann Heinrich Listermann (1772-1864), son of Erasmus Listermann and Margaretha Lippolt, was born in Heiligenstadt, Saxony, Germany. He married Regina Wedekind (1778-1825), daughter of Johann Adam Wedekind and Anna Margaretha Kühn, in about 1800. They had nine known children. Most of their children immigrated to America. Ancestors, descendants and relatives lived mainly in Germany, Ohio and Kentucky.')
 ;
 
@@ -655,7 +613,13 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('3699484681858','Directory intended to give medical students and graduate physicians a timely source of detailed information about the many options for pathology training in the United States and Canada. Geographical arrangement. Entries give in narrative such information as programs offered, facilities, community environment, stipends, staff, and application. Training staff index.')
+('5182428736708','Winner of the 1997 Felix Pollak Prize in Poetry Selected by Rita Dove')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('5190816227773','Columnist gives her reactions to some phases of American life.')
 ;
 
 Insert into Summary
@@ -691,7 +655,19 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('5937164531041','This volume contains detailed, worked-out notes of six main courses given at the Saint-Flour Summer Schools from 1985 to 1987.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('8536357666710','Survey in maps with brief text, of regional economic activity in the Soviet Union.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9781510421271','Exam board: Cambridge Assessment International Education Level: IGCSE Subject: Economics First teaching: September 2018 First exams: Summer 2020 This title is endorsed by Cambridge Assessment International Education to support the full syllabus for examination from 2020. Discover Economics as a real-world subject through case studies from around the world and provide in-depth coverage of the latest Cambridge IGCSE and O Level Economics syllabuses (0455/2281). - Trust an experienced author team to navigate the syllabuses confidently with clearly-defined learning objectives throughout. - Deepen understanding by applying knowledge to real-life global case studies. - Extend learning beyond the classroom by reflecting on skills learned and applying them to local and global environments. - Check understanding with engaging activities that thoroughly integrate deep learning skills. - Benefit from language support with an accessible text and definitions of technical terms throughout. - Consolidate learning with chapter reviews and examination-style questions, as well as useful links to extra activities and answers to the questions which are available in the Online Teachers Guide. Available in this series: Student Textbook Second edition (ISBN 9781510421271) Student eTextbook (ISBN 9781510420212) Whiteboard eTextbook (ISBN 9781510420229) Workbook (ISBN 9781510421288) Online Teachers Guide (ISBN 9781510424135) Study and Revision Guide (ISBN 9781510421295)')
 ;
 
 Insert into Summary
@@ -703,13 +679,19 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781550597240','What exactly is education policy, why is it important, and how is it implemented in the real world? Jerome Delaney, a professor of educational administration and former high school principal, answers the big questions about education policy in this powerful and practical primer for students. Informed by his experience in the public school system, Delaney takes a pragmatic and realistic approach that divides a complicated subject into manageable sub-topics. He grounds the debate at the classroom level: after all, that’s where the effects of high-level policy decisions ultimately play out. Starting from the basics and progressing through to the deeper aspects of education policy, this text provides an excellent introduction to a subject that lies at the foundation of every education system. This second edition includes a new chapter on issues relating to policy implementation, as well as new discussion questions at the end of each chapter. Topics include: A beginner’s overview of education policy studies. How values influence policy-making. How education policy is developed, implemented, and evaluated. The role of policy in education reform. The future of education policy as schools adapt to changing societies.')
+('8871596802592','Several of the volumes are devoted to a special theme, e.g. Missionary education, Teachers associations, Adult education.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('8871596802592','Several of the volumes are devoted to a special theme, e.g. Missionary education, Teachers associations, Adult education.')
+('9781500329747','This C++ Programming book gives a good start and complete introduction for C++ Programming for Beginner’s. It has been comprehensively updated for the long-awaited C++Beginner’s from the Best selling Programming Author Harry H Chaudhary. The primary aim of this book is to help the reader understand how the facilities offered by C++ support key programming techniques. The aim is to take the reader far beyond the point where he or she gets code running primarily by copying examples and emulating programming styles from other languages. Anyone can learn C++ Programming through This Book I promise. Most Imp. Feature of this book is-- 1) Learn C++ without fear, 2) This book is for everyone, 3) 160 End of book examples, 4) 200 Practical Codes, 5) At last it goes to Expert level topics such as: *Software Design & Development Using C++*, 6) 101 Rules, for Software Design & Development using C++ @ the end of this book. 7) Very Easy Definitions for each topic with code examples and output. While reading this book it is fun and easy to read it. This book is best suitable for first time C++ readers, Covers all fast track topics of C++ for all Computer Science students and Professionals. This book introduces standard C++ and the key programming and design techniques supported by C++. Standard C++ is a far more powerful and polished language than the version of C++ introduced by the first edition of this book. This book presents every major C++ language feature and the standard library. It is organized around language and library facilities. However, features are presented in the context of their use. That is, the focus is on the language as the tool for design and programming rather than on the language in itself. This book demonstrates key techniques that make C++ effective and teaches the fundamental concepts necessary for mastery. As everyone knows that Author Harry is basically known for his Easy way- Programming without fear technique. His book presents world’s easiest definitions and codes for beginners. || Inside Chapters. || 1 (Introduction To C++ Programming) 2 (Inside The C++ Language) 3 (Pointers & References) 4 (Understanding Functions) 5 (Structure-Unions-Enumerated Data Types) 6 (Object Oriented Programming Concept) 7 (C++ Classes and Objects) 8 (Constructors and Destructors) 9 (Operator Overloading) 10 (Console Input / Output Streams) 11 (Inheritance Concept in C++) 12 (Virtual Functions-Polymorphism Concept) 13 (Templates Concept In C++) 14 (Exception Handling In C++) 15 (New Features of ANSI C++ Standard) 16 (Working With Files) 17 (String Classes’) 18 (Your Brain On C++ ( 160 Multiple Choice Questions)) 19 (Your Brain On C++ (100 Practical Programming Questions)) 20 (Software Design & Development Using C++)')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9780819191069','This study examines the recent work of Latin American liberation theologian Juan Luis Segundo. The author evaluates Segundos resources in order to develop a more adequate contemporary Christological method. Stone offers to Christian systematic theology new critical interpretations of the significance of Jesus for human liberation today. Contents: INTRODUCTION: The Problem of Method in Contemporary Christology; The Nature and Task of Christology; The Situation in Liberation Theology; PART I. Segundos Christology; The Dimension of Praxis: Faith and Ideologies; Jesus and History; The Evolutionary Key to Christology; PART II. A Critical Appraisal of Segundos Christology; Faith, Metaphysics and Praxis; Faith and History; Evolution and Effective Faith; PART III. Toward an Alternative Liberation Christology; Jesus and Evolution.')
 ;
 
 Insert into Summary
@@ -739,6 +721,18 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('9781727346329','Enjoy The Moment is a Journal Notebook 6 x 9 inches Lined Pages')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('5422778111289','Publishes interdisciplinary research on issues of Government and Policy with an international perspective. Committed to a broad range of policy questions, not just those related to government and public policy. Topics covered include nonstate agents, private-public collaboration, and NGOs (nongovernmental organisations). All areas of economic, social and environmental institutions, and policy are included. Disciplines from which papers are derived include political science, planning, geography, economics, law, sociology, and public administration.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('9070875968183','Unlike any other introductory environmental science text, Robert Kaufmann and Cutler Clevelands Environmental Science takes a fresh approach to the subject by weaving themes of energy and materials, economic systems, and policy throughout the entire text. A story of real science is simply told through examples of cutting-edge content, real-world applications, and a distinctive conceptual illustration program..')
 ;
 
@@ -751,6 +745,12 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('9781452212142','This invaluable resource demonstrates how to foster the development of highly qualified teachers through designing and implementing a solid teacher evaluation system.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('8818443591566','The economic importance of extrusion has increased markedly in the years, primarily because of spectacular technological advances that have drawn on both practical experience and fundamental research and that have elaborated on extrusion processes, tooling, and metal flow. Expert information of diffusion is itself diffuse, spread over an array of international technical journals and proprietary reports and presented in several languages. This book, written by acknowledged authorities and originally published in the German language, succeeds in providing a comprehensive and detailed treatment of all aspects of extrusion, with special emphasis on the latest advanced technology. Among the extruded metals covered are aluminium, lead, tin, magnesium, zinc, copper. titanium, zirconium, beryllium, uranium, nickel, and steel. Processes discussed include direct and indirect extrusion, cable sheathing by extrusion, hydrostatic extrusion, cladding by extrusion and special technology for extruding various metals. Also discussed are stresses in extrusion, economic aspects, and future developments.')
 ;
 
@@ -758,6 +758,12 @@ Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('9789021449906','Arthur Friedland heeft drie zonen. Martin, een katholieke priester die waarlijk niet gelooft; en de identieke tweeling Eric en Iwan. De een is een diep in de schulden zittende financieel adviseur, die lijdt aan visioenen, de ander een mislukt schilder die naam krijgt met het vervalsen van een uitgerangeerde meester. Er lijkt vooralsnog niets aan de hand, totdat de schimmige mannen plots voor een afgrond komen te staan. Een moment van onachtzaamheid, een misstapje, een onbeduidend toeval en wat zo gevreesd werd, wordt waar. F is een virtuoze roman, vol verwisselingen en geheimzinnigheid, die draait en draait met de werkelijkheid en wat zich daarachter af kan spelen.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9781472840684','World War II saw the development of the heavy bomber as a decisive weapon which, in sufficient numbers, could overcome defensive fighters and guns and lay waste to strategic targets. The addition of nuclear weapons to the bombers armament made it even more formidable, and by the late 1940s, US planners saw the growth of a Soviet nuclear-armed bomber fleet as a terrifying threat to North American security. Conventional subsonic fighters with guns and free-flight air-to-air rockets would be incapable of reaching these incoming bombers in time to prevent even one from delivering a devastating nuclear attack. As a result, supersonic speed, long-range guided missiles and precise radar-based control of an interception became prerequisites for a new breed of fighters, beginning with the F-102. A massive research and development effort produced the F-102A 1954 Fighter, the J57 afterburning turbojet, its Hughes MX-1554 fire control system and, in due course, the Semi-Active Ground Environment (SAGE) radar and communications network that covered North America to guide its airborne defences. In service, F-102As also provided air defence in Europe with USAFE, in the Far East and in Southeast Asia, where they protected US airbases in South Vietnam and Thailand from air attack by North Vietnamese fighters and bombers and escorted B-52s and fighter-bombers on their attack sorties. This illustrated study from leading expert Peter E. Davis details the design, development, and deployment of the futuristic F-102, including its complex research program and role in Vietnam.')
 ;
 
 Insert into Summary
@@ -782,12 +788,6 @@ Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('9781889545288','CONTENTS Preface, XI List of Contributors, XIII Part I. REPORTS. Materials Parameters Determining the Performance of 3-3 Piezocomposites C.R. Bowen, A. Perry, R. Stevens, and S. Mahon.............................................. 3 Dielectric Permittivity and Hysteresis of PZT Aerogels Stefan Geis, Jochen Fricke................................................................................ 23 Superfine Anomalies of the Cubic-Tetragonal Transition in the Perovskite-Type Ferroelectrics Detected by “mk-stabilized cell” Akira Kojima, Yukio Yoshimura, Hiroshi Iwasaki, and Ken-ichi Tozaki.......................................................................................... 33 NMR Study on m3h(seo4)2 (m: k, rb) Yasumitsu Matsuo, Keisuke Takahashi, and Seiichiro Ikehata............................. 51 Photovoltaic Effect in Pb(Zr,Ti)O3 (PZT)-Based Ceramics and Development for Photostrictor Application Kazuhiro Nonaka, Morito Akiyama, Chao-Nan Xu, Tsuyoshi Hagio, and Akira Takase.................................................................... 65 Novel Electronic Phase Transition in ii-vi Ferroelectric Semiconductor znO A. Onodera and H. Satoh................................................................................. 93 Brillouin Scattering Study of Structural Phase Transition in the kno3 Crystal Yasunari Takagi............................................................................................... 113 New Technologies for Future FeRAMs K. Uchiyama, M. Kazumura, Y. Shimada, T. Otsuki, N. Solayappan, V. Joshi, and C.A. Paz de Araujo............................................... 125 NANOCRYSTALLINE PEROVSKITE FILMS: FERROELECTRICS AND RELAXORS C. Ziebert, J.K. Krüger, H. Schmitt, A. Sternberg K.-H. Ehses, M. Marx................................................................................... 135 Part II. BRIEF REPORTS Studies of Ferroelectric Thin Film and Film-Based Device Processes via In Situ Analytic Techniques O. Auciello, S.K. Streiffer, G.B. Stephenson, J.A. Eastman, G. Bai, A.R. Krauss, J. Im, A.M. Dhote, C. Thompson, E.A. Irene, Y. Gao, A.H. Muller, M.J. Bedzyk, A. Kazimirov, D. Marasco, V.P. Dravid, A. Gruverman, S. Aggarwal, R. Ramesh, S.-H. Kim, A.I. Kingon, and C.B. Eom.................................................................................................. 155 The Spherical Random Bond – Random Field Model of Relaxor Ferroelectrics: Theory and Experiments R. Blinc, R. Pirc, B. Zalar, and A. Gregorovic.................................................... 159 Stabilization of Ferroelectricity in Quantum Paraelectrics by Isotopic Substitution A. Bussmann-Holder, H. Buttner, and A.R. Bishop............................................ 165 New Understanding of the Phases Transition Mechanism of Hydrogen-Bonded Ferroelectrics A. Bussmann-Holder, Naresh Dalal, Riqiang Fu, and Ricardo Migoni................... 167 Two Dimensional Ferroelectrics V.M. Fridkin, L.M. Blinov, S.P. Palto, S.G. Yudin, S. Ducharme, P.A. Dowben, and A.V. Bune.......................................................................... 169 Ferroelastic Twinning in Some Extremely Plastic Crystals Lyubov Kirpichnikova....................................................................................... 171 Investigation of the Anisotropy of srbi2ta2o9 and srbi2nb2o9 Through Epitaxial Growth J. Lettieri, M.A. Zurbuchen, Y. Jia, D.G. Schlom, S.K. Streiffer, and M.E. Hawley............................................................................................. 173 New Ideas in Relaxor Theory R.F. Mamin..................................................................................................... 179 Evaluation of Ferroelectric Domains in Lead Zirconate Titanate Ceramics by Poling Fields Toshio Ogawa.................................................................................................. 181 Metal-Organic Chemical Vapor Deposited Ceramic Thin Films for Future Memory Applications M. Schumacher, J. Lindner, F. Schienle, D. Burgess, P. Strzyzewski, M. Dauelsberg, E. Merz, and H. Juergensen............................... 185 Dynamic and Static Aspects of the Antiferroelectric Phase Transition in rb3h1-xdx(so4)2 Crystals: An 87rb-nmr Study Andreas Titze and Roland Boehmer.................................................................. 187 Key Word Index………………………………………………………………………. 189 Contents of FERROELECTRICS.Vol.2. Frontier in Science and Technology Series. List of Titles. FSRC BOOKS of ABSTRACTS in Science and Technology Conference Series. List of Titles. F S R C. A Brief Info.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('6598354019550','FIELD & STREAM, America’s largest outdoor sports magazine, celebrates the outdoor experience with great stories, compelling photography, and sound advice while honoring the traditions hunters and fishermen have passed down for generations.')
 ;
 
 Insert into Summary
@@ -823,7 +823,7 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781514761267','Can you imagine living the dreams of your life, never worrying about money again? What if you can master the game Forex trading, and trade from any place in the world where internet is available? What if all your dreams of leaving the dreaded... J.O.B. become reality...being able to give your family and loved ones the lifestyle they deserve. See, Forex is not for everyone, but is it a legitimate way out of the 9 to 5 rat race. See, as I am writing this introduction for you I am sitting under the bimini of my 51 foot sail boat yacht, in the heart of the Caribbean. Water is crystal turquoise blue, you can see all the way to the bottom.. The colors are incredible. It gives you such of sense of freedom and ability to enjoy life to the fullest. Man paradise, no alarm clocks, no traffic, I can hear the music from the small marina bar. I am not even at the marina, the boat is anchored at a mooring ball. Ha... tell me about the life, that you can have...yeah you can have it too. You need to be sick enough of your same all, same all in order to take action. Do you want trade like the pros, then you have to learn from the pros. You will not find the information in this book anywhere on the Amazon traders section. In a matter of fact no one is teaching what I am about to show you in this book. You would ask, what is so special about it. See, the people that are making a living from Forex are not about to reveal their secrets. The ones that are making money from your trades A . K. A. your friendly broker dont care . In a matter of fact they will gladly offer their friendly education, to teach you how you can too loose a large amount of money like your fellow retail traders that are using the same broker. I am revealing the highly guarded secrets of the big guns. It is possible that I get some ugly letters from traders, and even some of my friends, after this book is released. But heck yeah, I am sick and tired of seeing the daily casualty of honest and hard working people, like yourself loose their hard earned money to the broker. Enough is enough, I have made my stake is time to give back and help others to go the same road. So enough of my blurb... I have laid my hard learned secrets in that book and the price is ridiculously low. You would normally pay 2-3 times more in your local book store, for a book full of BS explaining you, the current economic climate, and how we are coming out of the recession hog wash. Year it says learn how to trade or something of that effect, but doesnt have even one tenth of the hard core to the bone content I am offering you. See I know you can live and have anything you want in this life. You can even create your own reality. Yeah I know creating you reality is cool, but it requires a dirty word called work. Do you you want to create your new reality, even step in to it. You would if you knew what is on the other side. Well I decided to create you reality for you. I have done all the dirty work and have set everything up for you for success in this book. So, punch a few buttons and take a click of faith and by this book. I promise you, you will not be disappointed. See you on the other side.')
+('9781537497822','You will not find this education at you brokers how to section. Most likely you will not find this information anywhere on this book section on any other book store. I have paid thousands of dollars on exclusive groups and paid forums to collect the information presented in this book. As you can imagine these are the highly guarded secrets of the elite of the FOREX traders, no one gives their living away, unless you pay them a price worth their living. However I have decided to make this information for ridiculously low price, because I am fed up with the brokers and the big banks taking advantage of the regular retail trader. Let me ask you a question? When was the last time you make money with FOREX? Even further more how much money you are willing to lose, until you give up? How long you will continue to give your hard earned money to the broker? Just like you I started 5 years ago with high hopes of quitting my job and leaving the live I deserve with FOREX. My hopes and aspirations were quickly crashed and my dreams went to the dump. First I lost 1000, then 5000, 10k , how much longer I could continue like that, how much longer I could endure the ridicule the jokes of my family and the frown on the face of my wife. It was painful, sitting all day in front of the computer, until you cant see any longer and everything including the platform and your mind become blurry. I know the pain I have been there. This continued for year, until one morning I was ready to quit, I was going to give it a last try and throw that FOREX staff in the garbage, out the window. I stumbled on a rear tread, which since then has been banned, by the broker that was holding the forum. Luckily the tread continued under the brokers radar for while, and gathered a bunch of comments an support. Finally the tread from the trader X was discontinued. I was in dis pare, that was the only hope and light, I have seen for a long time. I was applying the advice from the trade and things were starting to work for me. Fortunately I was able to PM the trader and begged him to agree on a 20 min conversation on the phone. Trader X was not a guru, not your regular internet promoter mojo. He was quietly raking in thousands of dollars a month for years, he was not excited about the next trade, his heart beat was not raising before he pooled the trigger. See, he has been doing this trading staff for so long it has become a boring procedure, rather a morning an afternoon chore, something like putting the garbage out on garbage day. He explained that he learned from the MASTER, I did not proceed to ask him who was the MASTER, since I mainly was concerned with him teaching him every little bit of what he knew about trading. He didnt not agree to spend time teaching me on our first conversation, regardless of how much I offered to pay him. See, for him money was not a issue. Finally on my third approach he agreed to show me what the MASTER had thought him many years ago. What is comprised in the pages of this book will be worth pure gold to you.This book is down to the ground no no sense, real trading knowledge. It gives step by step instructions with real trade examples. This book is not your regular hog wash advice that you will find from your broker and the other magic bullets and seven step series that you see on this site. This book teaches you how to trade like the pros. Shows you how the big banks and foreign nationals and institution trade. The book opens your eyes to how to piggy back on the big institutional traders and win. Ninety Five percent of the people that trade the Forex market lose money and give up. The market is continually replaced by fresh blood like yourself. Dont become part of the statistics, read this book and get a map to success in FOREX. You can make a success in FOREX if you know what you are doing. Yes you can make a living with FOREX and quit your job. You can achieve your dreams. Buy this book and find out How?')
 ;
 
 Insert into Summary
@@ -859,13 +859,37 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('9780128202319','GPCR Signaling in Cancer, Volume 145, the latest release in the Advances in Cancer Research series, highlights recent developments in the area of GPCRs and cancer biology. Chapters included in this volume cover several GPCRs and their downstream effectors as case examples to highlight their fundamental understanding and therapeutic potential. Specific chapters address the Role of GRKs and beta-arrestins in cancer, Atypical GPCRs in cancer, the Role of a chemokine receptor (CCR) 5 in cancer, Targeting G protein-coupled receptors for therapeutics in cancer, Emerging GPCR signaling pathways in cancer, and more. G protein-coupled receptors (GPCRs) constitute a large family of cell surface receptors which are involved in nearly every cellular and physiological event. These receptors can recognize a broad array of ligands and they are targeted by nearly one third of the currently prescribed drugs including anti-cancer therapeutics. Covers the latest concepts in GPCR signaling and their relevancy to cancer biology Presents new indications for anti-cancer therapeutic programs Includes sections on cross-talk and signaling networks of GPCRs and effectors in molecular oncology and therapeutics')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('9890569218724','GRPANL is a general-purpose peak-fitting program that calculates gamma-ray and x-ray energies and intensities from a given spectral region. The program requires that the user supply input information such as the first and last channels of the region, the channels to be used as pre- and post-region background, the system gain and zero-intercept, and a list of approximate energy values at which peaks occur in the region. Because the peak position and peak-shape parameters enter nonlinearly into the peak-fitting algorithm, an iterative least-square procedure is used in the fitting process. The program iterates until either all convergence criteria are met or ten iterations have elapsed. The code described here allows for twenty free parameters and a region as large as 240 data channels. This code runs on an LSI-11 computer with 32K memory and disk-storage capability.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('7554002417959','GameAxis Unwired is a magazine dedicated to bring you the latest news, previews, reviews and events around the world and close to you. Every month rain or shine, our team of dedicated editors (and hardcore gamers!) put themselves in the line of fire to bring you news, previews and other things you will want to know.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9423312792397','A guide to planting, designing and maintaining gardens.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('9781489912954','The Seventh International Symposium on Gaseous Dielectrics was held in Knoxville, Tennessee, U. S. A. , on April 24-28, 1994. The symposium continued the interdisciplinary character and comprehensive approach of the preceding six symposia. Gaseous DielecIries VII is a detailed record of the symposium proceedings. It covers recent advances and developments in a wide range of basic, applied and industrial areas of gaseous dielectrics. It is hoped that Gaseous DielecIries VII will aid future research and development in, and encourage wider industrial use of, gaseous dielectrics. The Organizing Committee of the Seventh International Symposium on Gaseous Dielectrics consisted of G. Addis (U. S. A. ), L. G. Christophorou (U. S. A. ), F. Y. Chu (Canada), A. H. Cookson (U. S. A. ), O. Farish (U. K. ), I. Gallimberti (Italy) , A. Garscadden (U. S. A. ), D. R. James (U. S. A. ), E. Marode (France), T. Nitta (Japan), W. Pfeiffer (Germany), Y. Qiu (China), I. Sauers (U. S. A. ), R. J. Van Brunt (U. S. A. ), and W. Zaengl (Switzerland). The local arrangements committee consisted of members of the Health Sciences Research Division and personnel of the Conference Office of the Oak Ridge National Laboratory, and staff of the University of Tennessee (UTK). The contributions of each member of these committees, the work of the Session Chairmen, the interest of the participants, and the advice of innumerable colleagues are gratefully acknowledged. I am especially indebted to Dr. Isidor Sauers, Dr. David R. James, Mrs.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('1524187592146','Part social commentary, part how-to guide. Case studies of successful Gen X Entrepreneurs now worth millions. Informative, innovative, inspiring.')
 ;
 
 Insert into Summary
@@ -883,6 +907,18 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('9783662467923','The aim of this book is to unlock the power of the freeware R language to advanced university students and researchers dealing with whole-rock geochemistry of (meta-) igneous rocks. The first part covers data input/output, calculation of commonly used indexes and plotting in R. The core of the book then focusses on the presentation and practical implementations of modelling techniques used for fingerprinting processes such as partial melting, fractional crystallization, binary mixing or AFC using major-, trace-element and radiogenic isotope data. The reader will be given a firm theoretical basis for forward/reverse modelling, followed by exercises dealing with typical problems likely to be encountered in real life, and their solutions using R. The concluding sections demonstrate, using practical examples, how a researcher can proceed in developing a realistic model simulating natural systems. The appendices outline the fundamentals of the R language and provide a quick introduction to the open-source R-package GCDkit for interpretation of whole-rock geochemical data from igneous and metamorphic rocks.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('2872029262950','V.1 Education of a general, 1880-1939; v.2 Ordeal and hope, 1939-1942; v.3 Organizer of victory, 1942-1945; v.4 Statesman, 1945-1959.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('2756404075600','Title of the first 10 volumes of the series is Germans to America : lists of passengers arriving at U.S. ports 1850-1855.')
 ;
 
@@ -895,7 +931,7 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9780525575078','A literary treasure of over one hundred unpublished letters from National Book Award-winning author Flannery OConnor and her circle of extraordinary friends. Flannery O’Connor is a master of twentieth-century American fiction, joining, since her untimely death in 1964, the likes of Hawthorne, Hemingway, and Faulkner. Those familiar with her work know that her powerful ethical vision was rooted in a quiet, devout faith and informed all she wrote and did. Good Things Out of Nazareth, a much-anticipated collection of many of O’Connor’s previously unpublished letters—along with those of literary luminaries such as Walker Percy (The Moviegoer), Caroline Gordon (None Shall Look Back), Katherine Anne Porter (Ship of Fools), Robert Giroux and movie critic Stanley Kauffmann. The letters explore such themes as creativity, faith, suffering, and writing. Brought together, they form a riveting literary portrait of these friends, artists, and thinkers. Here we find their joys and loves, as well as their trials and tribulations as they struggle with doubt and illness while championing their beliefs and often confronting racism in American society during the civil rights era. Praise for Good Things Out of Nazareth “An epistolary group portrait that will appeal to readers interested in the Catholic underpinnings of OConnors life and work . . . These letters by the National Book Award–winning short story writer and her friends alternately fit and break the mold. Anyone looking for Southern literary gossip will find plenty of barbs. . . . But there’s also higher-toned talk on topics such as the symbolism in O’Connor’s work and the nature of free will.”—Kirkus Reviews “A fascinating set of Flannery O’Connor’s correspondence . . . The compilation is highlighted by gems from O’Connor’s writing mentor, Caroline Gordon. . . . While O’Connor’s milieu can seem intimidatingly insular, the volume allows readers to feel closer to the writer, by glimpsing O’Connor’s struggles with lupus, which sometimes leaves her bedridden or walking on crutches, and by hearing her famously strong Georgian accent in the colloquialisms she sprinkles throughout the letters. . . . This is an important addition to the knowledge of O’Connor, her world, and her writing.”—Publishers Weekly')
+('9780829418316','Finding God is a faith-formation program for children in grades 1-6 and the significant adults in their lives. The program mentors children, parents, and adults in cultivating a special place in their hearts to meet with God. Preview samples online at www.findinggod.com/preview.')
 ;
 
 Insert into Summary
@@ -908,6 +944,12 @@ Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('4383189332984','A study of the conflict in world history between economic growth and political greed. It proposes that early periods and non-western societies are vital to understanding the growth process.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9780748407286','Manual Materials Handling MMH creates special problems for many different workers worldwide. Labourers engaged in jobs which require extensive lifting/lowering, carrying and pushing/pulling of heavy materials have suffered increasing rates of musculo-skeletal injury, especially to the back.; This guide is intended to include all activities involved in MMH lifting, pushing, pulling, carrying and holding. Recommendations are provided in the form of design data that can be used to design different MMH work activities. The guide is divided into two parts. Part I outlines the scope of the problem, discusses the factors that influence a persons capacity to perform MMH activities and / or should be modified to reduce the risk of injuries, and reviews the various design approaches to solving the MMH problem. Part II provides specific design data in six distinct chapters. The seventh chapter of Part II of the guide describes various mechanical devices that are available to aid MMH activities.; The guide is aimed at all concerned with the health impact of MMH activities; occupational health and safety workers; senior human resource managers; ergonomists; workers compensation lawyers; union representatives.')
 ;
 
 Insert into Summary
@@ -997,12 +1039,6 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('8605900225030','Cardiac outputs of seminude resting male subjects were estimated from measurements of transthoracic impedance pulses as recorded by the tetropolar impedance plethysmographic technic. Ambient temperature was increased from 28 to 43C and maintained at this level for 1.5-2.0 hours. Increases in cardiac output were small, variable (ranging from 0.3 to 1.8 liters/min.), and were caused by small increases both in heart rate and stroke volume. The greater cardiac output was temporally related more closely to the augmented stroke volume which was, in turn, closely related to cutaneous vadodilatation as demonstrated by the cutaneous opacity pulses, the implication being that the augmented stroke volume probably results from the greater cutaneous venous return. The ratio of increase in cardiac output to sweating was about the same as previously shown; changes in oral temperature were small in all subjects, averaging about 0.5F. Validation of the electrical impedance technic as a measure of right ventricular stroke output was accomplished in dogs through comparisons of pulmonary arterial blood flow (electromagnetic flowmeter) and dye dilution (cardiogreen) cardiac output with that obtained by the impedance method. The correlations between the three methods were 0.792 and 0.916, respectively. (Author).')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
 ('4488053454911','Human rights now occupy a key place in international law and international relations. Nearly 100 states have accepted the United Nations Covenants of 1966; regional systems of human rights are in operation in Europe, Africa and Latin America; and organisations such as the ILO and Unesco have their own instruments and procedures. Human Rights in the World explains what the current guarantees of human rights are and how they work. Substantially rewritten and updated to take into account the ending of the Cold War, this new edition includes such issues as the War Crimes Tribunal for Former Yugoslavia, the Convention on the Rights of the Child and the role of the UN Commissioner for Human Rights. Authoritative, comprehensive and up-to-date, the book is an invaluable source of reference for students, scholars and practitioners.')
 ;
 
@@ -1039,13 +1075,13 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781472526885','An Englishman, a Northern Irishman, a Scotsman and a Welshman walked into a recording studio and created The Union. Commercially successful and critically acclaimed, the pioneering indie rock band is now on the verge of breaking up. When financial disaster strikes and Scottish guitarist Barry leaves the band, artistic differences go head to head with alliances that run deep, can The Union survive? With live music from a four-piece ensemble, Im With the Band is a witty and timely response to our changing political landscape.')
+('9788184002287','Are you stressed? The workplace has become increasingly competitive, family life has its never-ending complications, and when you step outside, you have to deal with heavy traffic, aggression, and massive pollution. No wonder that you’re tense and agitated, have hyper reflexes and blood pressure that’s higher than the midday sun. But you’re not alone. Fifty percent of Indian professionals suffer from stress with stress-related diseases from depression to lack of fertility drastically on the rise. In I’m Not Stressed, Deanne Panday, one of the country’s leading health and fitness experts, shares with you her secrets to tackle this looming lifestyle problem. She tells you what stress really means, how to know when you have a serious case of it, and most importantly how to deal with it through a simple plan of diet, exercise, sleep, meditation, and breathing. With advice from leading psychiatrists, cardiologists, endocrinologists, and celebrities who have to deal with high-level stress, I’m Not Stressed is your mantra for enduring health and happiness.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9789353226152','Indian Air Force Airmen X & Y Group (Technical & Non- Technical Trades Exam) 25 Practice Sets 1500+ MCQ & Ans. with Explanation Each Set Covers 4 Subjects • English • Mathematics • Physics • Reasoning & General Awareness(RAGA) • Based on the Latest Syllabus & Nature of Questions')
+('9781472526885','An Englishman, a Northern Irishman, a Scotsman and a Welshman walked into a recording studio and created The Union. Commercially successful and critically acclaimed, the pioneering indie rock band is now on the verge of breaking up. When financial disaster strikes and Scottish guitarist Barry leaves the band, artistic differences go head to head with alliances that run deep, can The Union survive? With live music from a four-piece ensemble, Im With the Band is a witty and timely response to our changing political landscape.')
 ;
 
 Insert into Summary
@@ -1058,6 +1094,12 @@ Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('8071741481239','Semiannual. An international interdisciplinary index to the review literature of science, medicine, agriculture, technology, and the behavioral sciences. Includes literature appearing in about 75 full coverage source journals, articles with 40 or more references, and marked review references in Science citation index data base. SCI format, with citation, source, permuterm, corporate, patent, and anonymous indexes; also journal lists.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9780226359441','Review: In this work, R. Bruce Hull argues that environmentalism will never achieve its goals unless it sheds its fundamentalist logic. The movement is too bound up in polarizing ideologies that pit humans against nature, conservation against development, and government regulation against economic growth. Only when we acknowledge the infinite perspectives on how people should relate to nature will we forge solutions that are respectful to both humanity and the environment. Infinite Nature opens doors so that nature can be seen from the scientific understandings proffered by anthropology, evolution, and ecology, to the promise of environmental responsibility offered by technology and economics, to the designs of nature envisioned in philosophy, art, law, and religion. Along the way, Hull helps us find the common ground created out of many natures - the place where sustainable and thriving communities are possible.--BOOK JACKET')
 ;
 
 Insert into Summary
@@ -1099,12 +1141,6 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('5583988007832','This textbook is designed for a one-year course in real analysis at the junior or senior level. An understanding of real analysis is necessary for the study of advanced topics in mathematics and the physical sciences, and is helpful to advanced students of engineering, economics, and the social sciences. Stoll, who teaches at the U. of South Carolina, presents examples and counterexamples to illustrate topics such as the structure of point sets, limits and continuity, differentiation, and orthogonal functions and Fourier series. The second edition includes a self-contained proof of Lebesgues theorem and a new appendix on logic and proofs. Annotation copyrighted by Book News Inc., Portland, OR')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
 ('3384847360741','The book presented here is intended briefly, and within the possibilities of its simple form, to acquaint the reader with the basic theory of differential equations with deviating arguments. In recent years this subject has found wide application, not only in the theory of automatic control, but also in many other areas of technology, in various problems of physics, in economics, and even in the biological sciences.')
 ;
 
@@ -1141,18 +1177,6 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('1744186352671','Committee Serial No. 91-17. Considers H.R. 11249, to amend the John F. Kennedy Center Act to authorize additional funds for the construction of the John F. Kennedy Center for the Performing Arts.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('1606260990664','Until 1860 John Ruskins writings were primarily about art and architecture; but his belief that good art can flourish only in a society that is sound and healthy led him inevitably to a preoccupation with social and economic problems, the dominant concern of his later writings. James Clark Sherburne provides in this volume a detailed and long overdue re-examination of Ruskins social and economic perceptions and, for the first time, systematically places these perceptions in their nineteenth-century intellectual context. Ruskins eloquence and the strength of his moral, aesthetic, and social convictions established him as one of the most influential of Victorian writers. His writings, however, are not easily categorized and many of his important insights occur as digressions in discussions of other topics. Mr. Sherburne succeeds in ordering and clarifying the rich chaos of Ruskins social thought without denying that wholeness which is, paradoxically, its salient feature. He discovers the source of Ruskins social criticism in his early writings. He then follows Ruskins interest as it shifts from economic theory to the problems of exploitation, war, imperialism, the means of social reform, and the construction of the welfare state. Ruskins remarkably early vision of the possibility of economic abundance, his anticipation of its social and personal implications, his much disparaged critique of classical economics, his pioneering attention to the role of the consumer and the quality of consumption, his anxious portrayal of the effects of industrialism on the environment, his critique of English educational methods, and his farsighted proposals for public management of industry and transport are among the many aspects of Ruskins thought examined by Mr. Sherburne. What emerges is an original and exhaustive study of a dimension of Ruskins work which, though much neglected, is particularly relevant to contemporary concerns.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
 ('2058891975865','John Xántus was a bit of a charlatan; of that there is little doubt. He lied about his exploits, joined the U.S. Army under an assumed name, and managed to alienate most of the people he met. Yet this Hungarian immigrant became one of the Smithsonian Institution’s most successful collectors of natural history specimens in the mid-nineteenth century, and he is credited with the discovery of many new species in the American West. From his station at Ft. Tejon in California’s Tehachapi Mountains, Xántus carried on a lengthy correspondence with Spencer Baird at the Smithsonian, to whom he shipped the specimens he had trapped or shot in the surrounding sierra and deserts. A prolific letter writer, Xántus faithfully reported his findings as he bemoaned his circumstances and worried about his future. Working from Smithsonian archives, natural history writer Ann Zwinger has assembled Xántus’s unpublished letters into a book that documents his trials and triumphs in the field and reveals much about his dubious character. The letters also bring to life a time and place on the western frontier from which Xántus was able to observe a broad panorama of American history in the making. Zwinger’s lively introduction sets the stage for Xántus’s correspondence and examines the apparent contradictions between the man’s personal and professional lives. Her detailed notes to the letters further clarify his discoveries and shed additional light on his checkered career.')
 ;
 
@@ -1171,13 +1195,7 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('7309200828260','Vols. 20- include Proceedings of the North Carolina academy of science, 1902-')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9780429973178','These notes are based on the course of lectures I gave at Harvard in the fall of 1964. They constitute a self-contained account of vector bundles and K-theory assuming only the rudiments of point-set topology and linear algebra. One of the features of the treatment is that no use is made of ordinary homology or cohomology theory. In fact, rational cohomology is defined in terms of K-theory.The theory is taken as far as the solution of the Hopf invariant problem and a start is mode on the J-homomorphism. In addition to the lecture notes proper, two papers of mine published since 1964 have been reproduced at the end. The first, dealing with operations, is a natural supplement to the material in Chapter III. It provides an alternative approach to operations which is less slick but more fundamental than the Grothendieck method of Chapter III, and it relates operations and filtration. Actually, the lectures deal with compact spaces, not cell-complexes, and so the skeleton-filtration does not figure in the notes. The second paper provides a new approach to K-theory and so fills an obvious gap in the lecture notes.')
+('9780821803400','Volume 2 of two - also available in a set of both volumes.')
 ;
 
 Insert into Summary
@@ -1189,13 +1207,13 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('7181147779254','The official records of the proceedings of the Legislative Council of the Colony and Protectorate of Kenya, the House of Representatives of the Government of Kenya and the National Assembly of the Republic of Kenya.')
+('9781780966144','This, the first of two volumes on Germanys World War II U-boats, traces their development from the early U-boats of the Kaisers Navy, the prohibition on Germany having U-boats following the Armistice in 1918 and the subsequent Treaty of Versailles, the secret development of U-boats using a cover-firm in Holland, culminating in the formation of the 1st U-boat Flotilla in 1935 with the modern Type II. The operational history section includes examples from the Classes Type VIIA, Type VIIB, VIID, VIIE and VIIF before concentrating on the mainstay of the U-boat arm, the Type VIIC. Comparisons are also made with the standard allied submarines, their strengths, weaknesses and U-boat tactics.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781780966144','This, the first of two volumes on Germanys World War II U-boats, traces their development from the early U-boats of the Kaisers Navy, the prohibition on Germany having U-boats following the Armistice in 1918 and the subsequent Treaty of Versailles, the secret development of U-boats using a cover-firm in Holland, culminating in the formation of the 1st U-boat Flotilla in 1935 with the modern Type II. The operational history section includes examples from the Classes Type VIIA, Type VIIB, VIID, VIIE and VIIF before concentrating on the mainstay of the U-boat arm, the Type VIIC. Comparisons are also made with the standard allied submarines, their strengths, weaknesses and U-boat tactics.')
+('1333006675929','A full-text reporter of decisions rendered by federal and state courts throughout the United States on federal and state labor problems, with case table and topical index.')
 ;
 
 Insert into Summary
@@ -1219,7 +1237,7 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9064363154053','Description dune méthode denseignement des mathématiques dans une classe ouverte.')
+('4163451179847','Includes, beginning Sept. 15, 1954 (and on the 15th of each month, Sept.-May) a special section: School library journal, ISSN 0000-0035, (called Junior libraries, 1954-May 1961). Also issued separately.')
 ;
 
 Insert into Summary
@@ -1231,7 +1249,7 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781509530786','Language is the medium in which we humans compose our thoughts, explain our thinking, construct our arguments, and create works of literature. Without language, societies as complex as ours could not exist. Geoffrey Pullum offers a stimulating introduction to the many ways in which linguistics, as the scientific study of language, matters. With its close relationships to psychology, education, philosophy, and computer science, the subject has a compelling human story to tell about the ways in which different societies see and describe the world, and its far-reaching applications range from law to medicine and from developmental psychology to artificial intelligence. Introducing Polity’s Why It Matters series: In these short and lively books, world-leading thinkers make the case for the importance of their subjects and aim to inspire a new generation of students.')
+('9783110965919','Edition for students of this important book whose centre-piece is the Battle of Salamis.')
 ;
 
 Insert into Summary
@@ -1249,18 +1267,6 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9789351295747','Lippincott Manual of Medical-Surgical Nursing Adaptation of Nettina: Lippincott Manual of Nursing Practice, 10/Suresh K. Sharma This book is south Asian adaptation of Nettina: Lippincott Manual of Nursing Practice, 10/e. Customized as per the General Nursing Midwifery curriculum prescribed by Indian nursing council (INC). It not only provides but establishes authentic content of international standard but also caters to the specific curriculum requirement of nursing student of India.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9780814735008','In this clearly written and accessible book, (Wendell) Harris sets out to expose the inadequacies of current methods and trends in literary criticism. . . . The books greatest strength is its lucid presentation of critical works, which are then shown to be compromised by fallacies and flaws.-- CHOICE.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
 ('3655232855070','This is a single source for developing critical thinking through nearly 1,000 case-based questions with detailed answers. Students learn to think through patient problems--just like practicing nurses do--with the practical and relevant explanations provided.')
 ;
 
@@ -1273,13 +1279,19 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('9781847179869','In Ireland, Daniel ODonnell is more than just a singing star: he has reached the status of national treasure. It has been a long journey for the boy from Kincasslagh, County Donegal, and in Living the Dream he tells his story with his customary sense of humour and down-to-earth charm. Much has happened in Daniel ODonnells life since his first autobiography, Follow Your Dream, and in this new book he reflects on the range of experiences and emotions that accompanied his wife Majellas battle with cancer; the death of his beloved mother, Julia; his part in the BBCs Strictly Come Dancing TV show; and his B&B Road Trip adventures with Majella. And he delves into the relentless touring and recording that took him to the brink of burnout and forced him to reassess his priorities. Daniel ODonnell is an international phenomenon – a real star. His fans will love this latest instalment of his extraordinary life story.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('9780080510514','M Programming: A Comprehensive Guide is a complete update to ABCs of MUMPS. While ABCs of MUMPS was an introduction for novice and intermediate M programmers, M Programming: A Comprehensive Guide has a new section containing advanced material. This new section addresses features such as transaction processing, networking, structured system variables, and interfaces to other standards. Five new chapters have been added, covering an overview of M for readers familiar with other languages; M and the Windows environment; interaction between M and the underlying system; transaction processing; interfacing M with other standards; and error handling. Sections on interactive programming and futures have been extensively updated. M Programming: A Comprehensive Guide is an invaluable resource for everyone who is learning or using M. · Includes section on advanced programming · Completely updated for the 1995 standard')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781856047760','This title draws together international authorities to explore the variety of work that libraries are doing across the world to deliver resources to users via mobile and hand-held devices. Based on the proceedings of the Third International M-Libraries Conference held in Brisbane in May 2011, this draws together cutting-edge international contributions from the leading authorities in the field. The main strands of discussion include: • mobile services and their development • mobile users, their behaviour and requirements • emerging technical developments including new platforms, devices and applications • strategy and infrastructure developments at national level • reflections and feedback on new service models • local innovation. Readership: Information professionals in all sectors, policy makers, researchers, developers, publishers, suppliers, LIS students and new professionals.')
+('9780792364740','Proceedings of the NATO Advanced Study Institute on Quantum Geometry, held in Akureyri, Iceland, on August 9-20, 1999')
 ;
 
 Insert into Summary
@@ -1309,13 +1321,37 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('9780810396814','Provides detailed comprehensive coverage of 500 manufactured product categories, outlines more than 4000 companies in 119 manufacturing countries and features data from the United Nations General Industrial Statistics series and Industrial Commodity Production Statistics series.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('9308628575111','History of Masonic lodges in California and Hawaii, notable members, charities, and Masonic homes.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('2087286548608','Are you struggling with the selection process? Does your application keep getting rejected – or worse – ignored? Are you overwhelmed by the amount of screening questions? Are you stuck in a position and want to move up the ladder? If you answered “yes” to any of these questions then this book is for you! In this easy-to-understand guide, you will learn: -The #1 mistake that applicants make -Why your résumé needs to be written differently -How to write a cover letter that stands out from the rest -What you need to say during an interview -How to get a job offer Getting screened in is possibly the most difficult part of the selection process. With the little-known, yet simple strategies exposed in Mastering the Selection Process, youll dramatically increase your chances of success. From the first application to the final interview, each chapter will walk you through every step of your journey with achievable goals that will help ensure your application gets screened in.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9812443103011','This is the classic book of detailed instructions for making a wide variety of mathematical models of all kinds. Complete nets are given for all regular Archimedean and stellated polyhedra together with a number of interesting compounds. There are sections on paper folding, dissections, curve stitching, linkages, the drawing of loci and envelopes and the construction of plane tessellations. The volume is fully illustrated with diagrams and photographs of models in paper and other materials and all have been successfully made and tested. Note, for books that provide the nets and instructions to make various solids, look at Make Shapes 1, Make Shapes 2, and Paper Polyhedra in Colour. Cundy and Rollett provides both a wider range of nets but not in ready-made form.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('2456863451804','This volume presents many of the talks given at the Jean Dieudonne memorial conference held in Nice (France). These papers make a valuable contribution to the history of mathematics in the 20th century. Text is in French. Contributors include: P. Deligne, B. Eckmann, L. Garding, T. Hawkins, C. Houzel, J.-P. Kahane, Yu. I. Manin, G. Pisier, R. Remmert, N. Schappacher')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('8400466305023','Robert McJunkin was born in the 1680s in Port Williams, Scotland and married Margaret Caldwell in County Tyrone, Ireland. He and his sons, William and Samuel immigrated to Cumberland County, Pennsylvania. His sons later moved to Union County, South Carolina. Descendants lived in North Carolina, South Carolina, and elsewhere.')
 ;
 
 Insert into Summary
@@ -1351,6 +1387,18 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('5794305879525','Prefacio; Organizacao do dicionario; Indice, em portugues, das pranchas ilustrativas; Indice, em ingles, das pranchas ilustrativas; Verbos; Pesos e medidas; Abreviaturas explicativas usadas nos verbetes; Diconario, portugues-ingles; Abreviaturas frequentemente usadas em portugues.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9780619200039','Part of the highly successful Shelly Cashman Series, this text offers a clear screen-by-screen, step-by-step approach to learning the fundamentals of Microsoft Office XP. Includes projects and exercises that take full advantage of the new features of Office XP.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('9780130129512','Useful for one, two, or three-term courses in Office Technology/Occupations/Administration departments. All texts integrate the learning of word processing with the proper formatting of business documents, language arts reinforcement, vocabulary building, and critical thinking practice.')
 ;
 
@@ -1363,19 +1411,13 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781136935305','Monetary and Financial Integration in West Africa details the progress, challenges faced, and potential of the project intended to create a West African Monetary Zone (WAMZ) between Gambia, Ghana, Guinea, Nigeria and Sierra Leone. Given the trend towards regionalization of economic ties across the world, especially after the successful launch of the euro, a detailed analysis of the WAMZ is needed. As this is the first book on monetary and financial integration in Gambia, Ghana, Guinea, Nigeria and Sierra Leone, it is an essential read for anyone interested in economic development in West Africa, and indeed in Africa as a whole. This book is extremely well-researched, with detail on virtually all aspects of economic integration in the region; with issues ranging from the institutional details of integration, trade and financial market integration, to progress on convergence of macroeconomic fundamentals to the required payments system infrastructure. The book deploys solid empirical facts and sophisticated analyses to thoroughly defend its assertions. This collection is a valuable contribution and an excellent companion book for monetary economics or international economics classes as well as African development literature. It will provide students and researchers with an exciting chance to apply concepts of, for example, optimum currency areas, central bank structure or monetary policy approaches, to a real-world case of potential monetary union. Dr. Temitope W. Oshikoya and his collaborators have written the authoritative book on the subject of monetary union in the West African Monetary Zone. As is evident in the level of detail of the book, Dr. Oshikoya brings rich field experience from his role as Director General and CEO of the West African Monetary Institute. This book will be of interest to postgraduates and researchers in development economics; as well as policymakers, monetary authorities and development practitioners.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
 ('8384701687048','Each issue includes data cumulative from the beginning of the report year.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('4947250778781','Mother Jones is an award-winning national magazine widely respected for its groundbreaking investigative reporting and coverage of sustainability and environmental issues.')
+('9781416595748','For more than twenty-five years, Mothering magazine has captured an audience of educated women who appreciate its well inform, you choose approach to parenting. Having a Baby, Naturally reflects this spirit with straightforward, uncensored information about pregnancy and childbirth, addressing common concerns and questions in a compassionate, nonjudgmental style. Written by Peggy OMara, the longtime publisher, editor, and owner of Mothering magazine, it synthesizes the best theories and safest practices used in natural childbirth, including recommendations from the World Health Organization, the American Academy of Pediatrics, and the American College of Obstetricians and Gynecologists. Throughout, OMara reinforces her belief that each womans pregnancy and birth experience is a one-of-a-kind event. She covers such topics as: Nutrition, diet, and exercise Emotional self-awareness during and after pregnancy A trimester-by-trimester guide to what is happening in your body and your childs Birth choices -- offering suggestions, not rules Pain medication alternatives Birth locations, from hospitals to home birth Relieving morning sickness with natural remedies Prenatal testing Breastfeeding Prematurity and multiple births Balancing work and family The fathers role during pregnancy and beyond Difficult subjects, such as birth defects, miscarriages, and postpartum depression, are also treated with sensitivity and candor. Finally, a book for the thinking woman who believes in her own inherent capacity to make smart, informed decisions about her pregnancy and birth, just as she makes in other areas of her life. Having a Baby, Naturally is a celebration of childbirth and an accurate and objective guide to helping women fortify their spirits, develop trust in their bodies, and make the best possible choices to protect their new babys health.')
 ;
 
 Insert into Summary
@@ -1405,19 +1447,25 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('9781841491349','Im Anita Blake and I kill monsters. The last thing I want to think about through when I to think about though when I get home after a night out is work. But someone has abducted a wereleopard from the Narcissus in Chains club. Its a dark world out there with shapeshifter crime and were-creature struggles. I may not have seen Jean-Claude, the Vampire Master of the City, for six months, but I need his help now, whatever the consequences. Someone is targeting the lycanthropes and we have to save them. --- back cover.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('5345523076199','Some vols. vary in years of coverage.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('4254782678638','In this paper, the notion of neutrosophic Q- fuzzy left N-subgroups is introduced in a near ring and investigated some related properties. Characterization of neutrosophic Q- fuzzy left N-subgroups with respect to T-norm and S-norm are given. Few homomorphic image and its pre-image on neutrosophic Q- fuzzy are obtained.')
+('5221509491060','Current appellate decisions with supporting pleadings and approved instructions relating to the law of negligence generally, with accompanying editorial comment, cross-references to additional sources, and relevant case annotations.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9780195373363','Greek and Latin are studied as a pair for cultural reasons only; as languages, they have little in common apart from their Indo-European heritage. Thus the only way to treat the historical bases for their development is to begin with Proto-Indo-European. In order to make a reconstructed language like Proto-Indo-European intelligible and intellectually defensible, Sihler presents some of the basis for reconstructing its features and, in the process, discusses reasoning and methodology of reconstruction (including a weighing of alternative reconstructions).')
+('4254782678638','In this paper, the notion of neutrosophic Q- fuzzy left N-subgroups is introduced in a near ring and investigated some related properties. Characterization of neutrosophic Q- fuzzy left N-subgroups with respect to T-norm and S-norm are given. Few homomorphic image and its pre-image on neutrosophic Q- fuzzy are obtained.')
 ;
 
 Insert into Summary
@@ -1477,7 +1525,25 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('9789264028449','This comprehensive review of e-government in Turkey identifies strategic opportunities and major challenges relative to its e-government efforts.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('4894868530020','This up-to-the-minute review book takes its questions from leading articles in the current Ob/Gyn literature, making it a working state-of-the-art of the field & a timely resource for self-assessment & board preparation. Board-like questions reinforce understanding of the areas of gynecology, reproductive endocrinology, gynecologic oncology, obstetrics, & perinatal medicine. Answers are provided along with capsule summaries of the original article from which they derive in a time-saving format ideally suited for quick review.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('5851317745526','This accessible, chronologically organized text introduces the major topics, issues, terminology, and theories in child and adolescent development. Lefrancois is known for his friendly, student-oriented writing, which includes personal anecdotes that bring the material to life in a unique and involving way. The author stresses the application of the concepts of developmental psychology to students career and educational goals. A major emphasis in the new edition is the importance of the contexts (relationship) within which children develop, with special attention to cross-cultural and multicultural issues. The new edition represents a major rethinking of the text with five new emphases, as well as a thorough updating throughout the text.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('6440400104879','This report presents the results of a projective economic survey of the Ohio River Basin designed to furnish guides for appraising future growth in relation to water requirements. The long-term demographic and economic projections produced by this study are to be used in planning the comprehensive development of the Basins water and related land resources, so that emerging needs can be met in a timely and efficient manner. This survey thus constitutes a basic building block for one of the so-called framework studies of the countrys major river basins. As such, it is meant to set quantitative benchmarks or guides for a series of more detailed field surveys of individual tributary drainage areas of the Ohio River Basin which will follow and complement the framework study. (Author).')
 ;
 
 Insert into Summary
@@ -1490,12 +1556,6 @@ Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('2093669533626','Old-House Journal is the original magazine devoted to restoring and preserving old houses. For more than 35 years, our mission has been to help old-house owners repair, restore, update, and decorate buildings of every age and architectural style. Each issue explores hands-on restoration techniques, practical architectural guidelines, historical overviews, and homeowner stories--all in a trusted, authoritative voice.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9553889970120','Volume III: Book III: The Veins and Arteries; Book IV: The Nerves, contains a total of thirty-two chapters. Each book has a large, 18 x 12-inch, fold-out diagram detailing the veins and arteries and the nerves.')
 ;
 
 Insert into Summary
@@ -1543,7 +1603,25 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('9780192597618','David Kellogg Lewis (1941-2001) was one of the most influential philosophers of the twentieth century. He made significant contributions to almost every area of analytic philosophy including metaphysics, philosophy of language, philosophy of mind, and philosophy of science, and set the agenda for various debates in these areas which carry on to this day. In several respects he remains a contemporary figure, yet enough time has now passed for historians of philosophy to begin to study his place in twentieth century thought. His philosophy was constructed and refined not just through his published writing, but also crucially through his life-long correspondence with fellow philosophers, including leading figures such as D.M. Armstrong, Saul Kripke, W.V. Quine, J.J.C. Smart, and Peter van Inwagen. His letters formed the undercurrent of his published work and became the medium through which he proposed many of his well-known theories and discussed a range of philosophical topics in depth. A selection of his vast correspondence over a 40-year period is presented here across two volumes. As metaphysics is arguably where Lewis made his greatest contribution, this forms the focus of Volume 1. Arranged under the broad areas of Causation, Modality, and Ontology, the letters offer an organic story of the origins, development, breadth, and depth of his metaphysics in its historical context, as well as a glimpse into the influence of his many interlocutors. This volume will be an indispensable resource for contemporary metaphysics and for those interested in the Lewisian perspective.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('9100501993211','Part B has subtitle: Low temperature and solid state physics and part C has subtitle: Atomic, molecular and plasma physics; optics')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9781351996402','Politics Latin America examines the role of Latin America in the world and its importance to the study of politics with particular emphasis on the institutions and processes that exist to guarantee democracy and the forces that threaten to compromise it. Now in its third edition and fully revised to reflect recent developments in the region, Politics Latin America provides students and teachers with an accessible overview of the region’s unique political and economic landscape, covering every aspect of governance in its 21 countries. The book examines the international relations of Latin American states as they seek to carve out a role in an increasingly globalised world and will be an ideal introduction for undergraduate courses in Latin American politics, comparative politics, and other disciplines. This new edition will include: updated references to scholarship and debates; new themes such as environmental rights, women presidents, the Latin American Pope, Afro-Latinos, and the politics of sexual diversity; examination of demographic change and social movements; a new chapter on environmental economics and sustainable development. This book is essential reading for undergraduates taking courses in Latin American Politics.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('1224090015026','Includes Geographical index (earlier called Geographical section).')
 ;
 
 Insert into Summary
@@ -1567,12 +1645,6 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('1162996415386','Preneoplasia of the Breast: presents the latest developments in the field, emphasizing cell-biological processes and depicting how they contribute to a better understanding and diagnosis of benign and malignant proliferative breast disease. is outstanding in its design, depicting over 540 full-color photomicrographs of conventional hematoxylin-eosin and immunohistochemical stainings. provides conceptual diagrams for a clearer understanding of the associated cellular processes. details the relevant radiologic, clinical and therapeutic background, clearly depicting how the pathologist can contribute to improved treatment of breast disease. contains contributions from renowned European and American pathologists and clinicians.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
 ('9178180696511','Political humor and satire.')
 ;
 
@@ -1580,6 +1652,12 @@ Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('9780958103404','A history of European contact with and settlement on Fraser Island (Kgari), including first-hand accounts of European settlement; impact of settlement on the Ngulungbara, Batjala and Dulingbara people and their culture; Eliza Fraser incident; shipwrecks; missions at White Cliffs and Bogimbah; relations with pastoralists and timber getters; management of the Islands dingoes.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9526801292608','Problems and Materials on Decendents and Trusts, Sixth Edition, contains a vast amount of new material to help you structure an effective and enlightening course on estates and trusts and future interests. Focusing on areas such as succession, trusts, and fiduciary administration, this thoughtful revision supplies a solid examination of this challenging area of the law. the expert author team puts the material you need at your fingertips with: Cases and problems that make the text both teachable and interesting to students. Statutes and regulations that include examples from the Uniform Probate Code, other Uniform Acts, And The Restatements. A thoroughly revised Teachers Manual that reflects the many changes in the book. Extensive changes to Problems and Materials on Decendents Estates and Trusts For The Sixth Edition bring the book up to date through: A reorganized, more user-friendly chapter on Will Substitutes which now precedes chapters on Probate and Contest of Wills and Constructional Problems in Estate Distribution incorporated material on future interests revised material on Trusts reflecting the new Uniform Trust Act, The new Restatement (Third) of Trusts, And The new Restatement (Third) of Property (Donative Transfers) a substantially updated section on the prudent investing more information on health care decision-making and professional responsibility interspersed throughout the text a revised treatment of principal and income, In light of the 1997 Uniform Principal and Income Act updated cases and many key statutes Now that this sweeping revision is available, instructors can turn with confidence To The book with the documented track record of success for current coverage of todays issues and concerns - Problems and Materials on Decendents Estates and Trusts, Sixth Edition .')
 ;
 
 Insert into Summary
@@ -1597,25 +1675,13 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('8859713910210','Includes also Minutes of [the] Proceedings, and Report of [the] President and Council for the year (beginning 1965/66 called Annual report).')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('3084374407813','Vol. for 1955 includes an issue with title Product design handbook issue; 1956, Product design digest issue; 1957, Design digest issue.')
+('9788131760314','Combining the features of high level language and functionality assembly language, this book reduces the gap between high level language and low level language, which is why C is known as middle level language. It is written for the students of B.E./B. Tech, M.E./M. Tech, MCA, M. Sc(Comp. Sc)/M. Sc(IT), B CA, BBA, MBA, B. Sc(IT), B. Sc(Comp. Sc), Diploma in Computer Science and other computer programs. --')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('8017305502370','Some volumes accompanied by addenda.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('4547518441006','Comprised of both a one-act and a two-act play, this powerful dramatic pairing centers on Sister Dianna Ortiz, who was kidnapped, raped, and tortured by U.S.-sponsored Guatemalan security forces in 1989.')
 ;
 
 Insert into Summary
@@ -1633,12 +1699,6 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9789042919495','This eighth volume in the Documenta Q series is concerned with the reconstruction of the Q text behind Luke 12:33-34 par. Matt 6:19-21. Storing up Treasures in Heaven takes up important wisdom themes such as the proper disposition of wealth, the importance of prioritizing ones thoughts and concerns, and the means to gaining eternal - not temporal - rewards. Parallels are found in literature as early and diverse as the Gospels of Mark, John, and Thomas, the Epistle of James, and Justins Apology. The International Q Projects presentation of the critical text of Q 12:33-34, together with the exhaustive history of research on which it is based, will considerably enhance research in the Sayings Gospel Q, the historical Jesus, and the ethical concerns of early Jesus movements.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
 ('9780849359835','Q fever is a zoonotic infectious disease caused by Coxiella burnetii, which infects a broad range of hosts. This volume presents critical reviews of the biological aspects of C. burnetii. Topics covered include C. burnetiis place in the microbial world through a comparison with other microorganisms that are phylogenetically related or share phenotypic traits; intrinsic properties of Coxiella with respect to infectivity, virulence, and pathogenecity; past and current methods for the isolation, amplification, and purification of C. Burnetii; obligate acidophily; metabolic capabilities, with emphasis on intermediary metabolism, macromolecular synthesis, and protein export; and human immune responses to bacterial components during acute and chronic infection by C. Burnetii. Other fascinating topics about C. Burnetii include antigens, virulence factors, and biological response modifiers; ultrastructure; genetics; cloning and expression; and C. burnetii in the U.S.S.R. and China. Epidemiologists, molecular biologists, microbiologists, and other researchers interested in Q fever and C. burnetii should consider this book an essential reference resource.')
 ;
 
@@ -1651,19 +1711,19 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9789811942709','This third volume of the book series shows R-calculus is a Gentzen-typed deduction system which is non-monotonic, and is a concrete belief revision operator which is proved to satisfy the AGM postulates and the DP postulates. In this book, R-calculus is taken as Tableau-based/sequent-based/multisequent-based to preserve the satisfiability of the Theory/sequent/multisequent to revise, or sequent-based, to preserve the satisfiability of the sequent to revise. The R-calculi for Post and three-valued logic is given. This book offers a rich blend of theory and practice. It is suitable for students, researchers and practitioners in the field of logic.')
+('9780429894923','R Visualizations: Derive Meaning from Data focuses on one of the two major topics of data analytics: data visualization, a.k.a., computer graphics. In the book, major R systems for visualization are discussed, organized by topic and not by system. Anyone doing data analysis will be shown how to use R to generate any of the basic visualizations with the R visualization systems. Further, this book introduces the author’s lessR system, which always can accomplish a visualization with less coding than the use of other systems, sometimes dramatically so, and also provides accompanying statistical analyses. Key Features Presents thorough coverage of the leading R visualization system, ggplot2. Gives specific guidance on using base R graphics to attain visualizations of the same quality as those provided by ggplot2. Shows how to create a wide range of data visualizations: distributions of categorical and continuous variables, many types of scatterplots including with a third variable, time series, and maps. Inclusion of the various approaches to R graphics organized by topic instead of by system. Presents the recent work on interactive visualization in R. David W. Gerbing received his PhD from Michigan State University in 1979 in quantitative analysis, and currently is a professor of quantitative analysis in the School of Business at Portland State University. He has published extensively in the social and behavioral sciences with a focus on quantitative methods. His lessR package has been in development since 2009.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('6412036499604','To find more information about Rowman & Littlefield titles please visit us at www.rowmanlittlefield.com.')
+('9442594687793','Volume 1 documents the methodology, developments, and findings of the two-year study. Among the significant results of this project are: (1) a new set of crossing signal visibility specifications based on widely accepted definitions of motorists requirements and a demonstration that currently available signals exceed these specifications when properly maintained; (2) the evaluation of seven alterations to standard crossing signal design and operation with respect to performance improvement and maintenance requirements--several of these modifications offer attractive cost/benefit attributes and are recommended for implementation; and (3) the development and evaluation of three tools of potential value to signal maintenance crews: an alignment scope to aid in aiming of the signal for maximum effectiveness, a signal focusing tool to aid in the critical positioning of the signal lamp with respect to the reflector, and a signal flux meter for measuring the light output of crossing and traffic signals--all of these tools were proven effective and would be useful to a conscientious maintenance team. The prototype signal hardware underwent rigorous laboratory, environmental, and field tests. The maintenance tools were evaluated under laboratory conditions. Vol. III is intended to ba a stand-alone handbook for potential users of the projects developments.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9780071436182','Investors rocked by todays stock market woes are increasingly turning to real estate. Real Estate Investing from A to Z has become recognized in previous editions for explaining this potentially lucrative field in no-nonsense, easy-to-understand terms, while at the same time providing detailed information suitable for more seasoned investors. Substantially revised and updated chapters include discussions of REITs, risk reduction, the investment potential of single-family homes, group investments and joint ownership, and more.')
+('5125168424523','Designed to help teach positive behavior skills to student of all abilities. Students learn such social skills as dealing with anger productively; setting goals; building self-confidence; dealing with prejudice; and more.')
 ;
 
 Insert into Summary
@@ -1682,6 +1742,12 @@ Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('3621031297626','Lists the methods in use for remote sensing of characteristics of snow and ice in seasonal snow cover, glaciers and ice sheets, ground ice, lake and river ice and sea ice; discusses methods for analysing such data.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('5798169864378','1939 accompanied by tables and charts giving data for earlier years.')
 ;
 
 Insert into Summary
@@ -1706,6 +1772,12 @@ Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('9781559637121','The movement to implement market-based approaches to allocating water is gaining ground across California and in other western states. In Rivers of Gold, Brent M. Haddad explains the concept of water markets and the economic theory undergirding them. He shows how some water markets have worked -- and others have failed -- and gives the reader the analytic tools necessary to understand why. Rivers of Gold is the first book to provide a detailed examination of water markets and the institutional design issues associated with them. Copyright © Libri GmbH. All rights reserved.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('1221946840480','Emphasizes the importance of deep structures (in addition to the cerebral cortex) in understanding the central mechanisms of voluntary movement. Specialists write on the cerebellum, basal ganglia, thalamus and the related cerebral cortex.')
 ;
 
 Insert into Summary
@@ -1736,12 +1808,6 @@ Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('2827620506071','This volume was created to mark the centenary of the birth of Sean OCasey. It covers every aspect of his life and work, with essays from leading scholars in the field of OCasey studies: Ronald Ayling, Bernard Benstock, Mary FitzGerald, David Krause, Robert G. Lowery, William J. Maroldo, Alan Simp­son and Stanley Weintraub, to­gether with a Chronology and a list of productions of OCaseys plays, both by Robert G. Lowery. The subjects covered include OCaseys relations with the Abbey Theatre, Lady Gregory, W. B. Yeats, and Bernard Shaw together with assessments of the influence that James Joyce, politics, religion and Ireland had on the play­wright and his plays.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9783764398637','Anatolii Illarionovich Shirshov (1921–1981) was an outstanding Russian mat- maticianwhoseworksessentiallyin?uenced thetheoriesofassociative,Lie,Jordan and alternative rings. Many Shirshov’s students and students of his students had a successful research career in mathematics. AnatoliiShirshovwasbornonthe8thofAugustof1921inthevillageKolyvan near Novosibirsk. Before the II World War he started to study mathematics at Tomsk university but then went to the front to ?ght as a volunteer. In 1946 he continued his study at Voroshilovgrad (now Lugansk) Pedagogical Institute and at the same time taught mathematics at a secondary school. In 1950 Shirshov was accepted as a graduate student at the Moscow State University under the supervision of A. G. Kurosh. In 1953 he has successfully defended his Candidate of Science thesis (analog of a Ph. D. ) “Some problems in the theory of nonassociative rings and algebras” and joined the Department of Higher Algebra at the Moscow State University. In 1958 Shirshov was awarded the Doctor of Science degree for the thesis “On some classes of rings that are nearly associative”. In 1960 Shirshov moved to Novosibirsk (at the invitations of S. L. Sobolev and A. I. Malcev) to become one of the founders of the new mathematical institute of the Academy of Sciences (now Sobolev Institute of Mathematics) and to help the formation of the new Novosibirsk State University. From 1960 to 1973 he was a deputy director of the Institute and till his last days he led the research in the theory of algebras at the Institute.')
 ;
 
 Insert into Summary
@@ -1801,12 +1867,6 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('3649168884223','The last decade has been marked by a rapid growth in statistical mechanics, especially in connection with the physics and chemistry of the fluid state. Our understanding in these areas has been considerably advanced and enriched by the discovery of new techniques and the sharpening of old techniques, ranging all the way from computer simulations to mode-mode coupling theories. Statistical mechanics brings together under one roof a broad spectrum of mathematical methods. The aim of these volumes is to provide a didactic treatment of those topics that are most useful for the study of problems of current interest to theoretical chemists. The emphasis throughout is on the techniques themselves and not on reviewing the enormous literature in statistical mechanics. Each author was charged with the following task. Given N pages, (a) pose the problem, (b) present those aspects of the particular technique that cJearly illustrate its internal workings, (c) apply the technique to the solUlion of several illustrative examples, and (d) write the chapter so that it will enable the reader to approach key citations to the literature intelligently. These volumes are designed for graduate students and research workers in statistical mechanics. Nevertheless, they should be useful in other areas as weIl.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
 ('5166324601174','Began publication with report covering 1952; Statistics for 1949 included in report for 1952.')
 ;
 
@@ -1825,7 +1885,13 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('7419747708715','A submerged round jet has been studied visually and quantitatively to determine the effects of time-dependent perturbations in the initial jet velocity on the structure and growth of the mixing layer region of the jet. The.')
+('5539161872304','Paper prepared for a Conference on Students and Politics, sponsored by the Center for International Affairs, Harvard University, and the University of Puerto Rico, March 27-April 1, 1967.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9781461249702','This Student Guide is exceptional, maybe even unique, among such guides in that its author, Fred Soon, was actually a student user of the textbook during one of the years we were writing and debugging the book. (He was one of the best students that year, by the way. ) Because of his background, Fred has taken, in the Guide, the point of view of an experienced student tutor helping you to learn calculus. \~ile we do not always think Freds jokes are as funny as he does, we appreciate his enthusiasm and his desire to enter into communication with his readers; since we nearly always agree with the mathe matical judgements he has made in explaining the material, we believe that this Guide can serve you as a valuable supplement to our text. To get maximum benefit from this Guide, you should begin by spending a few moments to acquaint yourself with its structure. Once you get started in the course, take advantage of the many opportunities which the text and Student Guide together provide for learning calculus in the only way that any mathe matical subject can truly be mastered - through attempting to solve problems on your own. As you read the text, try doing each example and exercise your self before reading the solution; do the same with the quiz problems provided by Fred.')
 ;
 
 Insert into Summary
@@ -1867,25 +1933,25 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('9788027248117','Musaicum Books presents to you this unique SF collection, designed and formatted to the highest digital standards and adjusted for readability on all devices. Contents: H. G. Wells: The Time Machine Ayn Rand: Anthem Mark Twain: A Connecticut Yankee in King Arthurs Court H. Beam Piper: Flight from Tomorrow Philip K. Dick: The Skull The Variable Man Fritz Leiber: The Big Time Andre Norton: Key Out of Time The Time Traders The Defiant Agents Lester Del Rey: Pursuit ...And It Comes Out Here August Derleth: A Traveler in Time Frederik Pohl: The Tunnel Under the World The Day of the Boomer Dukes')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('9781373193445','This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('2554739170737','Contains the full texts of all Tax Court decisions entered from Oct. 24, 1942 to date, with case table and topical index.')
+('6474227330562','Studies include: International tax burdens; The economics of tax reduction; Taxes, can be cut.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('9781462516315','This highly regarded teacher resource synthesizes the research base on word recognition and translates it into step-by-step instructional strategies, with special attention to students who are struggling. Chapters follow the stages through which students progress as they work toward skilled reading of words. Presented are practical, evidence-based techniques and activities that target letter- sound pairings, decoding and blending, sight words, multisyllabic words, and fluency. Ideal for use in primary-grade classrooms, the book also offers specific guidance for working with older children who are having difficulties. Reproducible assessment tools and word lists can be downloaded and printed in a convenient 8 1/2 x 11 size. New to This Edition *Incorporates the latest research on word recognition and its connections to vocabulary, reading fluency, and comprehension. *Chapter on morphological (meaning-based) instruction. *Chapter on English language learners. *Instructive Try This activities at the end of each chapter for teacher study groups and professional development.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('7584854303064','Chiefly reprints from various scientific and technical periodicals.')
 ;
 
 Insert into Summary
@@ -1898,12 +1964,6 @@ Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('9781853260056','Story of Tess Durbeyfield, the daughter of a poor and dissipated villager.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('6920508458692','In simple, accessible language and clear, detailed steps for financial success, The 401(K) Millionaire thoroughly explains the ins and outs of how the 401(k) plan works--and then fully describes a foolproof formula for maximizing the its potential.')
 ;
 
 Insert into Summary
@@ -1927,12 +1987,6 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9780312180508','In 1916, a young man named Michael Collins returned to his native Ireland, after ten years in voluntary exile in London, to join one of the most impassioned and complicated revolutions in history. Playfully nicknamed The Big Fellow, Collins began to take a key role in the uprisings, eventually becoming a revered revolutionary leader. Acclaimed writer Frank OConnor, a man who himself fought in the Irish Civil War, traces Collins life from the day he returned to Dublin to the day a young Irish soldier shot him dead on a country road. The Big Fellow achieves a narrative both probing and poetic as it chronicles the life of a man so charismatic that he made people aware of his presence even when he was not visible, through that uncomfortable magnetism of the very air, a tingling of the nerves.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
 ('9781559631471','This book brings together the views of some of the most creative scientists of our time, each attempting to amplify and refine the concept of biophilia. Contributors to this volume include Jared Diamond, Aaron Katcher, Richard Nelson and others.')
 ;
 
@@ -1945,7 +1999,7 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('2655377408456','Abstract: A detailed and authoritative compilation of information on fresh fruits, vegetables, nuts, and herbs is presented for the American consumer as in industry-wide effort to inform the American public about the benefits of consuming more fresh fruits and vegetables. Background information, storage considerations, and food purchasing and preparation tips are given, covering all produce items. color pictures of fruits, vegetables, herbs, and nuts are included. General information is provided on consumer information, packaging, grading, storing, and waxing. Charts describe monthly availability of fresh fruits and vegetables, RDAs, and the nutrient content of all produce items. (wz).')
+('3959761625206','Includes critical reviews.')
 ;
 
 Insert into Summary
@@ -1963,7 +2017,13 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('8526552276284','Through its Decca 5000 series of the 1930s and 1940s, the American Decca recording company became the most influential record label in the burgeoning hillbilly music category, the forerunner of todays country and western music. This unique discography provides for the first time in print a systematic numerical listing and cross-referencing of all released recordings in the 5000 and 17000 Cajun series as well as records released under Deccas Champion 45000 and Montgomery Ward series, also devoted to hillbilly music. A total of 1514 discs are covered ranging from records released by such major hillbilly music stars as Jimmie Davis, the Sons of the Pioneers, and Ernest Tubb to those by less well-known solo artists and groups, including the Corn Cob Crushers and the Happy Hollow Hoodlums. Based on painstaking research in the original session books, ledgers, and label copy books as well as interviews with musicians and singers who participated in Decca recording sessions, this discography of one of the most remarkable record series of the 20th century makes a major contribution to the study of contemporary American music. The volume begins with an introduction which traces the early history of the Decca Record Company and its impact on hillbilly music of the 1930s and 1940s. Cary Ginell demonstrates that the Decca 5000 and other hillbilly series had a major role not only in documenting the history of hillbilly music but also in affecting its course by influencing future recording artists in the genre. Following a brief section which describes how to use the discography and the indexes, the discography itself is divided into four separate numerical listings: Decca 5000, Decca 17000, Decca/Champion 45000, and Montgomery Ward recordings. Each listing includes information about recording dates, master numbers, unissued titles, song titles and legends, songwriter credits, and release dates. Five indexes--artist, matrix and location, release dates, composer credits, and title--provide enhanced access to the main listings. Scholars and researchers of American country and folk music, both once included under the hillbilly banner--will find this discography an indispensable resource.')
+('9781317917366','First published in 1988, the aim of this book can be stated in Nietzsche’s words: ‘To look at science from the perspective of the artist, but at art from that of life’. The title contests the notions that science alone can provide us with the most objective truth about the world, and that artistic endeavour can produce nothing more valuable than entertainment. O’Hear argues that art and the study of art are not indispensable aspects of human life, and that this is equally as important as the investigation of the natural world.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('8742245958366','Vols. for 1898-1968 include a directory of publishers.')
 ;
 
 Insert into Summary
@@ -1975,13 +2035,13 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9783368312831','Reproduction of the original.')
+('9781481410250','It’s Career Week at Bayport Elementary, and Frank and Joe’s school assembly turns up some interesting guests. One student’s uncle is an animal trainer who brings a chimpanzee. Another girl’s father is an anthropologist who brings in a mask decorated with feathers and shells from a Pacific island. But when the assembly is interrupted by a fire drill, the mask is stolen—and the Hardys spring into action.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781507685563','You will not find this education at you brokers how to section. Most likely you will not find this information anywhere on this book section on any other book store. I have paid thousands of dollars on exclusive groups and paid forums to collect the information presented in this book. As you can imagine these are the highly guarded secrets of the elite of the FOREX traders, no one gives their living away, unless you pay them a price worth their living. However I have decided to make this information for ridiculously low price, because I am fed up with the brokers and the big banks taking advantage of the regular retail trader. Let me ask you a question? When was the last time you make money with FOREX? Even further more how much money you are willing to lose, until you give up? How long you will continue to give your hard earned money to the broker? Just like you I started 5 years ago with high hopes of quitting my job and leaving the live I deserve with FOREX. My hopes and aspirations were quickly crashed and my dreams went to the dump. First I lost 1000, then 5000, 10k , how much longer I could continue like that, how much longer I could endure the ridicule the jokes of my family and the frown on the face of my wife. It was painful, sitting all day in front of the computer, until you cant see any longer and everything including the platform and your mind become blurry. I know the pain I have been there. This continued for year, until one morning I was ready to quit, I was going to give it a last try and throw that FOREX staff in the garbage, out the window. I stumbled on a rear tread, which since then has been banned, by the broker that was holding the forum. Luckily the tread continued under the brokers radar for while, and gathered a bunch of comments an support. Finally the tread from the trader X was discontinued. I was in dis pare, that was the only hope and light, I have seen for a long time. I was applying the advice from the trade and things were starting to work for me. Fortunately I was able to PM the trader and begged him to agree on a 20 min conversation on the phone. Trader X was not a guru, not your regular internet promoter mojo. He was quietly raking in thousands of dollars a month for years, he was not excited about the next trade, his heart beat was not raising before he pooled the trigger. See, he has been doing this trading staff for so long it has become a boring procedure, rather a morning an afternoon chore, something like putting the garbage out on garbage day. He explained that he learned from the MASTER, I did not proceed to ask him who was the MASTER, since I mainly was concerned with him teaching him every little bit of what he knew about trading. He didnt not agree to spend time teaching me on our first conversation, regardless of how much I offered to pay him. See, for him money was not a issue. Finally on my third approach he agreed to show me what the MASTER had thought him many years ago. What is comprised in the pages of this book will be worth pure gold to you.This book is down to the ground no no sense, real trading knowledge. It gives step by step instructions with real trade examples. This book is not your regular hog wash advice that you will find from your broker and the other magic bullets and seven step series that you see on this site. This book teaches you how to trade like the pros. Shows you how the big banks and foreign nationals and institution trade. The book opens your eyes to how to piggy back on the big institutional traders and win. Ninety Five percent of the people that trade the Forex market lose money and give up. The market is continually replaced by fresh blood like yourself. Dont become part of the statistics, read this book and get a map to success in FOREX. You can make a success in FOREX if you know what you are doing. Yes you can make a living with FOREX and quit your job. You can achieve your dreams. Buy this book and find out How?')
+('9783368312831','Reproduction of the original.')
 ;
 
 Insert into Summary
@@ -1994,12 +2054,6 @@ Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('5875470408332','This publication will be a historical account of the development of furniture in the fifties and particularly the sixties. However, the emphasis will be on an interesting and entertaining read for the popular market, rather than an academic textbook. The publication will also be a good guide for the collector.The G- Plan Revolution will be a colourful, hardback, packed with period advertisements. It will have instant appeal to anyone who remembers G-Plan in its heyday, or those who have an interest in collecting furniture from the sixties or a general nostalgia for the era. The publication will not only discuss G-Plan, but also many other furniture manufacturers of this period. Designed by Sean Murphy of Value and Service, the book is an artwork in itself with a retro feel.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9781633551701','O. Henry is the pen name of American writer William Sydney Porter (1862-1910). Porters 400 short stories are known for their wit, wordplay, characterization and the clever use of twist endings. He travelled to Austin in 1884, where he took a number of different jobs over the next several years, first as pharmacist then as a draftsman, bank teller and journalist. He also began writing as a sideline to employment. Porters most prolific writing period started in 1902, when he moved to New York City to be near his publishers. He wrote 381 short stories while living there. He wrote a story a week for over a year for the New York World Sunday Magazine. His wit, characterization and plot twists were adored by his readers, but often panned by the critics. Yet, he went on to gain international recognition and is credited with defining the short story as a literary art form. His works include: Cabbages and Kings (1904), The Four Million (1906), Heart of the West (1907), The Trimmed Lamp and Other Stories of the Four Million (1907), The Voice of the City: Further Stories of the Four Million (1908), The Gentle Grafter (1908) and Roads of Destiny (1909).')
 ;
 
 Insert into Summary
@@ -2023,13 +2077,19 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('9781786633682','A fascinating history of the political theory of hegemony Few terms are so widely used in the literature of international relations and political science, with so little agreement about their exact meaning, as hegemony. In the first full historical study of its fortunes as a concept, Perry Anderson traces its emergence in Ancient Greece and its rediscovery during the upheavals of 1848–1849 in Germany. He then follows its checkered career in revolutionary Russia, fascist Italy, Cold War America, Gaullist France, Thatcher’s Britain, post-colonial India, feudal Japan, Maoist China, eventually arriving at the world of Merkel and May, Bush and Obama. The result is a surprising and fascinating expedition into global intellectual history, ending with reflections on the contemporary political landscape.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('9781119387749','The definitive guide to 21st century investigations of multilingual neuroscience The Handbook of the Neuroscience of Multilingualism provides a comprehensive survey of neurocognitive investigations of multiple-language speakers. Prominent scholar John W. Schwieter offers a unique collection of works from globally recognized researchers in neuroscience, psycholinguistics, neurobiology, psychology, neuroimaging, and others, to provide a multidisciplinary overview of relevant topics. Authoritative coverage of state-of-the-art research provides readers with fundamental knowledge of significant theories and methods, language impairments and disorders, and neural representations, functions, and processes of the multilingual brain. Focusing on up-to-date theoretical and experimental research, this timely handbook explores new directions of study and examines significant findings in the rapidly evolving field of multilingual neuroscience. Discussions on the bilingual advantage debate, recovery and rehabilitation patterns in multilingual aphasia, and the neurocognitive effects of multilingualism throughout the lifespan allow informed investigation of contemporary issues. Presents the first handbook-length examination of the neuroscience and neurolinguistics of multilingualism Demonstrates how neuroscience and multilingualism intersect several areas of research, such as neurobiology and experimental psychology Includes works from prominent international scholars and researchers to provide global perspective Reflects cutting-edge research and promising areas of future study in the dynamic field of multilingual neuroscience The Handbook of the Neuroscience of Multilingualism is an invaluable resource for researchers and scholars in areas including multilingualism, psycholinguistics, second language acquisition, and cognitive science. This versatile work is also an indispensable addition to the classroom, providing advanced undergraduate and graduate students a thorough overview of the field.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('1787035740389','Vols. include an acquisitions supplement listing the Museums acquisitions for the preceding year.')
+('9783030525316','This book considers what is at stake for professionals whose work increasingly involves communicating in linguistically and culturally diverse contexts, and argues for the need to better understand the crucial role of languages and cultures in the modern workplace. With a focus on the experience of multilingual professionals, the authors position is that such professionals, exemplified by those who have relocated internationally, deploy their unique linguistic, cultural and intercultural repertoires in their work. This book examines the ways in which professionals interpret and manage their experience of working within and across languages and cultures in ways that create affordances for them, their professional practice, and those who depend on their knowledge and expertise. It will be relevant to undergraduate and postgraduate students undertaking studies in applied linguistics, sociolinguistics, intercultural education and professional communication in any discipline.')
 ;
 
 Insert into Summary
@@ -2048,6 +2108,12 @@ Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('4097794389367','Issue for Dec. 1960 covers period Nov. 8, 1958-Dec. 31, 1960.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('1913934642909','No. 2, pt. 2 of November issue each year from v. 19 (1963)-47 (1970) and v. 55 (1972)- contain the Abstracts of papers presented at the Annual Meeting of the American Society for Cell Biology, 3d (1963)-10th (1970) and 12th (1972)-')
 ;
 
 Insert into Summary
@@ -2083,13 +2149,13 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('7954709590878','Proceedings from the September-October conference in Lipari, Italy, discussing both the increase in neutron stars and new phenomena that have been discovered in these star systems. Forty- one contributions are arranged in sections on the history of neutron star study--from early speculations to current problems, neutron star structure, radio pulsars, X-ray binaries, evolution of binaries, and X-rays from single neutron stars. Individual papers address subjects like pulsar magnetic fields and glitches, young neutron stars in supernova remnants, high- energy emission from binary pulsars, thermonuclear burning on rapidly accreting neutron stars, modelling gamma ray bursts, and the search for old neutron stars in molecular clouds. Annotation copyrighted by Book News, Inc., Portland, OR')
+('7006837646132','The long tradition of architecture in Virginia begins with the earliest structures at the Jamestown settlement in 1607, and continues today with some of the most advanced buildings yet completed anywhere. In its legendary landmarks -- Mount Vernon, Monticello, the Virginia Capitol building in Richmond, the James River plantation mansions, the Reynolds Metals headquarters building in Richmond, Washington National Airport, and Dulles International Airport -- as well as in homes, churches, stores, and office buildings across the state, Virginias architecture is a mirror of the many expressions of Americas built environments. This book invites the readers on a journey through the eye and mind of the architect, from the very drawings that give shape and form to the idea, through the tracks and traces found in long lost letters, office records, and other primary sources. You will never see the buildings around you, anywhere, in the same way again. -- From publishers description.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781425935610','Discover an Abundant Life in your Present Condition--- Are you tired of living in your past? Are you sick and tired of your past coming up every time you try to go up? Are you just tired of your past messing with your blessings? It may seem like your life is as good as it will get, until you discover that there is a better way. Many people still live in a past experience that hinders them from living in an abundant future. Abundant living comes in different ways depending upon what we feel true abundance means. Material abundance is nice to have, but spiritual abundance is what we must have. One of todays buzz-phrases is if it aint broke, break it. There are mind-sets that havent yet been broken that need to be broken. One in particular, God is punishing me and thats why Im getting what Im getting. This type of mentality is not scriptural and Im going to deal with it in this book. Your past may be uncomfortable, but its not unforgivable. The scriptures doesnt tell us in all your getting, get things, but it does tell us, in all your getting, get an understanding. In knowing this, God created us to be abundant in Him, but we deviated from being complete in Him. Therefore; we must seek to understand and we will discover, How to get pass our past.')
+('7954709590878','Proceedings from the September-October conference in Lipari, Italy, discussing both the increase in neutron stars and new phenomena that have been discovered in these star systems. Forty- one contributions are arranged in sections on the history of neutron star study--from early speculations to current problems, neutron star structure, radio pulsars, X-ray binaries, evolution of binaries, and X-rays from single neutron stars. Individual papers address subjects like pulsar magnetic fields and glitches, young neutron stars in supernova remnants, high- energy emission from binary pulsars, thermonuclear burning on rapidly accreting neutron stars, modelling gamma ray bursts, and the search for old neutron stars in molecular clouds. Annotation copyrighted by Book News, Inc., Portland, OR')
 ;
 
 Insert into Summary
@@ -2101,7 +2167,37 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('9781421419015','An interdisciplinary approach to the Mediterranean’s rich, multicultural history. Located at the intersection of Asia, Africa, and Europe, the Mediterranean has connected societies for millennia, creating a shared space of intense economic, cultural, and political interaction. Greek temples in Sicily, Roman ruins in North Africa, and Ottoman fortifications in Greece serve as reminders that the Mediterranean has no fixed national boundaries or stable ethnic and religious identities. In The Mediterranean World, Monique O’Connell and Eric R Dursteler examine the history of this contested region from the medieval to the early modern era, beginning with the fall of Rome around 500 CE and closing with Napoleon’s attempted conquest of Egypt in 1798. Arguing convincingly that the Mediterranean should be studied as a singular unit, the authors explore the centuries when no lone power dominated the Mediterranean Sea and invaders brought their own unique languages and cultures to the region. Structured around four interlocking themes—mobility, state development, commerce, and frontiers—this beautifully illustrated book brings new dimensions to the concepts of Mediterranean nationality and identity.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('8832616673365','Includes the Minnesota state and the United States constitution, historical and current events, biographies of legislators, directory for federal, state, regional, and local government officials, and election statistics and voter turnout maps.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9781481451789','Includes an excerpt of the Hardy Boys clue book #3, Water-ski wipeout.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('8000520970880','DigiCat Publishing presents to you this special edition of The Mystery of M. Felix by B. L. Farjeon. DigiCat Publishing considers every written word to be a legacy of humankind. Every DigiCat book has been carefully reproduced for republishing in a new modern format. The books are available in print, as well as ebooks. DigiCat hopes you will treat this work with the acknowledgment and passion it deserves as a classic of world literature.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('4988936502320','Contains a summarization of market quotations which have appeared in the National Daily Services, or have been supplied by dealers on special lists.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9781922602350','Friedrich List is the father of economic nationalism and the historical school of economics. Responding to Adam Smiths free market apologetics, in The National System of Political Economy List provides a theoretical basis for state intervention in the economy. But he does much more than this-as part of a wider trend in European thought, List affirms the primacy of history in developing our worldview. The National System of Political Economy does not begin with theory, but with history. In so doing, List shows that Englands rise as a commercial power was not facilitated by free markets but by protectionism, drawing his theory from historical fact rather than the other way around. Lists avowed liberalism is overshadowed by his illiberal priors, and so the economic history of the 20th century was one of Listian principles being put to use by illiberal regimes such as Russia, China, and Germany. His thought also governed the economic policy of another developmental state for over a century-America. Smith and Marx formed the basis of 20th century economic theory. But Friedrich List stands as a colossus astride the 20th century, forming the basis of economic practice for all major powers until mid-century. In his introduction to this edition, Francis OBeirne shows that the great economic clash has never been between capitalism and socialism, but between capitalism and nationalism, with Marxism a revolutionary force, but an economic irrelevancy.')
 ;
 
 Insert into Summary
@@ -2125,13 +2221,25 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('6644809142395','V. 1. 16 Mar. 1751-16 Dec. 1779 -- v. 2. 20 Mar. 1780-23 Feb. 1781 -- v. 3. 3 Mar.-31 Dec. 1781 -- v. 4. 1 Jan.-31 July 1782 -- v. 5. 1 Aug.-31 Dec. 1782 -- v. 6. 1 Jan.-30 Apr. 1783 -- v. 7. 3 May 1783-20 Feb. 1784 -- v. 8. 10 Mar. 1784-28 Mar. 1786 -- v. 9. 9 Apr. 1786-24 May 1787, with suppl. 1781-1784 -- v. 10. 27 May 1787-3 Mar. 1788 -- v. 11. 7 Mar. 1788-1 Mar. 1789 -- v. 12. 2 Mar. 1789-20 Jan. 1790, with suppl., 24 Oct. 1775-24 Jan. 1789 -- v. 13. 20 Jan. 1790-31 Mar. 1791 -- v. 14. 6 Apr. 1791-16 Mar. 1793 -- v. 15. 24 Mar. 1793-20 Apr. 1795 -- v. 16. 27 Apr. 1795-27 Mar. 1797 -- v. 17. 31 Mar. 1797-3 Mar. 1801, with suppl., 22 Jan. 1778-9 Aug. 1795.')
+('9186434433209','Also time tables of railroads in Central America. Air line schedules.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('6595438145602','Entertaining and informative, this rich and diverse collection of over 6000 proverbs (and their origins) is a delight to browse and the perfect addition to any home reference shelf.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9781524601485','The Place is a story of life on a small farm in Maine in the 1940s and 1950s. The Place is a general farm that produced nearly all the food and income for a farm family. It also produced a sense of shared purpose and accomplishment, which kept a family together and taught children many valuable life lessons.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('3869691509816','List of publications, v. 1-132, in v. 132.')
 ;
 
 Insert into Summary
@@ -2149,7 +2257,7 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9780170364348','Winner  2017 Australian Publishers Association EPAA Student Resource, TAFE & Vocational Education The judges said: Comprehensive coverage of content of core and most popular units with engaging visuals and content that reflects current hospitality design. Relevant and new employability skills and critical thinking connect students to real-life challenges. Prepare students to master their skills and knowledge needed to succeed within the hospitality industry with the new edition of The Road to Hospitality: Skills for the New Professional, 4e. Thoroughly revised, The Road to Hospitality: Skills for the New Professional, 4e has been repositioned to cover core and elective units of competency at both Certificate II and III levels. Covering best practices, new techniques and legislations, this new edition uses real world industry examples and follows a clear and logical structure, which builds and strengthens the knowledge and skills of each student. Employability skills are emphasised holistically throughout the full-colour text. The Road to Hospitality: Skills for the New Professional, 4e supports learning and delivery in:  SIT20316 Certificate II in Hospitality  SIT30616 Certificate III in Hospitality Hospitality: Infinite possibilities. Endless opportunities.')
+('6925192377369','As part of an attempt to resolve a larger puzzle - what makes economic reform in Russia difficult - this book examines how one of the major sectors of the economy - energy - has influenced economic growth and political development. It provides an in-depth analysis of the countrys export of oil and gas, showing how the energy sector went through the topsy-turvy period of Gorbachevs economic reform and the initial stages of market transition under Yeltsin. In doing so, it highlights the importance of the major oil and gas companies for the functioning of Russian politics.')
 ;
 
 Insert into Summary
@@ -2173,12 +2281,6 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('3514573778460','Includes list of members, v. 1, 3-')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
 ('9780241574256','With moral clarity and powerful storytelling, Cathy ONeil reverse engineers the shame machine, revealing its inner workings and inciting nothing short of a cultural reckoning that has the potential to blow this machine to bits - Ruha Benjamin Shame is being weaponized by governments and corporations to attack the most vulnerable. Its time to fight back Shame is a powerful and sometimes useful tool. When we publicly shame corrupt politicians, abusive celebrities, or predatory corporations, we reinforce values of fairness and justice. But as best-selling author Cathy ONeil argues in this revelatory book, shaming has taken a new and dangerous turn. It is increasingly being weaponized -- used as a way to shift responsibility for social problems from institutions to individuals. Shaming children for not being able to afford school lunches or adults for not being able to find work lets us off the hook as a society. After all, why pay higher taxes to fund programmes for people who are fundamentally unworthy? ONeil explores the machinery behind all this shame, showing how governments, corporations and the healthcare system capitalize on it. There are damning stories of rehab clinics, reentry programs, drug and diet companies, and social media platforms -- all of which profit from punching down on the vulnerable. Woven throughout The Shame Machine is the story of ONeils own struggle with body image and her recent weight-loss surgery, which awakened her to the systematic shaming of fat people seeking medical care. With clarity and nuance, ONeil dissects the relationship between shame and power. Whom does the system serve? How do current incentive structures perpetuate the shaming cycle? And, most important, how can we all fight back?')
 ;
 
@@ -2192,6 +2294,12 @@ Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('9781015515345','This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9780133445855','A brand new collection of management and leadership skills for improving business performance 4 authoritative books deliver world-class skills for leading change and improving performance throughout your team and organization! You’re facing greater challenges than ever before – both outside your organization, and inside it. To win, you need today’s best skills for improving performance and driving change. Now, this 4-book collection presents hundreds of those skills simply, clearly, and quickly, to support action. In The Truth About Managing People, Third Edition bestselling author Stephen Robbins shares 61 proven principles and solutions for make-or-break, day-to-day management problems. Overcome the true obstacles to teamwork… avoid both over- and under-communication… improve hiring and employee evaluations… manage a culturally/generationally diverse or virtual workforces… combine stronger ethics and greater effectiveness… and much more. Next, in The Truth About Getting the Best From People, Second Edition, Martha Finney shares 60+ proven principles for gaining unprecedented employee engagement. This new edition features 15 new truths for managing virtual teams, overcoming your unconscious biases, managing multiple generations, identifying/cultivating individual high performers, and more. Next, persuade others in any environment with The Truth About Confident Presenting, by James O’Rourke. O’Rourke reveals 51 proven, concise, easy-to-use presenting techniques that work: all you need to know to prepare effectively (not obsessively), manage anxiety, connect with any audience, and succeed. Discover what makes people listen, and what instantly turns them off… how to muster evidence that’ll convince your specific audience… how to listen, establish a great first impression, and make nonverbal cues work for you… use PowerPoint and microphones well… handle hostile questions confidently; and much more. Finally, turn to William S. Kane’s The Truth About Thriving in Change for 49 proven ways to do what everyone wants, and few can deliver: lead successful change. Plan, drive, and sustain positive change that matters… transform organizations without destroying morale… objectively assess whether yours is really the best way… develop the change management skills you need most… know when to persuade, educate, or “use force”… create the right cultural framework you need to keep moving forward. These four eBooks aren’t “just someone’s opinion”: they offer definitive, evidence-based principles for improving performance throughout your entire leadership career! From world-renowned workplace effectiveness experts Stephen P. Robbins, Martha I. Finney, James O’Rourke, and William S. Kane')
 ;
 
 Insert into Summary
@@ -2227,7 +2335,13 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('8901582514508','A narrative topical summary of decisions of the higher courts in all states of the United States of America in cases involving school law, as reported during the preceding calendar year.')
+('7226345680203','In spite of his tragic death in November 1963, John F. Kennedy remains one of the most popular American presidents. Aside from the great set-piece speeches that helped to define him as a world leader, he possessed a richly warm sense of humor and a ready wit honed both at home and on politics. This collection presents hundreds of examples of that very wit, from Kennedys opinions on the campaign trail to his view of the Cuban Missile Crisis. Christina Konings previous books includeA Treasury for MothersandFabulous Time.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('6161740271063','Thomas Crowther was born in 1823 in Easthope, Shropshire, England and married widow Jane Jewkes. They immigrated to Utah in 1854, settled in Beaver, and later moved to Fountain Green. He died in 1898. Includes Anderson, Mortensen, and related families.')
 ;
 
 Insert into Summary
@@ -2269,13 +2383,13 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9780811750585','Describes the Desert Foxs preparation for military greatness, his rise to prominence, and his early campaigns in Africa. Recounts the first battles of Germanys notorious Afrika Korps.')
+('2827833055766','List of members.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9780465076192','Spanning four decades and more than a thousand films, the creative output of Darryl D. Zanuck was astonishing and unparalleled. With The Jazz Singer he supervised the innovation of film sound. With The Public Enemy and Little Caesar he reinvented the gangster film. With 42nd Street he reinvigorated the musical. He set the standard for film biography with pictures such as Young Mr. Lincoln and The Story of Alexander Graham Bell . He innovated CinemaScope. And he molded the star images of James Cagney, Shirley Temple, Tyrone Power, Betty Grable, Marilyn Monroe, and Rin Tin Tin.In this major new biography, George F. Custen illuminates Zanucks evolution into one of the most influential producers in American film. He explains what set him apart from rivals Irving Thalberg and David O. Selznick, how he developed the gritty realism that came to redefine motion pictures, and how he brilliantly predicted and capitalized on changing public tastes.Zanuck was a man of enormous energy and eccentricity, commanding his studio with a sawed-off polo mallet. Dozens of his memorable films—including I Am a Fugitive from a Chain Gang , The Grapes of Wrath, Gentlemans Agreement, All About Eve, The Day the Earth Stood Still , and The Robe —have come to represent the era in which they were made. Hard-boiled or nostalgic, historical or pure Hollywood, Zanucks films and Zanuck himself have become legends of the cinema. But what exactly was this producers contribution to the films he made? How did he rise from being a writer of silent serials to become head of production at Warner Brothers by his mid-twenties, and then to form his own studio, Twentieth Century-Fox at age thirty-three?Twentieth Centurys Fox tells the whole story—from Zanucks boyhood to his tumultuous years with the feuding Warners, his battles with the censors and with his own actors, and the legendary acting-out of scenes during story conferences in his famous green office. Along the way, Custen treats us to inside stories about actors such as Edward G. Robinson, Gregory Peck, and Marilyn Monroe. In never-before-published story conference notes, telegrams, and surprisingly candid anecdotes, he reveals how—more than any producer before or since—this diminutive, enigmatic fellow from Wahoo, Nebraska, changed the way we look at film.Custen highlights the studio as the context of production. Zanucks ability to shape the producers role and the organizational style during the golden years of the studio system—with its own peculiar methods, clearly delineated rules, and pecking order—was the crucible out of which he forged a unique vision of American film and American culture.')
+('9780811750585','Describes the Desert Foxs preparation for military greatness, his rise to prominence, and his early campaigns in Africa. Recounts the first battles of Germanys notorious Afrika Korps.')
 ;
 
 Insert into Summary
@@ -2293,13 +2407,7 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9780070954922','Lovewell is a brief yet clear outline of economics that explains how economics relates to students lives and to the main issues of the day. Lovewell is written for the one-semester principles course, whereas our other offerings are designed for the two-semester market. Bright, Right, Tight are the three words a reviewer used to describe the Lovewell text.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('6281241626728','Reports, Documents, and Journals of the U.S. Senate and House of Representatives.')
+('1348331681222','Comprises all laws of a general and permenent nature under arrangement of the official Code of laws of the United States, with annotations from Federal and State courts.')
 ;
 
 Insert into Summary
@@ -2317,12 +2425,6 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('6746825394704','Annotation The growing need for better urban transport systems and a healthier environment has led to ever increasing levels of research. This is reflected in Urban Transport X which features over 85 papers first presented at the latest conference in this successful and well-established series. The contributions focus on areas such as: Integrated Transport and Land Use: Energy Systems: Transport Control and Safety: Environmental Impact: and Traffic Pricing.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
 ('9781440841347','This practical handbook provides ready-to-use lesson plans that connect picture books to the Common Core standards and are ready to roll out on Monday. Elementary school librarians today are working harder than ever, sometimes serving in two or more libraries. Most have very little time to develop lesson plans, particularly the task of relating them to standards. Elementary school librarians need materials aligned with Common Core standards that are ready to go. Written by working school librarians with 44 years of combined experience, this instructional book is designed for use with primary grade students and offers 37 library lessons that have been tested and refined in the authors elementary school libraries. The lessons are constructed with follow-up materials and recommended book lists to encourage classroom teacher collaboration and continuation of the lesson. Each lesson is accompanied by reproducible patterns and worksheets and includes complete bibliographic information. Also included in each lesson are a description of the standards applied, skills and objectives addressed, recommended grade levels, lists of props and materials needed, a step-by-step lesson description, and follow-up activities. Provides lessons that are linked to national standards and appeal to teachers and librarians needing to have weekly plans that identify the specific standards taught Supplies accompanying patterns and reproducible handouts Suggests fun follow-up activities and book titles appropriate for further instruction')
 ;
 
@@ -2330,6 +2432,12 @@ Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('9781003284741','Virtual Educational Therapy presents a board-certified educational therapists year-long case study of clinical supports and advocacy for a student with learning disabilities who is attending school remotely during the COVID-19 pandemic. With online and blended learning now the norm in K-12 education, educational therapists need new models of intervention, treatment, and relationship-building for their child-age clients. This book offers detailed single-case research focused on a middle school student who is learning virtually while challenged with ADHD as well as visual and verbal memory issues, but who is nonetheless found ineligible for special education services. Across eight chapters, author and renowned educational therapist Marion E. Marshall describes the neuropsychological principles, research-based techniques, personal interactions, clinical approaches, and advocacy efforts that led to a vulnerable students significant gains in academic skills and outcomes--')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('6356624217003','Intended as a reference for the academically-oriented geologist as well as the practising economic geologist, this book is concerned with the study of skarn deposits having anomalously high tin or tungsten contents, or both. Unlike many other books on economic geology, both economic W-Sn skarns and non-economic examples are covered, in order to enable the academically-oriented reader to grasp the full range of such deposits, and also to aid the economic geologist in distinguishing between W-Sn skarns having economic potential and those which do not. W-Sn skarns are notoriously complex, containing a wide range of textures, grain sizes, mineral assemblages, bulk compositions and structures. The lack of a sufficiently detailed data base, coupled with some unsupportable genetic models, has led to many misunderstandings and has often resulted in needless expenditure and effort on fruitless mineral exploration. Thus, the first aim of this book is simply to provide an adequate data base with sufficient references to enable an interested worker to define a skarn deposit and know where to find additional information on similar examples.')
 ;
 
 Insert into Summary
@@ -2377,19 +2485,25 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('5712225515025','Gedneys work on Yay, published in this volume, consists of a lengthy glossary and a collection of folktales and traditional songs.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
 ('9375229723294','Includes amendments and draft versions.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('5088410528789','Contents: New material (consists of updates for Wisconsin administrative code) -- Instructions for inserting New material -- Notice section.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('1464178110564','Cases determined in the Supreme Court of Wisconsin.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9780333983713','Arguing that property and power are central to understanding the position of women in farming and using comparative examples, this book considers the transfer of land between men, the changed role of women in the dairy industry in the nineteenth century, women in farming organisations, women in agricultural education programmes, and the role of the state in shaping the lives of farm women. The common themes of power and property underpin all the chapters.')
 ;
 
 Insert into Summary
@@ -2402,24 +2516,6 @@ Insert into Summary
 (`ISBN`,`Summary`)
 Values
 ('9266106939334','Gennemgang af de militære helikoptere, der nu er i anvendelse rundt om i verden, herunder oplysninger om teknik, udvikling og produktion samt operative opgaver og anvendelse.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('1592025534234','This superb introduction to device drivers describes what device drivers do, how they interface with DOS, and provides examples and techniques for building a collection of device drivers that can be customized for individual use.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('7715846698488','Includes annual reports of the state officers, departments, bureaus, boards and commissions.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('8463665620946','For more than 30 years, Yoga Journal has been helping readers achieve the balance and well-being they seek in their everyday lives. With every issue,Yoga Journal strives to inform and empower readers to make lifestyle choices that are healthy for their bodies and minds. We are dedicated to providing in-depth, thoughtful editorial on topics such as yoga, food, nutrition, fitness, wellness, travel, and fashion and beauty.')
 ;
 
 Insert into Summary
@@ -2449,7 +2545,13 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9791220274029','Το βιβλίο αυτό απευθύνεται κυρίως στον επαγγελματία μάγειρα, βοηθό μάγειρα ακόμα και στον σεφ, χωρίς να αποκλείεται και η χρησιμότητά του και σε μια πεπειραμένη νοικοκυρά που μαγειρεύει για την οικογένειά της. Στις σελίδες του θα βρείτε πιάτα που απαιτούν τρεις και τέσσερις διαφορετικές μαγειρικές τεχνικές. Οι τεχνικές αυτές απαιτούν μερικές φορές εξειδικευμένα εργαλεία της κουζίνας. Στο σύνολό του αποτελεί μια εργασία με τεχνικές και γνώση, κανόνα για το μέλλον που δείχνει πώς βλέπει ο συγγραφέας την ελληνική κουζίνα, βασισμένη μόνο σε ελληνικά προϊόντα, με σεβασμό στα ντόπια υλικά, αλλά δοσμένη με το δικό του προσωπικό του τρόπο και άποψη.')
+('9786180302950','«Τη μια μέρα υπάρχει ζωή… Κι έπειτα, ξαφνικά, υπάρχει θάνατος». Έτσι ξεκινά αυτός ο πολύ προσωπικός και συγκινητικός στοχασμός του Paul Auster με θέμα την πατρότητα. Στο πρώτο μέρος του βιβλίου με τίτλο «Πορτρέτο ενός αόρατου ανθρώπου», ο συγγραφέας αποκαλύπτει τις αναμνήσεις και τα συναισθήματά του μετά τον θάνατο του πατέρα του – ενός απόμακρου, ελάχιστα εκδηλωτικού, σχεδόν ψυχρού ανθρώπου. Καθώς φροντίζει για τις υποθέσεις του πατέρα του και σκαλίζει τα υπάρχοντά του, ο Auster ανακαλύπτει ένα οικογενειακό μυστικό: έναν φόνο που χρονολογείται εξήντα χρόνια πριν, ο οποίος θα φωτίσει τον απροσδιόριστο χαρακτήρα του πατέρα του. Στο δεύτερο μέρος, με τίτλο το «Βιβλίο της μνήμης», η οπτική γωνία μετατοπίζεται από την ταυτότητα του Auster ως γιου στον ρόλο του ως πατέρα. Μέσα από ένα μωσαϊκό εικόνων, συμπτώσεων και συνειρμών ο αφηγητής, ο Α., συλλογίζεται τον χωρισμό του από τον δικό του γιο, τον ετοιμοθάνατο παππού του, αλλά και τη μοναχική φύση της αφήγησης και της συγγραφής. Το τρίτο μέρος είναι μια συνέντευξη του ίδιου του συγγραφέα στην πανεπιστημιακό I. B. Siegumfeldt με θέμα την Επινόηση της μοναξιάς, περίπου τριάντα χρόνια μετά την έκδοση του βιβλίου, η οποία δημοσιεύεται για πρώτη φορά στην παρούσα έκδοση. «Η Επινόηση της μοναξιάς είναι ένα βιβλίο για έναν άνδρα μόνο σ’ ένα δωμάτιο, και συγκεκριμένα για εμένα. Αυτό που συμβαίνει όταν είσαι μόνος είναι ότι καταλαβαίνεις πως εντός σου κατοικούν κι άλλοι. Εντός σου κατοικούν κι άλλοι και εσύ υπάρχεις ως άτομο μόνο σε συσχετισμό με τους άλλους». Paul Auster')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9789601655932','ΜΗΠΩΣ ΔΙΝΕΤΕ ΜΑΧΗ ΚΑΘΕ ΒΡΑΔΥ ΓΙΑ ΝΑ ΚΟΙΜΙΣΕΤΕ ΤΟ ΠΑΙΔΙ ΣΑΣ; ΜΗΠΩΣ ΤΟ ΜΩΡΟ ΣΑΣ ΞΥΠΝΑ ΠΟΛΛΕΣ ΦΟΡΕΣ ΚΑΤΑ ΤΗ ΔΙΑΡΚΕΙΑ ΤΗΣ ΝΥΧΤΑΣ; ΑΚΟΛΟΥΘΩΝΤΑΣ ΤΗ MΕΘΟΔΟ ΠΟΥ ΠΡΟΤΕΙΝΕΤΑΙ ΣΕ ΑΥΤΟ ΤΟ ΒΙΒΛΙΟ, ΜΕΣΑ ΣΕ ΛΙΓΟΤΕΡΟ ΑΠΟ ΜΙΑ ΕΒΔΟΜΑΔΑ ΘΑ ΕΧΕΤΕ ΚΑΤΑΦΕΡΕΙ ΝΑ ΒΑΖΕΤΕ ΤΑ ΠΑΙΔΙΑ ΣΑΣ ΝΑ ΚΟΙΜΟΥΝΤΑΙ ΣΩΣΤΑ. Το ένα τρίτο των παιδιών παρουσιάζουν προβλήµατα ύπνου. Οι συνέπειες είναι εµφανείς τόσο στα παιδιά που γίνονται ευερέθιστα, ανασφαλή και, ως εκ τούτου, καταλήγουν να έχουν προβλήµατα στο σχολείο και στη δηµιουργία σχέσεων µε τους άλλους–, όσο και στους γονείς, οι οποίοι βλέπουν πως η εξάντληση και τα νεύρα βλάπτουν τη συζυγική τους ζωή. Ο δρ Εδουάρδ Εστιβίλ ερευνά όλες τις ιδιαιτερότητες του ύπνου για περισσότερα από σαράντα χρόνια. Το ερευνητικό έργο και η κλινική πείρα του τον έχουν αναδείξει παγκοσµίως σε σηµείο αναφοράς στο πεδίο των διαταραχών του ύπνου. Εφαρµόζοντας τις γνώσεις του ως νευροφυσιολόγου και παιδιάτρου έχει δηµιουργήσει τη Μέθοδο Εστιβίλ, η οποία αποσκοπεί στην αντιµετώπιση της παιδικής αϋπνίας και έχει αποδειχτεί αποτελεσµατική στο ενενήντα έξι τοις εκατό των περιπτώσεων όπου εφαρµόστηκε. Στη νέα, εµπλουτισµένη έκδοση του «Κοιµήσου, παιδί µου», ο Εστιβίλ λαµβάνει υπόψη του όλες τις επιστηµονικές γνώσεις που αποκτήθηκαν τα τελευταία χρόνια και παρουσιάζει την πιο έγκυρη και πιο αποτελεσµατική εκδοχή της µεθόδου του. Το «Κοιµήσου, παιδί µου» έχει γίνει µπεστ σέλερ και είναι απολύτως απαραίτητο για τους γονείς εκείνους που πρέπει να καταπολεµήσουν την παιδική αϋπνία». Tu Primer A ~ no «Η µέθοδος που µας προτείνει το βιβλίο αυτό, τόσο απλή όσο και αποτελεσµατική, είναι θησαυρός για τους άυπνους γονείς. Εξηγεί πώς να µάθετε στο παιδί σας να κοιµάται καλά από την αρχή και αποκαλύπτει πώς να τελειώνετε µε το πρόβληµα της παιδικής αϋπνίας». La Vanguardia')
 ;
 
 Insert into Summary
@@ -2461,43 +2563,43 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
+('4670047440356','בספר מתוארים חייו ופועלו של מרדכי ארדון, וניתוחים של יצירותיו.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
 ('9096085350159','Jerusalem; social and cultural conditions; history.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('6126663207309','Abstracts of papers contained in volumes 1-3 inserted at beginning of volume 3.')
+('9735532382518','本手册收入汉语习语22300余条,英语习语81200余条,例证8800条。此外注释有326条.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('3010394189246','3-D Human Modeling and Animation fills a tremendous void that has become even more evident with the successful use of 3-D in movies like Disneys Toy Story. While there has been much written about drawing the human form in relation to art, commercial design, and 2-D cartooning, the subject of 3-D modeling and animation of the human form has been neglected at the same time that the use of 3-D tools has been exploding. It is my judgment that [this] book will become the reference that professional and student artists and animators turn to in order to master one of the most challenging yet exciting subjects to model and animate-the human form. -Nick Pavlovic, CEO, Visual Information Development, Inc., Monrovia, CA Ideal for graphic designers, artists, and others, 3-D Human Modeling and Animation builds a bridge from traditional figure drawing, painting, and sculpture to the creation and animation of figures using computer technology. With a step-by-step approach, the book leads readers through the process of modeling human figures, with specific yet flexible techniques that can be applied to many different hardware/software setups. Separate chapters cover different areas of the body, and contain everything readers need to know about proportion, basic design strategies, 3-D construction methods, and other essential information. The final chapters show how to prepare figures for animation and get them up and running-and jumping, walking, turning, and twisting! Complete with illustrations, helpful exercises, and more, 3-D Human Modeling and Animation opens up a whole new world of creative possibilities to explore.')
+('8843122548229','Sir Richard Burton left a large working library at the time of his death in 1890. This library, formerly held by the Royal Anthropological Institute, London, is now at the Huntington Library. The catalogue lists the more than 2500 books, pamphlets, collections, and manuscripts that make up the archive.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781118128237','For many, retirement has become increasingly difficult to both attain and afford. But there is a way todays 401(k) participant, as well as those contributing to similar retirement savings plans, can turn their retirement dreams into reality. With over twenty-five years of experience consulting on retirement plans, author Richard Schmitt knows what it takes to make the most of them, and now, in 401(k) Day Trading: The Art of Cashing in on a Shaky Market in Minutes a Day, he shows you how. Divided into four comprehensive parts, this reliable resource takes you step-by-step through the environment, rationale, and process of day trading your retirement portfolio in minutes a day. It skillfully outlines an approach to buying low and selling high through daily fund exchanges—that draws on many of the fundamental principles of investment management—to exploit daily market volatility.')
+('1125115413293','This may well be the first book devoted to a single photograph. And surely no photo is more deserving of a comprehensive study than this one, widely considered the most striking and unforgettable image we have of the Holocaust.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781014914736','This work has been selected by scholars as being culturally important and is part of the knowledge base of civilization as we know it. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. To ensure a quality reading experience, this work has been proofread and republished using a format that seamlessly blends the original graphical elements with text in an easy-to-read typeface. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.')
+('7671795814878','A collection of essays on Christian-Muslim relations by one of the worlds leading experts.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('8527462456836','This monograph is concerned with the study of Dual Boundary Element formulation using continuous elements in three dimensions and its application to the analysis of fracture problems and crack growth. Formulations for modelling geomechanical fracture are also presented.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('5798719231991','A legendary figure among the Auden generation’ of young writers in the 1930s, Edward Upward continuted writing into his late nineties. This new selection of his best short stories spans a literary career of almost eight decades, and was published to celebrate his centenary in 2003. Beginning in 1928 with the fantastical world of Mortmere in The Railway Accident, the stories continue through the era of political engagement in the Thirties to the reflective and poignant studies of old age that have underpinned his revival in the past decade. Together they represent a lifetime of achievement in modern literature.')
+('1183723144563','A Review of the Principal Questions in Morals')
 ;
 
 Insert into Summary
@@ -2509,25 +2611,31 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('7504333888110','In this report, techniques are described for the preparation of samples of organic matter from geological formations whereby ash contents can be lowered to a level where reliable property measurements can usually be obtained. Property measurements were made on a wide variety of samples which vary in structure from aliphatic to graphitic types. The properties measured include: elemental analysis, volatile matter content, refractive index, density, solubility in carbon disulphide, and infrared spectra--Abstract')
+('2856186245945','An international quarterly devoted to the physiological, psychological, psychiatric, sociological, and educational aspects of the second decade of human life.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781612513027','In a high-tempo series of operations throughout the Black Sea, Aegean Sea and eastern Mediterranean, a small American fleet of destroyers and other naval vessels responded ably to several major international crises including the last days of the Russian Revolution and the 1920-1922 Turkish Nationalist Revolution. Officers and men of the navys four-piper destroyers began by investigating circumstances on the ground in mainland Turkey right after World War I, and by transporting American relief teams to ports throughout Turkey and Southern Russia to aid the tens of thousands of orphans and refugees who had survived the wartime Armenian genocide. Then the destroyers assisted in the final evacuation of 150,000 White Russians from the Crimea to Constantinople (one of the final acts of the Russian Revolution); coordinated the visits of the Hoover grain ships to ports in Southern Russia where millions were enduring a horrendous famine; witnessed and reported on the terrible dolorosa of the Greeks of the Pontus regious of Turkey; and, in September of 1922, conducted the evacuation of hundreds of thousands of Greek and Armenian refugees from burning Smyrna. This latter event was the cataclysmic conclusion of the Turkish Nationalist Revolutino, which had begun in early 1920. After Smyrna, the destroyers escorted Greek steamers in their rescue of ethnic Christian civilians being expelled from all the ports of Anatolian Turkey. As the conclusion of a long war between Nationalist Turks and an invading Hellenic Greek army, these people were being forced out of their ancestral homes by the Turks. Sometimes American destroyers carried hundreds of such refugees to friendly ports on their own weather decks. Upon the burning of Smyrna of September of 1922, Admiral Mark Bristols small fleet had grown to some 26 naval vessels, most of them destroyers, although some cruisers, naval repair vessels and supply ships also came, and the battleships Arizona and Utah also appeared briefly. It was during 1922 that the destroyer BAinbridge rescued 482 of 495 men, women and children from the burning French transport Vinh Long in teh Sea of Marmora. The destroyer accomplished this by the expedient of ramming the large French ship so the exploding ammunition could not continue to force the vessels apart. For this action, Lieut.Commander W. Atlee Edwards was awarded the Medal of Honor by America, and the Legion of Honor by France. Over four years, Admiral Bristol maintained a strong grip on American naval and diplomatic affairs throughout the region. Headquartered at the American Embassy at Constantinople, Bristol also worked to further American business interests in Turkey, and tended to favor Turks over Greeks and Armenians in the process. Many Americans were convinced that Bristol was biased on behalf of the Turks, and a couple of navy captains risked their careers by speaking out about impending Turkish massacres that Bristol wanted to hush up.')
+('9783642837135','Internationally recognized experts in the field of holographic interferometric testing, X-ray testing, and structural analysis by finite element techniques have come together in ESPRIT project 898 to develop a system that integrates these techniques. This system acts as an external interface between the complementary nondestructive testing methods and computer based structural analysis. In the book the testing and analysis techniques are presented and compared with special emphasis on problems regarding their combination and integration. The architecture and the components of the interface system are described. Experiments proving the feasibility and applicability of the concepts are presented. The chapters of the book dealing with the different techniques are written by the individual partners of the project. A common test object is investigated by all techniques. The book helps the customer to select the testing and analysis method most suitable for his problem. It also presents the background for building up integrated testing equipment for analysis and control.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9780801869044','Disease processes among American Indians and Alaska Natives often have distinct manifestations that need to be considered by clinicians and health policy makers involved with these populations. Equally important, all aspects of Indian life—including health—are governed by the special relationship between Indian tribes and the U.S. federal government. For American Indian Health, Everett R. Rhoades has gathered a distinguished group of scholars and practitioners to present a comprehensive assessment of the health of American Indian peoples today and the delivery of health services to them.')
+('9781119110163','A comprehensive yet accessible survey of ancient philosophy, covering Greek, Roman, and early Judeo-Christian philosophy, ideal for introductory courses in the ancient roots of modern worldviews Part of the popular Fundamentals of Philosophy series, Ancient Philosophy is an ideal resource for beginning students as well as for advanced students wishing to hone their understanding of the philosophies of the ancient world. Clear and engaging, this book covers a representative selection of major ancient thinkers, movements, and schools of thought, including the Sophists and other significant Presocratics, Socrates, Plato, Aristotle, Hellenistic philosophy, the Stoics, the Skeptics, and early Judeo-Christian philosophy up to Augustine. Written by a prominent scholar and author in ancient philosophy studies, this book: Provides an overview of important issues in the study of the philosophies of the ancient world Explores the relevance of the theories of ancient thinkers to the modern world Charts the progression in the ancient world from worldviews based in mythology to systems of thought based on the analysis of evidence Presents up-to-date scholarship as well as historical material from ancient sources Assumes no prior knowledge of philosophy and examines all arguments carefully and sequentially')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('1336391790351','Index to ASTM standards issued as last part of each vol.')
+('9781604131277','Migration is one of the most fascinating and dramatic of all animal behaviors. From insects and birds to reindeer and giant whales, many animals fly, swim, walk, and even hitchhike in search of better food, milder climate, or suitable mate. Some cross entire oceans; a few even circle the globe. These marathon journeys animals take are filled with great tests of physical strength and endurance - as well as danger and sometimes death. In Animal Migration, learn why animals are compelled to migrate and the various patterns and cycles of their migrations.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('2794489780453','Report for 1978 includes Texas Office of Court Administration. Annual report.')
 ;
 
 Insert into Summary
@@ -2545,25 +2653,25 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('4197558888165','In 1889 William Morris Davis offered in his paper The Rivers and Valleys of Pennsylvania an elegant set of arguments for the origin of the ridges and gaps, and went on to propose a model for the drainage development and geomorphic evolution of the Appalachians. His work served to focus the geomorphic community into an intense, extended debate on the nature and fundamental controls of the long-term erosion of the Appalachians. The 100th anniversary of Davis provocative paper prompted the convening of a symposium to address some of the fundamental questions about the Appalachians, the 1989 Geomorphology Symposium. The theme of this symposium was the geomorphic evolution of the Appalachians. This volume brings together a collection of papers from the symposium, to provide a summary of the current state of knowledge.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9780520297913','Argentinas missing bones: revisiting the history of the dirty war examines the history of state terrorism during Argentinas 1976-83 military dictatorship in a single place: the industrial city of Córdoba, Argentinas second largest city and the site of some of the dirty wars greatest crimes. It examines the citys previous history of social protest, working-class militancy, and leftist activism as an explanation for the particular nature of the dirty war there. Argentinas missing bones examines both national and transnational influences on the counter-revolutionary war in Córdoba. The book also considers the legacy of this period and examines the role of the state in constructing a public memory of the violence and holding those responsible accountable through the most extensive trials for crimes against humanity to take place anywhere in Latin America--Provided by publisher.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
 ('9048387861515','Revolution and profusion -- these are the hallmarks of Western art from 1780 to 1850. The astonishingly rapid changes wrought by the industrial -- and American and French -- revolutions led to a wealth of artistic production. This profusely illustrated guide to the arts of the early 19th century on both sides of the Atlantic is the most comprehensive volume available on the subject. Through both famous and obscure works, William Vaughan explores a stunning variety of artistic achievement, including landscape, still life, and figure painting by Gericault, Ingres, Delacroix, Turner, Blake, Constable, Goya, and Friedrich. Vaughan also treats sculpture, architecture, town planning, and photography, and offers an in-depth survey of the decorative arts: furniture, ceramics, glass, metalwork, and more. Drawing on the most up-to-date research, the author brings this exciting period and its inexhaustible artistic production to life.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('2722528225864','Beginning in 1895, includes the Proceedings of the East India Association.')
+('9783736727687','Um den wütenden Red Onslaught aufzuhalten, verbünden sich Avengers, X-Men und sogar einige Superkriminelle. Als alles verloren scheint, hilft nur noch ein mächtiger Zauber. Der verändert jedoch auch viele Helden und Schurken dramatisch.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('4790110543078','Backpacker brings the outdoors straight to the readers doorstep, inspiring and enabling them to go more places and enjoy nature more often. The authority on active adventure, Backpacker is the worlds first GPS-enabled magazine, and the only magazine whose editors personally test the hiking trails, camping gear, and survival tips they publish. Backpackers Editors Choice Awards, an industry honor recognizing design, feature and product innovation, has become the gold standard against which all other outdoor-industry awards are measured.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9781439658369','For almost one hundred years, generations of New Jersey customers flocked to Bamberger’s. From its grand Newark flagship to numerous suburban locations, the store was hailed for its myriad quality merchandise and its dedicated staff. Its promotional events were the highlight of every season, from the Thanksgiving Parade to elaborate Christmas festivals featuring celebrities such as Bob Hope, Carol Channing and Jerry Lewis. Though the once mighty flagship closed in 1992, Bamberger’s is still fondly remembered as a retail haven. With vintage photographs, interviews with store insiders and favorite recipes, nationally renowned department store historian and New Jersey native Michael J. Lisicky brings the story of New Jersey’s Greatest Store back to life.')
 ;
 
 Insert into Summary
@@ -2575,25 +2683,13 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781420017113','Global agriculture is now at the crossroads. The Green Revolution of the last century is losing momentum. Rates of growth in food production are now declining, with land and water resources becoming scarcer, while world population continues to grow. We need to continue to identify and share the knowledge that will support successful and sustainable agriculture systems. These depend crucially on soil. Gaining international attention, Dr. Uphoff’s efforts to promote and develop sustainable agriculture was recently featured in the N.Y. Times Led by Norman Uphoff, internationally renowned for his proactive approach to world hunger, this volume brings together 102 experts representing 28 nations and multiple disciplines to report on achievements in sustainable soil-system management. While accepting some continuing role for chemical and other external inputs, this book presents ways in which crops can be produced cost effectively in greater abundance with lessened dependence on the exogenous resources that have driven the expansion of agriculture in the past. Including the work of both researchers and practitioners, this important volume — · Explores soil systems in a variety of climate conditions · Discusses the importance of symbiotic relationships between plants and soil organisms, looking at crops as integral and interdependent participants in ecosystems · Seeks to reduce the distance between scientific research and technical practice · Examines related considerations such as pest and disease control, climate change, fertility restoration, and uses of monitoring and modeling With 50 self-contained chapters, this work provides researchers, practitioners, and policy makers with a comprehensive understanding of the science and steps needed to utilize soil systems for the long-term benefit of humankind. For information on the SRI, System of Rice Intensification being developed by Uphoff and others, go to http://ciifad.cornell.edu/sri/')
+('1756784819931','Today, everything from cell phones to microwaves to CD players all contain microcontrollers, or miniature computers, which need to be programmed to perform specific tasks. Designing such systems requires an understanding of both microprocessor electronics and programming languages. This book is written for the industrial electronics engineer who needs to use or switch to the Intel 8051 family of microcontrollers and implement it using a C programming language.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9179184195864','The Construction and Building Management Journal.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9779245190510','Issues for 1925-37 include the academys Annual report for 1924-36.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9695802507401','Études sur la pré-renaissance et la renaissance anglaises.')
+('1199768770505','Revised and expanded for the new C/C++ Standard, C 99, this bestseller is a must-have reference and idea generator for millions of programmers. Its organized for easy access and designed as a lookup resource and idea generator for programming in C and C++.')
 ;
 
 Insert into Summary
@@ -2605,25 +2701,49 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('1552342606350','This brief new collection of poems (and one short story) explores the Jungian world of archetypes, myth-making, and the collective unconscious, pondering metaphors in the broadest sense.')
+('9781493916139','This accessible guide details an evidence-based educational program to help couples adapt to parenthood while minimizing the inevitable stress on the relationship. Complete with content, rationales, activities, and client materials, its flexible format allows for home and office visits and phone/online support across the transition, starting during pregnancy and continuing into early infancy. Activities build on themes of caring, change, and cooperation as couples learn to identify and address sources of conflict, solve infant-care problems, and to become optimal partners as well as optimal parents. The books hands-on presentation includes chapter highlights, boxed Practice Tips and Clinical Connections sections, client handouts and worksheets, and examples of clinician interactions with couples. The sessions described in Clinical Guide to Helping New Parents: The Couple CARE for Parents Program are organized to meet challenges and reinforce skills in key areas including: Developing realistic and shared expectations. Promoting positive communications and self-change. Conflict management communication skills. Developing sensitive and responsive parenting Reviewing personal and social support. Developing caring and healthy sexuality. Anticipating and preventing relationship deterioration.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9789639776807','It was not a matter of propaganda ... black and white ideological broadcasts ... What made [Radio Free Europe] important were its impartiality, independence, and objectivity.---Vaclav Havel Radio Free Europe and Radio Liberty were critically important weapons in the free worlds competition with Soviet totalitarianism---and without them the Soviet bloc might even have not disintegrated ... The account in this book of their activities is therefore not only informative, but critical to understanding recent history.---Zbigniew Brzezinski The studies and translated Soviet bloc documents published in this book demonstrate the enormous impact of Radio Free Europe, Radio Liberty, and Voice of America during the Cold War. By promoting democratic values and undermining the monopoly of information on which Communist regimes relied, the Radios contributed greatly to the end of the Cold War.---George P. Shultz I know of no other mass media organization that has done more than RFE/RL to help create the Europe in which we live today---a Europe not divided into two opposing camps.---Elena Bonner Examines the role of Western broadcasting to the Soviet Union and Eastern Europe during the Cold War, with a focus on Radio Free Europe and Radio Liberty. It includes chapters by radio veterans and by scholars who have conducted research on the subject in once-secret Soviet bloc archives and in Western records. It also contains a selection of translated documents from formerly secret Soviet and East European archives, most of them published here for the first time.')
+('9780691037561','This book offers a systematic treatment--the first in book form--of the development and use of cohomological induction to construct unitary representations. George Mackey introduced induction in 1950 as a real analysis construction for passing from a unitary representation of a closed subgroup of a locally compact group to a unitary representation of the whole group. Later a parallel construction using complex analysis and its associated co-homology theories grew up as a result of work by Borel, Weil, Harish-Chandra, Bott, Langlands, Kostant, and Schmid. Cohomological induction, introduced by Zuckerman, is an algebraic analog that is technically more manageable than the complex-analysis construction and leads to a large repertory of irreducible unitary representations of reductive Lie groups. The book, which is accessible to students beyond the first year of graduate school, will interest mathematicians and physicists who want to learn about and take advantage of the algebraic side of the representation theory of Lie groups. Cohomological Induction and Unitary Representations develops the necessary background in representation theory and includes an introductory chapter of motivation, a thorough treatment of the translation principle, and four appendices on algebra and analysis.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781602682429','In any classroom, there are times when the teacher needs a quick way to reinforce essential literacy skills. Color Photo Games provide simple, fun, and engaging games that are perfect for those times. Easy-to-assemble, fun to play, and designed for individual or small group use, Super Sight Words reinforces 170 essential sight words and more! Each game includes photographic artwork, game strategies with differentiated instruction, and a CD so the teacher is able to print pages and make several games for her classroom. It also supports NAEYC standards.')
+('1713848742234','Shows the business and financial standing of all the life insurance companies.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9780202362847','The psychologist who pursues an interest in personality is constantly faced by a dilemma. He seeks to investigate what is to him the most intriguing and interesting subject--the multifaceted operations of man in his natural environment. The predicament lies in the discrepancy between the complexity and richness of mans subjective experience, and the pallid analog of these experiences the psychologist is able to study effectively with the research procedures available to him. In Concepts of Personality Joseph M. Wepman and Ralph W. Heine offer a comprehensive survey of classical and contemporary personality theory, including a wide array of examples of these two trends. If the psychologist holds to the premises of strict objectivity through controlled observations, he finds himself driven to the periphery of the very problem he seeks to understand. This is a place where the reliability of measurement and the validity and predictability of his instruments can often be specified, but only at the cost of abandoning the goal of useful generality or of application to the individual in his ordinary life circumstances. Concepts of Personality, unlike most books on the subject, is not limited to broad, general theories. It includes chapters on basic processes--learning, perception, genetics, and drive theory; on the major analytical approaches of psychology and psychiatry; on anthropological and sociological contributions; and on the problems of measurement and assessment. Each chapter is by an authority on the point of view expressed. The editors introduction, itself a major essay on the complex and divergent patterns and themes of contemporary views of personality, carefully leads the reader through the information at hand. The book as a whole constitutes an encyclopedic summary of the state of the science. Joseph M. Wepman was professor of psychology and surgery and chairman of the Interdepartmental Clinical and Counseling Psychology Training Program of the University of Chicago. He is the author of Recovering from Aphasia and Aphasia and the Family. Ralph W. Heine was professor of psychiatry and psychology and chief clinical psychologist in the department of psychiatry at the University of Chicago. He is the author of The Student Physician as Psychotherapist and Psychotherapy.')
+('9781118105375','The book that fills the practitioner need for a distillation of the most important tools and concepts of corporate finance In todays competitive business environment, companies must find innovative ways to enable rapid and sustainable growth not just to survive, but to thrive. Corporate Finance: A Practical Approach is designed to help financial analysts, executives, and investors achieve this goal with a practice-oriented distillation of the most important tools and concepts of corporate finance. Updated for a post-financial crisis environment, the Second Edition provides coverage of the most important issues surrounding modern corporate finance for the new global economy: Preserves the hallmark conciseness of the first edition while offering expanded coverage of key topics including dividend policy, share repurchases, and capital structure Current, real-world examples are integrated throughout the book to provide the reader with a concrete understanding of critical business growth concepts Explanations and examples are rigorous and global, but make minimal use of mathematics Each chapter presents learning objectives which highlight key material, helping the reader glean the most effective business advice possible Written by the experts at CFA Institute, the worlds largest association of professional investment managers Created for current and aspiring financial professionals and investors alike, Corporate Finance focuses on the knowledge, skills, and abilities necessary to succeed in todays global corporate world.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('5004267738921','Includes quarterly and annual reviews.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9781416925835','Paradise Island, Hawaii ∼ the perfect place to witness a once-in-a-lifetime event: a total solar eclipse. Frank and Joe Hardy are there, along with a group of eminent scientists, watching with anticipation and excitement. But as the moon shrouds the sun, and darkness falls, an unseen danger creeps up. When the light returns, a leading astrologer is dead and the Hardy Boys find themselves at the centre of a brutal murder…')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('7350464307981','This volume summarizes the only intensive, long-term study conducted on the local distribution, abundance, and natural history of the Common Fruit Bat.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9815037840666','Includes detailed budgets by campus.')
 ;
 
 Insert into Summary
@@ -2635,67 +2755,25 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('5937164531041','This volume contains detailed, worked-out notes of six main courses given at the Saint-Flour Summer Schools from 1985 to 1987.')
+('9781550597240','What exactly is education policy, why is it important, and how is it implemented in the real world? Jerome Delaney, a professor of educational administration and former high school principal, answers the big questions about education policy in this powerful and practical primer for students. Informed by his experience in the public school system, Delaney takes a pragmatic and realistic approach that divides a complicated subject into manageable sub-topics. He grounds the debate at the classroom level: after all, that’s where the effects of high-level policy decisions ultimately play out. Starting from the basics and progressing through to the deeper aspects of education policy, this text provides an excellent introduction to a subject that lies at the foundation of every education system. This second edition includes a new chapter on issues relating to policy implementation, as well as new discussion questions at the end of each chapter. Topics include: A beginner’s overview of education policy studies. How values influence policy-making. How education policy is developed, implemented, and evaluated. The role of policy in education reform. The future of education policy as schools adapt to changing societies.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781510421271','Exam board: Cambridge Assessment International Education Level: IGCSE Subject: Economics First teaching: September 2018 First exams: Summer 2020 This title is endorsed by Cambridge Assessment International Education to support the full syllabus for examination from 2020. Discover Economics as a real-world subject through case studies from around the world and provide in-depth coverage of the latest Cambridge IGCSE and O Level Economics syllabuses (0455/2281). - Trust an experienced author team to navigate the syllabuses confidently with clearly-defined learning objectives throughout. - Deepen understanding by applying knowledge to real-life global case studies. - Extend learning beyond the classroom by reflecting on skills learned and applying them to local and global environments. - Check understanding with engaging activities that thoroughly integrate deep learning skills. - Benefit from language support with an accessible text and definitions of technical terms throughout. - Consolidate learning with chapter reviews and examination-style questions, as well as useful links to extra activities and answers to the questions which are available in the Online Teachers Guide. Available in this series: Student Textbook Second edition (ISBN 9781510421271) Student eTextbook (ISBN 9781510420212) Whiteboard eTextbook (ISBN 9781510420229) Workbook (ISBN 9781510421288) Online Teachers Guide (ISBN 9781510424135) Study and Revision Guide (ISBN 9781510421295)')
+('3343993443555','Articles examine the election process for president, Congress, and statewide offices, and discuss the roles of political parties and the media, election scandals, and voting rights.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9780819191069','This study examines the recent work of Latin American liberation theologian Juan Luis Segundo. The author evaluates Segundos resources in order to develop a more adequate contemporary Christological method. Stone offers to Christian systematic theology new critical interpretations of the significance of Jesus for human liberation today. Contents: INTRODUCTION: The Problem of Method in Contemporary Christology; The Nature and Task of Christology; The Situation in Liberation Theology; PART I. Segundos Christology; The Dimension of Praxis: Faith and Ideologies; Jesus and History; The Evolutionary Key to Christology; PART II. A Critical Appraisal of Segundos Christology; Faith, Metaphysics and Praxis; Faith and History; Evolution and Effective Faith; PART III. Toward an Alternative Liberation Christology; Jesus and Evolution.')
+('6598354019550','FIELD & STREAM, America’s largest outdoor sports magazine, celebrates the outdoor experience with great stories, compelling photography, and sound advice while honoring the traditions hunters and fishermen have passed down for generations.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781727346329','Enjoy The Moment is a Journal Notebook 6 x 9 inches Lined Pages')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9781452212142','This invaluable resource demonstrates how to foster the development of highly qualified teachers through designing and implementing a solid teacher evaluation system.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9781472840684','World War II saw the development of the heavy bomber as a decisive weapon which, in sufficient numbers, could overcome defensive fighters and guns and lay waste to strategic targets. The addition of nuclear weapons to the bombers armament made it even more formidable, and by the late 1940s, US planners saw the growth of a Soviet nuclear-armed bomber fleet as a terrifying threat to North American security. Conventional subsonic fighters with guns and free-flight air-to-air rockets would be incapable of reaching these incoming bombers in time to prevent even one from delivering a devastating nuclear attack. As a result, supersonic speed, long-range guided missiles and precise radar-based control of an interception became prerequisites for a new breed of fighters, beginning with the F-102. A massive research and development effort produced the F-102A 1954 Fighter, the J57 afterburning turbojet, its Hughes MX-1554 fire control system and, in due course, the Semi-Active Ground Environment (SAGE) radar and communications network that covered North America to guide its airborne defences. In service, F-102As also provided air defence in Europe with USAFE, in the Far East and in Southeast Asia, where they protected US airbases in South Vietnam and Thailand from air attack by North Vietnamese fighters and bombers and escorted B-52s and fighter-bombers on their attack sorties. This illustrated study from leading expert Peter E. Davis details the design, development, and deployment of the futuristic F-102, including its complex research program and role in Vietnam.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('6424053951740','An international journal providing for the rapid publication of short reports on microbiological research.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9781537497822','You will not find this education at you brokers how to section. Most likely you will not find this information anywhere on this book section on any other book store. I have paid thousands of dollars on exclusive groups and paid forums to collect the information presented in this book. As you can imagine these are the highly guarded secrets of the elite of the FOREX traders, no one gives their living away, unless you pay them a price worth their living. However I have decided to make this information for ridiculously low price, because I am fed up with the brokers and the big banks taking advantage of the regular retail trader. Let me ask you a question? When was the last time you make money with FOREX? Even further more how much money you are willing to lose, until you give up? How long you will continue to give your hard earned money to the broker? Just like you I started 5 years ago with high hopes of quitting my job and leaving the live I deserve with FOREX. My hopes and aspirations were quickly crashed and my dreams went to the dump. First I lost 1000, then 5000, 10k , how much longer I could continue like that, how much longer I could endure the ridicule the jokes of my family and the frown on the face of my wife. It was painful, sitting all day in front of the computer, until you cant see any longer and everything including the platform and your mind become blurry. I know the pain I have been there. This continued for year, until one morning I was ready to quit, I was going to give it a last try and throw that FOREX staff in the garbage, out the window. I stumbled on a rear tread, which since then has been banned, by the broker that was holding the forum. Luckily the tread continued under the brokers radar for while, and gathered a bunch of comments an support. Finally the tread from the trader X was discontinued. I was in dis pare, that was the only hope and light, I have seen for a long time. I was applying the advice from the trade and things were starting to work for me. Fortunately I was able to PM the trader and begged him to agree on a 20 min conversation on the phone. Trader X was not a guru, not your regular internet promoter mojo. He was quietly raking in thousands of dollars a month for years, he was not excited about the next trade, his heart beat was not raising before he pooled the trigger. See, he has been doing this trading staff for so long it has become a boring procedure, rather a morning an afternoon chore, something like putting the garbage out on garbage day. He explained that he learned from the MASTER, I did not proceed to ask him who was the MASTER, since I mainly was concerned with him teaching him every little bit of what he knew about trading. He didnt not agree to spend time teaching me on our first conversation, regardless of how much I offered to pay him. See, for him money was not a issue. Finally on my third approach he agreed to show me what the MASTER had thought him many years ago. What is comprised in the pages of this book will be worth pure gold to you.This book is down to the ground no no sense, real trading knowledge. It gives step by step instructions with real trade examples. This book is not your regular hog wash advice that you will find from your broker and the other magic bullets and seven step series that you see on this site. This book teaches you how to trade like the pros. Shows you how the big banks and foreign nationals and institution trade. The book opens your eyes to how to piggy back on the big institutional traders and win. Ninety Five percent of the people that trade the Forex market lose money and give up. The market is continually replaced by fresh blood like yourself. Dont become part of the statistics, read this book and get a map to success in FOREX. You can make a success in FOREX if you know what you are doing. Yes you can make a living with FOREX and quit your job. You can achieve your dreams. Buy this book and find out How?')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('1524187592146','Part social commentary, part how-to guide. Case studies of successful Gen X Entrepreneurs now worth millions. Informative, innovative, inspiring.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('2872029262950','V.1 Education of a general, 1880-1939; v.2 Ordeal and hope, 1939-1942; v.3 Organizer of victory, 1942-1945; v.4 Statesman, 1945-1959.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9780748407286','Manual Materials Handling MMH creates special problems for many different workers worldwide. Labourers engaged in jobs which require extensive lifting/lowering, carrying and pushing/pulling of heavy materials have suffered increasing rates of musculo-skeletal injury, especially to the back.; This guide is intended to include all activities involved in MMH lifting, pushing, pulling, carrying and holding. Recommendations are provided in the form of design data that can be used to design different MMH work activities. The guide is divided into two parts. Part I outlines the scope of the problem, discusses the factors that influence a persons capacity to perform MMH activities and / or should be modified to reduce the risk of injuries, and reviews the various design approaches to solving the MMH problem. Part II provides specific design data in six distinct chapters. The seventh chapter of Part II of the guide describes various mechanical devices that are available to aid MMH activities.; The guide is aimed at all concerned with the health impact of MMH activities; occupational health and safety workers; senior human resource managers; ergonomists; workers compensation lawyers; union representatives.')
+('9780525575078','A literary treasure of over one hundred unpublished letters from National Book Award-winning author Flannery OConnor and her circle of extraordinary friends. Flannery O’Connor is a master of twentieth-century American fiction, joining, since her untimely death in 1964, the likes of Hawthorne, Hemingway, and Faulkner. Those familiar with her work know that her powerful ethical vision was rooted in a quiet, devout faith and informed all she wrote and did. Good Things Out of Nazareth, a much-anticipated collection of many of O’Connor’s previously unpublished letters—along with those of literary luminaries such as Walker Percy (The Moviegoer), Caroline Gordon (None Shall Look Back), Katherine Anne Porter (Ship of Fools), Robert Giroux and movie critic Stanley Kauffmann. The letters explore such themes as creativity, faith, suffering, and writing. Brought together, they form a riveting literary portrait of these friends, artists, and thinkers. Here we find their joys and loves, as well as their trials and tribulations as they struggle with doubt and illness while championing their beliefs and often confronting racism in American society during the civil rights era. Praise for Good Things Out of Nazareth “An epistolary group portrait that will appeal to readers interested in the Catholic underpinnings of OConnors life and work . . . These letters by the National Book Award–winning short story writer and her friends alternately fit and break the mold. Anyone looking for Southern literary gossip will find plenty of barbs. . . . But there’s also higher-toned talk on topics such as the symbolism in O’Connor’s work and the nature of free will.”—Kirkus Reviews “A fascinating set of Flannery O’Connor’s correspondence . . . The compilation is highlighted by gems from O’Connor’s writing mentor, Caroline Gordon. . . . While O’Connor’s milieu can seem intimidatingly insular, the volume allows readers to feel closer to the writer, by glimpsing O’Connor’s struggles with lupus, which sometimes leaves her bedridden or walking on crutches, and by hearing her famously strong Georgian accent in the colloquialisms she sprinkles throughout the letters. . . . This is an important addition to the knowledge of O’Connor, her world, and her writing.”—Publishers Weekly')
 ;
 
 Insert into Summary
@@ -2707,7 +2785,7 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9788184002287','Are you stressed? The workplace has become increasingly competitive, family life has its never-ending complications, and when you step outside, you have to deal with heavy traffic, aggression, and massive pollution. No wonder that you’re tense and agitated, have hyper reflexes and blood pressure that’s higher than the midday sun. But you’re not alone. Fifty percent of Indian professionals suffer from stress with stress-related diseases from depression to lack of fertility drastically on the rise. In I’m Not Stressed, Deanne Panday, one of the country’s leading health and fitness experts, shares with you her secrets to tackle this looming lifestyle problem. She tells you what stress really means, how to know when you have a serious case of it, and most importantly how to deal with it through a simple plan of diet, exercise, sleep, meditation, and breathing. With advice from leading psychiatrists, cardiologists, endocrinologists, and celebrities who have to deal with high-level stress, I’m Not Stressed is your mantra for enduring health and happiness.')
+('9789353226152','Indian Air Force Airmen X & Y Group (Technical & Non- Technical Trades Exam) 25 Practice Sets 1500+ MCQ & Ans. with Explanation Each Set Covers 4 Subjects • English • Mathematics • Physics • Reasoning & General Awareness(RAGA) • Based on the Latest Syllabus & Nature of Questions')
 ;
 
 Insert into Summary
@@ -2719,13 +2797,43 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9780226359441','Review: In this work, R. Bruce Hull argues that environmentalism will never achieve its goals unless it sheds its fundamentalist logic. The movement is too bound up in polarizing ideologies that pit humans against nature, conservation against development, and government regulation against economic growth. Only when we acknowledge the infinite perspectives on how people should relate to nature will we forge solutions that are respectful to both humanity and the environment. Infinite Nature opens doors so that nature can be seen from the scientific understandings proffered by anthropology, evolution, and ecology, to the promise of environmental responsibility offered by technology and economics, to the designs of nature envisioned in philosophy, art, law, and religion. Along the way, Hull helps us find the common ground created out of many natures - the place where sustainable and thriving communities are possible.--BOOK JACKET')
+('5583988007832','This textbook is designed for a one-year course in real analysis at the junior or senior level. An understanding of real analysis is necessary for the study of advanced topics in mathematics and the physical sciences, and is helpful to advanced students of engineering, economics, and the social sciences. Stoll, who teaches at the U. of South Carolina, presents examples and counterexamples to illustrate topics such as the structure of point sets, limits and continuity, differentiation, and orthogonal functions and Fourier series. The second edition includes a self-contained proof of Lebesgues theorem and a new appendix on logic and proofs. Annotation copyrighted by Book News Inc., Portland, OR')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9780821803400','Volume 2 of two - also available in a set of both volumes.')
+('1744186352671','Committee Serial No. 91-17. Considers H.R. 11249, to amend the John F. Kennedy Center Act to authorize additional funds for the construction of the John F. Kennedy Center for the Performing Arts.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('1606260990664','Until 1860 John Ruskins writings were primarily about art and architecture; but his belief that good art can flourish only in a society that is sound and healthy led him inevitably to a preoccupation with social and economic problems, the dominant concern of his later writings. James Clark Sherburne provides in this volume a detailed and long overdue re-examination of Ruskins social and economic perceptions and, for the first time, systematically places these perceptions in their nineteenth-century intellectual context. Ruskins eloquence and the strength of his moral, aesthetic, and social convictions established him as one of the most influential of Victorian writers. His writings, however, are not easily categorized and many of his important insights occur as digressions in discussions of other topics. Mr. Sherburne succeeds in ordering and clarifying the rich chaos of Ruskins social thought without denying that wholeness which is, paradoxically, its salient feature. He discovers the source of Ruskins social criticism in his early writings. He then follows Ruskins interest as it shifts from economic theory to the problems of exploitation, war, imperialism, the means of social reform, and the construction of the welfare state. Ruskins remarkably early vision of the possibility of economic abundance, his anticipation of its social and personal implications, his much disparaged critique of classical economics, his pioneering attention to the role of the consumer and the quality of consumption, his anxious portrayal of the effects of industrialism on the environment, his critique of English educational methods, and his farsighted proposals for public management of industry and transport are among the many aspects of Ruskins thought examined by Mr. Sherburne. What emerges is an original and exhaustive study of a dimension of Ruskins work which, though much neglected, is particularly relevant to contemporary concerns.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('7309200828260','Vols. 20- include Proceedings of the North Carolina academy of science, 1902-')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9789382076575','K-Wiring: Principles and Techniques Kirschner wires or K-wires are sterilized, sharpened, smooth stainless steel pins/wires used in orthopedic surgery as implants. K-wire implants are extremely versatile in their usage and can treat fractures of various kinds in most of the bones from finger tips to toes. Due to their remarkable ability to heal and reconstruct intricate bone fractures, they are a popular choice among orthopedic surgeons the world over. Each reconstruction is an innovation in itself, as every complex fracture presents its unique challenges. There is a paucity of literature on standard techniques, principles and approaches to be employed for K-wiring fractures. This book fills that gap. It is the first of its kind in demonstrating the effective execution of K-wiring procedures through a lucid, case-based format. It serves as a practical guide for orthopedic surgeons on K-wiring techniques, thus enabling them to improve patient care. It will be an invaluable reference text not just for practicing orthopedic surgeons but also for subspecialists like consultant hand surgeons, foot and ankle surgeons, and microvascular plastic hand surgeons, helping them master the operative techniques related to K-wiring. Salient features: Detailed coverage of latest techniques and procedures for operating fractures with the help of K-wires Thorough descriptions of complexities encountered in all regions of the body Discussion of many cases with their management protocols Guidance for correcting mismanaged cases by using K-wires Use of excellent quality images with textual description that facilitate better relatability Extensive use of original patient photographs, radiographs, and skillfully created illustrations')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9780429973178','These notes are based on the course of lectures I gave at Harvard in the fall of 1964. They constitute a self-contained account of vector bundles and K-theory assuming only the rudiments of point-set topology and linear algebra. One of the features of the treatment is that no use is made of ordinary homology or cohomology theory. In fact, rational cohomology is defined in terms of K-theory.The theory is taken as far as the solution of the Hopf invariant problem and a start is mode on the J-homomorphism. In addition to the lecture notes proper, two papers of mine published since 1964 have been reproduced at the end. The first, dealing with operations, is a natural supplement to the material in Chapter III. It provides an alternative approach to operations which is less slick but more fundamental than the Grothendieck method of Chapter III, and it relates operations and filtration. Actually, the lectures deal with compact spaces, not cell-complexes, and so the skeleton-filtration does not figure in the notes. The second paper provides a new approach to K-theory and so fills an obvious gap in the lecture notes.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('7181147779254','The official records of the proceedings of the Legislative Council of the Colony and Protectorate of Kenya, the House of Representatives of the Government of Kenya and the National Assembly of the Republic of Kenya.')
 ;
 
 Insert into Summary
@@ -2737,85 +2845,43 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9783110965919','Edition for students of this important book whose centre-piece is the Battle of Salamis.')
+('9064363154053','Description dune méthode denseignement des mathématiques dans une classe ouverte.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('8927192951736','Appeal regarding installation of two velux windows.')
+('9781509530786','Language is the medium in which we humans compose our thoughts, explain our thinking, construct our arguments, and create works of literature. Without language, societies as complex as ours could not exist. Geoffrey Pullum offers a stimulating introduction to the many ways in which linguistics, as the scientific study of language, matters. With its close relationships to psychology, education, philosophy, and computer science, the subject has a compelling human story to tell about the ways in which different societies see and describe the world, and its far-reaching applications range from law to medicine and from developmental psychology to artificial intelligence. Introducing Polity’s Why It Matters series: In these short and lively books, world-leading thinkers make the case for the importance of their subjects and aim to inspire a new generation of students.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781847179869','In Ireland, Daniel ODonnell is more than just a singing star: he has reached the status of national treasure. It has been a long journey for the boy from Kincasslagh, County Donegal, and in Living the Dream he tells his story with his customary sense of humour and down-to-earth charm. Much has happened in Daniel ODonnells life since his first autobiography, Follow Your Dream, and in this new book he reflects on the range of experiences and emotions that accompanied his wife Majellas battle with cancer; the death of his beloved mother, Julia; his part in the BBCs Strictly Come Dancing TV show; and his B&B Road Trip adventures with Majella. And he delves into the relentless touring and recording that took him to the brink of burnout and forced him to reassess his priorities. Daniel ODonnell is an international phenomenon – a real star. His fans will love this latest instalment of his extraordinary life story.')
+('9789351295747','Lippincott Manual of Medical-Surgical Nursing Adaptation of Nettina: Lippincott Manual of Nursing Practice, 10/Suresh K. Sharma This book is south Asian adaptation of Nettina: Lippincott Manual of Nursing Practice, 10/e. Customized as per the General Nursing Midwifery curriculum prescribed by Indian nursing council (INC). It not only provides but establishes authentic content of international standard but also caters to the specific curriculum requirement of nursing student of India.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9780792364740','Proceedings of the NATO Advanced Study Institute on Quantum Geometry, held in Akureyri, Iceland, on August 9-20, 1999')
+('9781856047760','This title draws together international authorities to explore the variety of work that libraries are doing across the world to deliver resources to users via mobile and hand-held devices. Based on the proceedings of the Third International M-Libraries Conference held in Brisbane in May 2011, this draws together cutting-edge international contributions from the leading authorities in the field. The main strands of discussion include: • mobile services and their development • mobile users, their behaviour and requirements • emerging technical developments including new platforms, devices and applications • strategy and infrastructure developments at national level • reflections and feedback on new service models • local innovation. Readership: Information professionals in all sectors, policy makers, researchers, developers, publishers, suppliers, LIS students and new professionals.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9780810396814','Provides detailed comprehensive coverage of 500 manufactured product categories, outlines more than 4000 companies in 119 manufacturing countries and features data from the United Nations General Industrial Statistics series and Industrial Commodity Production Statistics series.')
+('9781136935305','Monetary and Financial Integration in West Africa details the progress, challenges faced, and potential of the project intended to create a West African Monetary Zone (WAMZ) between Gambia, Ghana, Guinea, Nigeria and Sierra Leone. Given the trend towards regionalization of economic ties across the world, especially after the successful launch of the euro, a detailed analysis of the WAMZ is needed. As this is the first book on monetary and financial integration in Gambia, Ghana, Guinea, Nigeria and Sierra Leone, it is an essential read for anyone interested in economic development in West Africa, and indeed in Africa as a whole. This book is extremely well-researched, with detail on virtually all aspects of economic integration in the region; with issues ranging from the institutional details of integration, trade and financial market integration, to progress on convergence of macroeconomic fundamentals to the required payments system infrastructure. The book deploys solid empirical facts and sophisticated analyses to thoroughly defend its assertions. This collection is a valuable contribution and an excellent companion book for monetary economics or international economics classes as well as African development literature. It will provide students and researchers with an exciting chance to apply concepts of, for example, optimum currency areas, central bank structure or monetary policy approaches, to a real-world case of potential monetary union. Dr. Temitope W. Oshikoya and his collaborators have written the authoritative book on the subject of monetary union in the West African Monetary Zone. As is evident in the level of detail of the book, Dr. Oshikoya brings rich field experience from his role as Director General and CEO of the West African Monetary Institute. This book will be of interest to postgraduates and researchers in development economics; as well as policymakers, monetary authorities and development practitioners.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('2087286548608','Are you struggling with the selection process? Does your application keep getting rejected – or worse – ignored? Are you overwhelmed by the amount of screening questions? Are you stuck in a position and want to move up the ladder? If you answered “yes” to any of these questions then this book is for you! In this easy-to-understand guide, you will learn: -The #1 mistake that applicants make -Why your résumé needs to be written differently -How to write a cover letter that stands out from the rest -What you need to say during an interview -How to get a job offer Getting screened in is possibly the most difficult part of the selection process. With the little-known, yet simple strategies exposed in Mastering the Selection Process, youll dramatically increase your chances of success. From the first application to the final interview, each chapter will walk you through every step of your journey with achievable goals that will help ensure your application gets screened in.')
+('4947250778781','Mother Jones is an award-winning national magazine widely respected for its groundbreaking investigative reporting and coverage of sustainability and environmental issues.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9812443103011','This is the classic book of detailed instructions for making a wide variety of mathematical models of all kinds. Complete nets are given for all regular Archimedean and stellated polyhedra together with a number of interesting compounds. There are sections on paper folding, dissections, curve stitching, linkages, the drawing of loci and envelopes and the construction of plane tessellations. The volume is fully illustrated with diagrams and photographs of models in paper and other materials and all have been successfully made and tested. Note, for books that provide the nets and instructions to make various solids, look at Make Shapes 1, Make Shapes 2, and Paper Polyhedra in Colour. Cundy and Rollett provides both a wider range of nets but not in ready-made form.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('8400466305023','Robert McJunkin was born in the 1680s in Port Williams, Scotland and married Margaret Caldwell in County Tyrone, Ireland. He and his sons, William and Samuel immigrated to Cumberland County, Pennsylvania. His sons later moved to Union County, South Carolina. Descendants lived in North Carolina, South Carolina, and elsewhere.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('5794305879525','Prefacio; Organizacao do dicionario; Indice, em portugues, das pranchas ilustrativas; Indice, em ingles, das pranchas ilustrativas; Verbos; Pesos e medidas; Abreviaturas explicativas usadas nos verbetes; Diconario, portugues-ingles; Abreviaturas frequentemente usadas em portugues.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9780619200039','Part of the highly successful Shelly Cashman Series, this text offers a clear screen-by-screen, step-by-step approach to learning the fundamentals of Microsoft Office XP. Includes projects and exercises that take full advantage of the new features of Office XP.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9781416595748','For more than twenty-five years, Mothering magazine has captured an audience of educated women who appreciate its well inform, you choose approach to parenting. Having a Baby, Naturally reflects this spirit with straightforward, uncensored information about pregnancy and childbirth, addressing common concerns and questions in a compassionate, nonjudgmental style. Written by Peggy OMara, the longtime publisher, editor, and owner of Mothering magazine, it synthesizes the best theories and safest practices used in natural childbirth, including recommendations from the World Health Organization, the American Academy of Pediatrics, and the American College of Obstetricians and Gynecologists. Throughout, OMara reinforces her belief that each womans pregnancy and birth experience is a one-of-a-kind event. She covers such topics as: Nutrition, diet, and exercise Emotional self-awareness during and after pregnancy A trimester-by-trimester guide to what is happening in your body and your childs Birth choices -- offering suggestions, not rules Pain medication alternatives Birth locations, from hospitals to home birth Relieving morning sickness with natural remedies Prenatal testing Breastfeeding Prematurity and multiple births Balancing work and family The fathers role during pregnancy and beyond Difficult subjects, such as birth defects, miscarriages, and postpartum depression, are also treated with sensitivity and candor. Finally, a book for the thinking woman who believes in her own inherent capacity to make smart, informed decisions about her pregnancy and birth, just as she makes in other areas of her life. Having a Baby, Naturally is a celebration of childbirth and an accurate and objective guide to helping women fortify their spirits, develop trust in their bodies, and make the best possible choices to protect their new babys health.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9781841491349','Im Anita Blake and I kill monsters. The last thing I want to think about through when I to think about though when I get home after a night out is work. But someone has abducted a wereleopard from the Narcissus in Chains club. Its a dark world out there with shapeshifter crime and were-creature struggles. I may not have seen Jean-Claude, the Vampire Master of the City, for six months, but I need his help now, whatever the consequences. Someone is targeting the lycanthropes and we have to save them. --- back cover.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('5221509491060','Current appellate decisions with supporting pleadings and approved instructions relating to the law of negligence generally, with accompanying editorial comment, cross-references to additional sources, and relevant case annotations.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('8160634951811','Contains the proceedings of the 12th- annual meeting of the Japan Neurosurgical Society')
+('9780195373363','Greek and Latin are studied as a pair for cultural reasons only; as languages, they have little in common apart from their Indo-European heritage. Thus the only way to treat the historical bases for their development is to begin with Proto-Indo-European. In order to make a reconstructed language like Proto-Indo-European intelligible and intellectually defensible, Sihler presents some of the basis for reconstructing its features and, in the process, discusses reasoning and methodology of reconstruction (including a weighing of alternative reconstructions).')
 ;
 
 Insert into Summary
@@ -2827,25 +2893,13 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9789264028449','This comprehensive review of e-government in Turkey identifies strategic opportunities and major challenges relative to its e-government efforts.')
+('7006237746946','The volumes of this series present almost 300 indispensable toxicological evaluation documents on important occupational toxicants and carcinogens. They describe the toxicological database which determines the level of a MAK value (Maximum Concentrations at the Workplace). Each evaluation document is written to a standard format and includes sections about toxic effects, modes of action, effects in man, effects on animals, genotoxicity and carcinogenicity, manifesto. The accumulated expertise of the Commissions toxicologists and occupational physicians makes their reviews inevitable for all involved in occupational health and safety. Volume 8 contains 6 documents, one large chapter on fibrous dust, further on dimethylformamide, glutaraldehyde, 4,4-methylene diphenyl isocyanate (MDI) and polymeric MDI (PDI), 2-nitrotoluene, vinylidene chloride.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('5851317745526','This accessible, chronologically organized text introduces the major topics, issues, terminology, and theories in child and adolescent development. Lefrancois is known for his friendly, student-oriented writing, which includes personal anecdotes that bring the material to life in a unique and involving way. The author stresses the application of the concepts of developmental psychology to students career and educational goals. A major emphasis in the new edition is the importance of the contexts (relationship) within which children develop, with special attention to cross-cultural and multicultural issues. The new edition represents a major rethinking of the text with five new emphases, as well as a thorough updating throughout the text.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('4146912208873','Covers the period from 1790 to 1905 in The Times of London.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9780192597618','David Kellogg Lewis (1941-2001) was one of the most influential philosophers of the twentieth century. He made significant contributions to almost every area of analytic philosophy including metaphysics, philosophy of language, philosophy of mind, and philosophy of science, and set the agenda for various debates in these areas which carry on to this day. In several respects he remains a contemporary figure, yet enough time has now passed for historians of philosophy to begin to study his place in twentieth century thought. His philosophy was constructed and refined not just through his published writing, but also crucially through his life-long correspondence with fellow philosophers, including leading figures such as D.M. Armstrong, Saul Kripke, W.V. Quine, J.J.C. Smart, and Peter van Inwagen. His letters formed the undercurrent of his published work and became the medium through which he proposed many of his well-known theories and discussed a range of philosophical topics in depth. A selection of his vast correspondence over a 40-year period is presented here across two volumes. As metaphysics is arguably where Lewis made his greatest contribution, this forms the focus of Volume 1. Arranged under the broad areas of Causation, Modality, and Ontology, the letters offer an organic story of the origins, development, breadth, and depth of his metaphysics in its historical context, as well as a glimpse into the influence of his many interlocutors. This volume will be an indispensable resource for contemporary metaphysics and for those interested in the Lewisian perspective.')
+('9553889970120','Volume III: Book III: The Veins and Arteries; Book IV: The Nerves, contains a total of thirty-two chapters. Each book has a large, 18 x 12-inch, fold-out diagram detailing the veins and arteries and the nerves.')
 ;
 
 Insert into Summary
@@ -2857,25 +2911,37 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781351996402','Politics Latin America examines the role of Latin America in the world and its importance to the study of politics with particular emphasis on the institutions and processes that exist to guarantee democracy and the forces that threaten to compromise it. Now in its third edition and fully revised to reflect recent developments in the region, Politics Latin America provides students and teachers with an accessible overview of the region’s unique political and economic landscape, covering every aspect of governance in its 21 countries. The book examines the international relations of Latin American states as they seek to carve out a role in an increasingly globalised world and will be an ideal introduction for undergraduate courses in Latin American politics, comparative politics, and other disciplines. This new edition will include: updated references to scholarship and debates; new themes such as environmental rights, women presidents, the Latin American Pope, Afro-Latinos, and the politics of sexual diversity; examination of demographic change and social movements; a new chapter on environmental economics and sustainable development. This book is essential reading for undergraduates taking courses in Latin American Politics.')
+('1162996415386','Preneoplasia of the Breast: presents the latest developments in the field, emphasizing cell-biological processes and depicting how they contribute to a better understanding and diagnosis of benign and malignant proliferative breast disease. is outstanding in its design, depicting over 540 full-color photomicrographs of conventional hematoxylin-eosin and immunohistochemical stainings. provides conceptual diagrams for a clearer understanding of the associated cellular processes. details the relevant radiologic, clinical and therapeutic background, clearly depicting how the pathologist can contribute to improved treatment of breast disease. contains contributions from renowned European and American pathologists and clinicians.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('1224090015026','Includes Geographical index (earlier called Geographical section).')
+('8859713910210','Includes also Minutes of [the] Proceedings, and Report of [the] President and Council for the year (beginning 1965/66 called Annual report).')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9526801292608','Problems and Materials on Decendents and Trusts, Sixth Edition, contains a vast amount of new material to help you structure an effective and enlightening course on estates and trusts and future interests. Focusing on areas such as succession, trusts, and fiduciary administration, this thoughtful revision supplies a solid examination of this challenging area of the law. the expert author team puts the material you need at your fingertips with: Cases and problems that make the text both teachable and interesting to students. Statutes and regulations that include examples from the Uniform Probate Code, other Uniform Acts, And The Restatements. A thoroughly revised Teachers Manual that reflects the many changes in the book. Extensive changes to Problems and Materials on Decendents Estates and Trusts For The Sixth Edition bring the book up to date through: A reorganized, more user-friendly chapter on Will Substitutes which now precedes chapters on Probate and Contest of Wills and Constructional Problems in Estate Distribution incorporated material on future interests revised material on Trusts reflecting the new Uniform Trust Act, The new Restatement (Third) of Trusts, And The new Restatement (Third) of Property (Donative Transfers) a substantially updated section on the prudent investing more information on health care decision-making and professional responsibility interspersed throughout the text a revised treatment of principal and income, In light of the 1997 Uniform Principal and Income Act updated cases and many key statutes Now that this sweeping revision is available, instructors can turn with confidence To The book with the documented track record of success for current coverage of todays issues and concerns - Problems and Materials on Decendents Estates and Trusts, Sixth Edition .')
+('3084374407813','Vol. for 1955 includes an issue with title Product design handbook issue; 1956, Product design digest issue; 1957, Design digest issue.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9780429894923','R Visualizations: Derive Meaning from Data focuses on one of the two major topics of data analytics: data visualization, a.k.a., computer graphics. In the book, major R systems for visualization are discussed, organized by topic and not by system. Anyone doing data analysis will be shown how to use R to generate any of the basic visualizations with the R visualization systems. Further, this book introduces the author’s lessR system, which always can accomplish a visualization with less coding than the use of other systems, sometimes dramatically so, and also provides accompanying statistical analyses. Key Features Presents thorough coverage of the leading R visualization system, ggplot2. Gives specific guidance on using base R graphics to attain visualizations of the same quality as those provided by ggplot2. Shows how to create a wide range of data visualizations: distributions of categorical and continuous variables, many types of scatterplots including with a third variable, time series, and maps. Inclusion of the various approaches to R graphics organized by topic instead of by system. Presents the recent work on interactive visualization in R. David W. Gerbing received his PhD from Michigan State University in 1979 in quantitative analysis, and currently is a professor of quantitative analysis in the School of Business at Portland State University. He has published extensively in the social and behavioral sciences with a focus on quantitative methods. His lessR package has been in development since 2009.')
+('4547518441006','Comprised of both a one-act and a two-act play, this powerful dramatic pairing centers on Sister Dianna Ortiz, who was kidnapped, raped, and tortured by U.S.-sponsored Guatemalan security forces in 1989.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9789042919495','This eighth volume in the Documenta Q series is concerned with the reconstruction of the Q text behind Luke 12:33-34 par. Matt 6:19-21. Storing up Treasures in Heaven takes up important wisdom themes such as the proper disposition of wealth, the importance of prioritizing ones thoughts and concerns, and the means to gaining eternal - not temporal - rewards. Parallels are found in literature as early and diverse as the Gospels of Mark, John, and Thomas, the Epistle of James, and Justins Apology. The International Q Projects presentation of the critical text of Q 12:33-34, together with the exhaustive history of research on which it is based, will considerably enhance research in the Sayings Gospel Q, the historical Jesus, and the ethical concerns of early Jesus movements.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9789811942709','This third volume of the book series shows R-calculus is a Gentzen-typed deduction system which is non-monotonic, and is a concrete belief revision operator which is proved to satisfy the AGM postulates and the DP postulates. In this book, R-calculus is taken as Tableau-based/sequent-based/multisequent-based to preserve the satisfiability of the Theory/sequent/multisequent to revise, or sequent-based, to preserve the satisfiability of the sequent to revise. The R-calculi for Post and three-valued logic is given. This book offers a rich blend of theory and practice. It is suitable for students, researchers and practitioners in the field of logic.')
 ;
 
 Insert into Summary
@@ -2887,19 +2953,13 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9442594687793','Volume 1 documents the methodology, developments, and findings of the two-year study. Among the significant results of this project are: (1) a new set of crossing signal visibility specifications based on widely accepted definitions of motorists requirements and a demonstration that currently available signals exceed these specifications when properly maintained; (2) the evaluation of seven alterations to standard crossing signal design and operation with respect to performance improvement and maintenance requirements--several of these modifications offer attractive cost/benefit attributes and are recommended for implementation; and (3) the development and evaluation of three tools of potential value to signal maintenance crews: an alignment scope to aid in aiming of the signal for maximum effectiveness, a signal focusing tool to aid in the critical positioning of the signal lamp with respect to the reflector, and a signal flux meter for measuring the light output of crossing and traffic signals--all of these tools were proven effective and would be useful to a conscientious maintenance team. The prototype signal hardware underwent rigorous laboratory, environmental, and field tests. The maintenance tools were evaluated under laboratory conditions. Vol. III is intended to ba a stand-alone handbook for potential users of the projects developments.')
+('6412036499604','To find more information about Rowman & Littlefield titles please visit us at www.rowmanlittlefield.com.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('5125168424523','Designed to help teach positive behavior skills to student of all abilities. Students learn such social skills as dealing with anger productively; setting goals; building self-confidence; dealing with prejudice; and more.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('5798169864378','1939 accompanied by tables and charts giving data for earlier years.')
+('9780071436182','Investors rocked by todays stock market woes are increasingly turning to real estate. Real Estate Investing from A to Z has become recognized in previous editions for explaining this potentially lucrative field in no-nonsense, easy-to-understand terms, while at the same time providing detailed information suitable for more seasoned investors. Substantially revised and updated chapters include discussions of REITs, risk reduction, the investment potential of single-family homes, group investments and joint ownership, and more.')
 ;
 
 Insert into Summary
@@ -2911,31 +2971,19 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('5539161872304','Paper prepared for a Conference on Students and Politics, sponsored by the Center for International Affairs, Harvard University, and the University of Puerto Rico, March 27-April 1, 1967.')
+('9783764398637','Anatolii Illarionovich Shirshov (1921–1981) was an outstanding Russian mat- maticianwhoseworksessentiallyin?uenced thetheoriesofassociative,Lie,Jordan and alternative rings. Many Shirshov’s students and students of his students had a successful research career in mathematics. AnatoliiShirshovwasbornonthe8thofAugustof1921inthevillageKolyvan near Novosibirsk. Before the II World War he started to study mathematics at Tomsk university but then went to the front to ?ght as a volunteer. In 1946 he continued his study at Voroshilovgrad (now Lugansk) Pedagogical Institute and at the same time taught mathematics at a secondary school. In 1950 Shirshov was accepted as a graduate student at the Moscow State University under the supervision of A. G. Kurosh. In 1953 he has successfully defended his Candidate of Science thesis (analog of a Ph. D. ) “Some problems in the theory of nonassociative rings and algebras” and joined the Department of Higher Algebra at the Moscow State University. In 1958 Shirshov was awarded the Doctor of Science degree for the thesis “On some classes of rings that are nearly associative”. In 1960 Shirshov moved to Novosibirsk (at the invitations of S. L. Sobolev and A. I. Malcev) to become one of the founders of the new mathematical institute of the Academy of Sciences (now Sobolev Institute of Mathematics) and to help the formation of the new Novosibirsk State University. From 1960 to 1973 he was a deputy director of the Institute and till his last days he led the research in the theory of algebras at the Institute.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781461249702','This Student Guide is exceptional, maybe even unique, among such guides in that its author, Fred Soon, was actually a student user of the textbook during one of the years we were writing and debugging the book. (He was one of the best students that year, by the way. ) Because of his background, Fred has taken, in the Guide, the point of view of an experienced student tutor helping you to learn calculus. \~ile we do not always think Freds jokes are as funny as he does, we appreciate his enthusiasm and his desire to enter into communication with his readers; since we nearly always agree with the mathe matical judgements he has made in explaining the material, we believe that this Guide can serve you as a valuable supplement to our text. To get maximum benefit from this Guide, you should begin by spending a few moments to acquaint yourself with its structure. Once you get started in the course, take advantage of the many opportunities which the text and Student Guide together provide for learning calculus in the only way that any mathe matical subject can truly be mastered - through attempting to solve problems on your own. As you read the text, try doing each example and exercise your self before reading the solution; do the same with the quiz problems provided by Fred.')
+('3649168884223','The last decade has been marked by a rapid growth in statistical mechanics, especially in connection with the physics and chemistry of the fluid state. Our understanding in these areas has been considerably advanced and enriched by the discovery of new techniques and the sharpening of old techniques, ranging all the way from computer simulations to mode-mode coupling theories. Statistical mechanics brings together under one roof a broad spectrum of mathematical methods. The aim of these volumes is to provide a didactic treatment of those topics that are most useful for the study of problems of current interest to theoretical chemists. The emphasis throughout is on the techniques themselves and not on reviewing the enormous literature in statistical mechanics. Each author was charged with the following task. Given N pages, (a) pose the problem, (b) present those aspects of the particular technique that cJearly illustrate its internal workings, (c) apply the technique to the solUlion of several illustrative examples, and (d) write the chapter so that it will enable the reader to approach key citations to the literature intelligently. These volumes are designed for graduate students and research workers in statistical mechanics. Nevertheless, they should be useful in other areas as weIl.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9788027248117','Musaicum Books presents to you this unique SF collection, designed and formatted to the highest digital standards and adjusted for readability on all devices. Contents: H. G. Wells: The Time Machine Ayn Rand: Anthem Mark Twain: A Connecticut Yankee in King Arthurs Court H. Beam Piper: Flight from Tomorrow Philip K. Dick: The Skull The Variable Man Fritz Leiber: The Big Time Andre Norton: Key Out of Time The Time Traders The Defiant Agents Lester Del Rey: Pursuit ...And It Comes Out Here August Derleth: A Traveler in Time Frederik Pohl: The Tunnel Under the World The Day of the Boomer Dukes')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('6474227330562','Studies include: International tax burdens; The economics of tax reduction; Taxes, can be cut.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('5779956617306','As the magazine of the Texas Exes, The Alcalde has united alumni and friends of The University of Texas at Austin for nearly 100 years. The Alcalde serves as an intellectual crossroads where UTs luminaries - artists, engineers, executives, musicians, attorneys, journalists, lawmakers, and professors among them - meet bimonthly to exchange ideas. Its pages also offer a place for Texas Exes to swap stories and share memories of Austin and their alma mater. The magazines unique name is Spanish for mayor or chief magistrate; the nickname of the governor who signed UT into existence was The Old Alcalde.')
+('7419747708715','A submerged round jet has been studied visually and quantitatively to determine the effects of time-dependent perturbations in the initial jet velocity on the structure and growth of the mixing layer region of the jet. The.')
 ;
 
 Insert into Summary
@@ -2947,109 +2995,79 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('3959761625206','Includes critical reviews.')
+('9780312180508','In 1916, a young man named Michael Collins returned to his native Ireland, after ten years in voluntary exile in London, to join one of the most impassioned and complicated revolutions in history. Playfully nicknamed The Big Fellow, Collins began to take a key role in the uprisings, eventually becoming a revered revolutionary leader. Acclaimed writer Frank OConnor, a man who himself fought in the Irish Civil War, traces Collins life from the day he returned to Dublin to the day a young Irish soldier shot him dead on a country road. The Big Fellow achieves a narrative both probing and poetic as it chronicles the life of a man so charismatic that he made people aware of his presence even when he was not visible, through that uncomfortable magnetism of the very air, a tingling of the nerves.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('8742245958366','Vols. for 1898-1968 include a directory of publishers.')
+('2820182207572','Budget report for 1929/31 deals also with the operations of the fiscal year ended June 30, 1928 and the estimates for the fiscal year ending June 30, 1929.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781786633682','A fascinating history of the political theory of hegemony Few terms are so widely used in the literature of international relations and political science, with so little agreement about their exact meaning, as hegemony. In the first full historical study of its fortunes as a concept, Perry Anderson traces its emergence in Ancient Greece and its rediscovery during the upheavals of 1848–1849 in Germany. He then follows its checkered career in revolutionary Russia, fascist Italy, Cold War America, Gaullist France, Thatcher’s Britain, post-colonial India, feudal Japan, Maoist China, eventually arriving at the world of Merkel and May, Bush and Obama. The result is a surprising and fascinating expedition into global intellectual history, ending with reflections on the contemporary political landscape.')
+('2655377408456','Abstract: A detailed and authoritative compilation of information on fresh fruits, vegetables, nuts, and herbs is presented for the American consumer as in industry-wide effort to inform the American public about the benefits of consuming more fresh fruits and vegetables. Background information, storage considerations, and food purchasing and preparation tips are given, covering all produce items. color pictures of fruits, vegetables, herbs, and nuts are included. General information is provided on consumer information, packaging, grading, storing, and waxing. Charts describe monthly availability of fresh fruits and vegetables, RDAs, and the nutrient content of all produce items. (wz).')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9783030525316','This book considers what is at stake for professionals whose work increasingly involves communicating in linguistically and culturally diverse contexts, and argues for the need to better understand the crucial role of languages and cultures in the modern workplace. With a focus on the experience of multilingual professionals, the authors position is that such professionals, exemplified by those who have relocated internationally, deploy their unique linguistic, cultural and intercultural repertoires in their work. This book examines the ways in which professionals interpret and manage their experience of working within and across languages and cultures in ways that create affordances for them, their professional practice, and those who depend on their knowledge and expertise. It will be relevant to undergraduate and postgraduate students undertaking studies in applied linguistics, sociolinguistics, intercultural education and professional communication in any discipline.')
+('8526552276284','Through its Decca 5000 series of the 1930s and 1940s, the American Decca recording company became the most influential record label in the burgeoning hillbilly music category, the forerunner of todays country and western music. This unique discography provides for the first time in print a systematic numerical listing and cross-referencing of all released recordings in the 5000 and 17000 Cajun series as well as records released under Deccas Champion 45000 and Montgomery Ward series, also devoted to hillbilly music. A total of 1514 discs are covered ranging from records released by such major hillbilly music stars as Jimmie Davis, the Sons of the Pioneers, and Ernest Tubb to those by less well-known solo artists and groups, including the Corn Cob Crushers and the Happy Hollow Hoodlums. Based on painstaking research in the original session books, ledgers, and label copy books as well as interviews with musicians and singers who participated in Decca recording sessions, this discography of one of the most remarkable record series of the 20th century makes a major contribution to the study of contemporary American music. The volume begins with an introduction which traces the early history of the Decca Record Company and its impact on hillbilly music of the 1930s and 1940s. Cary Ginell demonstrates that the Decca 5000 and other hillbilly series had a major role not only in documenting the history of hillbilly music but also in affecting its course by influencing future recording artists in the genre. Following a brief section which describes how to use the discography and the indexes, the discography itself is divided into four separate numerical listings: Decca 5000, Decca 17000, Decca/Champion 45000, and Montgomery Ward recordings. Each listing includes information about recording dates, master numbers, unissued titles, song titles and legends, songwriter credits, and release dates. Five indexes--artist, matrix and location, release dates, composer credits, and title--provide enhanced access to the main listings. Scholars and researchers of American country and folk music, both once included under the hillbilly banner--will find this discography an indispensable resource.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('1913934642909','No. 2, pt. 2 of November issue each year from v. 19 (1963)-47 (1970) and v. 55 (1972)- contain the Abstracts of papers presented at the Annual Meeting of the American Society for Cell Biology, 3d (1963)-10th (1970) and 12th (1972)-')
+('9781507685563','You will not find this education at you brokers how to section. Most likely you will not find this information anywhere on this book section on any other book store. I have paid thousands of dollars on exclusive groups and paid forums to collect the information presented in this book. As you can imagine these are the highly guarded secrets of the elite of the FOREX traders, no one gives their living away, unless you pay them a price worth their living. However I have decided to make this information for ridiculously low price, because I am fed up with the brokers and the big banks taking advantage of the regular retail trader. Let me ask you a question? When was the last time you make money with FOREX? Even further more how much money you are willing to lose, until you give up? How long you will continue to give your hard earned money to the broker? Just like you I started 5 years ago with high hopes of quitting my job and leaving the live I deserve with FOREX. My hopes and aspirations were quickly crashed and my dreams went to the dump. First I lost 1000, then 5000, 10k , how much longer I could continue like that, how much longer I could endure the ridicule the jokes of my family and the frown on the face of my wife. It was painful, sitting all day in front of the computer, until you cant see any longer and everything including the platform and your mind become blurry. I know the pain I have been there. This continued for year, until one morning I was ready to quit, I was going to give it a last try and throw that FOREX staff in the garbage, out the window. I stumbled on a rear tread, which since then has been banned, by the broker that was holding the forum. Luckily the tread continued under the brokers radar for while, and gathered a bunch of comments an support. Finally the tread from the trader X was discontinued. I was in dis pare, that was the only hope and light, I have seen for a long time. I was applying the advice from the trade and things were starting to work for me. Fortunately I was able to PM the trader and begged him to agree on a 20 min conversation on the phone. Trader X was not a guru, not your regular internet promoter mojo. He was quietly raking in thousands of dollars a month for years, he was not excited about the next trade, his heart beat was not raising before he pooled the trigger. See, he has been doing this trading staff for so long it has become a boring procedure, rather a morning an afternoon chore, something like putting the garbage out on garbage day. He explained that he learned from the MASTER, I did not proceed to ask him who was the MASTER, since I mainly was concerned with him teaching him every little bit of what he knew about trading. He didnt not agree to spend time teaching me on our first conversation, regardless of how much I offered to pay him. See, for him money was not a issue. Finally on my third approach he agreed to show me what the MASTER had thought him many years ago. What is comprised in the pages of this book will be worth pure gold to you.This book is down to the ground no no sense, real trading knowledge. It gives step by step instructions with real trade examples. This book is not your regular hog wash advice that you will find from your broker and the other magic bullets and seven step series that you see on this site. This book teaches you how to trade like the pros. Shows you how the big banks and foreign nationals and institution trade. The book opens your eyes to how to piggy back on the big institutional traders and win. Ninety Five percent of the people that trade the Forex market lose money and give up. The market is continually replaced by fresh blood like yourself. Dont become part of the statistics, read this book and get a map to success in FOREX. You can make a success in FOREX if you know what you are doing. Yes you can make a living with FOREX and quit your job. You can achieve your dreams. Buy this book and find out How?')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('7006837646132','The long tradition of architecture in Virginia begins with the earliest structures at the Jamestown settlement in 1607, and continues today with some of the most advanced buildings yet completed anywhere. In its legendary landmarks -- Mount Vernon, Monticello, the Virginia Capitol building in Richmond, the James River plantation mansions, the Reynolds Metals headquarters building in Richmond, Washington National Airport, and Dulles International Airport -- as well as in homes, churches, stores, and office buildings across the state, Virginias architecture is a mirror of the many expressions of Americas built environments. This book invites the readers on a journey through the eye and mind of the architect, from the very drawings that give shape and form to the idea, through the tracks and traces found in long lost letters, office records, and other primary sources. You will never see the buildings around you, anywhere, in the same way again. -- From publishers description.')
+('9781633551701','O. Henry is the pen name of American writer William Sydney Porter (1862-1910). Porters 400 short stories are known for their wit, wordplay, characterization and the clever use of twist endings. He travelled to Austin in 1884, where he took a number of different jobs over the next several years, first as pharmacist then as a draftsman, bank teller and journalist. He also began writing as a sideline to employment. Porters most prolific writing period started in 1902, when he moved to New York City to be near his publishers. He wrote 381 short stories while living there. He wrote a story a week for over a year for the New York World Sunday Magazine. His wit, characterization and plot twists were adored by his readers, but often panned by the critics. Yet, he went on to gain international recognition and is credited with defining the short story as a literary art form. His works include: Cabbages and Kings (1904), The Four Million (1906), Heart of the West (1907), The Trimmed Lamp and Other Stories of the Four Million (1907), The Voice of the City: Further Stories of the Four Million (1908), The Gentle Grafter (1908) and Roads of Destiny (1909).')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781421419015','An interdisciplinary approach to the Mediterranean’s rich, multicultural history. Located at the intersection of Asia, Africa, and Europe, the Mediterranean has connected societies for millennia, creating a shared space of intense economic, cultural, and political interaction. Greek temples in Sicily, Roman ruins in North Africa, and Ottoman fortifications in Greece serve as reminders that the Mediterranean has no fixed national boundaries or stable ethnic and religious identities. In The Mediterranean World, Monique O’Connell and Eric R Dursteler examine the history of this contested region from the medieval to the early modern era, beginning with the fall of Rome around 500 CE and closing with Napoleon’s attempted conquest of Egypt in 1798. Arguing convincingly that the Mediterranean should be studied as a singular unit, the authors explore the centuries when no lone power dominated the Mediterranean Sea and invaders brought their own unique languages and cultures to the region. Structured around four interlocking themes—mobility, state development, commerce, and frontiers—this beautifully illustrated book brings new dimensions to the concepts of Mediterranean nationality and identity.')
+('1787035740389','Vols. include an acquisitions supplement listing the Museums acquisitions for the preceding year.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('8832616673365','Includes the Minnesota state and the United States constitution, historical and current events, biographies of legislators, directory for federal, state, regional, and local government officials, and election statistics and voter turnout maps.')
+('9781425935610','Discover an Abundant Life in your Present Condition--- Are you tired of living in your past? Are you sick and tired of your past coming up every time you try to go up? Are you just tired of your past messing with your blessings? It may seem like your life is as good as it will get, until you discover that there is a better way. Many people still live in a past experience that hinders them from living in an abundant future. Abundant living comes in different ways depending upon what we feel true abundance means. Material abundance is nice to have, but spiritual abundance is what we must have. One of todays buzz-phrases is if it aint broke, break it. There are mind-sets that havent yet been broken that need to be broken. One in particular, God is punishing me and thats why Im getting what Im getting. This type of mentality is not scriptural and Im going to deal with it in this book. Your past may be uncomfortable, but its not unforgivable. The scriptures doesnt tell us in all your getting, get things, but it does tell us, in all your getting, get an understanding. In knowing this, God created us to be abundant in Him, but we deviated from being complete in Him. Therefore; we must seek to understand and we will discover, How to get pass our past.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781481451789','Includes an excerpt of the Hardy Boys clue book #3, Water-ski wipeout.')
+('6644809142395','V. 1. 16 Mar. 1751-16 Dec. 1779 -- v. 2. 20 Mar. 1780-23 Feb. 1781 -- v. 3. 3 Mar.-31 Dec. 1781 -- v. 4. 1 Jan.-31 July 1782 -- v. 5. 1 Aug.-31 Dec. 1782 -- v. 6. 1 Jan.-30 Apr. 1783 -- v. 7. 3 May 1783-20 Feb. 1784 -- v. 8. 10 Mar. 1784-28 Mar. 1786 -- v. 9. 9 Apr. 1786-24 May 1787, with suppl. 1781-1784 -- v. 10. 27 May 1787-3 Mar. 1788 -- v. 11. 7 Mar. 1788-1 Mar. 1789 -- v. 12. 2 Mar. 1789-20 Jan. 1790, with suppl., 24 Oct. 1775-24 Jan. 1789 -- v. 13. 20 Jan. 1790-31 Mar. 1791 -- v. 14. 6 Apr. 1791-16 Mar. 1793 -- v. 15. 24 Mar. 1793-20 Apr. 1795 -- v. 16. 27 Apr. 1795-27 Mar. 1797 -- v. 17. 31 Mar. 1797-3 Mar. 1801, with suppl., 22 Jan. 1778-9 Aug. 1795.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('8000520970880','DigiCat Publishing presents to you this special edition of The Mystery of M. Felix by B. L. Farjeon. DigiCat Publishing considers every written word to be a legacy of humankind. Every DigiCat book has been carefully reproduced for republishing in a new modern format. The books are available in print, as well as ebooks. DigiCat hopes you will treat this work with the acknowledgment and passion it deserves as a classic of world literature.')
+('3514573778460','Includes list of members, v. 1, 3-')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781922602350','Friedrich List is the father of economic nationalism and the historical school of economics. Responding to Adam Smiths free market apologetics, in The National System of Political Economy List provides a theoretical basis for state intervention in the economy. But he does much more than this-as part of a wider trend in European thought, List affirms the primacy of history in developing our worldview. The National System of Political Economy does not begin with theory, but with history. In so doing, List shows that Englands rise as a commercial power was not facilitated by free markets but by protectionism, drawing his theory from historical fact rather than the other way around. Lists avowed liberalism is overshadowed by his illiberal priors, and so the economic history of the 20th century was one of Listian principles being put to use by illiberal regimes such as Russia, China, and Germany. His thought also governed the economic policy of another developmental state for over a century-America. Smith and Marx formed the basis of 20th century economic theory. But Friedrich List stands as a colossus astride the 20th century, forming the basis of economic practice for all major powers until mid-century. In his introduction to this edition, Francis OBeirne shows that the great economic clash has never been between capitalism and socialism, but between capitalism and nationalism, with Marxism a revolutionary force, but an economic irrelevancy.')
+('1548844246621','Vols. 1-3, 5-8 contain the political and literary portions; v. 4 the historical register department, of the numbers published from Oct. 1837 to Dec. 1840.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9186434433209','Also time tables of railroads in Central America. Air line schedules.')
+('9781788771054','This eBook features the unabridged text of ‘The Wonderful Wizard of Oz by L. Frank Baum - Delphi Classics (Illustrated)’ from the bestselling edition of ‘The Complete Works of L. Frank Baum’. Having established their name as the leading publisher of classic literature and art, Delphi Classics produce publications that are individually crafted with superior formatting, while introducing many rare texts for the first time in digital print. The Delphi Classics edition of Baum includes original annotations and illustrations relating to the life and works of the author, as well as individual tables of contents, allowing you to navigate eBooks quickly and easily. eBook features: * The complete unabridged text of ‘The Wonderful Wizard of Oz by L. Frank Baum - Delphi Classics (Illustrated)’ * Beautifully illustrated with images related to Baum’s works * Individual contents table, allowing easy navigation around the eBook * Excellent formatting of the textPlease visit www.delphiclassics.com to learn more about our wide range of titles')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9781524601485','The Place is a story of life on a small farm in Maine in the 1940s and 1950s. The Place is a general farm that produced nearly all the food and income for a farm family. It also produced a sense of shared purpose and accomplishment, which kept a family together and taught children many valuable life lessons.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('3869691509816','List of publications, v. 1-132, in v. 132.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9780133445855','A brand new collection of management and leadership skills for improving business performance 4 authoritative books deliver world-class skills for leading change and improving performance throughout your team and organization! You’re facing greater challenges than ever before – both outside your organization, and inside it. To win, you need today’s best skills for improving performance and driving change. Now, this 4-book collection presents hundreds of those skills simply, clearly, and quickly, to support action. In The Truth About Managing People, Third Edition bestselling author Stephen Robbins shares 61 proven principles and solutions for make-or-break, day-to-day management problems. Overcome the true obstacles to teamwork… avoid both over- and under-communication… improve hiring and employee evaluations… manage a culturally/generationally diverse or virtual workforces… combine stronger ethics and greater effectiveness… and much more. Next, in The Truth About Getting the Best From People, Second Edition, Martha Finney shares 60+ proven principles for gaining unprecedented employee engagement. This new edition features 15 new truths for managing virtual teams, overcoming your unconscious biases, managing multiple generations, identifying/cultivating individual high performers, and more. Next, persuade others in any environment with The Truth About Confident Presenting, by James O’Rourke. O’Rourke reveals 51 proven, concise, easy-to-use presenting techniques that work: all you need to know to prepare effectively (not obsessively), manage anxiety, connect with any audience, and succeed. Discover what makes people listen, and what instantly turns them off… how to muster evidence that’ll convince your specific audience… how to listen, establish a great first impression, and make nonverbal cues work for you… use PowerPoint and microphones well… handle hostile questions confidently; and much more. Finally, turn to William S. Kane’s The Truth About Thriving in Change for 49 proven ways to do what everyone wants, and few can deliver: lead successful change. Plan, drive, and sustain positive change that matters… transform organizations without destroying morale… objectively assess whether yours is really the best way… develop the change management skills you need most… know when to persuade, educate, or “use force”… create the right cultural framework you need to keep moving forward. These four eBooks aren’t “just someone’s opinion”: they offer definitive, evidence-based principles for improving performance throughout your entire leadership career! From world-renowned workplace effectiveness experts Stephen P. Robbins, Martha I. Finney, James O’Rourke, and William S. Kane')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('7226345680203','In spite of his tragic death in November 1963, John F. Kennedy remains one of the most popular American presidents. Aside from the great set-piece speeches that helped to define him as a world leader, he possessed a richly warm sense of humor and a ready wit honed both at home and on politics. This collection presents hundreds of examples of that very wit, from Kennedys opinions on the campaign trail to his view of the Cuban Missile Crisis. Christina Konings previous books includeA Treasury for MothersandFabulous Time.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('6161740271063','Thomas Crowther was born in 1823 in Easthope, Shropshire, England and married widow Jane Jewkes. They immigrated to Utah in 1854, settled in Beaver, and later moved to Fountain Green. He died in 1898. Includes Anderson, Mortensen, and related families.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('2827833055766','List of members.')
+('8901582514508','A narrative topical summary of decisions of the higher courts in all states of the United States of America in cases involving school law, as reported during the preceding calendar year.')
 ;
 
 Insert into Summary
@@ -3061,13 +3079,175 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('1348331681222','Comprises all laws of a general and permenent nature under arrangement of the official Code of laws of the United States, with annotations from Federal and State courts.')
+('9780465076192','Spanning four decades and more than a thousand films, the creative output of Darryl D. Zanuck was astonishing and unparalleled. With The Jazz Singer he supervised the innovation of film sound. With The Public Enemy and Little Caesar he reinvented the gangster film. With 42nd Street he reinvigorated the musical. He set the standard for film biography with pictures such as Young Mr. Lincoln and The Story of Alexander Graham Bell . He innovated CinemaScope. And he molded the star images of James Cagney, Shirley Temple, Tyrone Power, Betty Grable, Marilyn Monroe, and Rin Tin Tin.In this major new biography, George F. Custen illuminates Zanucks evolution into one of the most influential producers in American film. He explains what set him apart from rivals Irving Thalberg and David O. Selznick, how he developed the gritty realism that came to redefine motion pictures, and how he brilliantly predicted and capitalized on changing public tastes.Zanuck was a man of enormous energy and eccentricity, commanding his studio with a sawed-off polo mallet. Dozens of his memorable films—including I Am a Fugitive from a Chain Gang , The Grapes of Wrath, Gentlemans Agreement, All About Eve, The Day the Earth Stood Still , and The Robe —have come to represent the era in which they were made. Hard-boiled or nostalgic, historical or pure Hollywood, Zanucks films and Zanuck himself have become legends of the cinema. But what exactly was this producers contribution to the films he made? How did he rise from being a writer of silent serials to become head of production at Warner Brothers by his mid-twenties, and then to form his own studio, Twentieth Century-Fox at age thirty-three?Twentieth Centurys Fox tells the whole story—from Zanucks boyhood to his tumultuous years with the feuding Warners, his battles with the censors and with his own actors, and the legendary acting-out of scenes during story conferences in his famous green office. Along the way, Custen treats us to inside stories about actors such as Edward G. Robinson, Gregory Peck, and Marilyn Monroe. In never-before-published story conference notes, telegrams, and surprisingly candid anecdotes, he reveals how—more than any producer before or since—this diminutive, enigmatic fellow from Wahoo, Nebraska, changed the way we look at film.Custen highlights the studio as the context of production. Zanucks ability to shape the producers role and the organizational style during the golden years of the studio system—with its own peculiar methods, clearly delineated rules, and pecking order—was the crucible out of which he forged a unique vision of American film and American culture.')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('6356624217003','Intended as a reference for the academically-oriented geologist as well as the practising economic geologist, this book is concerned with the study of skarn deposits having anomalously high tin or tungsten contents, or both. Unlike many other books on economic geology, both economic W-Sn skarns and non-economic examples are covered, in order to enable the academically-oriented reader to grasp the full range of such deposits, and also to aid the economic geologist in distinguishing between W-Sn skarns having economic potential and those which do not. W-Sn skarns are notoriously complex, containing a wide range of textures, grain sizes, mineral assemblages, bulk compositions and structures. The lack of a sufficiently detailed data base, coupled with some unsupportable genetic models, has led to many misunderstandings and has often resulted in needless expenditure and effort on fruitless mineral exploration. Thus, the first aim of this book is simply to provide an adequate data base with sufficient references to enable an interested worker to define a skarn deposit and know where to find additional information on similar examples.')
+('9780070954922','Lovewell is a brief yet clear outline of economics that explains how economics relates to students lives and to the main issues of the day. Lovewell is written for the one-semester principles course, whereas our other offerings are designed for the two-semester market. Bright, Right, Tight are the three words a reviewer used to describe the Lovewell text.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('6281241626728','Reports, Documents, and Journals of the U.S. Senate and House of Representatives.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('6746825394704','Annotation The growing need for better urban transport systems and a healthier environment has led to ever increasing levels of research. This is reflected in Urban Transport X which features over 85 papers first presented at the latest conference in this successful and well-established series. The contributions focus on areas such as: Integrated Transport and Land Use: Energy Systems: Transport Control and Safety: Environmental Impact: and Traffic Pricing.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('5712225515025','Gedneys work on Yay, published in this volume, consists of a lengthy glossary and a collection of folktales and traditional songs.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('1592025534234','This superb introduction to device drivers describes what device drivers do, how they interface with DOS, and provides examples and techniques for building a collection of device drivers that can be customized for individual use.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('7715846698488','Includes annual reports of the state officers, departments, bureaus, boards and commissions.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('8463665620946','For more than 30 years, Yoga Journal has been helping readers achieve the balance and well-being they seek in their everyday lives. With every issue,Yoga Journal strives to inform and empower readers to make lifestyle choices that are healthy for their bodies and minds. We are dedicated to providing in-depth, thoughtful editorial on topics such as yoga, food, nutrition, fitness, wellness, travel, and fashion and beauty.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9791220274029','Το βιβλίο αυτό απευθύνεται κυρίως στον επαγγελματία μάγειρα, βοηθό μάγειρα ακόμα και στον σεφ, χωρίς να αποκλείεται και η χρησιμότητά του και σε μια πεπειραμένη νοικοκυρά που μαγειρεύει για την οικογένειά της. Στις σελίδες του θα βρείτε πιάτα που απαιτούν τρεις και τέσσερις διαφορετικές μαγειρικές τεχνικές. Οι τεχνικές αυτές απαιτούν μερικές φορές εξειδικευμένα εργαλεία της κουζίνας. Στο σύνολό του αποτελεί μια εργασία με τεχνικές και γνώση, κανόνα για το μέλλον που δείχνει πώς βλέπει ο συγγραφέας την ελληνική κουζίνα, βασισμένη μόνο σε ελληνικά προϊόντα, με σεβασμό στα ντόπια υλικά, αλλά δοσμένη με το δικό του προσωπικό του τρόπο και άποψη.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('7204509298220','An art work collection of 23 illustrators, the standard-bearers who play an active part in Europe and witness the modern age with their frank sensitivities. Over 160 illustrations which mainly sum up the scribbles, ideas for production, messages, self-portraits and profiles are included.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('6126663207309','Abstracts of papers contained in volumes 1-3 inserted at beginning of volume 3.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('7935680262722','Vols. for 1917/18- contain reports of the following departments: Dept. of Finance, Dept. of Agriculture, Dept. of Labor, Dept. of Mines and Minerals, Dept. of Public Works and Buildings, Dept. of Public Welfare, Dept. of Public Health, Dept. of Trade and Commerce, Dept. of Registration and Education, Military nd Naval Dept.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('4518395195185','This edition promises to redefine the canon of the study of appellate courts, continuing the comprehensiveness and increasing the depth of the First Edition. This edition of Appellate Courts provides teachers with choices that are suitable for a two- or three-unit course or a seminar. The book permits emphasis on either appellate jurisdiction and practice or on the structural and policy aspects of appellate court organization and administration. All the chapters have been revamped and updated, with coverage of appellate jurisdiction substantially expanded. Using both classic and new cases, the book examines theoretical and practical issues arising from the appellate courts dual roles to correct trial court error and to generate common law. Its coverage of the dramatic rise in the volume of appeals and the resultant institutional reforms far surpasses that of any other law school course book. Fresh materials present new perspectives on appellate structures, personnel, and procedures--preparing students to practice in the contemporary state and federal appellate courts. This provocative book considers such issues as the delegation of responsibility to law clerks and staff attorneys, the threats to judicial collegiality, the selection of state and federal judges--including the regulation of judicial candidates speech, and the role and ethics of the appellate lawyer. It devotes a separate chapter to the U.S. Supreme Courts discretionary jurisdiction while another chapter draws upon Professor Meadors unique understanding of the English and German appellate systems to contrast those systems with our own. In short, this book is unique in not only exploring appellate jurisdiction and procedure but also in taking the measure of the appellate courts in all their dimensions as important institutions in the American legal order. The Teachers Manual also has been updated and greatly expanded to assist both experienced and less-experienced teachers. It includes discussion of the principal cases and secondary materials as well as expert suggestions concerning answers to questions posed in the Notes. It also provides a wealth of supplemental material to bolster any professors expertise and make it easy for an instructor new to the subject to teach from the book effectively and confidently.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('5383378293835','An illustrated quarterly.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9788120311725','This is a revised and enlarged version of the authors book which received wide acclamations in its earlier three editions. It provides a lucid and in-depth introduction to the programming language Fortran 77 which is widely used by scientists and engineers.The fourth edition is completely revised chapterwise and also minor corrections incorporated. A new standard for Fortran called Fortran 90 was introduced in early 90s and compilers for this version of Fortran were sold in early 1995 by computer vendors. All Fortran 77 programs will run without change with Fortran 90 compilers; however some aspects of Fortran 77 have been declared obsolete and will not run on future Fortran compilers_these are explained in this revised edition. An appendix consolidates these features. Fortran 90 is introduced in a new chapter which summarises all its features.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9781111785437','The Larson Calculus program has a long history of innovation in the calculus market. It has been widely praised by a generation of students and professors for its solid and effective pedagogy that addresses the needs of a broad range of teaching and learning styles and environments. Each title is just one component in a comprehensive calculus course program that carefully integrates and coordinates print, media, and technology products for successful teaching and learning. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('3974516353475','Resource added for the Paralegal program 101101.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9783527338498','Derived from the online reference Corrosion Handbook, this handbook brings together all the relevant information on corrosion protection and prevention for nickel-based materials, all in a convenient and easy-to-use format. As such, it provides scientists and engineers manufacturing and utilizing these materials with comprehensive information, including tabulated data and references, on their corrosion behavior when in contact with acids and hydroxides.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('6424053951740','An international journal providing for the rapid publication of short reports on microbiological research.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9781514761267','Can you imagine living the dreams of your life, never worrying about money again? What if you can master the game Forex trading, and trade from any place in the world where internet is available? What if all your dreams of leaving the dreaded... J.O.B. become reality...being able to give your family and loved ones the lifestyle they deserve. See, Forex is not for everyone, but is it a legitimate way out of the 9 to 5 rat race. See, as I am writing this introduction for you I am sitting under the bimini of my 51 foot sail boat yacht, in the heart of the Caribbean. Water is crystal turquoise blue, you can see all the way to the bottom.. The colors are incredible. It gives you such of sense of freedom and ability to enjoy life to the fullest. Man paradise, no alarm clocks, no traffic, I can hear the music from the small marina bar. I am not even at the marina, the boat is anchored at a mooring ball. Ha... tell me about the life, that you can have...yeah you can have it too. You need to be sick enough of your same all, same all in order to take action. Do you want trade like the pros, then you have to learn from the pros. You will not find the information in this book anywhere on the Amazon traders section. In a matter of fact no one is teaching what I am about to show you in this book. You would ask, what is so special about it. See, the people that are making a living from Forex are not about to reveal their secrets. The ones that are making money from your trades A . K. A. your friendly broker dont care . In a matter of fact they will gladly offer their friendly education, to teach you how you can too loose a large amount of money like your fellow retail traders that are using the same broker. I am revealing the highly guarded secrets of the big guns. It is possible that I get some ugly letters from traders, and even some of my friends, after this book is released. But heck yeah, I am sick and tired of seeing the daily casualty of honest and hard working people, like yourself loose their hard earned money to the broker. Enough is enough, I have made my stake is time to give back and help others to go the same road. So enough of my blurb... I have laid my hard learned secrets in that book and the price is ridiculously low. You would normally pay 2-3 times more in your local book store, for a book full of BS explaining you, the current economic climate, and how we are coming out of the recession hog wash. Year it says learn how to trade or something of that effect, but doesnt have even one tenth of the hard core to the bone content I am offering you. See I know you can live and have anything you want in this life. You can even create your own reality. Yeah I know creating you reality is cool, but it requires a dirty word called work. Do you you want to create your new reality, even step in to it. You would if you knew what is on the other side. Well I decided to create you reality for you. I have done all the dirty work and have set everything up for you for success in this book. So, punch a few buttons and take a click of faith and by this book. I promise you, you will not be disappointed. See you on the other side.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('8605900225030','Cardiac outputs of seminude resting male subjects were estimated from measurements of transthoracic impedance pulses as recorded by the tetropolar impedance plethysmographic technic. Ambient temperature was increased from 28 to 43C and maintained at this level for 1.5-2.0 hours. Increases in cardiac output were small, variable (ranging from 0.3 to 1.8 liters/min.), and were caused by small increases both in heart rate and stroke volume. The greater cardiac output was temporally related more closely to the augmented stroke volume which was, in turn, closely related to cutaneous vadodilatation as demonstrated by the cutaneous opacity pulses, the implication being that the augmented stroke volume probably results from the greater cutaneous venous return. The ratio of increase in cardiac output to sweating was about the same as previously shown; changes in oral temperature were small in all subjects, averaging about 0.5F. Validation of the electrical impedance technic as a measure of right ventricular stroke output was accomplished in dogs through comparisons of pulmonary arterial blood flow (electromagnetic flowmeter) and dye dilution (cardiogreen) cardiac output with that obtained by the impedance method. The correlations between the three methods were 0.792 and 0.916, respectively. (Author).')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('8927192951736','Appeal regarding installation of two velux windows.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('8160634951811','Contains the proceedings of the 12th- annual meeting of the Japan Neurosurgical Society')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('4146912208873','Covers the period from 1790 to 1905 in The Times of London.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('2554739170737','Contains the full texts of all Tax Court decisions entered from Oct. 24, 1942 to date, with case table and topical index.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('7584854303064','Chiefly reprints from various scientific and technical periodicals.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('6920508458692','In simple, accessible language and clear, detailed steps for financial success, The 401(K) Millionaire thoroughly explains the ins and outs of how the 401(k) plan works--and then fully describes a foolproof formula for maximizing the its potential.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('5779956617306','As the magazine of the Texas Exes, The Alcalde has united alumni and friends of The University of Texas at Austin for nearly 100 years. The Alcalde serves as an intellectual crossroads where UTs luminaries - artists, engineers, executives, musicians, attorneys, journalists, lawmakers, and professors among them - meet bimonthly to exchange ideas. Its pages also offer a place for Texas Exes to swap stories and share memories of Austin and their alma mater. The magazines unique name is Spanish for mayor or chief magistrate; the nickname of the governor who signed UT into existence was The Old Alcalde.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('9780170364348','Winner  2017 Australian Publishers Association EPAA Student Resource, TAFE & Vocational Education The judges said: Comprehensive coverage of content of core and most popular units with engaging visuals and content that reflects current hospitality design. Relevant and new employability skills and critical thinking connect students to real-life challenges. Prepare students to master their skills and knowledge needed to succeed within the hospitality industry with the new edition of The Road to Hospitality: Skills for the New Professional, 4e. Thoroughly revised, The Road to Hospitality: Skills for the New Professional, 4e has been repositioned to cover core and elective units of competency at both Certificate II and III levels. Covering best practices, new techniques and legislations, this new edition uses real world industry examples and follows a clear and logical structure, which builds and strengthens the knowledge and skills of each student. Employability skills are emphasised holistically throughout the full-colour text. The Road to Hospitality: Skills for the New Professional, 4e supports learning and delivery in:  SIT20316 Certificate II in Hospitality  SIT30616 Certificate III in Hospitality Hospitality: Infinite possibilities. Endless opportunities.')
 ;
 
 Insert into Summary
@@ -3085,199 +3265,19 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('5088410528789','Contents: New material (consists of updates for Wisconsin administrative code) -- Instructions for inserting New material -- Notice section.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9780333983713','Arguing that property and power are central to understanding the position of women in farming and using comparative examples, this book considers the transfer of land between men, the changed role of women in the dairy industry in the nineteenth century, women in farming organisations, women in agricultural education programmes, and the role of the state in shaping the lives of farm women. The common themes of power and property underpin all the chapters.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9786180302950','«Τη μια μέρα υπάρχει ζωή… Κι έπειτα, ξαφνικά, υπάρχει θάνατος». Έτσι ξεκινά αυτός ο πολύ προσωπικός και συγκινητικός στοχασμός του Paul Auster με θέμα την πατρότητα. Στο πρώτο μέρος του βιβλίου με τίτλο «Πορτρέτο ενός αόρατου ανθρώπου», ο συγγραφέας αποκαλύπτει τις αναμνήσεις και τα συναισθήματά του μετά τον θάνατο του πατέρα του – ενός απόμακρου, ελάχιστα εκδηλωτικού, σχεδόν ψυχρού ανθρώπου. Καθώς φροντίζει για τις υποθέσεις του πατέρα του και σκαλίζει τα υπάρχοντά του, ο Auster ανακαλύπτει ένα οικογενειακό μυστικό: έναν φόνο που χρονολογείται εξήντα χρόνια πριν, ο οποίος θα φωτίσει τον απροσδιόριστο χαρακτήρα του πατέρα του. Στο δεύτερο μέρος, με τίτλο το «Βιβλίο της μνήμης», η οπτική γωνία μετατοπίζεται από την ταυτότητα του Auster ως γιου στον ρόλο του ως πατέρα. Μέσα από ένα μωσαϊκό εικόνων, συμπτώσεων και συνειρμών ο αφηγητής, ο Α., συλλογίζεται τον χωρισμό του από τον δικό του γιο, τον ετοιμοθάνατο παππού του, αλλά και τη μοναχική φύση της αφήγησης και της συγγραφής. Το τρίτο μέρος είναι μια συνέντευξη του ίδιου του συγγραφέα στην πανεπιστημιακό I. B. Siegumfeldt με θέμα την Επινόηση της μοναξιάς, περίπου τριάντα χρόνια μετά την έκδοση του βιβλίου, η οποία δημοσιεύεται για πρώτη φορά στην παρούσα έκδοση. «Η Επινόηση της μοναξιάς είναι ένα βιβλίο για έναν άνδρα μόνο σ’ ένα δωμάτιο, και συγκεκριμένα για εμένα. Αυτό που συμβαίνει όταν είσαι μόνος είναι ότι καταλαβαίνεις πως εντός σου κατοικούν κι άλλοι. Εντός σου κατοικούν κι άλλοι και εσύ υπάρχεις ως άτομο μόνο σε συσχετισμό με τους άλλους». Paul Auster')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9789601655932','ΜΗΠΩΣ ΔΙΝΕΤΕ ΜΑΧΗ ΚΑΘΕ ΒΡΑΔΥ ΓΙΑ ΝΑ ΚΟΙΜΙΣΕΤΕ ΤΟ ΠΑΙΔΙ ΣΑΣ; ΜΗΠΩΣ ΤΟ ΜΩΡΟ ΣΑΣ ΞΥΠΝΑ ΠΟΛΛΕΣ ΦΟΡΕΣ ΚΑΤΑ ΤΗ ΔΙΑΡΚΕΙΑ ΤΗΣ ΝΥΧΤΑΣ; ΑΚΟΛΟΥΘΩΝΤΑΣ ΤΗ MΕΘΟΔΟ ΠΟΥ ΠΡΟΤΕΙΝΕΤΑΙ ΣΕ ΑΥΤΟ ΤΟ ΒΙΒΛΙΟ, ΜΕΣΑ ΣΕ ΛΙΓΟΤΕΡΟ ΑΠΟ ΜΙΑ ΕΒΔΟΜΑΔΑ ΘΑ ΕΧΕΤΕ ΚΑΤΑΦΕΡΕΙ ΝΑ ΒΑΖΕΤΕ ΤΑ ΠΑΙΔΙΑ ΣΑΣ ΝΑ ΚΟΙΜΟΥΝΤΑΙ ΣΩΣΤΑ. Το ένα τρίτο των παιδιών παρουσιάζουν προβλήµατα ύπνου. Οι συνέπειες είναι εµφανείς τόσο στα παιδιά που γίνονται ευερέθιστα, ανασφαλή και, ως εκ τούτου, καταλήγουν να έχουν προβλήµατα στο σχολείο και στη δηµιουργία σχέσεων µε τους άλλους–, όσο και στους γονείς, οι οποίοι βλέπουν πως η εξάντληση και τα νεύρα βλάπτουν τη συζυγική τους ζωή. Ο δρ Εδουάρδ Εστιβίλ ερευνά όλες τις ιδιαιτερότητες του ύπνου για περισσότερα από σαράντα χρόνια. Το ερευνητικό έργο και η κλινική πείρα του τον έχουν αναδείξει παγκοσµίως σε σηµείο αναφοράς στο πεδίο των διαταραχών του ύπνου. Εφαρµόζοντας τις γνώσεις του ως νευροφυσιολόγου και παιδιάτρου έχει δηµιουργήσει τη Μέθοδο Εστιβίλ, η οποία αποσκοπεί στην αντιµετώπιση της παιδικής αϋπνίας και έχει αποδειχτεί αποτελεσµατική στο ενενήντα έξι τοις εκατό των περιπτώσεων όπου εφαρµόστηκε. Στη νέα, εµπλουτισµένη έκδοση του «Κοιµήσου, παιδί µου», ο Εστιβίλ λαµβάνει υπόψη του όλες τις επιστηµονικές γνώσεις που αποκτήθηκαν τα τελευταία χρόνια και παρουσιάζει την πιο έγκυρη και πιο αποτελεσµατική εκδοχή της µεθόδου του. Το «Κοιµήσου, παιδί µου» έχει γίνει µπεστ σέλερ και είναι απολύτως απαραίτητο για τους γονείς εκείνους που πρέπει να καταπολεµήσουν την παιδική αϋπνία». Tu Primer A ~ no «Η µέθοδος που µας προτείνει το βιβλίο αυτό, τόσο απλή όσο και αποτελεσµατική, είναι θησαυρός για τους άυπνους γονείς. Εξηγεί πώς να µάθετε στο παιδί σας να κοιµάται καλά από την αρχή και αποκαλύπτει πώς να τελειώνετε µε το πρόβληµα της παιδικής αϋπνίας». La Vanguardia')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('4670047440356','בספר מתוארים חייו ופועלו של מרדכי ארדון, וניתוחים של יצירותיו.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9735532382518','本手册收入汉语习语22300余条,英语习语81200余条,例证8800条。此外注释有326条.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9781315360058','A Thorough Guide to Elementary Matrix Algebra and Implementation in R Basics of Matrix Algebra for Statistics with R provides a guide to elementary matrix algebra sufficient for undertaking specialized courses, such as multivariate data analysis and linear models. It also covers advanced topics, such as generalized inverses of singular and rectangular matrices and manipulation of partitioned matrices, for those who want to delve deeper into the subject. The book introduces the definition of a matrix and the basic rules of addition, subtraction, multiplication, and inversion. Later topics include determinants, calculation of eigenvectors and eigenvalues, and differentiation of linear and quadratic forms with respect to vectors. The text explores how these concepts arise in statistical techniques, including principal component analysis, canonical correlation analysis, and linear modeling. In addition to the algebraic manipulation of matrices, the book presents numerical examples that illustrate how to perform calculations by hand and using R. Many theoretical and numerical exercises of varying levels of difficulty aid readers in assessing their knowledge of the material. Outline solutions at the back of the book enable readers to verify the techniques required and obtain numerical answers. Avoiding vector spaces and other advanced mathematics, this book shows how to manipulate matrices and perform numerical calculations in R. It prepares readers for higher-level and specialized studies in statistics.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('5942741291408','In its 114th year, Billboard remains the worlds premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('4507401592253','Abstracts dealing with combination of ceramic materials with metals, selected from Ceramic abstracts.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9781788397339','Learn, by example, the fundamentals of data analysis as well as several intermediate to advanced methods and techniques ranging from classification and regression to Bayesian methods and MCMC, which can be put to immediate use. Key Features Analyze your data using R – the most powerful statistical programming language Learn how to implement applied statistics using practical use-cases Use popular R packages to work with unstructured and structured data Book Description Frequently the tool of choice for academics, R has spread deep into the private sector and can be found in the production pipelines at some of the most advanced and successful enterprises. The power and domain-specificity of R allows the user to express complex analytics easily, quickly, and succinctly. Starting with the basics of R and statistical reasoning, this book dives into advanced predictive analytics, showing how to apply those techniques to real-world data though with real-world examples. Packed with engaging problems and exercises, this book begins with a review of R and its syntax with packages like Rcpp, ggplot2, and dplyr. From there, get to grips with the fundamentals of applied statistics and build on this knowledge to perform sophisticated and powerful analytics. Solve the difficulties relating to performing data analysis in practice and find solutions to working with messy data, large data, communicating results, and facilitating reproducibility. This book is engineered to be an invaluable resource through many stages of anyone’s career as a data analyst. What you will learn Gain a thorough understanding of statistical reasoning and sampling theory Employ hypothesis testing to draw inferences from your data Learn Bayesian methods for estimating parameters Train regression, classification, and time series models Handle missing data gracefully using multiple imputation Identify and manage problematic data points Learn how to scale your analyses to larger data with Rcpp, data.table, dplyr, and parallelization Put best practices into effect to make your job easier and facilitate reproducibility Who this book is for Budding data scientists and data analysts who are new to the concept of data analysis, or who want to build efficient analytical models in R will find this book to be useful. No prior exposure to data analysis is needed, although a fundamental understanding of the R programming language is required to get the best out of this book.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('5190816227773','Columnist gives her reactions to some phases of American life.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9781500329747','This C++ Programming book gives a good start and complete introduction for C++ Programming for Beginner’s. It has been comprehensively updated for the long-awaited C++Beginner’s from the Best selling Programming Author Harry H Chaudhary. The primary aim of this book is to help the reader understand how the facilities offered by C++ support key programming techniques. The aim is to take the reader far beyond the point where he or she gets code running primarily by copying examples and emulating programming styles from other languages. Anyone can learn C++ Programming through This Book I promise. Most Imp. Feature of this book is-- 1) Learn C++ without fear, 2) This book is for everyone, 3) 160 End of book examples, 4) 200 Practical Codes, 5) At last it goes to Expert level topics such as: *Software Design & Development Using C++*, 6) 101 Rules, for Software Design & Development using C++ @ the end of this book. 7) Very Easy Definitions for each topic with code examples and output. While reading this book it is fun and easy to read it. This book is best suitable for first time C++ readers, Covers all fast track topics of C++ for all Computer Science students and Professionals. This book introduces standard C++ and the key programming and design techniques supported by C++. Standard C++ is a far more powerful and polished language than the version of C++ introduced by the first edition of this book. This book presents every major C++ language feature and the standard library. It is organized around language and library facilities. However, features are presented in the context of their use. That is, the focus is on the language as the tool for design and programming rather than on the language in itself. This book demonstrates key techniques that make C++ effective and teaches the fundamental concepts necessary for mastery. As everyone knows that Author Harry is basically known for his Easy way- Programming without fear technique. His book presents world’s easiest definitions and codes for beginners. || Inside Chapters. || 1 (Introduction To C++ Programming) 2 (Inside The C++ Language) 3 (Pointers & References) 4 (Understanding Functions) 5 (Structure-Unions-Enumerated Data Types) 6 (Object Oriented Programming Concept) 7 (C++ Classes and Objects) 8 (Constructors and Destructors) 9 (Operator Overloading) 10 (Console Input / Output Streams) 11 (Inheritance Concept in C++) 12 (Virtual Functions-Polymorphism Concept) 13 (Templates Concept In C++) 14 (Exception Handling In C++) 15 (New Features of ANSI C++ Standard) 16 (Working With Files) 17 (String Classes’) 18 (Your Brain On C++ ( 160 Multiple Choice Questions)) 19 (Your Brain On C++ (100 Practical Programming Questions)) 20 (Software Design & Development Using C++)')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('3343993443555','Articles examine the election process for president, Congress, and statewide offices, and discuss the roles of political parties and the media, election scandals, and voting rights.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('7554002417959','GameAxis Unwired is a magazine dedicated to bring you the latest news, previews, reviews and events around the world and close to you. Every month rain or shine, our team of dedicated editors (and hardcore gamers!) put themselves in the line of fire to bring you news, previews and other things you will want to know.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9423312792397','A guide to planting, designing and maintaining gardens.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9783662467923','The aim of this book is to unlock the power of the freeware R language to advanced university students and researchers dealing with whole-rock geochemistry of (meta-) igneous rocks. The first part covers data input/output, calculation of commonly used indexes and plotting in R. The core of the book then focusses on the presentation and practical implementations of modelling techniques used for fingerprinting processes such as partial melting, fractional crystallization, binary mixing or AFC using major-, trace-element and radiogenic isotope data. The reader will be given a firm theoretical basis for forward/reverse modelling, followed by exercises dealing with typical problems likely to be encountered in real life, and their solutions using R. The concluding sections demonstrate, using practical examples, how a researcher can proceed in developing a realistic model simulating natural systems. The appendices outline the fundamentals of the R language and provide a quick introduction to the open-source R-package GCDkit for interpretation of whole-rock geochemical data from igneous and metamorphic rocks.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9780829418316','Finding God is a faith-formation program for children in grades 1-6 and the significant adults in their lives. The program mentors children, parents, and adults in cultivating a special place in their hearts to meet with God. Preview samples online at www.findinggod.com/preview.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9789382076575','K-Wiring: Principles and Techniques Kirschner wires or K-wires are sterilized, sharpened, smooth stainless steel pins/wires used in orthopedic surgery as implants. K-wire implants are extremely versatile in their usage and can treat fractures of various kinds in most of the bones from finger tips to toes. Due to their remarkable ability to heal and reconstruct intricate bone fractures, they are a popular choice among orthopedic surgeons the world over. Each reconstruction is an innovation in itself, as every complex fracture presents its unique challenges. There is a paucity of literature on standard techniques, principles and approaches to be employed for K-wiring fractures. This book fills that gap. It is the first of its kind in demonstrating the effective execution of K-wiring procedures through a lucid, case-based format. It serves as a practical guide for orthopedic surgeons on K-wiring techniques, thus enabling them to improve patient care. It will be an invaluable reference text not just for practicing orthopedic surgeons but also for subspecialists like consultant hand surgeons, foot and ankle surgeons, and microvascular plastic hand surgeons, helping them master the operative techniques related to K-wiring. Salient features: Detailed coverage of latest techniques and procedures for operating fractures with the help of K-wires Thorough descriptions of complexities encountered in all regions of the body Discussion of many cases with their management protocols Guidance for correcting mismanaged cases by using K-wires Use of excellent quality images with textual description that facilitate better relatability Extensive use of original patient photographs, radiographs, and skillfully created illustrations')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('1333006675929','A full-text reporter of decisions rendered by federal and state courts throughout the United States on federal and state labor problems, with case table and topical index.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('4163451179847','Includes, beginning Sept. 15, 1954 (and on the 15th of each month, Sept.-May) a special section: School library journal, ISSN 0000-0035, (called Junior libraries, 1954-May 1961). Also issued separately.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('7006237746946','The volumes of this series present almost 300 indispensable toxicological evaluation documents on important occupational toxicants and carcinogens. They describe the toxicological database which determines the level of a MAK value (Maximum Concentrations at the Workplace). Each evaluation document is written to a standard format and includes sections about toxic effects, modes of action, effects in man, effects on animals, genotoxicity and carcinogenicity, manifesto. The accumulated expertise of the Commissions toxicologists and occupational physicians makes their reviews inevitable for all involved in occupational health and safety. Volume 8 contains 6 documents, one large chapter on fibrous dust, further on dimethylformamide, glutaraldehyde, 4,4-methylene diphenyl isocyanate (MDI) and polymeric MDI (PDI), 2-nitrotoluene, vinylidene chloride.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('6440400104879','This report presents the results of a projective economic survey of the Ohio River Basin designed to furnish guides for appraising future growth in relation to water requirements. The long-term demographic and economic projections produced by this study are to be used in planning the comprehensive development of the Basins water and related land resources, so that emerging needs can be met in a timely and efficient manner. This survey thus constitutes a basic building block for one of the so-called framework studies of the countrys major river basins. As such, it is meant to set quantitative benchmarks or guides for a series of more detailed field surveys of individual tributary drainage areas of the Ohio River Basin which will follow and complement the framework study. (Author).')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9788131760314','Combining the features of high level language and functionality assembly language, this book reduces the gap between high level language and low level language, which is why C is known as middle level language. It is written for the students of B.E./B. Tech, M.E./M. Tech, MCA, M. Sc(Comp. Sc)/M. Sc(IT), B CA, BBA, MBA, B. Sc(IT), B. Sc(Comp. Sc), Diploma in Computer Science and other computer programs. --')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('1221946840480','Emphasizes the importance of deep structures (in addition to the cerebral cortex) in understanding the central mechanisms of voluntary movement. Specialists write on the cerebellum, basal ganglia, thalamus and the related cerebral cortex.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('2820182207572','Budget report for 1929/31 deals also with the operations of the fiscal year ended June 30, 1928 and the estimates for the fiscal year ending June 30, 1929.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9781317917366','First published in 1988, the aim of this book can be stated in Nietzsche’s words: ‘To look at science from the perspective of the artist, but at art from that of life’. The title contests the notions that science alone can provide us with the most objective truth about the world, and that artistic endeavour can produce nothing more valuable than entertainment. O’Hear argues that art and the study of art are not indispensable aspects of human life, and that this is equally as important as the investigation of the natural world.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9781481410250','It’s Career Week at Bayport Elementary, and Frank and Joe’s school assembly turns up some interesting guests. One student’s uncle is an animal trainer who brings a chimpanzee. Another girl’s father is an anthropologist who brings in a mask decorated with feathers and shells from a Pacific island. But when the assembly is interrupted by a fire drill, the mask is stolen—and the Hardys spring into action.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('6925192377369','As part of an attempt to resolve a larger puzzle - what makes economic reform in Russia difficult - this book examines how one of the major sectors of the economy - energy - has influenced economic growth and political development. It provides an in-depth analysis of the countrys export of oil and gas, showing how the energy sector went through the topsy-turvy period of Gorbachevs economic reform and the initial stages of market transition under Yeltsin. In doing so, it highlights the importance of the major oil and gas companies for the functioning of Russian politics.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('1548844246621','Vols. 1-3, 5-8 contain the political and literary portions; v. 4 the historical register department, of the numbers published from Oct. 1837 to Dec. 1840.')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
 ('9780691155678','Worldly Philosopher chronicles the times and writings of Albert O. Hirschman, one of the twentieth centurys most original and provocative thinkers. In this gripping biography, Jeremy Adelman tells the story of a man shaped by modern horrors and hopes, a worldly intellectual who fought for and wrote in defense of the values of tolerance and change. Born in Berlin in 1915, Hirschman grew up amid the promise and turmoil of the Weimar era, but fled Germany when the Nazis seized power in 1933. Amid hardship and personal tragedy, he volunteered to fight against the fascists in Spain and helped many of Europes leading artists and intellectuals escape to America after France fell to Hitler. His intellectual career led him to Paris, London, and Trieste, and to academic appointments at Columbia, Harvard, and the Institute for Advanced Study in Princeton. He was an influential adviser to governments in the United States, Latin America, and Europe, as well as major foundations and the World Bank. Along the way, he wrote some of the most innovative and important books in economics, the social sciences, and the history of ideas. Throughout, he remained committed to his belief that reform is possible, even in the darkest of times. This is the first major account of Hirschmans remarkable life, and a tale of the twentieth century as seen through the story of an astute and passionate observer. Adelmans riveting narrative traces how Hirschmans personal experiences shaped his unique intellectual perspective, and how his enduring legacy is one of hope, open-mindedness, and practical idealism--')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('5182428736708','Winner of the 1997 Felix Pollak Prize in Poetry Selected by Rita Dove')
+('2344482497479','Vols. for 1841-1914 include Rates of box and pocket chronometers on trial for purchase by the Board of Admiralty (varies slightly); 1888-1914 include Rates of chronometer watches on trial for purchase by the Board of Admiralty (varies slightly); 1838, 1845- include Reports of the Astronomer Royal to the Board of Visitors (these titles also issued separately).')
 ;
 
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('9780128202319','GPCR Signaling in Cancer, Volume 145, the latest release in the Advances in Cancer Research series, highlights recent developments in the area of GPCRs and cancer biology. Chapters included in this volume cover several GPCRs and their downstream effectors as case examples to highlight their fundamental understanding and therapeutic potential. Specific chapters address the Role of GRKs and beta-arrestins in cancer, Atypical GPCRs in cancer, the Role of a chemokine receptor (CCR) 5 in cancer, Targeting G protein-coupled receptors for therapeutics in cancer, Emerging GPCR signaling pathways in cancer, and more. G protein-coupled receptors (GPCRs) constitute a large family of cell surface receptors which are involved in nearly every cellular and physiological event. These receptors can recognize a broad array of ligands and they are targeted by nearly one third of the currently prescribed drugs including anti-cancer therapeutics. Covers the latest concepts in GPCR signaling and their relevancy to cancer biology Presents new indications for anti-cancer therapeutic programs Includes sections on cross-talk and signaling networks of GPCRs and effectors in molecular oncology and therapeutics')
-;
-
-Insert into Summary
-(`ISBN`,`Summary`)
-Values
-('9781788771054','This eBook features the unabridged text of ‘The Wonderful Wizard of Oz by L. Frank Baum - Delphi Classics (Illustrated)’ from the bestselling edition of ‘The Complete Works of L. Frank Baum’. Having established their name as the leading publisher of classic literature and art, Delphi Classics produce publications that are individually crafted with superior formatting, while introducing many rare texts for the first time in digital print. The Delphi Classics edition of Baum includes original annotations and illustrations relating to the life and works of the author, as well as individual tables of contents, allowing you to navigate eBooks quickly and easily. eBook features: * The complete unabridged text of ‘The Wonderful Wizard of Oz by L. Frank Baum - Delphi Classics (Illustrated)’ * Beautifully illustrated with images related to Baum’s works * Individual contents table, allowing easy navigation around the eBook * Excellent formatting of the textPlease visit www.delphiclassics.com to learn more about our wide range of titles')
+('9780814735008','In this clearly written and accessible book, (Wendell) Harris sets out to expose the inadequacies of current methods and trends in literary criticism. . . . The books greatest strength is its lucid presentation of critical works, which are then shown to be compromised by fallacies and flaws.-- CHOICE.')
 ;
 
 Insert into Summary
@@ -3289,6 +3289,12 @@ Values
 Insert into Summary
 (`ISBN`,`Summary`)
 Values
-('7204509298220','An art work collection of 23 illustrators, the standard-bearers who play an active part in Europe and witness the modern age with their frank sensitivities. Over 160 illustrations which mainly sum up the scribbles, ideas for production, messages, self-portraits and profiles are included.')
+('1545217038429','A Blake Bibliography was first published in 1964. Minnesota Archive Editions uses digital technology to make long-unavailable books once again accessible, and are published unaltered from the original University of Minnesota Press editions. The aim of this book is to list every reference to William Blake published between 1757 and 1863 and every criticism and edition of his works from the beginning to the present. Partly because of the deluge of scholarship in the last forty years, it includes perhaps twice as many titles as Sir Geoffrey Keyness great bibliography of 1921. An introductory essay on the history of Blake scholarship puts the most significant works into perspective, indicates the best work that has been done, and points to some neglected areas. In addition, all the most important references and many of the less significant ones are briefly annotated as to subject and value. Because many of the works are difficult to locate, specimen copies of all works published before 1831 have been traced to specific libraries. Each of Blakes manuscripts is also traced to its present owner. Two areas which have received relatively novel attention are early references to Blake (before 1863) and important sale and exhibition catalogues of his works. In both areas there are significant number of important entries which have not been noticed before by Blake scholars. The section on Blakes engravings for commercial works receives especially detailed treatment. A few of the titles listed here have not been described previously in connection with Blake.')
+;
+
+Insert into Summary
+(`ISBN`,`Summary`)
+Values
+('3699484681858','Directory intended to give medical students and graduate physicians a timely source of detailed information about the many options for pathology training in the United States and Canada. Geographical arrangement. Entries give in narrative such information as programs offered, facilities, community environment, stipends, staff, and application. Training staff index.')
 ;
 

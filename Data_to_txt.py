@@ -1,4 +1,5 @@
 import datetime
+import os
 import random
 from numpy import split
 import requests
@@ -98,7 +99,7 @@ def addAuthor(isbn,book,output_file,L):
                 file.write("Insert into Author\n")
                 file.write("(`ISBN`,`AuthorName`)\n")
                 file.write("Values\n")
-                file.write(f"('{isbn},'{replace_special_characters(auth)}')\n")
+                file.write(f"('{isbn}','{replace_special_characters(auth)}')\n")
                 file.write(";\n\n")
         L.append(isbn)
     return L
@@ -257,6 +258,32 @@ def replace_special_characters(string):
     
     return replaced_string
 
+def filesToOne(delete=True):
+    output_files = [
+        path + "Data/Book.sql",
+        path + "Data/Author.sql",
+        path + "Data/Keyword.sql",
+        path + "Data/Summary.sql",
+        path + "Data/Category.sql",
+        path + "Data/Reservation.sql",
+        path + "Data/Review.sql",
+        path + "Data/User.sql"
+    ]
+
+    output_file_combined = path + "Data/mysql-db23-50-insert-data.sql"
+    ll=0
+    with open(output_file_combined, "w", encoding="utf-8") as output_file:
+        for file_path in output_files:
+            with open(file_path, "r", encoding="utf-8") as input_file:
+                data = input_file.read()
+                output_file.write(data)
+            output_file.write("\n\n")
+    # Delete the output files
+    if delete:
+        for file_path in output_files:
+            os.remove(file_path)
 book_to_text()
 
 user_to_text()
+
+filesToOne(False)
