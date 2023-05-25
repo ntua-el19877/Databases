@@ -148,6 +148,8 @@ def user_to_text():
     output_file = path+"Data/User.sql"
     output_file2 = path+"Data/Reservation.sql"
     output_file3 = path+"Data/Review.sql"
+    output_file4 = path+"Data/School.sql"
+    removedata(output_file4)
     removedata(output_file2)
     removedata(output_file3)
     with open(output_file, "w", encoding="utf-8") as file:
@@ -170,6 +172,7 @@ def user_to_text():
                 BorrowerCard=random.randint(10**12, (10**13)-1)
                 if j==98:
                     Role='Operator'
+                    school_to_text(output_file4,FirstName+' '+LastName,i+1)
                 elif j==99:
                     Role='Administrator'
                 file.write("Insert into User\n")
@@ -182,6 +185,29 @@ def user_to_text():
                 if random.randint(0, 5)==0:
                     L,resID=addReservation(output_file2,j+1,i+1,resID,L)
     print("Data exported to", output_file)
+
+
+def school_to_text(output_file,lib_operator,SchoolID):
+
+    with open(output_file, "a", encoding="utf-8") as file:
+        Fir=['Cape Coral','Riverdale','Pinewood','Lakewood','Livanates']
+        Sec=['Institute','School of Fine Arts','High','Technical School']
+        SchoolName=random.choice(Fir)+' '+random.choice(Sec)
+        Fir=['2969 Charmaine Lane','2537 Commerce Boulevard','2066 North Bend River Road']
+        Sec=['Patricia','Paris','Somerset']
+        Thi=['79373','68669','78234']
+        Address=random.choice(Fir)+','+random.choice(Thi)
+        City=random.choice(Sec)
+        PhoneNumber=random.randint(6_970_000_000, 6_979_999_999)
+        Email=SchoolName+'@'+'mail.com'
+        SchoolDirectorFullName=names.get_full_name()
+        file.write("Insert into School\n")
+        file.write("(`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)\n")
+        file.write("Values\n")
+        file.write(f"('{SchoolID}','{SchoolName}','{Address}','{City}','{PhoneNumber}','{Email}','{lib_operator}','{SchoolDirectorFullName})\n")
+        file.write(";\n\n")
+
+
 
 def addReservation(output_file,userid,schoolid,ReservationID,L):
     with open(output_file, "a", encoding="utf-8") as file:
@@ -267,7 +293,8 @@ def filesToOne(delete=True):
         path + "Data/Category.sql",
         path + "Data/Reservation.sql",
         path + "Data/Review.sql",
-        path + "Data/User.sql"
+        path + "Data/User.sql",
+        path+"Data/School.sql"
     ]
 
     output_file_combined = path + "Data/mysql-db23-50-insert-data.sql"
