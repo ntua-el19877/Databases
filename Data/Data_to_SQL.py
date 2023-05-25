@@ -11,18 +11,27 @@ import secrets
 import time
 import bcrypt
 import pymysql
+import mysql.connector
 
 
-# path='/home/angelos/Documents/GitHub/Databases/'
-path='Data/'
 
 class DataToSQL:
-    def __init__(self,MakePasswords=False,FilesToOne=False,DatabaseName='testdb'):
+    def __init__(self,MakePasswords=False,FilesToOne=False,DatabaseName='testDB1',InsertInDbDirectly=False,path='Data/'):
+        self.DatabaseName=DatabaseName
+        self.path=path
+        db=mysql.connector.connect(
+            host="localhost",
+            user="root",
+            password="",
+            database="testDB1" 
+        )
+        self.mycursor = db.cursor()
+        self.db=db
         self.book_to_text()
-
         self.user_to_text(MakePasswords)
-
-        self.filesToOne(FilesToOne,DatabaseName)
+        self.filesToOne(FilesToOne)
+    
+        
 
     def str_time_prop(self,start, end, time_format, prop):
         """Get a time at a proportion of a range of two formatted times.
@@ -48,13 +57,13 @@ class DataToSQL:
         print("File contents erased:", output_file)
 
     def book_to_text(self):
-        input_file = path+"output.json"
-        output_file1 = path+"Data/Book.sql"
-        output_file2 = path+"Data/Author.sql"
-        output_file3 = path+"Data/Keyword.sql"
-        output_file4 = path+"Data/Summary.sql"
-        output_file5 = path+"Data/Category.sql"
-        output_file6 = path+"Data/Image.sql"
+        input_file = self.path+"output.json"
+        output_file1 = self.path+"Data/Book.sql"
+        output_file2 = self.path+"Data/Author.sql"
+        output_file3 = self.path+"Data/Keyword.sql"
+        output_file4 = self.path+"Data/Summary.sql"
+        output_file5 = self.path+"Data/Category.sql"
+        output_file6 = self.path+"Data/Image.sql"
         self.removedata(output_file2)
         self.removedata(output_file3)
         self.removedata(output_file4)
@@ -72,6 +81,11 @@ class DataToSQL:
             Key=[]
             Ima=[]
             book_id=1
+            ss=["Insert into Book ",\
+                            "(`BookID`,`SchoolID`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Language`) ",\
+                            "Values ",\
+                            "('%s','%s','%s','%s','%s','%s',%s,'%s')"]
+            
             for SchoolID in range(1,6):
                 
                 #get all possible books
@@ -86,32 +100,35 @@ class DataToSQL:
                         inventory = book.get("Inventory", "True")
                         image = book.get("thumbnail", "*")
                         language = self.replace_special_characters(book.get("language", "*"))
-                        file.write("Insert into Book\n")
-                        file.write("(`BookID`,`SchoolID`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Language`)\n")
-                        file.write("Values\n")
-                        file.write(f"('{book_id}','{SchoolID}','{title}','{publisher}','{isbn}','{num_of_pages}',{inventory},'{language}')\n")
-                        file.write(";\n\n")
+                        values=(book_id,SchoolID,title,publisher,isbn,num_of_pages,inventory,language)
+                        file.write(ss[0])
+                        file.write(ss[1])
+                        file.write(ss[2])
+                        file.write("".join(ss[3]) % values)
+                        file.write(";\n")
+                        stest="".join(ss[3]) % values
+                        sstot=ss[0]+ss[1]+ss[2]+stest
+
+                        # self.mycursor.execute(sstot)
+                        
                         Auth=self.addAuthor(isbn,book,output_file2,Auth)
                         Key=self.addKeyword(output_file3,book,isbn,Key)
                         Sum=self.addSummary(output_file4,book,isbn,Sum)
                         Cat=self.addCategory(output_file5,book,isbn,Cat)
                         Ima=self.addImage(output_file6,image,isbn,Ima)
-                        # addAuthor(SchoolID,book_id,book,output_file2)
-                        # addKeyword(output_file3,book,book_id,SchoolID)
-                        # addSummary(output_file4,book,book_id,SchoolID)
-                        # addCategory(output_file5,book,book_id,SchoolID)
                         book_id+=1
+                    self.db.commit()
 
         print("Data exported")
 
     def addImage(self,output_file,image,isbn,L):
         if not isbn in L:
             with open(output_file, "a", encoding="utf-8") as file:
-                file.write("Insert into Image\n")
-                file.write("(`ISBN`,`ImageLink`)\n")
-                file.write("Values\n")
-                file.write(f"('{isbn}','{image}')\n")
-                file.write(";\n\n")
+                file.write("Insert into Image ")
+                file.write("(`ISBN`,`ImageLink`) ")
+                file.write("Values ")
+                file.write(f"('{isbn}','{image}') ")
+                file.write(";\n")
             L.append(isbn)
         return L
 
@@ -120,11 +137,11 @@ class DataToSQL:
             with open(output_file, "a", encoding="utf-8") as file:
                 authors=book.get("authors")
                 for j,auth in enumerate(authors):
-                    file.write("Insert into Author\n")
-                    file.write("(`ISBN`,`AuthorName`)\n")
-                    file.write("Values\n")
-                    file.write(f"({isbn},'{self.replace_special_characters(auth)}')\n")
-                    file.write(";\n\n")
+                    file.write("Insert into Author ")
+                    file.write("(`ISBN`,`AuthorName`) ")
+                    file.write("Values ")
+                    file.write(f"({isbn},'{self.replace_special_characters(auth)}') ")
+                    file.write(";\n")
             L.append(isbn)
         return L
 
@@ -133,11 +150,11 @@ class DataToSQL:
             with open(output_file, "a", encoding="utf-8") as file:
                 categories=book.get("keywords")
                 for j,categ in enumerate(categories):
-                    file.write("Insert into Keyword\n")
-                    file.write("(`ISBN`,`KeywordName`)\n")
-                    file.write("Values\n")
-                    file.write(f"('{isbn}','{self.replace_special_characters(categ)}')\n")
-                    file.write(";\n\n")
+                    file.write("Insert into Keyword ")
+                    file.write("(`ISBN`,`KeywordName`) ")
+                    file.write("Values ")
+                    file.write(f"('{isbn}','{self.replace_special_characters(categ)}') ")
+                    file.write(";\n ")
             L.append(isbn)
         return L
 
@@ -145,11 +162,11 @@ class DataToSQL:
         if not isbn in L:
             with open(output_file, "a", encoding="utf-8") as file:
                 summary=book.get("summary")
-                file.write("Insert into Summary\n")
-                file.write("(`ISBN`,`Summary`)\n")
-                file.write("Values\n")
-                file.write(f"('{isbn}','{self.replace_special_characters(summary)}')\n")
-                file.write(";\n\n")
+                file.write("Insert into Summary ")
+                file.write("(`ISBN`,`Summary`) ")
+                file.write("Values ")
+                file.write(f"('{isbn}','{self.replace_special_characters(summary)}') ")
+                file.write(";\n")
             L.append(isbn)
         return L
 
@@ -158,21 +175,21 @@ class DataToSQL:
             with open(output_file, "a", encoding="utf-8") as file:
                     categories=book.get("categories")
                     for j,categ in enumerate(categories):
-                            file.write("Insert into Category\n")
-                            file.write("(`ISBN`,`CategoryName`)\n")
-                            file.write("Values\n")
-                            file.write(f"('{isbn}','{self.replace_special_characters(categ)}')\n")
-                            file.write(";\n\n")
+                            file.write("Insert into Category ")
+                            file.write("(`ISBN`,`CategoryName`) ")
+                            file.write("Values ")
+                            file.write(f"('{isbn}','{self.replace_special_characters(categ)}') ")
+                            file.write(";\n")
             L.append(isbn)
         return L
 
     def user_to_text(self,MakePasswords):
         
-        output_file_User = path+"Data/User.sql"
-        output_file_Reservation = path+"Data/Reservation.sql"
-        output_file_Review = path+"Data/Review.sql"
-        output_file_School = path+"Data/School.sql"
-        output_file_Passwords = path+"Data/Passwords.txt"
+        output_file_User = self.path+"Data/User.sql"
+        output_file_Reservation = self.path+"Data/Reservation.sql"
+        output_file_Review = self.path+"Data/Review.sql"
+        output_file_School = self.path+"Data/School.sql"
+        output_file_Passwords = self.path+"Data/Passwords.txt"
         self.removedata(output_file_Passwords)
         self.removedata(output_file_Reservation)
         self.removedata(output_file_Review)
@@ -180,11 +197,13 @@ class DataToSQL:
         with open(output_file_User, "w", encoding="utf-8") as file:
             #5 schools
             Userid=1
+            reviewid=1
+            resID=1
             for i in range(5):
                 #100 people in school
-                resID=1
+                
                 L=[]
-                reviewid=1
+                
                 for j in range(100):
                     Roles=['Professor',"Student",
                         'Student','Student','Student',
@@ -208,11 +227,11 @@ class DataToSQL:
                     else:
                         hashed_password='None'
                     
-                    file.write("Insert into User\n")
-                    file.write("(`UserID`,`SchoolID`,`Username`,`Role`,`FirstName`,`LastName`,`BorrowerCard`,`HashedPassword`)\n")
-                    file.write("Values\n")
-                    file.write(f"('{Userid}','{i+1}','{Username}','{Role}','{FirstName}','{LastName}','{BorrowerCard}','{hashed_password}')\n")
-                    file.write(";\n\n")
+                    file.write("Insert into User ")
+                    file.write("(`UserID`,`SchoolID`,`Username`,`Role`,`FirstName`,`LastName`,`BorrowerCard`,`HashedPassword`) ")
+                    file.write("Values ")
+                    file.write(f"('{Userid}','{i+1}','{Username}','{Role}','{FirstName}','{LastName}','{BorrowerCard}','{hashed_password}') ")
+                    file.write(";\n")
                     if random.randint(0, 5)==0:
                         reviewid=self.addReview(output_file_Review,Userid,i+1,reviewid)
                     if random.randint(0, 5)==0:
@@ -237,13 +256,13 @@ class DataToSQL:
             Address=random.choice(Fir)+','+random.choice(Thi)
             City=random.choice(Sec)
             PhoneNumber=random.randint(6_970_000_000, 6_979_999_999)
-            Email=SchoolName+'@'+'mail.com'
+            Email=(SchoolName+'@'+'mail.com').replace("'", "")
             SchoolDirectorFullName=names.get_full_name()
-            file.write("Insert into School\n")
-            file.write("(`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`)\n")
-            file.write("Values\n")
-            file.write(f"('{SchoolID}','{SchoolName}','{Address}','{City}','{PhoneNumber}','{Email}','{lib_operator}','{SchoolDirectorFullName}')\n")
-            file.write(";\n\n")
+            file.write("Insert into School ")
+            file.write("(`SchoolID`,`SchoolName`,`Address`,`City`,`PhoneNumber`,`Email`,`SchoolLibraryOperatorFullName`,`SchoolDirectorFullName`) ")
+            file.write("Values ")
+            file.write(f"('{SchoolID}','{SchoolName}','{Address}','{City}','{PhoneNumber}','{Email}','{lib_operator}','{SchoolDirectorFullName}') ")
+            file.write(";\n")
 
     def addReservation(self,output_file,userid,schoolid,ReservationID,L):
         with open(output_file, "a", encoding="utf-8") as file:
@@ -267,11 +286,11 @@ class DataToSQL:
                 us,_=str(u).split(' ')
                 ExpirationDates,_=str(ExpirationDate).split(' ')
 
-                file.write("Insert into Reservation\n")
-                file.write("(`ReservationID`,`SchoolID`,`UserID`,`BookID`,`ReservationDate`,`ExpirationDate`,`Active`)\n")
-                file.write("Values\n")
-                file.write(f"('{ReservationID}','{schoolid}','{userid}','{bookid}','{us}','{ExpirationDates}','{Active}')\n")
-                file.write(";\n\n")
+                file.write("Insert into Reservation ")
+                file.write("(`ReservationID`,`SchoolID`,`UserID`,`BookID`,`ReservationDate`,`ExpirationDate`,`Active`) ")
+                file.write("Values ")
+                file.write(f"('{ReservationID}','{schoolid}','{userid}','{bookid}','{us}','{ExpirationDates}','{Active}') ")
+                file.write(";\n ")
                 ReservationID+=1
         return L,ReservationID
 
@@ -297,11 +316,11 @@ class DataToSQL:
                 ApprovalStatus="Approved"
                 if ran==0:
                     ApprovalStatus="Rejected"
-                file.write("Insert into Review\n")
-                file.write("(`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)\n")
-                file.write("Values\n")
-                file.write(f"('{ReviewID}','{schoolid}','{userid}','{bookid}','{Rating}','{Comment}','{ApprovalStatus}')\n")
-                file.write(";\n\n")
+                file.write("Insert into Review ")
+                file.write("(`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`) ")
+                file.write("Values ")
+                file.write(f"('{ReviewID}','{schoolid}','{userid}','{bookid}','{Rating}','{Comment}','{ApprovalStatus}') ")
+                file.write(";\n")
                 ReviewID+=1
         return ReviewID
 
@@ -319,33 +338,33 @@ class DataToSQL:
         
         return replaced_string
 
-    def filesToOne(self,DatabaseName,delete=True):
+    def filesToOne(self,delete=True):
         output_files = [
-            path + "Data/Book.sql",
-            path + "Data/Author.sql",
-            path + "Data/Keyword.sql",
-            path + "Data/Summary.sql",
-            path + "Data/Category.sql",
-            path + "Data/Reservation.sql",
-            path + "Data/Review.sql",
-            path + "Data/User.sql",
-            path+"Data/School.sql",
-            path+"Data/Image.sql"
+            self.path + "Data/Book.sql",
+            self.path + "Data/Author.sql",
+            self.path + "Data/Keyword.sql",
+            self.path + "Data/Summary.sql",
+            self.path + "Data/Category.sql",
+            self.path + "Data/Reservation.sql",
+            self.path + "Data/Review.sql",
+            self.path + "Data/User.sql",
+            self.path+"Data/School.sql",
+            self.path+"Data/Image.sql"
         ]
 
-        output_file_combined = path + "Data/mysql-db23-50-insert-data.sql"
+        output_file_combined = self.path + "Data/mysql-db23-50-insert-data.sql"
         ll=0
         with open(output_file_combined, "w", encoding="utf-8") as output_file:
-            output_file.write(f'Use {DatabaseName};')
+            output_file.write(f'Use {self.DatabaseName};')
             output_file.write("\n\n")
-            for file_path in output_files:
-                with open(file_path, "r", encoding="utf-8") as input_file:
+            for file_self.path in output_files:
+                with open(file_self.path, "r", encoding="utf-8") as input_file:
                     data = input_file.read()
                     output_file.write(data)
                 output_file.write("\n\n")
         # Delete the output files
         if delete:
-            for file_path in output_files:
-                os.remove(file_path)
+            for file_self.path in output_files:
+                os.remove(file_self.path)
 
-DataToSQL(MakePasswords=True,FilesToOne=False)
+DataToSQL(MakePasswords=False,FilesToOne=True)
