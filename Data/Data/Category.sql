@@ -31,13 +31,13 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('7671795814878','Religion')
+('8843122548229','Private libraries')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9783034804318','Mathematics')
+('7671795814878','Religion')
 ;
 
 Insert into Category
@@ -49,7 +49,13 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('3410521589779','Galen')
+('9781119080022','Computers')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('8527462456836','Boundary element methods')
 ;
 
 Insert into Category
@@ -61,19 +67,13 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('4802699305197','Foreign Language Study')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
 ('9781138197121','Medical')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9225164550319','Literary Collections')
+('9781725257511','Religion')
 ;
 
 Insert into Category
@@ -103,24 +103,6 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9781108990592','Philosophy')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('6404731328106','Medical')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('5798719231991','England')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
 ('1183723144563','Christian ethics')
 ;
 
@@ -145,12 +127,6 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('7699762726243','Horror films')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
 ('7935680262722','Executive departments')
 ;
 
@@ -158,6 +134,12 @@ Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('2856186245945','Adolescence')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('7677649946027','Aeronautics')
 ;
 
 Insert into Category
@@ -187,12 +169,6 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9783642837135','Computers')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
 ('9781466565739','Mathematics')
 ;
 
@@ -205,7 +181,7 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('7613722763235','Medical')
+('9781604131277','Animal migration')
 ;
 
 Insert into Category
@@ -217,25 +193,7 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('2794489780453','Courts')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('5721509925038','Meteorology')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
 ('9274169923947','Agriculture')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('4197558888165','Appalachian Mountains')
 ;
 
 Insert into Category
@@ -265,7 +223,7 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('2722528225864','Asia')
+('2344482497479','Astronomy')
 ;
 
 Insert into Category
@@ -289,12 +247,6 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9781568849003','Computers')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
 ('9781439658369','Business & Economics')
 ;
 
@@ -313,7 +265,7 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9780191064159','Religion')
+('2281987089953','CD-ROMs')
 ;
 
 Insert into Category
@@ -326,12 +278,6 @@ Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('9781587155161','Fiction')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9722440474332','Medical')
 ;
 
 Insert into Category
@@ -361,7 +307,7 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9788120311725','Computers')
+('1199768770505','Computers')
 ;
 
 Insert into Category
@@ -391,25 +337,25 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('7816401486590','England')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
 ('4507401592253','Ceramic metals')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('7223704992487','Mathematics')
+('1552342606350','Metaphor')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('5473962345726','Engineering')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9964489713174','Meteorology')
 ;
 
 Insert into Category
@@ -427,19 +373,7 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9789639776807','Performing Arts')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9780199093816','Business & Economics')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781602682429','Juvenile Nonfiction')
+('3817439810086','Mathematics')
 ;
 
 Insert into Category
@@ -452,6 +386,18 @@ Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('9781498556217','Music')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781624427923','Education')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('1392275054736','Arbitration, Industrial')
 ;
 
 Insert into Category
@@ -493,6 +439,12 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
+('9781000886054','Education')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
 ('9781611042139','Religion')
 ;
 
@@ -500,6 +452,12 @@ Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('9781118105375','Business & Economics')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781844079117','Business & Economics')
 ;
 
 Insert into Category
@@ -541,7 +499,7 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('7303985997123','Asphalt')
+('9781416925835','Childrens stories')
 ;
 
 Insert into Category
@@ -553,13 +511,13 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9780230626560','Political Science')
+('7350464307981','Artibeus jamaicensis')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('7350464307981','Artibeus jamaicensis')
+('8303401589159','Cincinnati (Ohio)')
 ;
 
 Insert into Category
@@ -607,6 +565,12 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
+('9781847032416','Antitrust law')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
 ('2794076348355','Astronautics in earth sciences')
 ;
 
@@ -614,12 +578,6 @@ Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('5937164531041','Diffusion processes')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('8536357666710','Géographie économique - URSS - Cartes')
 ;
 
 Insert into Category
@@ -643,7 +601,7 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9781500329747','Computers')
+('8871596802592','Education')
 ;
 
 Insert into Category
@@ -661,25 +619,25 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
+('3343993443555','Political Science')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
 ('3183862734033','Technology & Engineering')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('2824404270223','Plastics')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9070875968183','Environment science')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
 ('9780132119368','Technology & Engineering')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781452212142','Education')
 ;
 
 Insert into Category
@@ -715,19 +673,25 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('4153904194880','Corporations')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
 ('9389926014999','Biology')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9780321067159','Calculus')
+('9781889545288','Science')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781108750912','Science')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('2543664589491','Anglo-Catholicism')
 ;
 
 Insert into Category
@@ -745,19 +709,7 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9780879093037','Computer programming')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
 ('9780470188385','Science')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9780128202319','Medical')
 ;
 
 Insert into Category
@@ -782,18 +734,6 @@ Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('2374168883967','African Americans')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9783662467923','Science')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('2872029262950','Generals')
 ;
 
 Insert into Category
@@ -835,6 +775,18 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
+('9789605725396','Fiction')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('1355341236322','Haiti')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
 ('3695079723466','Technology & Engineering')
 ;
 
@@ -866,6 +818,12 @@ Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('9851981663018','Mass media')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780202303444','Language Arts & Disciplines')
 ;
 
 Insert into Category
@@ -907,6 +865,18 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
+('9780425172308','Bible stories, English')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9788184002287','Literary Collections')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
 ('9789353226152','Study Aids')
 ;
 
@@ -931,7 +901,31 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
+('9780226359441','Nature')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9789004229129','Social Science')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
 ('9780691236230','Science')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780470055984','Computers')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780140073973','Travel')
 ;
 
 Insert into Category
@@ -979,18 +973,6 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('1606260990664','Economics')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('2058891975865','Biography & Autobiography')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
 ('3365678793334','Washington (State)')
 ;
 
@@ -1033,12 +1015,6 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9781780966144','History')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
 ('1333006675929','Labor laws and legislation')
 ;
 
@@ -1051,7 +1027,7 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('4163451179847','Libraries')
+('9064363154053','Computation laboratories')
 ;
 
 Insert into Category
@@ -1063,7 +1039,19 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
+('9781509530786','Language Arts & Disciplines')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
 ('9781625216212','Education')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781629899534','Micronesia')
 ;
 
 Insert into Category
@@ -1099,13 +1087,25 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9781856047760','Language Arts & Disciplines')
+('9780080510514','Computers')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780792364740','Mathematics')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('9234273193694','Art, Modern')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9880142375037','Computers')
 ;
 
 Insert into Category
@@ -1118,6 +1118,12 @@ Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('9780470375952','Business & Economics')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780810396814','Alle lande')
 ;
 
 Insert into Category
@@ -1136,12 +1142,6 @@ Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('9812443103011','Geometrical models')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('2456863451804','Mathematics')
 ;
 
 Insert into Category
@@ -1189,12 +1189,6 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9780130129512','Microsoft Word')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
 ('9646787627030','History')
 ;
 
@@ -1231,31 +1225,31 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
+('9781000494860','Education')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
 ('9781841491349','Blake, Anita (Fictitious character)')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9780195373363','Foreign Language Study')
+('5345523076199','Gross national product')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('8160634951811','Nervous system')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('2220365181979','Court decisions and opinions')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('4190242034766','Comic books, strips, etc')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('8936672033318','Spheroidal functions')
 ;
 
 Insert into Category
@@ -1268,12 +1262,6 @@ Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('4894868530020','Gynecology')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('7006237746946','Science')
 ;
 
 Insert into Category
@@ -1321,6 +1309,12 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
+('4146912208873','Indexes')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
 ('9783790802122','Business & Economics')
 ;
 
@@ -1345,6 +1339,18 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
+('9100501993211','Condensed matter')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780198751472','Philosophy')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
 ('9781351996402','Political Science')
 ;
 
@@ -1357,31 +1363,49 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
+('8778086134544','Geology')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
 ('1162996415386','Breast')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('2586979901438','Electronic journals')
+('9178180696511','Cabinet system')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('8859713910210','Science')
+('9780958103404','Aboriginal Australians')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('3084374407813','Engineering design')
+('9526801292608','Decedents estates')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('7507894078741','Mechanical engineering')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('9788131760314','C (Computer program language)')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('8017305502370','Computers')
 ;
 
 Insert into Category
@@ -1411,7 +1435,25 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
+('9780849359835','Medical')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9783764360498','Science')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
 ('9780429894923','Computers')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9789811942709','Mathematics')
 ;
 
 Insert into Category
@@ -1471,37 +1513,13 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('5536507681039','Aeronautics')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
 ('1123728624206','Canada')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9780191620607','Religion')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
 ('9781559637121','Business & Economics')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('1221946840480','Basal ganglia')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9780808018162','Subchapter S corporations')
 ;
 
 Insert into Category
@@ -1525,7 +1543,7 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9781849967617','Technology & Engineering')
+('4803294578242','Canada')
 ;
 
 Insert into Category
@@ -1567,13 +1585,19 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
+('3649168884223','Science')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
 ('5166324601174','New Zealand')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('2064393478751','Libraries')
+('9781934454077','Business & Economics')
 ;
 
 Insert into Category
@@ -1592,12 +1616,6 @@ Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('1913989976340','Ergodic theory')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9780135689813','Biochemistry')
 ;
 
 Insert into Category
@@ -1627,13 +1645,7 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('2554739170737','Taxation')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('6474227330562','Great Britain')
+('9781462516315','Education')
 ;
 
 Insert into Category
@@ -1669,6 +1681,36 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
+('6695695750543','Occupational therapy')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9328807864645','History')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781841593210','Authors, Irish')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780312180508','Fiction')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781559631471','Nature')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
 ('2820182207572','Budget')
 ;
 
@@ -1676,6 +1718,12 @@ Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('3959761625206','Arts')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781891105609','Cooking')
 ;
 
 Insert into Category
@@ -1694,24 +1742,6 @@ Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('8742245958366','English literature')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('2408611876802','FICTION')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781481410250','Juvenile Fiction')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9783368312831','Fiction')
 ;
 
 Insert into Category
@@ -1753,13 +1783,19 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9781786633682','Political Science')
+('9780520073746','History')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('9781119387749','Language Arts & Disciplines')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9783030525316','Language Arts & Disciplines')
 ;
 
 Insert into Category
@@ -1777,13 +1813,19 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9781421422718','Medical')
+('4097794389367','Nuclear energy')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('4097794389367','Nuclear energy')
+('1913934642909','Cytology')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('7369633321814','Animal culture')
 ;
 
 Insert into Category
@@ -1807,12 +1849,6 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('7954709590878','Science')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
 ('9781425935610','Biography & Autobiography')
 ;
 
@@ -1825,13 +1861,19 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9781421419015','History')
+('8832616673365','Minnesota')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('9781481451789','Juvenile Fiction')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('8000520970880','Fiction')
 ;
 
 Insert into Category
@@ -1855,7 +1897,19 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9186434433209','Railroads')
+('3685738059399','Industrial productivity')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('6644809142395','Presidents')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('6595438145602','Proverbs')
 ;
 
 Insert into Category
@@ -1868,6 +1922,18 @@ Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('3869691509816','Great Britain')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('3477429766330','Religion')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('6925192377369','Capitalism')
 ;
 
 Insert into Category
@@ -1909,6 +1975,18 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
+('9781015515345','History')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780133445855','Business & Economics')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
 ('8000486343676','Subconsciousness in literature')
 ;
 
@@ -1928,12 +2006,6 @@ Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('2056065554756','Bonds')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9780310864608','Religion')
 ;
 
 Insert into Category
@@ -1963,13 +2035,7 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('5620654915840','History')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('8959971911182','Alcohols')
+('9781317010470','Religion')
 ;
 
 Insert into Category
@@ -1981,19 +2047,19 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9780190685836','Psychology')
+('1074359593248','Illumination of books and manuscripts, English')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('2827833055766','Medicine')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('9780811750585','History')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9780465076192','Performing Arts')
 ;
 
 Insert into Category
@@ -2006,24 +2072,6 @@ Insert into Category
 (`ISBN`,`CategoryName`)
 Values
 ('9838558083032','Income tax')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9780070954922','Canada')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('1348331681222','Law')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('6281241626728','United States')
 ;
 
 Insert into Category
@@ -2053,613 +2101,13 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('3962739542193','Asia, Southeastern')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9375229723294','Vocational education')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('5088410528789','Administrative law')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('1464178110564','Law reports, digests, etc')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9780333983713','Political Science')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('7750546535627','Indexes')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('1592025534234','DOS device drivers (Computer programs).')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9789601647869','Political Science')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9791220291989','Self-Help')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9791220294010','Self-Help')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9789601659497','Juvenile Fiction')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9789601655932','Medical')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9786180323948','Fiction')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9096085350159','Damascus Gate (Jerusalem)')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('6126663207309','Electronic journals')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('8843122548229','Private libraries')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('1125115413293','Documentary photography')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781119080022','Computers')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781725257511','Religion')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('7276931382468','Prodoxidae')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9783110567397','Literary Collections')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('7677649946027','Aeronautics')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781604131277','Animal migration')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('7432419165320','New Zealand')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781420017113','Technology & Engineering')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('4243835834855','Bridges, Concrete')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('1199768770505','Computers')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9964489713174','Meteorology')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('3817439810086','Mathematics')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781000886054','Education')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781844079117','Business & Economics')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781416925835','Childrens stories')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781788397339','Computers')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('8303401589159','Cincinnati (Ohio)')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781847032416','Antitrust law')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('3343993443555','Political Science')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781889545288','Science')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781108750912','Science')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('1524187592146','Entrepreneurship')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9789605725396','Fiction')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9789601657660','Fiction')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('1355341236322','Haiti')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9780202303444','Language Arts & Disciplines')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('8605900225030','Cardiac output')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9780425172308','Bible stories, English')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9788184002287','Literary Collections')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781472526885','Drama')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9780226359441','Nature')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9789004229129','Social Science')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9780470055984','Computers')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9780140073973','Travel')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('7336593547783','Actions and defenses')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('2332494260496','Asia')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9064363154053','Computation laboratories')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('6720433146318','Subject catalogs')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9789351295747','Medical')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9780080510514','Computers')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9880142375037','Computers')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('8384701687048','India')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('5345523076199','Gross national product')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('5221509491060','Employers liability')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('8160634951811','Nervous system')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('4146912208873','Indexes')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9780198751472','Philosophy')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('8778086134544','Geology')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9178180696511','Cabinet system')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9780958103404','Aboriginal Australians')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9526801292608','Decedents estates')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('8017305502370','Computers')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9780849359835','Medical')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9783764360498','Science')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9789811942709','Mathematics')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('4803294578242','Canada')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('8434486530641','Canada')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('3649168884223','Science')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781934454077','Business & Economics')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781462516315','Education')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('6695695750543','Occupational therapy')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9328807864645','History')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781841593210','Authors, Irish')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9780312180508','Fiction')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781559631471','Nature')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781788771405','Fiction')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('2655377408456','Grocery shopping')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781891105609','Cooking')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('8526552276284','Country music')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('8832616673365','Minnesota')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('8000520970880','Fiction')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('3685738059399','Industrial productivity')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('6644809142395','Presidents')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('6595438145602','Proverbs')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('3754107705670','Industrial policy')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('3477429766330','Religion')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('6925192377369','Capitalism')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781015515345','History')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9780133445855','Business & Economics')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781317010470','Religion')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('1074359593248','Illumination of books and manuscripts, English')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('1538603070876','Ireland')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9781440841347','Education')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
 ('9780062565723','Business & Economics')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9780786417018','History')
+('2020577020768','Stream measurements')
 ;
 
 Insert into Category
@@ -2683,7 +2131,37 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
+('3962739542193','Asia, Southeastern')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
 ('5712225515025','Bouyei language')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9375229723294','Vocational education')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('1464178110564','Law reports, digests, etc')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780333983713','Political Science')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('7750546535627','Indexes')
 ;
 
 Insert into Category
@@ -2701,7 +2179,25 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
+('9791220291989','Self-Help')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9791220294010','Self-Help')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
 ('9786180302950','Biography & Autobiography')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9789601655932','Medical')
 ;
 
 Insert into Category
@@ -2713,19 +2209,55 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
+('9786180323948','Fiction')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
 ('7204509298220','Costume')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9735532382518','Chinese language')
+('6126663207309','Electronic journals')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('8527462456836','Boundary element methods')
+('1125115413293','Documentary photography')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9783034804318','Mathematics')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('4802699305197','Foreign Language Study')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9225164550319','Literary Collections')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('6404731328106','Medical')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('7276931382468','Prodoxidae')
 ;
 
 Insert into Category
@@ -2737,7 +2269,55 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('2281987089953','CD-ROMs')
+('7613722763235','Medical')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('2794489780453','Courts')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('5721509925038','Meteorology')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('4197558888165','Appalachian Mountains')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('7432419165320','New Zealand')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('2722528225864','Asia')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780191064159','Religion')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9722440474332','Medical')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781420017113','Technology & Engineering')
 ;
 
 Insert into Category
@@ -2749,133 +2329,85 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('1552342606350','Metaphor')
+('4243835834855','Bridges, Concrete')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9781624427923','Education')
+('9788120311725','Computers')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('1392275054736','Arbitration, Industrial')
+('7816401486590','England')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('8871596802592','Education')
+('7223704992487','Mathematics')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('5422778111289','Policy sciences')
+('9780199093816','Business & Economics')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9781452212142','Education')
+('9781602682429','Juvenile Nonfiction')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('2543664589491','Anglo-Catholicism')
+('9781788397339','Computers')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9781509530786','Language Arts & Disciplines')
+('9780230626560','Political Science')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9781629899534','Micronesia')
+('9781500329747','Computers')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9780792364740','Mathematics')
+('9070875968183','Environment science')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9780810396814','Alle lande')
+('9780128202319','Medical')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9781000494860','Education')
+('1524187592146','Entrepreneurship')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9100501993211','Condensed matter')
+('9789601657660','Fiction')
 ;
 
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('9780520073746','History')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9783030525316','Language Arts & Disciplines')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('1913934642909','Cytology')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('8103504625193','East Lothian (Scotland)')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('7369633321814','Animal culture')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('2020577020768','Stream measurements')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('9780691155678','Biography & Autobiography')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('4670047440356','Art, Israeli')
-;
-
-Insert into Category
-(`ISBN`,`CategoryName`)
-Values
-('2344482497479','Astronomy')
+('8605900225030','Cardiac output')
 ;
 
 Insert into Category
@@ -2887,6 +2419,474 @@ Values
 Insert into Category
 (`ISBN`,`CategoryName`)
 Values
-('2827833055766','Medicine')
+('1606260990664','Economics')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('2058891975865','Biography & Autobiography')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781780966144','History')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('7336593547783','Actions and defenses')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('2332494260496','Asia')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('4163451179847','Libraries')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('6720433146318','Subject catalogs')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9789351295747','Medical')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781856047760','Language Arts & Disciplines')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('8384701687048','India')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('5221509491060','Employers liability')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('4190242034766','Comic books, strips, etc')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('8936672033318','Spheroidal functions')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('7006237746946','Science')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('2586979901438','Electronic journals')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('8859713910210','Science')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('5536507681039','Aeronautics')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('1221946840480','Basal ganglia')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780808018162','Subchapter S corporations')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781849967617','Technology & Engineering')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('8434486530641','Canada')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780135689813','Biochemistry')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('6474227330562','Great Britain')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781788771405','Fiction')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('2655377408456','Grocery shopping')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('2408611876802','FICTION')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781481410250','Juvenile Fiction')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9783368312831','Fiction')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781421419015','History')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9186434433209','Railroads')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780310864608','Religion')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('5620654915840','History')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780070954922','Canada')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('1348331681222','Law')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('1538603070876','Ireland')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781440841347','Education')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780786417018','History')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780691155678','Biography & Autobiography')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9789601647869','Political Science')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9789601659497','Juvenile Fiction')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('4670047440356','Art, Israeli')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9096085350159','Damascus Gate (Jerusalem)')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781108990592','Philosophy')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('5798719231991','England')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('7699762726243','Horror films')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9783110567397','Literary Collections')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9783642837135','Computers')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781568849003','Computers')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9789639776807','Performing Arts')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('7303985997123','Asphalt')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('8536357666710','Géographie économique - URSS - Cartes')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('2824404270223','Plastics')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('5422778111289','Policy sciences')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780321067159','Calculus')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780879093037','Computer programming')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9783662467923','Science')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('2872029262950','Generals')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781472526885','Drama')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780130129512','Microsoft Word')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780195373363','Foreign Language Study')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('3084374407813','Engineering design')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780191620607','Religion')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('8526552276284','Country music')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('8103504625193','East Lothian (Scotland)')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('3754107705670','Industrial policy')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780190685836','Psychology')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('6281241626728','United States')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('1592025534234','DOS device drivers (Computer programs).')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('3410521589779','Galen')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('4153904194880','Corporations')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('2064393478751','Libraries')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('2554739170737','Taxation')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781421422718','Medical')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('8959971911182','Alcohols')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('5088410528789','Administrative law')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9735532382518','Chinese language')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('2456863451804','Mathematics')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9781786633682','Political Science')
+;
+
+Insert into Category
+(`ISBN`,`CategoryName`)
+Values
+('9780465076192','Performing Arts')
 ;
 

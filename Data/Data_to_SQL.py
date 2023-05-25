@@ -9,9 +9,11 @@ import re
 import codecs
 import secrets
 import time
+import bcrypt
+import pymysql
 
 # path='/home/angelos/Documents/GitHub/Databases/'
-path='C:/Users/Aggelos/Documents/GitHub/Databases/'
+path='C:/Users/Aggelos/Documents/GitHub/Databases/Data/'
 
 def str_time_prop(start, end, time_format, prop):
     """Get a time at a proportion of a range of two formatted times.
@@ -44,10 +46,12 @@ def book_to_text():
     output_file3 = path+"Data/Keyword.sql"
     output_file4 = path+"Data/Summary.sql"
     output_file5 = path+"Data/Category.sql"
+    output_file6 = path+"Data/Image.sql"
     removedata(output_file2)
     removedata(output_file3)
     removedata(output_file4)
     removedata(output_file5)
+    removedata(output_file6)
 
     with open(input_file, "r") as file:
         data = json.load(file)
@@ -58,8 +62,10 @@ def book_to_text():
         Cat=[]
         Sum=[]
         Key=[]
+        Ima=[]
+        book_id=1
         for SchoolID in range(1,6):
-            book_id=1
+            
             #get all possible books
 
             for i, book in enumerate(data):
@@ -73,14 +79,15 @@ def book_to_text():
                     image = book.get("thumbnail", "*")
                     language = replace_special_characters(book.get("language", "*"))
                     file.write("Insert into Book\n")
-                    file.write("(`BookID`,`SchoolID`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Image`,`Language`)\n")
+                    file.write("(`BookID`,`SchoolID`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Language`)\n")
                     file.write("Values\n")
-                    file.write(f"('{book_id}','{SchoolID}','{title}','{publisher}','{isbn}','{num_of_pages}','{inventory}','{image}','{language}')\n")
+                    file.write(f"('{book_id}','{SchoolID}','{title}','{publisher}','{isbn}','{num_of_pages}',{inventory},'{language}')\n")
                     file.write(";\n\n")
                     Auth=addAuthor(isbn,book,output_file2,Auth)
                     Key=addKeyword(output_file3,book,isbn,Key)
                     Sum=addSummary(output_file4,book,isbn,Sum)
                     Cat=addCategory(output_file5,book,isbn,Cat)
+                    Ima=addImage(output_file6,image,isbn,Ima)
                     # addAuthor(SchoolID,book_id,book,output_file2)
                     # addKeyword(output_file3,book,book_id,SchoolID)
                     # addSummary(output_file4,book,book_id,SchoolID)
@@ -91,6 +98,18 @@ def book_to_text():
 
 
 
+def addImage(output_file,image,isbn,L):
+    if not isbn in L:
+        with open(output_file, "a", encoding="utf-8") as file:
+            file.write("Insert into Image\n")
+            file.write("(`ISBN`,`ImageLink`)\n")
+            file.write("Values\n")
+            file.write(f"('{isbn}','{image}')\n")
+            file.write(";\n\n")
+        L.append(isbn)
+    return L
+
+
 def addAuthor(isbn,book,output_file,L):
     if not isbn in L:
         with open(output_file, "a", encoding="utf-8") as file:
@@ -99,7 +118,7 @@ def addAuthor(isbn,book,output_file,L):
                 file.write("Insert into Author\n")
                 file.write("(`ISBN`,`AuthorName`)\n")
                 file.write("Values\n")
-                file.write(f"('{isbn}','{replace_special_characters(auth)}')\n")
+                file.write(f"({isbn},'{replace_special_characters(auth)}')\n")
                 file.write(";\n\n")
         L.append(isbn)
     return L
@@ -154,13 +173,13 @@ def user_to_text():
     removedata(output_file3)
     with open(output_file, "w", encoding="utf-8") as file:
         #5 schools
+        Userid=1
         for i in range(5):
             #100 people in school
             resID=1
             L=[]
             reviewid=1
             for j in range(100):
-                Password=secrets.token_urlsafe(13)
                 Roles=['Professor',"Student",
                     'Student','Student','Student',
                     'Student','Student','Student',
@@ -176,15 +195,17 @@ def user_to_text():
                 elif j==99:
                     Role='Administrator'
                 file.write("Insert into User\n")
-                file.write("(`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)\n")
+                file.write("(`UserID`,`SchoolID`,`Username`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)\n")
                 file.write("Values\n")
-                file.write(f"('{j+1}','{i+1}','{Username}','{Password}','{Role}','{FirstName}','{LastName}','{BorrowerCard}')\n")
+                file.write(f"('{Userid}','{i+1}','{Username}','{Role}','{FirstName}','{LastName}','{BorrowerCard}')\n")
                 file.write(";\n\n")
                 if random.randint(0, 5)==0:
-                    reviewid=addReview(output_file3,j+1,i+1,reviewid)
+                    reviewid=addReview(output_file3,Userid,i+1,reviewid)
                 if random.randint(0, 5)==0:
-                    L,resID=addReservation(output_file2,j+1,i+1,resID,L)
+                    L,resID=addReservation(output_file2,Userid,i+1,resID,L)
+                Userid+=1
     print("Data exported to", output_file)
+    print(f'We have Users from 1 to {Userid-1}')
 
 
 def school_to_text(output_file,lib_operator,SchoolID):
@@ -314,3 +335,5 @@ book_to_text()
 user_to_text()
 
 filesToOne(False)
+
+

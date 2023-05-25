@@ -1,1512 +1,1488 @@
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('1','1','4','274','5','It was a fantastic book, I highly recommend it.','Approved')
+('1','1','6','198','2','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('2','1','4','109','3','Its definitely one of my favorite books.','Approved')
+('2','1','9','349','4','I couldnt put it down; it was so good.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('3','1','18','228','2','Unfortunately, this book wasnt to my liking.','Approved')
+('3','1','9','143','2','I didnt enjoy reading it; it didnt resonate with me.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('4','1','18','475','3','I couldnt put it down; it was so good.','Approved')
+('4','1','9','177','4','The characters and story were incredibly well-developed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('5','1','18','133','2','Unfortunately, this book wasnt to my liking.','Approved')
+('5','1','40','373','4','I found it engaging and thought-provoking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('6','1','19','24','3','This book captivated me from start to finish.','Approved')
+('6','1','40','204','5','I found it engaging and thought-provoking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('7','1','19','484','1','I found it boring and couldnt get into it.','Approved')
+('7','1','42','320','5','The characters and story were incredibly well-developed.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('8','1','19','253','1','Unfortunately, this book wasnt to my liking.','Approved')
+('8','1','42','7','1','Unfortunately, this book wasnt to my liking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('9','1','19','262','5','I couldnt put it down; it was so good.','Approved')
+('9','1','42','197','1','It just wasnt my cup of tea.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('10','1','19','369','5','The characters and story were incredibly well-developed.','Approved')
+('10','1','53','280','2','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('11','1','21','39','5','I found it engaging and thought-provoking.','Approved')
+('11','1','53','364','2','It didnt meet my expectations; I was disappointed.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('12','1','36','352','4','The characters and story were incredibly well-developed.','Approved')
+('12','1','53','132','3','I couldnt put it down; it was so good.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('13','1','42','308','1','It just wasnt my cup of tea.','Rejected')
+('13','1','60','270','1','The plot felt weak and the characters were uninteresting.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('14','1','42','497','5','This book captivated me from start to finish.','Approved')
+('14','1','60','27','4','Its definitely one of my favorite books.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('15','1','42','473','1','I didnt enjoy reading it; it didnt resonate with me.','Rejected')
+('15','1','60','283','3','I couldnt put it down; it was so good.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('16','1','42','236','3','It was a fantastic book, I highly recommend it.','Approved')
+('16','1','74','238','2','I struggled to connect with the story or the writing style.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('17','1','42','305','3','I couldnt put it down; it was so good.','Approved')
+('17','1','74','344','1','It didnt meet my expectations; I was disappointed.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('18','1','48','37','5','I really enjoyed reading this book.','Approved')
+('18','1','74','194','4','I couldnt put it down; it was so good.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('19','1','48','351','4','Its definitely one of my favorite books.','Approved')
+('19','1','74','228','1','I struggled to connect with the story or the writing style.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('20','1','48','422','2','I struggled to connect with the story or the writing style.','Rejected')
+('20','1','74','311','3','I found it engaging and thought-provoking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('21','1','48','212','3','I really enjoyed reading this book.','Rejected')
+('21','1','92','456','2','Unfortunately, this book wasnt to my liking.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('22','1','49','256','4','I couldnt put it down; it was so good.','Approved')
+('22','1','92','405','4','This book captivated me from start to finish.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('23','1','49','142','1','I found it boring and couldnt get into it.','Approved')
+('23','1','92','395','1','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('24','1','52','435','5','The characters and story were incredibly well-developed.','Rejected')
+('24','1','92','371','3','Its definitely one of my favorite books.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('25','1','52','385','2','I found it boring and couldnt get into it.','Approved')
+('25','1','92','378','4','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('26','1','65','280','5','I found it engaging and thought-provoking.','Rejected')
+('26','1','93','454','5','I really enjoyed reading this book.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('27','1','65','160','2','I found it boring and couldnt get into it.','Approved')
+('27','1','93','104','1','I didnt enjoy reading it; it didnt resonate with me.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('28','1','68','208','1','Unfortunately, this book wasnt to my liking.','Approved')
+('28','1','93','123','2','I didnt enjoy reading it; it didnt resonate with me.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('29','1','79','348','2','I found it boring and couldnt get into it.','Approved')
+('1','2','118','314','1','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('30','1','79','450','5','The characters and story were incredibly well-developed.','Approved')
+('2','2','118','199','4','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('31','1','79','421','3','Its definitely one of my favorite books.','Approved')
+('3','2','122','394','2','It didnt meet my expectations; I was disappointed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('32','1','79','405','3','Its definitely one of my favorite books.','Approved')
+('4','2','122','140','2','It just wasnt my cup of tea.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('33','1','83','347','2','I didnt enjoy reading it; it didnt resonate with me.','Rejected')
+('5','2','122','11','3','The characters and story were incredibly well-developed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('34','1','83','120','3','The characters and story were incredibly well-developed.','Approved')
+('6','2','123','176','2','Unfortunately, this book wasnt to my liking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('35','1','83','231','1','I didnt enjoy reading it; it didnt resonate with me.','Rejected')
+('7','2','123','309','3','This book captivated me from start to finish.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('36','1','91','316','1','The plot felt weak and the characters were uninteresting.','Approved')
+('8','2','123','146','1','The plot felt weak and the characters were uninteresting.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('37','1','91','178','4','This book captivated me from start to finish.','Approved')
+('9','2','123','197','5','I found it engaging and thought-provoking.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('38','1','95','29','5','The characters and story were incredibly well-developed.','Approved')
+('10','2','123','65','4','This book captivated me from start to finish.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('39','1','95','252','3','I couldnt put it down; it was so good.','Approved')
+('11','2','127','68','4','I couldnt put it down; it was so good.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('1','2','10','102','5','I couldnt put it down; it was so good.','Approved')
+('12','2','127','353','2','I found it boring and couldnt get into it.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('2','2','10','200','3','Its definitely one of my favorite books.','Approved')
+('13','2','127','102','5','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('3','2','10','21','4','Its definitely one of my favorite books.','Approved')
+('14','2','127','260','1','It just wasnt my cup of tea.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('4','2','11','243','2','It just wasnt my cup of tea.','Approved')
+('15','2','127','310','2','The plot felt weak and the characters were uninteresting.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('5','2','12','481','3','This book captivated me from start to finish.','Approved')
+('16','2','129','291','1','It just wasnt my cup of tea.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('6','2','12','269','4','The characters and story were incredibly well-developed.','Approved')
+('17','2','129','128','1','The plot felt weak and the characters were uninteresting.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('7','2','12','19','1','I struggled to connect with the story or the writing style.','Approved')
+('18','2','129','369','2','The plot felt weak and the characters were uninteresting.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('8','2','12','320','3','I really enjoyed reading this book.','Approved')
+('19','2','129','165','4','I couldnt put it down; it was so good.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('9','2','12','172','2','Unfortunately, this book wasnt to my liking.','Approved')
+('20','2','131','411','2','Unfortunately, this book wasnt to my liking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('10','2','18','434','2','The plot felt weak and the characters were uninteresting.','Approved')
+('21','2','141','197','5','This book captivated me from start to finish.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('11','2','18','438','5','I really enjoyed reading this book.','Rejected')
+('22','2','141','70','3','I really enjoyed reading this book.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('12','2','18','150','5','The characters and story were incredibly well-developed.','Approved')
+('23','2','141','37','4','It was a fantastic book, I highly recommend it.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('13','2','18','314','4','I found it engaging and thought-provoking.','Approved')
+('24','2','141','179','5','Its definitely one of my favorite books.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('14','2','18','306','2','I struggled to connect with the story or the writing style.','Approved')
+('25','2','141','363','4','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('15','2','38','281','1','It just wasnt my cup of tea.','Approved')
+('26','2','147','387','5','I found it engaging and thought-provoking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('16','2','38','211','1','I struggled to connect with the story or the writing style.','Approved')
+('27','2','147','21','4','This book captivated me from start to finish.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('17','2','38','288','3','I couldnt put it down; it was so good.','Rejected')
+('28','2','147','192','3','The characters and story were incredibly well-developed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('18','2','38','383','3','It was a fantastic book, I highly recommend it.','Approved')
+('29','2','148','118','3','The characters and story were incredibly well-developed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('19','2','39','128','1','The plot felt weak and the characters were uninteresting.','Approved')
+('30','2','148','257','4','Its definitely one of my favorite books.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('20','2','39','321','4','I really enjoyed reading this book.','Approved')
+('31','2','149','493','1','I struggled to connect with the story or the writing style.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('21','2','39','250','3','The characters and story were incredibly well-developed.','Approved')
+('32','2','149','380','4','I really enjoyed reading this book.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('22','2','39','311','4','The characters and story were incredibly well-developed.','Approved')
+('33','2','149','311','5','I couldnt put it down; it was so good.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('23','2','52','313','5','Its definitely one of my favorite books.','Approved')
+('34','2','149','345','3','Its definitely one of my favorite books.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('24','2','53','396','4','I couldnt put it down; it was so good.','Approved')
+('35','2','149','31','5','The characters and story were incredibly well-developed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('25','2','54','118','3','I really enjoyed reading this book.','Approved')
+('36','2','151','475','4','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('26','2','54','272','2','I didnt enjoy reading it; it didnt resonate with me.','Approved')
+('37','2','151','69','5','I couldnt put it down; it was so good.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('27','2','54','495','2','Unfortunately, this book wasnt to my liking.','Approved')
+('38','2','151','10','2','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('28','2','54','359','4','This book captivated me from start to finish.','Approved')
+('39','2','153','437','3','Its definitely one of my favorite books.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('29','2','55','60','1','Unfortunately, this book wasnt to my liking.','Approved')
+('40','2','153','188','5','I really enjoyed reading this book.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('30','2','55','358','4','I couldnt put it down; it was so good.','Rejected')
+('41','2','153','488','3','I found it engaging and thought-provoking.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('31','2','55','279','1','I didnt enjoy reading it; it didnt resonate with me.','Approved')
+('42','2','155','229','3','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('32','2','55','473','3','The characters and story were incredibly well-developed.','Approved')
+('43','2','155','275','1','It didnt meet my expectations; I was disappointed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('33','2','60','260','5','I really enjoyed reading this book.','Approved')
+('44','2','155','360','4','I found it engaging and thought-provoking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('34','2','60','452','4','I found it engaging and thought-provoking.','Rejected')
+('45','2','155','97','5','This book captivated me from start to finish.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('35','2','60','235','2','I didnt enjoy reading it; it didnt resonate with me.','Approved')
+('46','2','155','451','3','I found it engaging and thought-provoking.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('36','2','60','80','1','The plot felt weak and the characters were uninteresting.','Approved')
+('47','2','159','494','3','Its definitely one of my favorite books.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('37','2','67','453','2','I struggled to connect with the story or the writing style.','Approved')
+('48','2','159','426','4','Its definitely one of my favorite books.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('38','2','67','322','3','Its definitely one of my favorite books.','Approved')
+('49','2','161','386','1','It didnt meet my expectations; I was disappointed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('39','2','67','153','5','I couldnt put it down; it was so good.','Approved')
+('50','2','161','345','1','The plot felt weak and the characters were uninteresting.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('40','2','67','224','4','I really enjoyed reading this book.','Approved')
+('51','2','161','372','5','I couldnt put it down; it was so good.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('41','2','67','463','1','The plot felt weak and the characters were uninteresting.','Approved')
+('52','2','163','329','3','I couldnt put it down; it was so good.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('42','2','87','126','2','I struggled to connect with the story or the writing style.','Approved')
+('53','2','163','350','1','I didnt enjoy reading it; it didnt resonate with me.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('43','2','87','276','4','It was a fantastic book, I highly recommend it.','Rejected')
+('54','2','163','156','2','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('44','2','97','166','3','The characters and story were incredibly well-developed.','Approved')
+('55','2','163','399','3','This book captivated me from start to finish.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('45','2','97','472','5','I really enjoyed reading this book.','Rejected')
+('56','2','163','130','4','Its definitely one of my favorite books.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('46','2','99','72','1','It just wasnt my cup of tea.','Approved')
+('57','2','179','458','3','I found it engaging and thought-provoking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('47','2','99','341','1','The plot felt weak and the characters were uninteresting.','Rejected')
+('58','2','180','143','5','I really enjoyed reading this book.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('48','2','99','51','4','It was a fantastic book, I highly recommend it.','Approved')
+('59','2','180','7','5','Its definitely one of my favorite books.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('1','3','3','327','3','I found it engaging and thought-provoking.','Rejected')
+('60','2','180','425','3','I really enjoyed reading this book.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('2','3','3','66','2','Unfortunately, this book wasnt to my liking.','Approved')
+('61','2','180','170','4','I really enjoyed reading this book.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('3','3','3','16','1','It just wasnt my cup of tea.','Rejected')
+('62','2','180','306','3','I couldnt put it down; it was so good.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('4','3','9','496','1','I didnt enjoy reading it; it didnt resonate with me.','Approved')
+('63','2','181','300','2','I didnt enjoy reading it; it didnt resonate with me.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('5','3','9','324','1','I didnt enjoy reading it; it didnt resonate with me.','Approved')
+('64','2','181','473','2','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('6','3','9','321','3','This book captivated me from start to finish.','Approved')
+('65','2','198','78','5','I couldnt put it down; it was so good.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('7','3','10','271','2','Unfortunately, this book wasnt to my liking.','Approved')
+('66','2','198','394','3','I really enjoyed reading this book.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('8','3','10','485','1','It didnt meet my expectations; I was disappointed.','Approved')
+('67','2','198','474','5','I couldnt put it down; it was so good.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('9','3','10','285','3','I found it engaging and thought-provoking.','Approved')
+('1','3','205','281','2','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('10','3','10','104','2','I found it boring and couldnt get into it.','Approved')
+('2','3','205','287','4','I really enjoyed reading this book.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('11','3','31','335','4','It was a fantastic book, I highly recommend it.','Rejected')
+('3','3','205','206','5','The characters and story were incredibly well-developed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('12','3','31','246','5','I found it engaging and thought-provoking.','Approved')
+('4','3','212','259','5','I really enjoyed reading this book.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('13','3','31','93','1','I found it boring and couldnt get into it.','Rejected')
+('5','3','212','127','2','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('14','3','41','403','2','I struggled to connect with the story or the writing style.','Rejected')
+('6','3','212','296','1','I didnt enjoy reading it; it didnt resonate with me.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('15','3','47','494','4','I found it engaging and thought-provoking.','Rejected')
+('7','3','215','473','2','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('16','3','47','257','3','I couldnt put it down; it was so good.','Approved')
+('8','3','217','443','5','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('17','3','47','197','2','It just wasnt my cup of tea.','Approved')
+('9','3','217','272','5','I really enjoyed reading this book.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('18','3','54','400','3','I really enjoyed reading this book.','Approved')
+('10','3','217','239','1','The plot felt weak and the characters were uninteresting.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('19','3','54','157','5','It was a fantastic book, I highly recommend it.','Approved')
+('11','3','217','411','3','I found it engaging and thought-provoking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('20','3','54','461','2','It just wasnt my cup of tea.','Approved')
+('12','3','223','439','5','This book captivated me from start to finish.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('21','3','58','149','4','Its definitely one of my favorite books.','Approved')
+('13','3','230','447','4','I really enjoyed reading this book.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('22','3','58','342','1','It didnt meet my expectations; I was disappointed.','Approved')
+('14','3','230','452','5','It was a fantastic book, I highly recommend it.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('23','3','69','491','3','I really enjoyed reading this book.','Approved')
+('15','3','242','202','2','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('24','3','71','116','5','The characters and story were incredibly well-developed.','Approved')
+('16','3','242','411','5','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('25','3','71','387','4','I found it engaging and thought-provoking.','Approved')
+('17','3','242','119','3','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('26','3','71','284','4','Its definitely one of my favorite books.','Approved')
+('18','3','249','161','4','I found it engaging and thought-provoking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('27','3','80','5','3','It was a fantastic book, I highly recommend it.','Approved')
+('19','3','249','408','3','I couldnt put it down; it was so good.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('28','3','82','96','5','I found it engaging and thought-provoking.','Rejected')
+('20','3','249','476','2','Unfortunately, this book wasnt to my liking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('29','3','84','399','1','It didnt meet my expectations; I was disappointed.','Approved')
+('21','3','249','464','1','It didnt meet my expectations; I was disappointed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('30','3','84','200','3','It was a fantastic book, I highly recommend it.','Approved')
+('22','3','249','346','1','The plot felt weak and the characters were uninteresting.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('31','3','84','60','3','I really enjoyed reading this book.','Rejected')
+('23','3','268','50','3','The characters and story were incredibly well-developed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('32','3','85','136','2','I struggled to connect with the story or the writing style.','Rejected')
+('24','3','268','124','5','This book captivated me from start to finish.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('33','3','85','83','5','Its definitely one of my favorite books.','Rejected')
+('25','3','268','178','4','I found it engaging and thought-provoking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('34','3','87','223','3','It was a fantastic book, I highly recommend it.','Approved')
+('26','3','271','97','3','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('35','3','95','6','1','Unfortunately, this book wasnt to my liking.','Approved')
+('27','3','271','454','5','The characters and story were incredibly well-developed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('36','3','95','403','1','It just wasnt my cup of tea.','Approved')
+('28','3','271','386','4','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('37','3','95','148','5','I couldnt put it down; it was so good.','Approved')
+('29','3','275','409','2','The plot felt weak and the characters were uninteresting.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('38','3','95','21','3','I couldnt put it down; it was so good.','Approved')
+('30','3','283','120','3','I found it engaging and thought-provoking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('39','3','95','352','5','Its definitely one of my favorite books.','Rejected')
+('31','3','283','229','1','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('1','4','1','230','5','I really enjoyed reading this book.','Approved')
+('32','3','283','282','3','I really enjoyed reading this book.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('2','4','1','149','4','It was a fantastic book, I highly recommend it.','Approved')
+('33','3','283','221','4','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('3','4','1','359','3','I found it engaging and thought-provoking.','Rejected')
+('34','3','300','95','3','The characters and story were incredibly well-developed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('4','4','7','444','4','I found it engaging and thought-provoking.','Approved')
+('35','3','300','195','2','Unfortunately, this book wasnt to my liking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('5','4','13','224','5','It was a fantastic book, I highly recommend it.','Approved')
+('36','3','300','29','2','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('6','4','13','388','1','I found it boring and couldnt get into it.','Approved')
+('37','3','300','372','5','I really enjoyed reading this book.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('7','4','13','463','1','Unfortunately, this book wasnt to my liking.','Approved')
+('38','3','300','475','5','I really enjoyed reading this book.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('8','4','13','179','5','Its definitely one of my favorite books.','Approved')
+('1','4','304','67','3','Its definitely one of my favorite books.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('9','4','13','344','1','I didnt enjoy reading it; it didnt resonate with me.','Approved')
+('2','4','304','145','5','I really enjoyed reading this book.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('10','4','14','372','4','Its definitely one of my favorite books.','Approved')
+('3','4','304','114','4','The characters and story were incredibly well-developed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('11','4','14','281','5','I really enjoyed reading this book.','Rejected')
+('4','4','304','139','4','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('12','4','14','163','2','I struggled to connect with the story or the writing style.','Approved')
+('5','4','313','494','4','I really enjoyed reading this book.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('13','4','14','178','3','The characters and story were incredibly well-developed.','Rejected')
+('6','4','313','333','3','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('14','4','14','230','2','I didnt enjoy reading it; it didnt resonate with me.','Rejected')
+('7','4','315','320','1','I didnt enjoy reading it; it didnt resonate with me.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('15','4','24','309','2','I didnt enjoy reading it; it didnt resonate with me.','Approved')
+('8','4','315','72','5','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('16','4','24','336','3','The characters and story were incredibly well-developed.','Approved')
+('9','4','315','209','2','It just wasnt my cup of tea.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('17','4','24','216','1','I struggled to connect with the story or the writing style.','Rejected')
+('10','4','315','215','1','I didnt enjoy reading it; it didnt resonate with me.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('18','4','24','228','1','It didnt meet my expectations; I was disappointed.','Approved')
+('11','4','317','178','3','I really enjoyed reading this book.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('19','4','24','189','3','I really enjoyed reading this book.','Approved')
+('12','4','317','109','1','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('20','4','26','159','4','This book captivated me from start to finish.','Rejected')
+('13','4','331','19','1','Unfortunately, this book wasnt to my liking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('21','4','26','251','4','The characters and story were incredibly well-developed.','Approved')
+('14','4','331','34','4','This book captivated me from start to finish.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('22','4','26','472','4','I found it engaging and thought-provoking.','Rejected')
+('15','4','331','458','2','The plot felt weak and the characters were uninteresting.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('23','4','38','314','2','I didnt enjoy reading it; it didnt resonate with me.','Approved')
+('16','4','337','441','1','It just wasnt my cup of tea.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('24','4','42','206','4','It was a fantastic book, I highly recommend it.','Approved')
+('17','4','337','384','4','I couldnt put it down; it was so good.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('25','4','42','210','3','I found it engaging and thought-provoking.','Approved')
+('18','4','337','424','4','Its definitely one of my favorite books.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('26','4','42','359','4','The characters and story were incredibly well-developed.','Approved')
+('19','4','338','235','2','The plot felt weak and the characters were uninteresting.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('27','4','42','274','4','I really enjoyed reading this book.','Approved')
+('20','4','338','454','2','Unfortunately, this book wasnt to my liking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('28','4','42','344','4','Its definitely one of my favorite books.','Approved')
+('21','4','338','24','4','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('29','4','44','230','1','Unfortunately, this book wasnt to my liking.','Approved')
+('22','4','338','238','3','I really enjoyed reading this book.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('30','4','44','337','4','I really enjoyed reading this book.','Approved')
+('23','4','339','288','4','I really enjoyed reading this book.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('31','4','47','384','5','This book captivated me from start to finish.','Rejected')
+('24','4','339','258','2','Unfortunately, this book wasnt to my liking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('32','4','47','143','1','I found it boring and couldnt get into it.','Approved')
+('25','4','339','412','2','It just wasnt my cup of tea.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('33','4','47','343','4','Its definitely one of my favorite books.','Approved')
+('26','4','339','247','3','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('34','4','48','216','3','The characters and story were incredibly well-developed.','Rejected')
+('27','4','339','64','2','I found it boring and couldnt get into it.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('35','4','48','402','4','I found it engaging and thought-provoking.','Rejected')
+('28','4','344','100','4','I couldnt put it down; it was so good.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('36','4','48','221','2','It didnt meet my expectations; I was disappointed.','Rejected')
+('29','4','344','471','5','This book captivated me from start to finish.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('37','4','48','324','4','Its definitely one of my favorite books.','Approved')
+('30','4','344','46','4','The characters and story were incredibly well-developed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('38','4','48','48','5','I really enjoyed reading this book.','Rejected')
+('31','4','344','15','2','Unfortunately, this book wasnt to my liking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('39','4','52','396','5','I found it engaging and thought-provoking.','Approved')
+('32','4','352','117','2','It just wasnt my cup of tea.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('40','4','52','31','4','Its definitely one of my favorite books.','Approved')
+('33','4','352','58','5','This book captivated me from start to finish.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('41','4','52','87','2','I didnt enjoy reading it; it didnt resonate with me.','Approved')
+('34','4','352','397','3','I really enjoyed reading this book.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('42','4','57','94','3','This book captivated me from start to finish.','Rejected')
+('35','4','352','484','4','This book captivated me from start to finish.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('43','4','57','89','2','I didnt enjoy reading it; it didnt resonate with me.','Approved')
+('36','4','352','487','2','It didnt meet my expectations; I was disappointed.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('44','4','57','443','5','This book captivated me from start to finish.','Approved')
+('37','4','354','149','4','I couldnt put it down; it was so good.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('45','4','57','377','4','I found it engaging and thought-provoking.','Approved')
+('38','4','354','261','1','It didnt meet my expectations; I was disappointed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('46','4','63','334','4','I found it engaging and thought-provoking.','Approved')
+('39','4','358','448','5','Its definitely one of my favorite books.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('47','4','63','213','4','I really enjoyed reading this book.','Approved')
+('40','4','360','185','5','Its definitely one of my favorite books.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('48','4','63','153','4','It was a fantastic book, I highly recommend it.','Rejected')
+('41','4','360','336','2','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('49','4','63','114','2','Unfortunately, this book wasnt to my liking.','Rejected')
+('42','4','362','105','4','This book captivated me from start to finish.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('50','4','63','495','2','Unfortunately, this book wasnt to my liking.','Approved')
+('43','4','362','296','5','The characters and story were incredibly well-developed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('51','4','65','301','2','It didnt meet my expectations; I was disappointed.','Approved')
+('44','4','362','440','2','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('52','4','65','196','1','I struggled to connect with the story or the writing style.','Approved')
+('45','4','365','140','1','Unfortunately, this book wasnt to my liking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('53','4','65','178','2','I didnt enjoy reading it; it didnt resonate with me.','Rejected')
+('46','4','365','130','4','Its definitely one of my favorite books.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('54','4','65','442','1','It didnt meet my expectations; I was disappointed.','Approved')
+('47','4','365','162','4','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('55','4','66','364','5','Its definitely one of my favorite books.','Approved')
+('48','4','365','30','5','I really enjoyed reading this book.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('56','4','66','146','1','I didnt enjoy reading it; it didnt resonate with me.','Approved')
+('49','4','365','488','2','I struggled to connect with the story or the writing style.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('57','4','66','6','2','Unfortunately, this book wasnt to my liking.','Rejected')
+('50','4','371','458','3','I found it engaging and thought-provoking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('58','4','66','168','1','I struggled to connect with the story or the writing style.','Rejected')
+('51','4','371','102','3','The characters and story were incredibly well-developed.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('59','4','67','414','1','Unfortunately, this book wasnt to my liking.','Approved')
+('52','4','371','92','4','I couldnt put it down; it was so good.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('60','4','67','475','3','I found it engaging and thought-provoking.','Approved')
+('53','4','371','481','1','I struggled to connect with the story or the writing style.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('61','4','67','41','4','I couldnt put it down; it was so good.','Approved')
+('54','4','372','22','2','It just wasnt my cup of tea.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('62','4','73','16','2','I struggled to connect with the story or the writing style.','Rejected')
+('55','4','372','500','3','I found it engaging and thought-provoking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('63','4','73','404','1','It just wasnt my cup of tea.','Approved')
+('56','4','372','487','2','The plot felt weak and the characters were uninteresting.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('64','4','73','144','4','Its definitely one of my favorite books.','Approved')
+('57','4','375','297','2','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('65','4','73','64','4','This book captivated me from start to finish.','Approved')
+('58','4','375','443','4','I really enjoyed reading this book.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('66','4','76','87','1','I struggled to connect with the story or the writing style.','Rejected')
+('59','4','375','33','3','I really enjoyed reading this book.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('67','4','76','38','2','It didnt meet my expectations; I was disappointed.','Approved')
+('60','4','376','422','4','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('68','4','76','175','3','The characters and story were incredibly well-developed.','Approved')
+('61','4','376','397','1','I didnt enjoy reading it; it didnt resonate with me.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('69','4','76','318','5','The characters and story were incredibly well-developed.','Approved')
+('62','4','376','356','3','This book captivated me from start to finish.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('70','4','84','451','5','This book captivated me from start to finish.','Approved')
+('63','4','376','450','2','It didnt meet my expectations; I was disappointed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('71','4','84','384','1','It just wasnt my cup of tea.','Rejected')
+('64','4','386','137','4','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('72','4','84','217','3','Its definitely one of my favorite books.','Approved')
+('65','4','386','457','3','I found it engaging and thought-provoking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('73','4','84','338','5','This book captivated me from start to finish.','Approved')
+('66','4','386','61','2','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('74','4','84','342','2','I struggled to connect with the story or the writing style.','Approved')
+('67','4','394','255','3','I found it engaging and thought-provoking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('75','4','85','376','3','Its definitely one of my favorite books.','Approved')
+('68','4','394','8','2','The plot felt weak and the characters were uninteresting.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('76','4','85','297','2','I didnt enjoy reading it; it didnt resonate with me.','Approved')
+('69','4','394','47','1','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('77','4','85','238','4','I really enjoyed reading this book.','Approved')
+('70','4','398','82','1','It just wasnt my cup of tea.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('78','4','85','464','1','I didnt enjoy reading it; it didnt resonate with me.','Approved')
+('71','4','398','128','2','The plot felt weak and the characters were uninteresting.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('79','4','97','199','4','This book captivated me from start to finish.','Approved')
+('72','4','398','183','4','I found it engaging and thought-provoking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('80','4','97','81','4','I couldnt put it down; it was so good.','Approved')
+('73','4','399','135','1','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('81','4','97','95','3','Its definitely one of my favorite books.','Rejected')
+('74','4','399','74','3','The characters and story were incredibly well-developed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('82','4','97','287','4','The characters and story were incredibly well-developed.','Approved')
+('75','4','399','208','3','I found it engaging and thought-provoking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('83','4','97','139','3','It was a fantastic book, I highly recommend it.','Approved')
+('1','5','406','391','2','I didnt enjoy reading it; it didnt resonate with me.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('1','5','10','76','4','The characters and story were incredibly well-developed.','Approved')
+('2','5','406','68','5','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('2','5','17','344','2','Unfortunately, this book wasnt to my liking.','Rejected')
+('3','5','407','233','5','I found it engaging and thought-provoking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('3','5','17','185','2','It didnt meet my expectations; I was disappointed.','Approved')
+('4','5','407','357','4','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('4','5','17','442','4','This book captivated me from start to finish.','Approved')
+('5','5','407','474','3','This book captivated me from start to finish.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('5','5','17','217','3','Its definitely one of my favorite books.','Approved')
+('6','5','416','301','3','The characters and story were incredibly well-developed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('6','5','17','77','2','I didnt enjoy reading it; it didnt resonate with me.','Approved')
+('7','5','416','461','2','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('7','5','25','274','2','I didnt enjoy reading it; it didnt resonate with me.','Approved')
+('8','5','416','105','5','I really enjoyed reading this book.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('8','5','25','21','1','It didnt meet my expectations; I was disappointed.','Approved')
+('9','5','416','477','2','It didnt meet my expectations; I was disappointed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('9','5','25','95','3','It was a fantastic book, I highly recommend it.','Approved')
+('10','5','416','416','2','I found it boring and couldnt get into it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('10','5','25','318','3','I found it engaging and thought-provoking.','Approved')
+('11','5','418','431','2','The plot felt weak and the characters were uninteresting.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('11','5','41','344','1','I found it boring and couldnt get into it.','Approved')
+('12','5','418','384','5','I found it engaging and thought-provoking.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('12','5','44','46','1','I struggled to connect with the story or the writing style.','Rejected')
+('13','5','418','23','1','It didnt meet my expectations; I was disappointed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('13','5','44','83','5','I found it engaging and thought-provoking.','Rejected')
+('14','5','420','33','1','It didnt meet my expectations; I was disappointed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('14','5','52','182','3','This book captivated me from start to finish.','Approved')
+('15','5','420','91','1','Unfortunately, this book wasnt to my liking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('15','5','55','396','3','I found it engaging and thought-provoking.','Approved')
+('16','5','446','441','3','This book captivated me from start to finish.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('16','5','55','64','3','I really enjoyed reading this book.','Approved')
+('17','5','449','39','3','The characters and story were incredibly well-developed.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('17','5','55','341','2','I struggled to connect with the story or the writing style.','Rejected')
+('18','5','449','360','2','It just wasnt my cup of tea.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('18','5','55','496','4','I really enjoyed reading this book.','Approved')
+('19','5','449','254','4','I found it engaging and thought-provoking.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('19','5','55','137','2','Unfortunately, this book wasnt to my liking.','Approved')
+('20','5','449','217','2','It didnt meet my expectations; I was disappointed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('20','5','65','296','1','The plot felt weak and the characters were uninteresting.','Approved')
+('21','5','449','174','3','I really enjoyed reading this book.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('21','5','65','46','5','This book captivated me from start to finish.','Approved')
+('22','5','451','125','3','The characters and story were incredibly well-developed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('22','5','65','31','1','I found it boring and couldnt get into it.','Approved')
+('23','5','451','397','4','I really enjoyed reading this book.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('23','5','66','293','1','It just wasnt my cup of tea.','Approved')
+('24','5','456','352','2','I didnt enjoy reading it; it didnt resonate with me.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('24','5','67','154','2','It didnt meet my expectations; I was disappointed.','Approved')
+('25','5','456','361','1','I didnt enjoy reading it; it didnt resonate with me.','Rejected')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('25','5','67','28','5','It was a fantastic book, I highly recommend it.','Rejected')
+('26','5','460','246','3','I found it engaging and thought-provoking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('26','5','67','124','2','I struggled to connect with the story or the writing style.','Rejected')
+('27','5','460','192','5','I found it engaging and thought-provoking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('27','5','67','157','2','Unfortunately, this book wasnt to my liking.','Approved')
+('28','5','460','97','2','I struggled to connect with the story or the writing style.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('28','5','67','356','3','Its definitely one of my favorite books.','Approved')
+('29','5','460','407','5','I couldnt put it down; it was so good.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('29','5','69','85','5','I found it engaging and thought-provoking.','Approved')
+('30','5','460','292','5','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('30','5','69','20','3','I really enjoyed reading this book.','Approved')
+('31','5','462','71','4','It was a fantastic book, I highly recommend it.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('31','5','83','159','2','It didnt meet my expectations; I was disappointed.','Approved')
+('32','5','462','3','1','The plot felt weak and the characters were uninteresting.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('32','5','83','364','5','I really enjoyed reading this book.','Rejected')
+('33','5','477','165','1','I struggled to connect with the story or the writing style.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('33','5','84','270','5','This book captivated me from start to finish.','Approved')
+('34','5','477','81','1','The plot felt weak and the characters were uninteresting.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('34','5','84','230','5','I found it engaging and thought-provoking.','Approved')
+('35','5','477','155','1','Unfortunately, this book wasnt to my liking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('35','5','84','145','2','I didnt enjoy reading it; it didnt resonate with me.','Approved')
+('36','5','477','292','5','I really enjoyed reading this book.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('36','5','84','422','1','Unfortunately, this book wasnt to my liking.','Approved')
+('37','5','477','404','5','The characters and story were incredibly well-developed.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('37','5','89','127','4','It was a fantastic book, I highly recommend it.','Approved')
+('38','5','500','417','3','I really enjoyed reading this book.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('38','5','97','236','5','The characters and story were incredibly well-developed.','Rejected')
+('39','5','500','171','3','I found it engaging and thought-provoking.','Approved')
 ;
 
 Insert into Review
 (`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
 Values
-('39','5','99','394','5','Its definitely one of my favorite books.','Approved')
-;
-
-Insert into Review
-(`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
-Values
-('40','5','99','72','4','This book captivated me from start to finish.','Approved')
-;
-
-Insert into Review
-(`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
-Values
-('41','5','99','32','1','I found it boring and couldnt get into it.','Approved')
-;
-
-Insert into Review
-(`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
-Values
-('42','5','100','20','1','I didnt enjoy reading it; it didnt resonate with me.','Approved')
-;
-
-Insert into Review
-(`ReviewID`,`SchoolID`,`UserID`,`BookID`,`Rating`,`Comment`,`ApprovalStatus`)
-Values
-('43','5','100','207','5','I found it engaging and thought-provoking.','Rejected')
+('40','5','500','288','3','Its definitely one of my favorite books.','Approved')
 ;
 
