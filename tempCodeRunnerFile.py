@@ -1,2 +1,3 @@
+()
 
-mycursor.execute("CREATE
+user_to_text()

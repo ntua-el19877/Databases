@@ -1,3000 +1,3000 @@
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('1','1','William815','eCXFzJSrOKQT340_2A','Student','William','Balentine','7541094888853')
+('1','1','Shane875','yjeWqutC8iL0vB7Igg','Student','Shane','Just','1348413510050')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('2','1','Sandra360','4lWMSHoF8dr58t_4DA','Student','Sandra','Mcdermott','2348191036278')
+('2','1','Agnes617','qYnCcMGHTI_OUI8hvg','Student','Agnes','Rouse','5708332464129')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('3','1','Dora209','6wRfH3iTYsSayEpR0A','Student','Dora','Calhoun','8232412248078')
+('3','1','Steve228','XssCOivq_sh4eKuOQw','Student','Steve','Broaddus','8662588801945')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('4','1','Rita614','IWMbdlcv-WQEeEM9Nw','Professor','Rita','Hicks','6481622515796')
+('4','1','Alma858','VOPQLqFWHxW0PA5E9w','Student','Alma','Corley','1835807416532')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('5','1','Magaret497','o2k4YliWiQ5FcfuCeg','Student','Magaret','Baxter','1345050598171')
+('5','1','Patrick986','TMqCDgzrMwVuTCpdDQ','Student','Patrick','Willie','7557655314448')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('6','1','Wanda877','dxSO0XMEQ0lV2kb0Vw','Student','Wanda','Jerome','6346688071056')
+('6','1','Paul590','W2h9aAF-jHOXVtkaUA','Professor','Paul','Devoll','2008289907294')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('7','1','Verna645','9qsVbaajLRoznCI2bg','Student','Verna','Potts','9269319291664')
+('7','1','Gladys629','3J0x-CEfb6xDRiuaaQ','Student','Gladys','Roach','7180658636793')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('8','1','Christine935','YmpTMrlYlNSZDd1kYw','Professor','Christine','Erwin','5509572448362')
+('8','1','John472','-EAArpa4TUJjgQzjjQ','Student','John','Basham','6991071850948')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('9','1','Pamela575','nUdlgra4gFbWnOTHVQ','Student','Pamela','Sanderlin','5722598009887')
+('9','1','Donna934','H2SDVn7RkKAWG62dCg','Student','Donna','Taylor','8708591402229')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('10','1','Ernest798','P3YnBBZ4iWEETLbq0w','Student','Ernest','Tutwiler','3712744070503')
+('10','1','Elnora135','uL3XjEdVPafwU_alkg','Student','Elnora','Rivera','8943500401404')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('11','1','Virgie858','Rb4itG6UDDjS_WY8Pw','Student','Virgie','Salberg','3525214272435')
+('11','1','Theresa874','KYZD8BFSYMvZBtjT8A','Student','Theresa','Stokes','3360978173983')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('12','1','Teresa973','0Ku_2uxXdAtyPHAEfA','Student','Teresa','Wood','2101828131298')
+('12','1','Josefina287','bvsHuWVh9fibr5eIvg','Student','Josefina','West','9708823897628')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('13','1','Claudia565','AsYcHroukZSuYYfnpw','Student','Claudia','Perry','3963115329781')
+('13','1','Harold343','hqlWGdtWlcSP2S4MVQ','Student','Harold','Duran','2068320366967')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('14','1','Mandy835','JQ9d6txJCSqxuzGS9A','Student','Mandy','Parnell','8109189260218')
+('14','1','Gerald169','vJmIjbhbV9XPQzT96w','Student','Gerald','Renard','9363756048886')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('15','1','Stephen336','j3-MrulQ3Kwd2GsNsw','Student','Stephen','Lange','2871640728249')
+('15','1','Pamela170','KAezC4Mvqos42qKTfQ','Professor','Pamela','Fanelli','9136437276856')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('16','1','Lawrence282','ssifNGMFYLhyz-wleQ','Professor','Lawrence','Zinger','8409227827396')
+('16','1','Mai423','tkE_H0e5-kj6ess59g','Professor','Mai','Drummond','8428801730070')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('17','1','Shelley900','6jKXyCRwdw1BDVgGsw','Student','Shelley','Holtrop','3580580526845')
+('17','1','Karen786','0QfVs5crg1z-acaUUw','Professor','Karen','Shelton','7738689121310')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('18','1','Anna951','v8S4I3NMXd724505Ww','Student','Anna','Cameron','3679000145200')
+('18','1','Vernon859','-E43F7dmsIAqtr7O_Q','Student','Vernon','Labonte','1501514369137')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('19','1','Jeanette420','53Y8oVBNkMP-lM6XOg','Student','Jeanette','Truong','9134181561565')
+('19','1','Tiffany630','GfceJhpa0apzO4Klew','Student','Tiffany','Caskey','7378349425387')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('20','1','Elisa757','qavgFKoR5j7n3yoCyQ','Student','Elisa','Fenwick','2090913065161')
+('20','1','Barbara625','RKNYJ3vEkiooWTaQ_Q','Student','Barbara','Gange','2005450411273')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('21','1','Gregory524','IRsWRkOxSkxvAftxjA','Student','Gregory','Myrick','9710584925430')
+('21','1','Sylvia518','kAI3q8r6fT12ZM1Kxw','Student','Sylvia','Frank','9496339515526')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('22','1','Jerry300','TTA9wPzX98qXCHWTfg','Professor','Jerry','Janosko','6432867791645')
+('22','1','Earl294','_Uvp3FzrWd0Lrtpq9Q','Student','Earl','Jackson','4334448544762')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('23','1','Donald616','jnkfdO3Rg0O0yNu1RQ','Student','Donald','Gilley','5630929035114')
+('23','1','Connie653','6dHPCFTAOvcgdyoDZg','Professor','Connie','Miller','2934924156920')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('24','1','Katrina757','HGUS4Htw4ezTvTyu1g','Professor','Katrina','Mclain','8576733396388')
+('24','1','David992','1fsKSnOR-bguBN9KSQ','Student','David','Rohe','1364470996920')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('25','1','Dana441','sJ6g8KfQySgjwWUGfg','Student','Dana','Vasallo','9482704196388')
+('25','1','Claudette733','j-8qxHxeOkAsMY1z4w','Student','Claudette','Gonzalez','1530404366568')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('26','1','Frank613','mP4f0RbKumOKOTYMRg','Professor','Frank','Kinchen','2323409065324')
+('26','1','Amy665','gMUND9wLYUjix5RgXg','Student','Amy','Sanchez','1727025396990')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('27','1','Nicholas677','8JEzxJ3gNsumFLdPeA','Student','Nicholas','Hooper','9682415976862')
+('27','1','Mary159','Wh6ZilND3fkGCLjrJg','Student','Mary','Martin','6476492797408')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('28','1','Laurie932','9ChKkEvIk34vWMRynw','Student','Laurie','Mcmonagle','3162879268418')
+('28','1','Blanche916','Z5zNzcEXITWjFLemLA','Student','Blanche','Hunking','7485646181129')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('29','1','Florence251','DTREMX7X26SQciYN_w','Student','Florence','Parker','2229061064557')
+('29','1','Joyce601','QuLh62AvOsLZwemEdw','Student','Joyce','Reese','7027084787419')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('30','1','Larry930','_rx-kaMj4W34LMmVnw','Student','Larry','Tedder','8738835345755')
+('30','1','Mary153','qHudo0DxFYtlf12U5A','Student','Mary','Dietz','8882226735723')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('31','1','Dallas129','3j-P5V8-LhuejH1-Bw','Student','Dallas','Norris','1884796267151')
+('31','1','Kori517','3Rxjk2yt65vUR0s8BA','Student','Kori','Gonzalez','2248076155245')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('32','1','Andrea675','qTZXElQ2MI1CB87Vug','Student','Andrea','Shaw','2977537526012')
+('32','1','Steven262','6L3MZvRTEOVxZAmtRA','Student','Steven','Fuentez','2297788601791')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('33','1','Ramiro749','JIIusruUdTpRzoA0mg','Student','Ramiro','Harris','8679864265810')
+('33','1','Janet244','tzVp0svaD2RIivjmiQ','Student','Janet','Burd','8990549621313')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('34','1','Henry733','Vyv_BTwHu-ItjrCPDQ','Student','Henry','Yancey','3735889974739')
+('34','1','Edward501','VeZnekvO3MNr8tyACA','Student','Edward','Squires','2003144720357')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('35','1','Michelle290','FrE-rWZtKCH1KIMwuw','Student','Michelle','Lang','6696511543108')
+('35','1','Daniel291','VEKnVorbFoYJ6x8hEA','Student','Daniel','Crane','8818341650698')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('36','1','Larry274','-6auN0GcC1-HUtYc5g','Student','Larry','Bocci','5455248512649')
+('36','1','Robert520','gF_d5SJHvcGsx7e_iw','Student','Robert','Cleary','7513833298244')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('37','1','Katherine735','14bmmMwYk0IaAoHuBg','Student','Katherine','Clark','8318914448131')
+('37','1','Bernard569','niyxwSsYbuaKB54CGQ','Student','Bernard','Divers','3429624051596')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('38','1','Catherine282','QmOT7DAsRx8zYtO8YA','Student','Catherine','Li','9688967440030')
+('38','1','Sharon517','0E6moskkACKCLZ6RLA','Student','Sharon','Adams','5288178712536')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('39','1','Peggy412','DvrvZifxKV8JtwEwGQ','Student','Peggy','Ferguson','9728379614157')
+('39','1','Laverne654','rSg0TmhmDyk-sMRz3Q','Student','Laverne','Brown','1242951466847')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('40','1','Jason109','H1B4Edc_dmZPbwh0RQ','Student','Jason','Reed','9507688671856')
+('40','1','William907','U-wK9pe7fzrX8rFvUQ','Student','William','Comeaux','3130877117031')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('41','1','Dora548','b2T2b338xsREpaE5CQ','Student','Dora','Munoz','2133429496642')
+('41','1','Evelyn151','Xe0u5bUYQnK7mBsmzg','Student','Evelyn','Hernandez','6825578046982')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('42','1','Claude255','uTEhyn2I5o77p_RBjg','Student','Claude','Block','1151698361706')
+('42','1','Lisa246','fhvvSDyuEEv6OXOAgA','Student','Lisa','Mcneely','5828813538272')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('43','1','Vicki859','9y1aIwSOuvmwSJtvkg','Student','Vicki','Tucker','4580158880143')
+('43','1','Barbara159','wXRV4MdcK6bn4EQ7pw','Professor','Barbara','Tune','8953514905121')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('44','1','Betty590','0MH8JEVcRZCRnunPYg','Professor','Betty','Fouch','9108070410142')
+('44','1','Terry862','FyPMT8Z66nBYYeV73g','Student','Terry','Bell','2398776235259')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('45','1','Patricia412','7efFLJ4YZcOpNOuQ6A','Student','Patricia','Madina','8811483257167')
+('45','1','Phyllis243','wUHmkCEG-6kql4yKVg','Student','Phyllis','Langlois','3194583856196')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('46','1','Annie758','eCyLLIgo5VgrZYV-wA','Student','Annie','Givens','1101550026008')
+('46','1','Martha801','AbhuYFC7CVUZoOojUw','Student','Martha','Walker','2240523842250')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('47','1','Lori629','gRK2QeMjBgj3vn5Nwg','Student','Lori','Blish','5492203433683')
+('47','1','Ruby730','WXactdW8Ruy6NZ1lYA','Student','Ruby','Wysong','5091862437024')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('48','1','James802','4aCr8vkj2_v5LFOIkw','Professor','James','Pante','3465555099847')
+('48','1','Annie457','Dz3gfJyysQP3xlPVOQ','Student','Annie','Livingston','8332476495310')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('49','1','Martha248','rnjBH98Vw3_fPy-CJA','Student','Martha','Lopez','4037996520810')
+('49','1','Tommy182','7cltbMQZbvQlnZig2Q','Student','Tommy','Wilford','6991994505337')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('50','1','Jesenia700','lVypJTdXRswaJrugpQ','Student','Jesenia','Briggs','8582657538447')
+('50','1','Sergio569','FG8oQwwKx9Ra3quwLw','Student','Sergio','Sisk','7514104918458')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('51','1','Kevin798','WPzdZdRtTDL00YEusg','Student','Kevin','Ator','3891239862386')
+('51','1','Jennifer916','LmHfAZJ-J7Jp7Pp4Tg','Professor','Jennifer','Mccraney','4221570709928')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('52','1','Monika990','-gRTAfowCRrLkrvTdg','Student','Monika','Taylor','9552244504040')
+('52','1','Frances503','Fdihx8eTAhM_i2zAYg','Student','Frances','Dickinson','7780325922836')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('53','1','Barry898','PtbDAciHbhvLlMIziQ','Student','Barry','Ludlow','1611274634306')
+('53','1','Ricardo218','4L_5WC7G9Nko6AZ1PQ','Student','Ricardo','Sierra','9128422623291')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('54','1','Michael650','TqkZRB4GRObOvkf8sA','Student','Michael','Whitesell','8783878004287')
+('54','1','Nancy220','cs2druKbufD8sCmQvg','Student','Nancy','Carter','2412042333483')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('55','1','William957','ap6fOeMWUSK1gOsJLw','Professor','William','Gingrich','6541997869566')
+('55','1','Rita625','dlDEMdmbg86ndtY5iQ','Professor','Rita','Finley','8051484702533')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('56','1','Alice692','SXhkot4w6Axml7lYvQ','Professor','Alice','Trout','6504711027478')
+('56','1','Monique415','5Zl4D_imCMhCd2HG_Q','Student','Monique','Omeara','1230830422236')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('57','1','Felton839','21ZJuVFAQJHy94IW_Q','Professor','Felton','Tutor','4136440697407')
+('57','1','Sanford746','H-GImJNxvAF8xrCIXQ','Student','Sanford','Pitman','5776354454971')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('58','1','Anthony185','Bg83wm978BRU5fX1IA','Student','Anthony','Guy','7837779508158')
+('58','1','Larry473','Yb8rUXihmOlEMotLYw','Professor','Larry','Harrell','7234813656473')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('59','1','Edward645','YctjQeGTwcIbyvVEZQ','Student','Edward','Ciotti','3200563057664')
+('59','1','Ronald140','U2ddEtogpLC4ttI-vQ','Student','Ronald','Lineberry','5058128910211')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('60','1','Antonia767','R8MWKkEWh3BiFD9wmw','Student','Antonia','Porter','7295490642788')
+('60','1','Amanda889','sAUeeZL0TIt8q0-llw','Student','Amanda','Henderson','6072945564268')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('61','1','Ronald138','HgEc6UQPCc7_PDi7aA','Student','Ronald','Wilks','5867848005660')
+('61','1','Ruby710','dwXpannO6LzoORvz5Q','Student','Ruby','Horton','7543353947181')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('62','1','Cindy382','SHoFiitufARgB1b0Qw','Student','Cindy','Mccray','3964735405902')
+('62','1','Diana340','4Yx9ddC5_B5nfppRoQ','Professor','Diana','Cavett','1981419723178')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('63','1','Ray307','MdDmEYpuzjOWJzdavg','Professor','Ray','Chaves','5122840108033')
+('63','1','Sarah209','-zasD4VkPotnhm--FQ','Student','Sarah','Goff','7320022814236')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('64','1','John346','POXnsD1KIOJ3Ud8TVA','Student','John','Bogucki','5762924416138')
+('64','1','Judith130','eE9_R4gIg2rgWEImUA','Student','Judith','Molinar','9618198636864')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('65','1','Michael222','XcdQLn8pplvl3kQHkA','Professor','Michael','Varnell','9803730322296')
+('65','1','Janice326','Ep2PAmqc_qixmM8UFg','Professor','Janice','Tschida','4445673277894')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('66','1','Cecily784','E8xOumaedFqIP-88Qg','Student','Cecily','Patton','6412562636061')
+('66','1','Tammy997','8n0Klcwq_tsZK9Qcjw','Student','Tammy','Armstead','8088113765931')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('67','1','Donna807','Qn0KrkTyMfAKlzif5A','Student','Donna','Allen','9984086727874')
+('67','1','Robert855','JXOFv7naTA8_eSwXIg','Student','Robert','Jones','5786991814530')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('68','1','Travis907','3Q_nUqVPX_hktKJjyg','Professor','Travis','Ziegler','8967378204424')
+('68','1','Rose479','by4EMOLgnOzUIugQXg','Professor','Rose','Nelson','1223611576677')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('69','1','Sandra343','D3zVjABwNHdfBHnzSg','Student','Sandra','Cummins','8030202419240')
+('69','1','Nancy765','NTygg5mIA5_8IFrVzA','Professor','Nancy','Hofmann','3362797660551')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('70','1','Emily513','wuhg-RDBo9MxODnjlg','Student','Emily','Shepherd','7679582179236')
+('70','1','Rebecca507','b8m5s1ttHAPssxgAIg','Student','Rebecca','Miller','3681106856324')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('71','1','Barbara261','zi-c5CfZhc-82EHvxQ','Student','Barbara','Kaufman','4066640781691')
+('71','1','Michele597','THMcyZo_Uy0PUdnC_w','Student','Michele','Peralez','7062474551562')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('72','1','Myra244','14uqkSjQQWL_IHxf3A','Student','Myra','Feinstein','9485118710878')
+('72','1','Gene896','46F5hrKb0XZLLvs9oQ','Student','Gene','Birden','2499384029637')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('73','1','Regan956','To-tS9QVE4eWB01UbQ','Student','Regan','Eastman','1027061122328')
+('73','1','Alexandria642','sf5UH2b-cXV_3DXvsA','Student','Alexandria','Schupp','5220827490070')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('74','1','Paul945','zsphE_Gm_qlkeey3pQ','Student','Paul','Hardy','2700220177663')
+('74','1','Zachariah152','Pajx6OytUZSZlQ4G0g','Student','Zachariah','Doty','2038692848025')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('75','1','Teddy146','IvGBHHcSEnAPLD1dBw','Student','Teddy','Bates','9655515370727')
+('75','1','Arthur355','CPvshQbbu82mgslGVQ','Student','Arthur','Wei','6396505468071')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('76','1','Eugene489','CeIPWQFWpOTe9xMoXA','Student','Eugene','Volz','6428903327890')
+('76','1','Myrtle442','-7gHa-1psk_u4UN9Gg','Student','Myrtle','Mcgovern','3288797441322')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('77','1','Carmen811','UaQVlTDR2IxgcmeG9g','Student','Carmen','Mosier','4460867661220')
+('77','1','Will367','kBRFUomIrZfJklZKaw','Professor','Will','Gaskin','6107859474479')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('78','1','Ivan235','XnEK0Z2NWSOqv4jcIw','Student','Ivan','Flowers','2545794984102')
+('78','1','Benjamin765','VsMYgDg5cseJbtb6UA','Student','Benjamin','Taylor','9040050662017')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('79','1','Cecil744','26ZMy8OP3iCQrJ3L4w','Professor','Cecil','Prince','1248844874604')
+('79','1','Gregorio833','_nkpUeTHA9pP14adxQ','Professor','Gregorio','Michell','2633013462562')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('80','1','Daniel760','qz4pD3AYly6w30OxQw','Student','Daniel','Ward','7372667776086')
+('80','1','Jonathon621','kpBG-Fm2jxarEWhQ8A','Professor','Jonathon','Hunsberger','7133789191263')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('81','1','Stefanie173','Kubvfyf8cuzh8ni1pg','Professor','Stefanie','Rutledge','1707674460213')
+('81','1','Cynthia589','rzYzSoj1C2Hey7ZMhw','Student','Cynthia','Hamilton','5033390716017')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('82','1','Willie785','7tErcUhkp_Kz4VexVg','Student','Willie','Hopkins','6189116690235')
+('82','1','Scot731','f3PYHnQhrFH0jeF_mA','Professor','Scot','Faber','6502805520040')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('83','1','Cody430','ic9Vei6uVTfUVmpP0g','Professor','Cody','Heath','4403671609582')
+('83','1','Timothy401','LqhAVZvehtx7cNHizQ','Student','Timothy','Hanson','7289145391439')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('84','1','Kerry888','nj3sik_JKfcD1ouV9Q','Professor','Kerry','Waters','2066873364850')
+('84','1','Joseph519','I8kOoLBkAP3RQYDTNQ','Professor','Joseph','Hartis','7536627095531')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('85','1','Dominic517','1uDt2_X9TilQhAaL5A','Student','Dominic','Jenkins','6671793488367')
+('85','1','Ervin625','5MrBaEofKuCppsz4wg','Student','Ervin','Jones','9958125337024')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('86','1','Mary738','NnepL978S_EtVPzYYw','Student','Mary','Wilder','8713311270058')
+('86','1','Herminia774','SVxqSXyix6hN-zXVRg','Professor','Herminia','Overfield','7845125171329')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('87','1','Patricia750','NFWuClAp4AuTFWAe-A','Professor','Patricia','Schmitt','4558454720041')
+('87','1','Wilfredo992','uEqAxb6BJG6MgsdNnw','Student','Wilfredo','Deaver','7786620713151')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('88','1','Carla833','ascjDtaZQjaAlXIn3A','Student','Carla','Kelly','4651068881162')
+('88','1','Wayne867','IWkSlpepL5ktxJAiZA','Student','Wayne','Bublitz','7194710153898')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('89','1','Andrew635','boshk5jtGhNjsbeeUw','Student','Andrew','Berthelette','9157527367124')
+('89','1','Dina334','_HSxk5PAPu_EvcpMgQ','Student','Dina','Healy','5953254497118')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('90','1','Thomas104','JOU3ygqE91XEaDWJOg','Student','Thomas','Calvillo','5123053438205')
+('90','1','Dorthea667','ySe_9udwwmKFmeCiPg','Professor','Dorthea','Gonzales','5573453078750')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('91','1','Claire197','CFd0wK6wyCr1EoiBpA','Student','Claire','Kilker','2416898992332')
+('91','1','Ronald511','1MwwY2l1WI0YHkLT2A','Student','Ronald','Flamer','6178251696004')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('92','1','Herbert256','ZRbXEUcDC64_JagULA','Student','Herbert','Gonnella','9917562784385')
+('92','1','Michael604','KcjhX65y3TOiNzBZmw','Student','Michael','Jamison','5434363216343')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('93','1','Kelly258','TaA4L-tx8skboFroFQ','Student','Kelly','Stone','6149040996941')
+('93','1','Robert160','h0O1szHzv3vsKoeaEg','Student','Robert','Kim','8347780064189')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('94','1','Vilma951','bqKHi54fXU0Wsnu_DA','Student','Vilma','Douglas','8928924713125')
+('94','1','Carrie427','_Be4e_hLoWxV9GkS4g','Student','Carrie','Shea','8727013473893')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('95','1','Gregory416','JqkwKyGVT5qlnme8XA','Student','Gregory','Palacio','3947998726026')
+('95','1','Margaret789','F3mFD7rEvsff9ntZ_w','Student','Margaret','Mitchell','4612699681597')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('96','1','Tracy880','yomGUXWfjbCeZQTf-A','Student','Tracy','Bivins','1648883661134')
+('96','1','Ernest580','v1rB8JkHATWfhrpRnQ','Professor','Ernest','Matier','2432833190192')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('97','1','Ernestina784','BfxFuHrFFGWeOUhOUQ','Student','Ernestina','Brewer','5019876586319')
+('97','1','Linda429','Burl56eXFVVMGXqMqQ','Professor','Linda','Martinez','6943177023871')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('98','1','Thelma601','fl8WY9WewfBRXXj7qw','Student','Thelma','Hiller','6964362773213')
+('98','1','Abbie421','RB2T8d_9KVu1aYQKGA','Student','Abbie','Kappeler','6464685389894')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('99','1','Leon995','Xh8TZFURFRZ53D-U4Q','Operator','Leon','Sparks','6893702514481')
+('99','1','Hallie226','LFXfX-T6OrABNyEGKw','Operator','Hallie','Washington','9571023461576')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('100','1','Eleanore299','b3BgdOjsTxrDE5J6Tg','Administrator','Eleanore','Burtt','6192284349177')
+('100','1','Lillie194','LGryP4rKnd9AcsLJNw','Administrator','Lillie','Serrano','9749675210788')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('1','2','Scott156','3TkJNTbEM4qh9KS-Mg','Student','Scott','Kathleen','9347216091517')
+('1','2','Mary739','F-dkejYu1PQhIP3ghQ','Student','Mary','Mew','1835413184633')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('2','2','Alice548','IuHVl4NEwQ8JvdasMg','Student','Alice','James','9180891340319')
+('2','2','Carmen741','NtTWkAoxoubtDsGoIg','Student','Carmen','Blackwood','5823065701836')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('3','2','Kimberly435','em0LrtFFs5oi0iTjlg','Student','Kimberly','Amos','2934553877834')
+('3','2','Jeffery830','gAQJBZXCBNVo6bgR7g','Student','Jeffery','Dukes','5530778186963')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('4','2','Lawrence737','_0P90R9hfE_XmsjN0Q','Student','Lawrence','Heras','3049465547196')
+('4','2','Thomas255','2DAwB4gMjw5qOiGMeQ','Professor','Thomas','Clarke','8566575928245')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('5','2','Jerry957','9YIhmU6Q-iQEMuNmng','Student','Jerry','Gordon','3006248661918')
+('5','2','Mary754','lE5pm18ErtUwdbDIIQ','Student','Mary','Brown','3812741522497')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('6','2','Casey651','3t_QDcltsdB0aPfxEg','Professor','Casey','Hawkins','4000863462153')
+('6','2','David436','8XY_Ao_JYyBqBxSshA','Student','David','Galayda','3492208800802')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('7','2','Kim745','aTufwkNvYemZNe4zTQ','Student','Kim','Webb','4220921507814')
+('7','2','Kenneth227','kbzNid5JDnQvKKWacw','Student','Kenneth','Peterson','1402416733177')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('8','2','Chantelle204','VMs-s7VE6GXVvsXJPg','Student','Chantelle','Gallup','9881558503305')
+('8','2','Nancy693','cEYPHqhXoWYVzn-8WQ','Professor','Nancy','French','3777167137235')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('9','2','Richard689','sZq3RsqvqNsxBhMbFg','Student','Richard','Salinas','5903024259507')
+('9','2','Christopher593','_N2elPHAJwDkwMwUkw','Student','Christopher','Jenkins','4436871626636')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('10','2','Brandi968','dz-kSZg4r3W9CuaVSA','Professor','Brandi','Stephenson','8009505637696')
+('10','2','Robert653','DiwPD_sdS2K3BZo__g','Student','Robert','Jaji','3022670893512')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('11','2','Carl667','00wmZDGSIH_auxuexg','Professor','Carl','Royal','2485847022176')
+('11','2','Teresa330','hZUI_ARFMHl1c1sueA','Student','Teresa','Yates','8531232599398')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('12','2','Shannon296','4gVi1OvFzWJog7qg2w','Student','Shannon','Cruz','2626324659151')
+('12','2','Toni226','3wbrIzpaNlDqRYIsPA','Student','Toni','Washington','5035696685739')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('13','2','Jerry318','rZzCTRHr2mi5Cq-GPA','Student','Jerry','Cross','3445862860774')
+('13','2','Beth842','YLPIC7lraUUb0nvLtw','Student','Beth','Maynard','5882934443551')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('14','2','Kevin205','AqSRFc0mb6t5ntY3Zw','Student','Kevin','Pillow','9283112581812')
+('14','2','Dale707','1KILwCT9NnUjopraUQ','Student','Dale','Epps','8618591704479')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('15','2','Andrew136','Rk9nhqFPTiCy3NHK9A','Student','Andrew','Sallee','1970474583866')
+('15','2','Chad560','n7_1po2F9UQt9uQrDA','Student','Chad','Drexler','7446342413495')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('16','2','Traci693','A7LpxubUr8Eele1fKQ','Student','Traci','Booker','1067448205548')
+('16','2','Joe472','zPtVnQUkfXN7TSrq9Q','Professor','Joe','Jones','9129920501752')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('17','2','Carrie830','Bntarhp7Wnuyo70-QA','Student','Carrie','Ross','2280997761886')
+('17','2','Lourdes712','fFMtDqLoijRW-RmUKA','Student','Lourdes','Hancock','6493095686383')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('18','2','Irma910','jqhm6AGV9ZT_D2Mf4w','Professor','Irma','Wise','2376585292883')
+('18','2','Karen691','ltS_y0sAnYYkvvhUzA','Student','Karen','Redding','3734855208664')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('19','2','Norma219','MOoTKWm1GCfG3HweNQ','Professor','Norma','Cox','9288486229071')
+('19','2','Terri179','s9CKJk4wbtIkpZ3ecw','Professor','Terri','Everett','2130339922134')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('20','2','Rebecca414','VJTDNpAhIrHNLqt7BA','Professor','Rebecca','Stout','2603691864387')
+('20','2','Alexander153','Qi2d_0YUq176parpaQ','Student','Alexander','Evetts','5926071973927')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('21','2','Matthew497','jZfkTUmZ2eHMu9cQjw','Student','Matthew','Grose','1299484373272')
+('21','2','Joyce692','a_J7bk-4ZoHbuW0QxA','Student','Joyce','Dempsy','5388769906977')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('22','2','Vallie267','P1h_i0EH4YQIYq2IIg','Student','Vallie','Melito','2729004153948')
+('22','2','Roman278','lB6vXcalTQtWbb8k-A','Student','Roman','Edwards','8893771389777')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('23','2','Kathaleen828','u0j7Nnhrwvffm8nwRQ','Student','Kathaleen','Williams','3379340513943')
+('23','2','Dolores839','Ov7-6oBqLc5GvH9utA','Student','Dolores','Clark','7656663010224')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('24','2','John768','Rhd_IDT8F437lW9uFA','Professor','John','Stacy','4918922385817')
+('24','2','Christine205','nujwdx-2tV-mbqq8hQ','Student','Christine','Lawrence','6031574192749')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('25','2','Kimberly372','myDLHDdN1jrGAYhGQw','Student','Kimberly','Knapp','8892038515584')
+('25','2','Kevin113','aJt8-tZLg0U4eYD0dQ','Student','Kevin','Farmer','1881493818330')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('26','2','Norma798','YgxVnwVQUMFdk3FqWA','Professor','Norma','Mendoza','4932397957064')
+('26','2','Doris740','6YBb6ZdhwOK69vxb0Q','Student','Doris','Cooper','2567780795072')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('27','2','Julian206','lH_FZ_O-3dVAyEySMA','Student','Julian','Delozier','8347965790110')
+('27','2','Amy818','0WAF4uIPN72Q3hZBkQ','Student','Amy','Kuhlmann','7639316403219')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('28','2','Gary382','b3Gr0wFKL19wPXdXwA','Student','Gary','Felix','9292117990207')
+('28','2','Jason537','rI9hTlLqm8IGld1Yhg','Student','Jason','Ott','2570451848079')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('29','2','Ronald762','TQaJJcBkUK49prBybA','Student','Ronald','Scott','9376532647404')
+('29','2','Barbara439','ecaNStZeVfxFDFT6Mw','Student','Barbara','Smith','6413683714565')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('30','2','Mary686','enKUkodExPGLfAY-Mg','Student','Mary','Hatch','3072670125917')
+('30','2','Cecile250','MwqUcH1WXBKRw4CWWw','Student','Cecile','Scanlon','4857849820801')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('31','2','Nelle330','DkWktg8QnTUsEE8Aag','Professor','Nelle','Williams','9419710041263')
+('31','2','Julianne396','KtK-nE4Qw4B7nZj8fA','Professor','Julianne','Shelton','4790401433660')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('32','2','Betty193','3AIvA2Nn7Vg1wz-hhg','Professor','Betty','Cole','7142299045217')
+('32','2','Sharon847','3DD2m-JA8AefkYArDA','Student','Sharon','Nikas','2301972510118')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('33','2','Mercedes935','5LhCzwZEp-IyFqxPfg','Student','Mercedes','Warren','6974852804670')
+('33','2','Lesley346','SEGRZWW8m99xMDdIvQ','Student','Lesley','Carle','5637283572219')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('34','2','Harris883','9mNzBZbp7l8DkOCr1Q','Student','Harris','Mcphail','9548801821537')
+('34','2','Jeffrey277','Ov4XldVzC3bb0LsP6Q','Student','Jeffrey','Schmidt','9431967247522')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('35','2','John883','0vIlM1sJataS9d8Z7w','Student','John','Hickman','4426181515487')
+('35','2','Dolores219','jbmRnBMaFUKX-JFHmg','Student','Dolores','Mattos','2141115088256')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('36','2','Jeanie941','xcOH-DwMGY6z6S-UZw','Student','Jeanie','Burks','7718153348577')
+('36','2','Gretchen942','7rjddfPC8lOUYIKvGg','Student','Gretchen','Burell','7206604732146')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('37','2','Imelda440','UGQ8Sh0fgxmBsUUq8g','Student','Imelda','Schneider','8350852123883')
+('37','2','Diana790','lwYK_H-PugdYbOKMLg','Professor','Diana','Castorena','1734688077020')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('38','2','Alfred819','2HATEoBx4TbQhszrLg','Student','Alfred','Benshoof','6224648345520')
+('38','2','Maggie472','FvSmNWfXPRPqm175Ag','Student','Maggie','Hinderman','9911035863340')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('39','2','Steven961','Y0DnQMTSSzoeVwaj8w','Professor','Steven','Numbers','2712128751812')
+('39','2','Johnny440','TxdO36OZiJBm0Iy0dw','Student','Johnny','Clark','6904086907750')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('40','2','Dale642','MSEGofw4PWAm09Qvuw','Student','Dale','Robidoux','1476959182592')
+('40','2','Lorna954','djkjQhdFb8797wjWiA','Professor','Lorna','Patterson','2036071706710')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('41','2','Kelsey727','VomkJIzfyxKbf06M5w','Student','Kelsey','Gorski','4996630653354')
+('41','2','John273','uEl5Vd5Fr-MCusjQlA','Student','John','Padilla','9251442620573')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('42','2','Robert698','CxQ8jNFX-exFDFT7XQ','Student','Robert','Ferguson','9454883275756')
+('42','2','Wayne100','lWlPSrgpgm4ag_O8Mg','Student','Wayne','Kanish','5549430167157')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('43','2','Jennifer359','E7ivC9Fm4fOSpyjUrA','Student','Jennifer','Allen','4822072006732')
+('43','2','Jose745','Z86hryzgF46iZgZ_jA','Student','Jose','Goodman','9827982932545')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('44','2','Alex825','KZ3ak2q7Kl325cOZFQ','Student','Alex','Bruyere','5889509566660')
+('44','2','Maegan358','MtSNVddOV5jP4q_tig','Student','Maegan','Arnot','8326983166530')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('45','2','Mike944','X9bCVvlq7gsBHzbBpQ','Student','Mike','Eakins','3721871721776')
+('45','2','Michael969','X0p9m5WbtD_rA-F7Cw','Student','Michael','Yeend','9721726512759')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('46','2','Darryl239','j49rPBvyAnJGg_qdGw','Student','Darryl','Seely','9152673101778')
+('46','2','Gary584','svHNyuBS9qX9odEmzQ','Student','Gary','Therrien','2715011449501')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('47','2','Aaron756','P3z6_wAmdCEZs1C93g','Student','Aaron','Sherry','9246786496136')
+('47','2','Juanita257','4OtBe0MxrL-e5HoSww','Student','Juanita','Bellamy','9863845542835')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('48','2','Brian131','cCkLnLCi58KRYMIveg','Student','Brian','Meyer','6538738608459')
+('48','2','Juliana221','Uyp--aJfL1DNg8Hplg','Student','Juliana','Stevenson','5871012115206')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('49','2','Richard411','2FClqRi-4XfcCjPS3g','Student','Richard','Riggins','8275830695673')
+('49','2','Fred362','BG2fZ-1kbq8Zqc2Kng','Student','Fred','Kuester','6235945962544')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('50','2','Juana168','DHlEQAfaJjgzervYgg','Professor','Juana','Sweat','6228074694498')
+('50','2','Sean655','ReAYBT9oAGamFYk9ZQ','Student','Sean','Roseboro','6843107016398')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('51','2','Amanda472','gouu31S4SeetB9tqrQ','Student','Amanda','Manning','2954432474766')
+('51','2','Shirley232','kf0_w0aK-tXt3FRmEQ','Student','Shirley','Allman','4407551521804')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('52','2','Goldie953','FeiPiKH2VnEbXwfhLw','Student','Goldie','Lee','9686286309561')
+('52','2','Anthony910','mYcisdYchbQcSXvXtg','Professor','Anthony','Barnes','6646995355073')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('53','2','Jean390','DfNPm8MnCUkiOwXBMg','Student','Jean','Moore','5000054796005')
+('53','2','Brianna849','q1eId3TwJTd4CHBCww','Student','Brianna','Bozeman','6215480351704')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('54','2','Marilyn136','RQZyBgiumiCAcGukyg','Professor','Marilyn','Reese','2987212962815')
+('54','2','Tamara733','oe2DBNa5OlzKW_bekw','Professor','Tamara','Brown','6764205833058')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('55','2','Michael848','B1oCwlLxLUSCeo1U6g','Professor','Michael','Morris','6154960085441')
+('55','2','Edward386','BNdIpRxQ-GtboVQvtg','Professor','Edward','Wagner','1705552474399')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('56','2','Tiffany563','0R9U6IpYzUklaanU9Q','Student','Tiffany','Marden','1442004152645')
+('56','2','Jorge723','wqS-kZBeNx_-eBfg5w','Student','Jorge','Leone','2769014119740')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('57','2','Laurel508','-ITB-eR2zRVJyVKo7w','Student','Laurel','Robinson','4653838107821')
+('57','2','Raymond180','kvvhsyqozD6UB29Zyg','Student','Raymond','Routhier','3435447549968')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('58','2','Billie409','lff-fNh9msrozW3OpA','Student','Billie','Tatum','1308810260978')
+('58','2','Sandra888','dgdjCb3WI6gQlqt_zg','Student','Sandra','Acree','8968046961113')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('59','2','Helen920','kzi92-bYRxbBIYgTvA','Student','Helen','Wall','1559902291765')
+('59','2','Adrienne865','T0y1zCXo1sqQy7UIHQ','Student','Adrienne','Hampton','8154448340908')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('60','2','Mary849','dgG2umwE0CFfkIKsZQ','Student','Mary','Wold','1071330599883')
+('60','2','Sarah122','zK51MqBXl00oR7RY7Q','Student','Sarah','Mayer','3668553307372')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('61','2','Julie308','-TVT439qZAwlJXHr8w','Student','Julie','Johnson','9929928529068')
+('61','2','Anjanette788','rbkYVt96ObArSyzR2w','Student','Anjanette','Walls','8379444274454')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('62','2','Melvin460','-m4XdOeNbl0aWgS-jw','Student','Melvin','Lantz','4256965299497')
+('62','2','Elizabeth705','_x9kLC5DkXdWBFPTmg','Student','Elizabeth','Adams','2635589017650')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('63','2','Paul490','OOKuDVGRIfiptLEunw','Student','Paul','Johnson','1081488879308')
+('63','2','Lydia179','6vVpanbBeoNnf6I1ew','Student','Lydia','Luna','5616915572573')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('64','2','Stacey924','Y2bA2wSXc02uVpb47Q','Student','Stacey','Adams','7059242264444')
+('64','2','Elton835','Deq1uxJYst8iLNWu0g','Student','Elton','Westerlund','6307022030809')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('65','2','Marjorie384','De-fS0bUTfN-RT1U7Q','Professor','Marjorie','Blackburn','7379026272348')
+('65','2','Jack236','Fp1hxngWNvCYexWuUg','Student','Jack','Trigg','2727053657582')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('66','2','William367','C4A9pGfu03uunwFTXg','Student','William','Gatto','2755785710446')
+('66','2','Henry624','Mk0ypkdFh6l2Hf7opQ','Student','Henry','Tyus','5599759666940')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('67','2','Nettie407','CUpVl111ILsDaBvFeg','Student','Nettie','Seith','4717714178739')
+('67','2','Scott601','6zZmhq9AeWuftg7Zxw','Student','Scott','Bahena','4999002592068')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('68','2','Gregory307','0HGNlbZoAbj0wu543g','Student','Gregory','Dahl','1052311101703')
+('68','2','Kara441','2Pyqf_PhotdB-on5qA','Student','Kara','Sommer','6402893535441')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('69','2','Ashlie468','MDqaHXj9b4TOtBe6wg','Student','Ashlie','Hilliard','2214117626756')
+('69','2','Cary151','oNWc2c9Ggjmll1JHsA','Professor','Cary','Green','9497327290977')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('70','2','Everett162','AdGLMdNj4pwquyUCiA','Student','Everett','Hancock','5905835816387')
+('70','2','William749','U2gBaXMZmK1kC_V7qg','Student','William','Coronado','1134819885476')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('71','2','William335','tr8P3e9HnrxAMsaV9A','Student','William','Mugrage','2311637245073')
+('71','2','Ester513','CXqYEHwUgo9s9PsZEw','Student','Ester','Osdoba','2709198130841')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('72','2','Carmen791','wspYAb1XTBW-x7sP-A','Student','Carmen','Garcia','2775600855972')
+('72','2','Deborah770','PzmrQCw7UfQFQoGTBg','Professor','Deborah','Bell','1724998696937')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('73','2','Michelle832','jCSAf4Y0q3lM4Djfrw','Student','Michelle','Krupka','5315697066344')
+('73','2','Kathleen885','CD-ugRUiO7mFGGeLCg','Student','Kathleen','Moreno','4244245688677')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('74','2','Anthony438','js9gRewf_6AZdOWhag','Student','Anthony','Gordon','9172035978099')
+('74','2','Daniel551','pow_74o7cF0EryeubA','Student','Daniel','Mahaffey','1359399417173')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('75','2','Brian405','HD7U8SuSj0ZsCYJmoA','Student','Brian','Cruz','8729755780172')
+('75','2','Adam772','B8b25LF2UJ086AJOMA','Student','Adam','Schattner','9688277012131')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('76','2','Dennis276','kb63BnsFkhTl-f2wxQ','Professor','Dennis','Daniels','3628392975405')
+('76','2','Paul623','vT69gq6KGWYo8PAabQ','Student','Paul','Ziech','7796072313649')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('77','2','Dawn559','WLZp0LJ3gTVpEHcAyg','Professor','Dawn','Martinez','6935852316638')
+('77','2','Ernesto496','-DM58Q9cAE-3PBxEgQ','Student','Ernesto','Adams','9349238889669')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('78','2','Adam749','znCcL3OjBJxq9nWHjA','Student','Adam','Cunningham','1493613099232')
+('78','2','Monica162','Vwylr5qcGuI7Dpy1dw','Student','Monica','Brewster','7676056575571')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('79','2','Lawrence412','GoqkKIYImLtg5JIy0g','Student','Lawrence','Davis','6546383630419')
+('79','2','Heather551','RnQkpWLOnMlZ0IiCgA','Student','Heather','Williamson','5591963297442')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('80','2','Angel576','QHhxVfNyW7rOzJ1cGg','Student','Angel','Lindsay','6487919710960')
+('80','2','Casey931','37Dj2j-GZT2Z39Kkvw','Student','Casey','Flurry','9125486479138')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('81','2','Mark334','Nz2eZYJXzexYXmqHjA','Student','Mark','Carlson','9438391127642')
+('81','2','Betty849','EL94aZzRbWyL5OgcHw','Student','Betty','Hunt','9587060395771')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('82','2','William148','wyqgIScyB31IKBVtrQ','Student','William','Ashby','2607286659005')
+('82','2','Timothy276','UrmzJNaPYdFRhb_FnQ','Student','Timothy','Whitmire','2794644778228')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('83','2','Charles930','kY6LzQeayYaa9qXVYg','Student','Charles','Meyer','5428977890281')
+('83','2','Barbara206','iRf8ygwbcJg8TYYJew','Professor','Barbara','Beck','9238328429539')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('84','2','Joseph367','fn4jOeKmWK9G44xPAw','Student','Joseph','Brown','9648886796661')
+('84','2','Anthony340','jfl79ld9CK08BvPM7w','Student','Anthony','Bourgoin','9020821868319')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('85','2','Gustavo738','uIGetU61jX4bhUgIhg','Student','Gustavo','Goodwin','8353670191907')
+('85','2','Joanne905','t-pZOIqz34Mv-UE0ZQ','Student','Joanne','Bland','7404824661369')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('86','2','Nellie217','obLjOWp2mGG3QZpOvQ','Student','Nellie','Bower','9505611092429')
+('86','2','Dorothy831','tI5PrYCliHFgW0iwWg','Professor','Dorothy','Henderson','6091722270537')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('87','2','Raymond245','p89VQ0cjju68Cmv0aw','Student','Raymond','Wilson','9481921581855')
+('87','2','Erin187','FZNhZG4ckBpNzBTGvA','Student','Erin','Neonakis','6659889922891')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('88','2','Joshua477','IqnoVKUs-H2C9jrOgA','Student','Joshua','Noonan','4092063168209')
+('88','2','Jaime370','J7zl4go8o3ocTL4rMg','Student','Jaime','Temple','3851300770184')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('89','2','Elsie849','JVvYxOHZJyOp9ASS9w','Student','Elsie','Camacho','8823461925122')
+('89','2','Chad735','SQ5BYWvkhfPTgsaFHw','Student','Chad','Jones','1546054280313')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('90','2','Rosa917','OWy9ZI5rW-y7Wp3lLA','Professor','Rosa','Yost','3721537314853')
+('90','2','Mary903','lg3EHoiT2D5kuOgvFA','Professor','Mary','Desantis','9009892693599')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('91','2','Louis245','08kbdI4u5c7j0eVaBg','Student','Louis','Greene','1935649702075')
+('91','2','Rose322','QK-aXTUaqLKfXmJIkw','Student','Rose','Santana','1941127347299')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('92','2','Danielle822','AkrJnGAoq5qo5WWI4A','Student','Danielle','Price','8621374746216')
+('92','2','Charlene747','TeBynMilr97VNPu3fw','Student','Charlene','Moore','7736932104606')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('93','2','Jeremy421','JNAh0WqpBgTzgQgk6g','Student','Jeremy','Gardner','8212692351803')
+('93','2','Sarah828','bNsgGRvI_OsBV0eOJg','Student','Sarah','Clayton','7554318844009')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('94','2','Wallace256','kZwMbfKkvxqhBwrzqw','Student','Wallace','Watson','2945628606787')
+('94','2','Russell307','2tgJePqy-wq8SCTa4A','Student','Russell','Cooper','6635454101642')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('95','2','Amy161','pd_MYD-LhhCEveiRJg','Student','Amy','Cruz','9758022735575')
+('95','2','Paul153','AmedHQwoYRxoDGSMxA','Student','Paul','Rivera','7615343664010')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('96','2','Gregory905','TKOb5ZOlIsvPk7ZTNg','Student','Gregory','Strickland','5475091810536')
+('96','2','Jeremiah852','Wtq05NZwHrW3I8mGzw','Student','Jeremiah','Banuelos','9539783496145')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('97','2','Richard765','TGNMckuJpaB2mVP1uA','Student','Richard','Thomas','7847293897104')
+('97','2','Lindsay430','lNvAAJM09kGH9jsOgQ','Professor','Lindsay','Tubbs','9924425687503')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('98','2','Christina516','fwd7cgoHuIAp_jVxXQ','Student','Christina','Akins','2541487311037')
+('98','2','Linda582','13EcNki-4Zch_vav7A','Professor','Linda','Smith','3603033559577')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('99','2','Cassandra963','7uYCg5UgkMNyEcMy8Q','Operator','Cassandra','Hoard','3022741452893')
+('99','2','Kelvin283','8WdlLWw3qJLizNYy6g','Operator','Kelvin','Otani','4230577566451')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('100','2','Kris688','JqAYDICH3_TD1_BT8Q','Administrator','Kris','Walters','3796427913790')
+('100','2','James657','jHEQHPgYW9BybsHyUQ','Administrator','James','Smith','3241645216473')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('1','3','Terry432','Noq6Z2zMN6QrNUnaBQ','Professor','Terry','Boch','1089681134142')
+('1','3','Jolene347','h0FKEhgj3SDWPHlUEQ','Student','Jolene','Cohan','8101847282344')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('2','3','Tony668','rYQ3SXwsa7xlfMzxLw','Student','Tony','Her','8230374607517')
+('2','3','Anthony842','mkIEc2omsmLQQVnMYg','Professor','Anthony','Guerra','9347105950308')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('3','3','Richard319','6fqLp99-E_lOD-WNzg','Student','Richard','Moore','2669206191505')
+('3','3','Nancy505','bJ4VxeyZQQ4WiXcTOQ','Student','Nancy','Charlton','8546522682985')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('4','3','Monica924','_TlsT6XGr3HO2EsVpQ','Professor','Monica','Romine','2303015131466')
+('4','3','Kimberly989','Y5_LrU24pWn1JMpVDg','Professor','Kimberly','Dasilva','4683508122311')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('5','3','Omar909','VKH_8LsGAIQujxYaoQ','Student','Omar','Broadnax','9086944726102')
+('5','3','Alfredo426','eF5_TiKuPXFpLQBrVg','Student','Alfredo','Cassette','1917666915536')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('6','3','Kayla562','g9BMOAstSM1SxBkxVw','Student','Kayla','Cofer','3850779951519')
+('6','3','Katherine525','-QEYhgE6xiYrBQo3dw','Student','Katherine','Horne','5602040941807')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('7','3','Debbie320','KSiHIl1D-nTnNoB5yQ','Student','Debbie','Robles','5068399688378')
+('7','3','Edwina406','Gx5mwiL02rRK8eMBlQ','Professor','Edwina','Boehman','3489813798843')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('8','3','Eric318','WmLMP5-SdLRVIKgPEw','Student','Eric','Arias','5456775168641')
+('8','3','Robert125','-tSUwtM5Fxfi8t1myw','Student','Robert','Thurston','1074967291465')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('9','3','Michael487','o0HjJAMB7D0jzFwfxA','Student','Michael','Turner','7241659399792')
+('9','3','Anita481','eOVmFrZ7fUI3NxYWSw','Student','Anita','Pressley','2373672108049')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('10','3','Cassie843','QK6j1aOxE5HLLctBlg','Professor','Cassie','Ray','8550746167928')
+('10','3','Roberto898','XR8b8Ze1E_hG-rTaLg','Student','Roberto','Vanzant','6349507004030')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('11','3','Linda709','cAhi4i2o-ADJzDaQIA','Student','Linda','White','1778288231232')
+('11','3','Sandi185','lsZdNjM1u3ZrtQz5zw','Student','Sandi','Hollandsworth','7259165247516')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('12','3','Guy146','9xNMllenYPzfHhteyA','Student','Guy','Mattingly','4192408825121')
+('12','3','Nancy729','b5AoxNhuVWRwpMcKVA','Student','Nancy','Deluca','3158607823330')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('13','3','Joaquin794','-Bx8Ke8fuZpdAtTEiw','Professor','Joaquin','Boswell','7534769766755')
+('13','3','Joseph308','M3UUDIif0TcCXMuKag','Student','Joseph','Resnick','1515835090859')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('14','3','Angelia265','iUBXK2vc1nw8_E9tMA','Student','Angelia','Gilpin','7081057935784')
+('14','3','James997','o-toVOjc9YlDk6-PBg','Professor','James','Jones','4026030108233')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('15','3','Carolyn965','7G6vW7r17UdWKacdJw','Student','Carolyn','West','5292181679756')
+('15','3','Lois719','tYcgEy9Z-wGdGPamBA','Student','Lois','Hernandez','4929056718366')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('16','3','Norman687','pcZEWffQmFvtEWcSKg','Student','Norman','Smith','5971673673490')
+('16','3','Carl314','f79krVhY56C-wpgu4A','Student','Carl','Hodges','9087250500363')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('17','3','Toni944','NxTpUG8J0totff4EIA','Student','Toni','Lee','8613115469864')
+('17','3','Joyce544','EYOD1zaIOVno1d0a2w','Student','Joyce','Hunter','5312662852104')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('18','3','Jennifer428','Xbo8XA5BTyO_s7qdUg','Student','Jennifer','Jackson','7928612032978')
+('18','3','Gregory500','xD5EJc2xj8lnK8rfrg','Student','Gregory','Stahlman','7850800822630')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('19','3','Wendell492','PubzD6BD0SGgDrlpZA','Student','Wendell','Forman','8135938787972')
+('19','3','Darren581','ahoUmoWpEPlSzBUdLw','Student','Darren','Johnson','3832280596204')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('20','3','Charlotte480','B79NyONKDiwdkiTVgQ','Student','Charlotte','Alston','6291166909790')
+('20','3','Patricia596','Z1riK37IY67CJdqzcA','Student','Patricia','Hartman','5235724352173')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('21','3','Sheri949','oE8tXEVWcQe4oth7ZA','Student','Sheri','Ardon','2118880235215')
+('21','3','George949','a1fPcNjayJq1c89bWg','Student','George','Ahr','5624347110206')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('22','3','Deborah635','7wcxJF6b9IQlrsmQOA','Student','Deborah','Poeppelman','6604136520195')
+('22','3','Robert368','Fz97Fy1aKmwQcv8AyQ','Student','Robert','Devens','8654513747256')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('23','3','Annie660','fp6PIQ4Hf-JFZFa7hw','Student','Annie','Coyle','4562507698196')
+('23','3','Earnest445','kwLmxafNY04JfqyXxQ','Professor','Earnest','Credit','5191162651439')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('24','3','Herbert382','qeofERGuRYr5Pmd60w','Student','Herbert','Sibert','8038772205988')
+('24','3','Herman226','4nQ9RWmAPBogZi-MUA','Student','Herman','Aquino','1852502767781')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('25','3','Delia452','6uGUfRRttLv-Q-1GNg','Student','Delia','Williams','1516390021973')
+('25','3','Louisa961','GxNxCgBSRNHJ7WuC1g','Student','Louisa','Watts','3519007652877')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('26','3','Diana223','RdEzSUgj9lbqM5zDGA','Professor','Diana','Harris','6115248307087')
+('26','3','Erika167','Nek2e0pOUeKVLFs3bQ','Student','Erika','Cunningham','2958818936721')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('27','3','Lilia667','rB3JSlQMznywGrOROg','Student','Lilia','Ahmed','1794436338048')
+('27','3','Janice205','YEiUSw5UHb6LuyQE4w','Student','Janice','Garcia','3924851367583')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('28','3','Natasha828','nkcqPZA1-eLjRIuV8w','Professor','Natasha','Shirk','2610430938594')
+('28','3','Karen445','TmgG6-uaV9MyRR28MQ','Student','Karen','Riggins','8678511891155')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('29','3','Heidi989','lUv4xItCljdd8vP9pA','Professor','Heidi','Vaquera','5107463805843')
+('29','3','Fred364','htQt4EW-NN68R6WVzg','Professor','Fred','Blanchette','8614996539836')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('30','3','Marilyn864','QboKCZybCBjLfJDnFw','Student','Marilyn','Carter','5797182352403')
+('30','3','Elmer912','MrQT-oVq5cn0uMMNWQ','Professor','Elmer','Vigne','8958842228813')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('31','3','Lynnette870','XC4qOT93J6bYxQv2WQ','Student','Lynnette','Carlson','9710399792786')
+('31','3','Irene628','MEBesQYV2_swgQNHfw','Student','Irene','Kiley','8286416685514')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('32','3','Paul771','k6a-CASMhwTwYeTpwQ','Student','Paul','Hinde','7940144001186')
+('32','3','Catherine310','64EBhHFyBgza4mhfcQ','Student','Catherine','Lopez','3820304144898')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('33','3','Jeffrey382','V297hHpcFHWl8igJwA','Student','Jeffrey','Bennett','5445551374538')
+('33','3','Kathleen589','EEIJD-ZA4lZe6TRAkA','Professor','Kathleen','Webster','5149804682794')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('34','3','Donald691','nVZ6P3A43GGPYzifEA','Student','Donald','Cromwell','5249221330509')
+('34','3','Jeffery732','DWzGnkJHQLMyvY4CHA','Student','Jeffery','Martin','7734279103789')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('35','3','Curtis826','CBPRBM0C_QYQs5qj5g','Student','Curtis','Denker','2608616768276')
+('35','3','Kathleen746','JeQUODIitV9k7vqQCg','Student','Kathleen','Richardson','1964703600505')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('36','3','Diane206','hyUQir1Egmaju5tMSg','Student','Diane','Grier','9369614379232')
+('36','3','Clyde706','lKTQJspBhVtz4FsNuA','Student','Clyde','Mello','8708569159737')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('37','3','Amy200','MjZhQ60A5J926XEdSQ','Student','Amy','Rogers','6802225665018')
+('37','3','Brian657','iypnQJvT0_Ozbyg0Wg','Student','Brian','Lapinsky','4387932363718')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('38','3','Celia398','4NMRhzqs0wIRBal0YA','Student','Celia','Arostegui','3716395811908')
+('38','3','Jeffrey409','veLtH6KaPp5PEjme6Q','Student','Jeffrey','Taylor','5170625986399')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('39','3','Andrew928','O060Tsk0I1-DZoUonA','Student','Andrew','Stumbaugh','1379949105223')
+('39','3','Ida593','u2ZxMacu03XgYmkPLA','Student','Ida','Kemp','9607684191988')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('40','3','Bradley918','iO6c9m2VWia694WalA','Student','Bradley','Francis','3843408360252')
+('40','3','Ella160','mOAjCtu81I4Cay8Fkg','Student','Ella','Bailey','9046699020682')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('41','3','Marvin654','I1JyiJrzzCO2G1K3uw','Student','Marvin','Murph','4961425504771')
+('41','3','Ernest525','nEoy9X85xa0IOGeeFQ','Professor','Ernest','Alma','8153019680833')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('42','3','Alexandra835','CdlBkYrmtkNIhc7qgg','Student','Alexandra','Mccoy','5837104627105')
+('42','3','Anthony737','KPjJqYQf5GrjRjkr7Q','Student','Anthony','Binder','1104031771940')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('43','3','Christopher306','_rkJZTCv2Xoc3SRbZQ','Student','Christopher','Ebert','6292657279413')
+('43','3','Natalia920','tk_1dmeBTeyZK0z-Ww','Professor','Natalia','Peterson','1405193154204')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('44','3','Nikki252','XanwQc1Otp33G6EgcQ','Student','Nikki','Housley','4148736796342')
+('44','3','David839','K-serY8Q8qlFuGpvYQ','Student','David','Lingenfelter','6650653675452')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('45','3','Rosa270','VLZ2dIgmc1cOfEra2g','Student','Rosa','Jung','5592681979638')
+('45','3','Robert704','U04F7VEpxBrM231Ohg','Student','Robert','Beaudry','3440007785401')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('46','3','Fred198','2tdeLyeQa5o_jheq4g','Student','Fred','Ardoin','6083781223067')
+('46','3','Richard113','NULf1ZcBh4iHfyUQ7Q','Student','Richard','Bullock','4132474363046')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('47','3','Brenda226','6JjFqRVsESKpF4yc1Q','Student','Brenda','Torres','7920257547837')
+('47','3','Donald772','Q1KU6TrhEkCXiM60hQ','Student','Donald','Allen','1801557867302')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('48','3','Barbara532','tn3i-wlqqrQqlDpPCg','Student','Barbara','Bell','2803906717886')
+('48','3','Anna146','fN6yvkpE6jo4NuUhQA','Student','Anna','Williams','9981836102932')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('49','3','Chong949','D_75mPm-5NCY6GZNQg','Professor','Chong','Hullihen','9413156090944')
+('49','3','Lettie316','L12c80OrL3w6MtZH_w','Student','Lettie','Mattas','6805132407562')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('50','3','Jennifer841','E0vt6ggk9S9wMFR4Vg','Student','Jennifer','Banther','7736660415954')
+('50','3','Tammy526','H9SAh_E7-MoABzGi9g','Student','Tammy','West','5527964066564')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('51','3','Nita528','4Dk2VdfyOOi5Q84_jw','Professor','Nita','Hairfield','3400703918872')
+('51','3','Sharon516','vxZzCkI7tIBJoSBw9A','Student','Sharon','Rorick','7055270022201')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('52','3','Harry670','6kS_Og8uBCAH9Xf79A','Professor','Harry','Sanders','4415905660733')
+('52','3','William209','dsG2srq1uMS9sgYtFg','Student','William','Rice','3803266059705')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('53','3','Felix875','izWHRS6BXPSkw78KAw','Student','Felix','Barron','3220295103861')
+('53','3','Josephine142','vPbtwcTSo75rNGrDQQ','Student','Josephine','Crandell','2616141419596')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('54','3','Molly382','6oBvIrJ40842iXKqpw','Student','Molly','Henderson','4579193153713')
+('54','3','Grace605','xzldQ4G7P2f52AejcQ','Student','Grace','Cotton','5684331843276')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('55','3','Clemente713','Z75J9GXHhqoQxvyv-A','Student','Clemente','Raymond','6014579239938')
+('55','3','Candy567','HVhF6Sux6x5aN91ANA','Student','Candy','Nelson','4089637774517')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('56','3','Rita637','m0FSwpt5gd6EihLTNw','Student','Rita','Dowdy','9071410265402')
+('56','3','Maria725','catTyqvKuJqKdPmKeQ','Professor','Maria','Wagner','6587990291253')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('57','3','Marie398','AautJeMD1Q6ZegyHYA','Student','Marie','Bell','7447499619052')
+('57','3','Albert199','qMVN3TmRZsf_ZCgZmA','Student','Albert','Huey','2941340676202')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('58','3','Dawn514','ipWZKnftE17DhaiipA','Professor','Dawn','Gage','3648879565635')
+('58','3','Mike503','cO7UuDXMejUq0G2gfA','Student','Mike','Johnston','5638506708660')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('59','3','Ramon381','VcLuNVauWN5dgGHy2w','Student','Ramon','Greenleaf','3563920038599')
+('59','3','Jessica227','vP9ztAWVKgkztrl4uw','Professor','Jessica','Niebuhr','6003764819649')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('60','3','Ebony727','ZMjvsANtE2TqWg467g','Student','Ebony','Manning','4990230266608')
+('60','3','Mark298','cWULPm8DRJlExHPtfg','Student','Mark','Yazzie','5703442868986')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('61','3','Kathlene391','hhBZmtEoH11nYKdHhg','Student','Kathlene','Seymour','8974890345740')
+('61','3','Cynthia264','oT71_6tANSrvhfLyGw','Student','Cynthia','Chavez','5822465880676')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('62','3','Lisa888','y1cviKS7DxwrIGNgSA','Student','Lisa','Warner','6422937053782')
+('62','3','Linda747','3TJp041UqAW92eD8OQ','Professor','Linda','Boyer','7348177399964')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('63','3','Travis309','Ud6ses14-vuDLSgtOw','Student','Travis','Chapa','9253558043077')
+('63','3','David159','mI6zWK3DVJ68H0POjQ','Student','David','Patrick','8421778696107')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('64','3','Robert228','Vax5FpFDaCr6hcCNtQ','Student','Robert','Robinson','9374662354810')
+('64','3','Emily631','sPyDnIbh20pxfnNwAw','Student','Emily','Taft','2532556209020')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('65','3','Lynne985','f_KguhZaie3CMObGJA','Student','Lynne','Defelice','7482975240066')
+('65','3','Evelyn296','YRHXCvGd5KbZQLAoPg','Student','Evelyn','Webb','8565581927060')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('66','3','Ralph794','VWZEpSr11i3l4KxKuA','Student','Ralph','Larsen','5689488666012')
+('66','3','Katherine575','86qBAOl5KwQH9Yf5gg','Student','Katherine','Abels','7702140180474')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('67','3','Kelly573','hjaJqaDlqm0ztOTjtA','Student','Kelly','Mason','9222351558711')
+('67','3','Lia290','YYnfGvQA7PufkTlFBQ','Student','Lia','Thibeault','2326504836097')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('68','3','Henry235','UU3-t7AJOngs06vZUA','Professor','Henry','Amos','2290520270101')
+('68','3','Melissa695','tvsrvG6pggvKPTxhbQ','Professor','Melissa','Arndt','5779941485137')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('69','3','Peggy223','HIbXEs5fyuG1VZU0Vw','Student','Peggy','Shiroma','6905281985105')
+('69','3','Jay200','yrn_26s4qxYD-41aCQ','Professor','Jay','Thomas','3335251988198')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('70','3','April203','HpaIZto5j-8ALOmJLw','Professor','April','Zick','5384561454347')
+('70','3','Thomas926','RZAx3ATqFtOOB5_KnA','Student','Thomas','Atkinson','5708022645201')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('71','3','Ann851','okfNZ7YE0SOemBh_DQ','Student','Ann','Durham','9275625742435')
+('71','3','Edna728','VTDXZhVZKbxpXJgaAA','Professor','Edna','Gerber','8485741071555')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('72','3','David503','iMZzGHHJpTkKZBdW_w','Student','David','Anderson','7819224590161')
+('72','3','Antonio751','l_vDSKVK2MlBn7Fl7g','Professor','Antonio','Vasquez','9445177893355')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('73','3','Timothy770','UM2yEIk9MPocZsKGLg','Student','Timothy','Mirsky','8650805272625')
+('73','3','Jeffrey365','HUptAk8xxjm86MBKwQ','Student','Jeffrey','Bonebright','5668447486450')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('74','3','Alexandra641','sRTaLZyi_fQfxbdi7w','Student','Alexandra','Hall','1806464896150')
+('74','3','Randy741','g4xKmHjKK0YhsgfCQA','Student','Randy','Duffie','1122034115673')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('75','3','Kenneth101','d8o5qTLzSzoYNwNMCg','Student','Kenneth','King','4157733128732')
+('75','3','Damion528','mzSfWTILQg9AxUhrxg','Professor','Damion','Hoffman','9701122588748')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('76','3','Tyree882','qQoRaZXS4cWdj6HExQ','Student','Tyree','Dixon','8244529451955')
+('76','3','Tammy613','2RMEFgngDK72yl3qKA','Professor','Tammy','Tilson','7054304314653')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('77','3','Clora494','4Liut342eMmNArUJIg','Student','Clora','Pauley','8746945127318')
+('77','3','Gil257','wNvsF9kW3Wk8DMCM4g','Student','Gil','Juarez','8241615141438')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('78','3','Joanne935','RK4h4gjNiBYabNlhBg','Student','Joanne','Oyler','6767236415172')
+('78','3','Brandon828','oXjQiD--XkGB4UVQjg','Student','Brandon','Parker','8100275082235')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('79','3','Mary176','DcRlXOLB-Nu3x6AXSQ','Student','Mary','Rojas','6201386506817')
+('79','3','Jeremy825','QXttQbGM4TBfE8zxRQ','Student','Jeremy','Hubbard','2706944037777')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('80','3','Patrica213','BpagoMxdrTB1GFBCAg','Student','Patrica','Gordon','5708591523467')
+('80','3','David482','ali_Lj5Bd0ypmpVnlg','Student','David','Lyons','4439928787864')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('81','3','Roberto328','VNRFMlkjQUlrkONy9Q','Student','Roberto','Meadows','4015313385219')
+('81','3','Lisa307','IPnA7Dvdk2COSTUP7g','Student','Lisa','Poynter','4970997551433')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('82','3','Clifton870','WEl3A5kuLCh-t74mBw','Student','Clifton','Benavidez','8076014578764')
+('82','3','Willie505','yPbHjeHSrvGFMdxoIw','Professor','Willie','Whiting','7954657504319')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('83','3','Scott473','AD-xEdZuda13gKTL7Q','Professor','Scott','Alexander','5105839767981')
+('83','3','Richard274','ovCXsngisE80korSxQ','Student','Richard','Foster','8686364471050')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('84','3','Jo394','IOfYup-YFAgI7zRUHQ','Student','Jo','Lam','6285664926799')
+('84','3','Vanessa295','ecrgKMB1sIznrQ_lxg','Student','Vanessa','Yates','2968182130449')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('85','3','Nell591','ZwynMTBtoQmCizPgGg','Student','Nell','Miller','1412160668725')
+('85','3','Frank466','jEmvK5DQv8sfENoDcg','Student','Frank','Ervin','5815423126794')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('86','3','David209','rj2qUIiSZhrXTdi2jg','Professor','David','Kling','9313057384935')
+('86','3','Jacqueline717','_0ObuKNcGJ5XvsgRQg','Student','Jacqueline','Cashio','1987741781436')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('87','3','Sarah105','RU035c-vZvbWKhuAEQ','Student','Sarah','Lamore','6474995581682')
+('87','3','Lester895','S8RswxRyqJeREn95Ng','Student','Lester','Perez','2387078112201')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('88','3','Mark589','_gjP1fdO-mJ07liYdg','Student','Mark','Sheffield','3983101528725')
+('88','3','John106','j6_BFUtGGFEpZjoy1w','Student','John','Williams','4591276643951')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('89','3','Robert413','MlyfwIW9DSTeZ6GcRg','Professor','Robert','Watley','9312270090152')
+('89','3','Tiffany730','r6jWNG61nNYe0YKbKw','Professor','Tiffany','Mendoza','1188374614985')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('90','3','Eric926','UV2-WdltB-o2mmXSpA','Professor','Eric','Kimber','9920919013152')
+('90','3','Rebecca311','4LD6PnxHPdWeZI7d1A','Student','Rebecca','Antolin','8347014806291')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('91','3','Carmen995','P16ujpbmtqEjD27O3w','Student','Carmen','Dejesus','3093634776044')
+('91','3','David153','CCrdnceND8TUN0EBXw','Professor','David','Manson','6946892874898')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('92','3','Mary362','qkMF7PzDlnPptGXtYA','Student','Mary','Shelton','1264031287506')
+('92','3','Sophia176','0h7j8WeCPv5pltnk6Q','Student','Sophia','Hines','2524183631303')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('93','3','Robert596','0v5lzcesjIrnxdRgOg','Professor','Robert','Rhoades','8286151085775')
+('93','3','Robert789','SkarFSlNgFKoPRF6mg','Student','Robert','Rogers','8212885865772')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('94','3','Steven202','gR5spPEYVIHSl-XHfQ','Student','Steven','King','1926313921824')
+('94','3','Peggy663','KlLwTLHqwjjTAumH8A','Student','Peggy','Chaney','1787763120966')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('95','3','John674','KYXqFSz-fQRUfg0ieA','Student','John','Fulton','6063245362622')
+('95','3','Gus222','ImmCL5f9vTetfSUtcQ','Student','Gus','Brunner','3490220089356')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('96','3','Zachery990','JlKHTOwnZaIMJmTo7w','Student','Zachery','Sweeney','6609506982329')
+('96','3','Charles449','FfqwAIRFGNKnnl4NRA','Student','Charles','Solomon','2617876775222')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('97','3','Tammy306','IWueFjP40kkSO7vIXQ','Student','Tammy','Bruce','5363638241495')
+('97','3','Kathleen320','YB4-NsS0KW0PHIc-Mw','Student','Kathleen','Taylor','8841517271578')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('98','3','Daniel638','_4ldCgYIV_g8ribohw','Student','Daniel','Nelson','9363820510709')
+('98','3','James143','9_eL7fT1creuBpyePg','Student','James','Harris','8709239286978')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('99','3','Andrea493','FvXl--7AS5zys0ZA9Q','Operator','Andrea','Tosten','1032405213699')
+('99','3','Robert276','D67i641dzwcA7nG0bg','Operator','Robert','Doherty','1354784814971')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('100','3','Shirley660','yvli3O31pxil62IfjA','Administrator','Shirley','Valenzuela','1502044665592')
+('100','3','James141','IjaZaMnMOLU8jRyF1w','Administrator','James','Gilmer','2122788509601')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('1','4','Ismael960','yqhPtlQspygIGdBDDA','Student','Ismael','Hissem','9910464519158')
+('1','4','Fred506','NA3SpmqVU5ncpTIGkA','Student','Fred','Wilson','3293426813772')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('2','4','Pat500','0nI-IBMTMcAMQyBMVw','Student','Pat','Miller','8261298598424')
+('2','4','William941','6xK5RC8jg7_PgDntSw','Student','William','Harris','9709118682814')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('3','4','Crystal535','l1qFhyZr5-k3v2Zsxg','Student','Crystal','Correa','9905138405527')
+('3','4','Christopher880','_6H6L4ExqXaU-uLWlw','Student','Christopher','Digangi','1221099115205')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('4','4','Maria736','JvbjNUyAlYIyv4K0lw','Student','Maria','Parsons','3241119239772')
+('4','4','Shelly864','2s0I0Rga92T-6f--sQ','Student','Shelly','Gainer','4932342233056')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('5','4','Edna199','mjfdy8pp-aBBEKafUQ','Student','Edna','Chin','6809371705426')
+('5','4','James242','lzAhK8TId6dQsTnyYw','Student','James','Martin','8627086956349')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('6','4','Jennifer474','AtFDwrCNAq-Y4V3gjQ','Student','Jennifer','Smith','2729677271855')
+('6','4','James313','h9ZMzXHA9hqt487VRg','Student','James','Calvery','2728844482250')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('7','4','Emily536','xz40S4iwkY70cOy2Jw','Student','Emily','Roman','2839433306981')
+('7','4','Francis486','E56nXGxJHb35v1LL1g','Student','Francis','Prichard','3891161959903')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('8','4','Brandy733','E9Xttayi8bvgo8zAEw','Student','Brandy','Mendoza','5658541966677')
+('8','4','Michael647','tHENSY9W2kNKWpGSbw','Student','Michael','Neuhoff','3854383787599')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('9','4','Michelle670','OD7ndCGegtKd3OdNaA','Student','Michelle','Shipman','5677696609313')
+('9','4','Brian554','b9oOVnelr-XLwbRtvA','Professor','Brian','Slone','9019883196931')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('10','4','Diane358','loJ8wegNsYID6JmEvw','Student','Diane','Jackson','1483782867124')
+('10','4','Sheila236','Qzs-cb_RPieZZ49npw','Student','Sheila','Allard','4971439745066')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('11','4','Lamar476','tcXtEsMtm2OpOOHJ2A','Student','Lamar','Landford','8870932568287')
+('11','4','Wanda890','Oj5avnvPqGY9pluMtA','Professor','Wanda','Moats','1733573496327')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('12','4','Christine846','PVAhAsl3IENRIX2Xpg','Student','Christine','Evans','3811665677871')
+('12','4','Thomas629','kgYflGwgqSQezorwdQ','Student','Thomas','Buckman','2716346015455')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('13','4','Ian296','6NZhr7CvbLnkWEot-g','Student','Ian','Law','8340672582297')
+('13','4','Bernice850','p_O9j-1COacrvy1_Mw','Professor','Bernice','Ruiz','6701465522077')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('14','4','Angel540','HjTVaXnvtmi_wlvbww','Student','Angel','Dehart','7927638907291')
+('14','4','Bruce687','4sAaG-tD9ksN-LeJ9A','Professor','Bruce','Morris','1933277365678')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('15','4','Clarissa112','tTzl7xx3arq8Eq5yZA','Student','Clarissa','Mastroianni','1971498411919')
+('15','4','John577','VzC2sx_7xd-0IOCpdg','Professor','John','Williams','3674114494437')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('16','4','Robert644','7x57BzVQmjGFhl-L1A','Student','Robert','Hughey','9822903075404')
+('16','4','Harold380','Bdi6P5VlqK7t9j6fAw','Student','Harold','Sheets','7010831104166')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('17','4','Robert564','Qh_FoeSWpErWB8mQmQ','Student','Robert','Roper','6636662826007')
+('17','4','Christina586','KzsSXOZwrhCRz9eVwA','Student','Christina','Coffland','8655329887397')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('18','4','Benjamin773','UcsGHaqaLspJvbDjzw','Student','Benjamin','Stuckey','5294229226303')
+('18','4','Dominick243','6Z9TrMSeeIbi-A1ZZw','Student','Dominick','Bonilla','5279347131618')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('19','4','Donald762','C6GhhvLC1VbHfheOxQ','Student','Donald','Alvarez','6572895762370')
+('19','4','Lena408','6fy_O6yoqwNPMBBiSg','Professor','Lena','Shatley','3499935926973')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('20','4','Elmer940','1RVdqzg371X7pnsO6w','Student','Elmer','Alexander','4983334541203')
+('20','4','Cecilia230','a4Tai1Bg5qgjLVzjew','Student','Cecilia','Milosevic','6634310990645')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('21','4','Sherri755','Mwv9bM1ETwvZ2OnYDA','Student','Sherri','Henry','5891209612929')
+('21','4','Julie359','xmAAx-AoG84Mwom9RA','Student','Julie','Bennett','3159700112767')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('22','4','Lucia656','r50InNYERRfHx3UgAw','Student','Lucia','Eaton','5105968483475')
+('22','4','Harry774','IjckDIKgHZQbMI1XFg','Student','Harry','Yeakel','7910745252333')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('23','4','Dominique568','Y8BatWWpawUaSiPhgw','Student','Dominique','Evans','8004943778755')
+('23','4','David790','WI3fvtIHnawVv_fc9A','Student','David','Graham','8256555506591')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('24','4','Justine188','eu2fMi9mlDBM0ejV9w','Student','Justine','Alday','4426681354218')
+('24','4','Mary170','-fV7FNSHMHaZJfs02A','Student','Mary','Mcnally','1246355618959')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('25','4','Mike237','0J8qc69oCjdc-npDXA','Student','Mike','Seals','1195236607821')
+('25','4','Douglas110','kroTzxlUmDSRwlfjxQ','Student','Douglas','Fontaine','3527556207210')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('26','4','Consuelo379','5-k5jVaeGYwjLRhmNw','Student','Consuelo','Unterreiner','5160172726216')
+('26','4','Janet814','wdkhYSvwWYD4pDdkdw','Student','Janet','Rolling','5683880444824')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('27','4','Rosa592','YRCa6L6tkzsVOMeflw','Professor','Rosa','Masino','6553697355254')
+('27','4','Robert305','LtvM1FvucpW_FaARwg','Professor','Robert','Tim','5169885806124')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('28','4','James943','uCtZTF_1spp2MaPuMw','Professor','James','Osborne','3656686905527')
+('28','4','James886','uG4ekUcMCZIrvp7SQQ','Professor','James','Gladney','8350132744897')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('29','4','James585','YcNj1v_6SwNWoou2RA','Professor','James','Canup','2034111741559')
+('29','4','George658','G7rFlT3MNgOWwg5rUA','Student','George','Anthony','1777857804609')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('30','4','Dorothy763','grYWtyOiMXHkIlIhiw','Student','Dorothy','Noble','8070160108539')
+('30','4','Cindy445','fWY8iX2pUO6N3iDF-A','Professor','Cindy','Comstock','8793369135877')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('31','4','Maryann575','n7Bdfp28W-MZa-dZmA','Student','Maryann','Corcoran','5302141323853')
+('31','4','Lorraine827','3rBGawQdvst4ZfwdKA','Student','Lorraine','Hodges','7340734854923')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('32','4','Jamie834','fhrKf_b04mVedb3mdg','Student','Jamie','Thibodeaux','8081630495460')
+('32','4','Carl760','JbNkO0LobejN9c7OEw','Professor','Carl','Thiessen','6420758220872')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('33','4','Regina394','LdHn8B2YFcLQRyCivw','Professor','Regina','Jett','9801698104885')
+('33','4','Joseph612','h37zp9BE1HS5EirIog','Student','Joseph','Taylor','5925383826199')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('34','4','Lucilla978','iNPPi8UksmBqR-NYVQ','Student','Lucilla','Barron','3932811067367')
+('34','4','Jessica197','50b3H6dHLwnnj0ikOA','Student','Jessica','Cossey','3577196411195')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('35','4','Pamela147','1l8RKjrKvLtRnjqYeQ','Student','Pamela','Clark','5971323647998')
+('35','4','Desmond534','RL71iKaXum5TzzlhHA','Student','Desmond','Stovall','8309093003052')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('36','4','Earnest773','uFk5nNmi4Ol6Q-aQDw','Student','Earnest','Garrison','4705516718188')
+('36','4','Lance652','yz-M9EF8JF4cHbrgBQ','Student','Lance','Mcwilliams','1445395340424')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('37','4','Debbie816','qiafdUUveHgUadmzgA','Student','Debbie','Paras','2842221486170')
+('37','4','Barbara837','Hh3MsPt2b1o5jaCWdw','Student','Barbara','Vasquez','8154537572591')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('38','4','Joshua470','_YzRWlRzrUo_Z9WSIA','Student','Joshua','Carson','2521379942848')
+('38','4','Donald824','vNlSZE_JZK8Fr1953g','Student','Donald','Allen','1718583046240')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('39','4','Abby840','UWATT7_KJZoWuOg7aA','Student','Abby','Mullins','4253214867500')
+('39','4','Calvin842','cSpwGZhZzAWajyjllQ','Student','Calvin','Chasse','8713796182003')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('40','4','Nora857','IWvvLZDdFnDXv3weFw','Student','Nora','Tate','1973304287166')
+('40','4','Thomas788','OtPnxKfDqvzBnwtu5Q','Professor','Thomas','Heltzel','1643508998048')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('41','4','Charles592','cLHqLpt_kGJQu3PkRw','Student','Charles','Richards','3708578291532')
+('41','4','Henry125','Dn-mZyWl7SmRK0n1JA','Professor','Henry','Bolen','7203452634896')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('42','4','Justin473','dx8RUyg-YABRGTyoaA','Professor','Justin','Downing','1641942800391')
+('42','4','Cary528','uVQj6pYtoxoMAEVAUA','Professor','Cary','Angelico','2816002014358')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('43','4','Jerry825','NRtAuv0oNz-h8B2ToQ','Student','Jerry','Oglesby','6889800587113')
+('43','4','Harold949','NJMdbwnRFfh5s3Uq8g','Student','Harold','Hoskins','5903481596318')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('44','4','Wilbert652','bqRdsbIZSw_1C98bQg','Student','Wilbert','Casteel','2150479602365')
+('44','4','Mary483','TcDRe9MwQIJkE_5Aew','Student','Mary','Obyrne','4875827046421')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('45','4','Joyce207','ZapqIzH4wqn6V1LRYw','Student','Joyce','Howell','6065880451382')
+('45','4','Jean461','K2oFeyl3zv5lPw2v0Q','Student','Jean','Patterson','1251027931678')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('46','4','Steven710','JeIqnBXw_zRmTMo6hg','Student','Steven','Peralta','3718752430955')
+('46','4','Douglas426','WNb598bJ_DvshQBElQ','Student','Douglas','Payne','9657815642776')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('47','4','Robert351','f5Cx3I-NF0hujtY7ow','Student','Robert','Wilson','2137277648274')
+('47','4','Willette504','mjP-7oTY8b1AkxNfXw','Student','Willette','Douglas','3668590469828')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('48','4','Sandra256','aYgX4YTjskPxA4__GA','Student','Sandra','Cambell','4141382731481')
+('48','4','Aiko985','_7vWUyIf-TEP25CDWg','Student','Aiko','Fitzgerald','3072867709944')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('49','4','Alicia171','I7EbFOnPl5fvOg3zmA','Student','Alicia','Huffman','9937299288217')
+('49','4','Michael192','DUncD9aQeW_iVVJgAg','Student','Michael','Annino','8451776647622')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('50','4','Carmen186','uawBtx0mJyrcUlzh7g','Student','Carmen','Stella','5864920464760')
+('50','4','Richard581','xHT7G25olav6CO16Vw','Student','Richard','Lack','9184762752087')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('51','4','Donald396','6GCCQoxgiBAqRNQjCA','Student','Donald','Rose','8281602634219')
+('51','4','Lawerence918','u1moT562qlQiSoDXfw','Student','Lawerence','Allen','7903163243413')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('52','4','Lino590','9LAOb4DGIMX0suEAHA','Student','Lino','Proctor','1882532339129')
+('52','4','Cynthia630','Iwv_imhO3BSCKIAWrg','Student','Cynthia','Gaskin','9571351388862')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('53','4','Zachary773','ettEsWzGPdpkhcgxTg','Student','Zachary','Filkins','3833956036331')
+('53','4','Jeff867','8y_QCWJ-Ehbkm_xXKg','Professor','Jeff','Needleman','1291659504642')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('54','4','Tyesha809','7YFZpIPLWQYGq5Rz2Q','Student','Tyesha','Petrey','4112970825062')
+('54','4','Katherine400','zdE-x6LsGxxBFISrcg','Professor','Katherine','Cook','8885006159615')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('55','4','John650','CQ-u_JhXXbxwTboWVg','Student','John','Hoover','2462960546637')
+('55','4','Susan847','SMkmUuEu2QC46tGriw','Student','Susan','Aiken','6563571020580')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('56','4','Dawn418','PdD2pqoH1dMdkI9Gfw','Professor','Dawn','Cohen','5499716321742')
+('56','4','Tammy206','OFDJFPy5Gq30FUfdyA','Student','Tammy','Kennedy','7933093169761')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('57','4','Paul481','JkP4-FDL1UWo16TneQ','Student','Paul','Richmond','6459607605054')
+('57','4','Elaine294','3xud9tc8lPWn6ZSG6A','Student','Elaine','Brown','2285772264689')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('58','4','Kevin199','IjQ8yj4UJ3kXdQUdfg','Professor','Kevin','Brown','3538530780523')
+('58','4','James962','yhvwXTHhdVGH8e5ErA','Student','James','Dombeck','7950684990047')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('59','4','Georgiann292','G4TuLLV2069uHwOE6w','Professor','Georgiann','Morton','1345055982856')
+('59','4','Daron610','LChcabNHfrC7bg1Ing','Student','Daron','Stone','9902348382507')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('60','4','Aaron996','0S-Nu97WI5aYVjKLew','Student','Aaron','Roth','3275939897459')
+('60','4','Jacqueline370','L5qt1oc3Z5FY0aX2Ow','Student','Jacqueline','Meehleder','5678135210365')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('61','4','Dong843','sbxEchBMpIiodYSfWg','Professor','Dong','Wilson','4040954267196')
+('61','4','Linda722','PcqCzwHDORcWxcsBVg','Professor','Linda','Chandler','2032008102325')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('62','4','Kristina990','yXW6sE5MlmIOz509kQ','Student','Kristina','Kertis','3967601642079')
+('62','4','Jessica775','uCcjQhBnBcFVvKjI-A','Student','Jessica','Crowley','6617985104730')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('63','4','Elizabeth646','I8Zv6ScLiCiz-8ahPA','Professor','Elizabeth','Armstrong','9379357778145')
+('63','4','Philip898','LYhmMWxrlnC4I1-EIA','Professor','Philip','Austin','7943588377330')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('64','4','Nora728','tIpqR9Ge0Wh0kcyv_Q','Professor','Nora','Hoskins','6559480172146')
+('64','4','Debora967','rIfEHpasiMxmy-SYYA','Student','Debora','Gilbert','3341030948051')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('65','4','Arthur297','kiU6TOor5EnSCWtheg','Student','Arthur','Barbee','5574789364790')
+('65','4','Abigail272','AKbEf4vx5lYKWOPjVA','Student','Abigail','Harlin','2033845561514')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('66','4','Raymond417','XxKgIxubROKJmVJffw','Student','Raymond','Davis','6925877760156')
+('66','4','Sylvia253','qm_CVRb8-M_gMqsHoQ','Student','Sylvia','Bennett','3760287946679')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('67','4','Jane451','ii5H1gp4--zJkNZq7g','Student','Jane','Salazar','7439135900535')
+('67','4','David305','4UXjixMIWfrakhQmeg','Student','David','Engle','6643540887444')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('68','4','Constance820','hcyphJ8WChLrrupjYA','Student','Constance','Biscoe','5495239582217')
+('68','4','Marc930','P_eZVdRa5li4Z4oD7g','Student','Marc','Smith','1404015596562')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('69','4','Roosevelt313','X5lUcnT4D-qkhTxPIg','Student','Roosevelt','Powell','9180411527774')
+('69','4','Barney763','TdhOsDcq_ma-Alp6Ow','Professor','Barney','Sherwin','9418306370771')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('70','4','Sally776','cuLPAF_JjvTu2I0fwA','Student','Sally','Duncan','6109242793652')
+('70','4','John218','Rmyq2AhlBrIzjvtflw','Student','John','Ching','8014847692916')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('71','4','Rachel328','VCHrnYz3ZOxj9YVcow','Professor','Rachel','Anderson','5270308815928')
+('71','4','Michael238','CvrjkKy9ZVlY13h6bA','Student','Michael','Griffin','7631556547496')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('72','4','Judith627','5K30bhyMPWQOblx4kA','Professor','Judith','Babbitt','3781316747307')
+('72','4','Beverly511','R5P-Dq--h7SUEOqeKg','Student','Beverly','Arrowood','4572320278666')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('73','4','Darren987','J1C_2tbmWVDbC_DMfA','Student','Darren','Deen','7710831598125')
+('73','4','Ricardo730','gmy2nERC-XPd_Y9o9A','Student','Ricardo','Daniels','7949456274002')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('74','4','Jim103','loGzW732dwbZ2VcjeA','Student','Jim','Emery','4001371944696')
+('74','4','Heather427','fpmZeB5y02r-d7u7OQ','Student','Heather','Bock','7770795877180')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('75','4','Edith594','hbu2Ui8wsuZe62c_GQ','Professor','Edith','Johnson','2329128235825')
+('75','4','Brenda849','TKwRVyQiPZFx0YpqhQ','Student','Brenda','Lundsten','8833901745897')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('76','4','William993','lLoOywSUXwr6gIrW0w','Professor','William','Andersen','1226671706319')
+('76','4','Aaron931','kWwyZiXa9SZBxGxZkg','Student','Aaron','Binder','7682573758611')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('77','4','Earlie213','WrljCnD31U_doCPCtA','Professor','Earlie','Hudson','4572117387336')
+('77','4','William163','_Ush_GINzTOdPyP0zQ','Student','William','Tow','6627332655747')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('78','4','Jerry903','LUyQvcNju_8Jj6ci8g','Student','Jerry','Hare','5844364902744')
+('78','4','Maria197','CE5cdwkTKCzlrP9now','Student','Maria','Anderson','9242943350301')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('79','4','Lucille320','xF6_uDMkWQJ-slSMzA','Student','Lucille','Celestin','1932284191615')
+('79','4','Mary465','_vvrlDA6sKHeIOgf2g','Student','Mary','Schroepfer','4301795497802')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('80','4','Jared194','nv-VwgceTIwL54hy7Q','Professor','Jared','Jones','8646350459035')
+('80','4','James965','QRi5_tOG6e71RvUtCg','Student','James','Burkhart','2365482972462')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('81','4','Gene735','lsX1qfboVM7HgNjynw','Student','Gene','Perez','3971883565332')
+('81','4','Walter912','WqHkcyTqMnQejGiYKA','Student','Walter','Meecham','4344025877166')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('82','4','Rickey377','05QrBZURguZalCBPDA','Professor','Rickey','Jackson','5571781024181')
+('82','4','Katheryn158','dEOdks7D4-BZhcqqmQ','Student','Katheryn','Mason','2280094430547')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('83','4','Ruth443','RIoGlomoykg3zLGCpA','Student','Ruth','Roberts','5169007924000')
+('83','4','Cynthia521','QplIPLyroZzDqlDB1Q','Student','Cynthia','Hoskinson','4199420855866')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('84','4','Dovie150','qj6mpmdxR2hONqclRA','Professor','Dovie','Huang','2725231174421')
+('84','4','Grace230','thq-ZwI8TUbzPpQyPg','Student','Grace','Toney','3209714813003')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('85','4','Dorothy857','xjGzmpSs7mTl4TWbjQ','Student','Dorothy','Kave','4191718493340')
+('85','4','Brian120','7NLcB38JxGKJSUiXfA','Student','Brian','Heckert','5505667481819')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('86','4','Frank565','fBPnW1-CosbB1eK0Jg','Professor','Frank','Foster','8203501382952')
+('86','4','Lauren598','XR6ed1DFMcEhhvjAww','Student','Lauren','Janski','6531259424818')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('87','4','Leonard938','6x9oPcCPUbC6iLTWIw','Student','Leonard','Reyes','8045605018363')
+('87','4','James935','Ekxc_ptBtqg5BeN1-Q','Student','James','Wallace','4682574780973')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('88','4','Christopher553','HpZySG6v_I76119X9Q','Student','Christopher','Tardy','2577849618135')
+('88','4','Kristi871','_q3pPRSl6dfxdjWTDA','Student','Kristi','Burgos','6102427091874')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('89','4','John318','hsHuZxjuEgZLaomTlw','Student','John','Sundt','8559995593155')
+('89','4','John264','EujSvneOSvdJ4y5W3A','Professor','John','Riveron','8571128912007')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('90','4','Susan819','vcMXxWaXUJJyk8ZGFQ','Professor','Susan','Munch','6456046579406')
+('90','4','Julie801','h4y3YLXzUvlOj8LpoA','Student','Julie','Rolfe','6210757331872')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('91','4','Florence411','q4E-wbh2snKVv5h2tg','Student','Florence','Smith','6497887971957')
+('91','4','Sidney827','yQLxWHPl52JOzRa1aw','Student','Sidney','Fillers','5382908531060')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('92','4','Thomas920','7tjF75B5Wa41Uo6sgA','Professor','Thomas','Delallo','5494136606896')
+('92','4','Rose745','joramx-JxZad43PlzA','Student','Rose','Peralta','7171655568195')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('93','4','Dean325','soZE-6O3W_7LI4hA1w','Student','Dean','Floresca','6258992177287')
+('93','4','Donna407','AZiZWzPSnx1HA4JO0w','Professor','Donna','Baley','1216153517237')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('94','4','Ernesto903','atwHxQ6m6YOQIfhNcA','Student','Ernesto','Hogan','3151493302467')
+('94','4','Thomas248','-dVJVx4ISvUeZ_6A_Q','Professor','Thomas','Dumont','9934192029000')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('95','4','Janice104','LHkwr55DM2AYVyKd-Q','Student','Janice','Maldonado','3378730714093')
+('95','4','Bernie858','An6YfQDg9S_E2EF9Vw','Student','Bernie','Akers','4856029641959')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('96','4','Mildred961','EJ_fx-7u0TEMniEXtQ','Student','Mildred','Schlipp','5755825842424')
+('96','4','Caleb866','PXPSuh3IoJh52XHBrw','Student','Caleb','Pool','4546892389968')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('97','4','Zachary567','690w-MyL5CENdJR4TA','Student','Zachary','Mackey','8305275622368')
+('97','4','Jorge964','x-DmmEg1Sf-BHdVNMQ','Student','Jorge','Jordan','7223925422366')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('98','4','Larry736','aJdRiuT_FtwwH0CAPw','Student','Larry','Welch','3165311489363')
+('98','4','Bertie298','LkZ6CHWX1j2bkIjw8w','Student','Bertie','Leung','4427752390845')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('99','4','David800','0-09y0dwvSyWnxwadw','Operator','David','Lappin','8296439260661')
+('99','4','Ernest538','7Ugrif_6dFPnMCjqOA','Operator','Ernest','Dudley','4066230236125')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('100','4','Stephanie114','EH0XhhlVjhGETa8E6g','Administrator','Stephanie','Hillman','5160395918026')
+('100','4','Yvette617','9PYsBCl78ohvLAQddA','Administrator','Yvette','Weaver','1943065923262')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('1','5','Barbara438','ZkOBeQ6LzUdd7tp1_A','Professor','Barbara','Crum','9687021874833')
+('1','5','Miriam821','TpL2oaz9RwGFFrp6dg','Professor','Miriam','Spinelli','1070115730038')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('2','5','Denis998','S-lVEy6qLDFnuKz_Tw','Student','Denis','Smith','5849867397985')
+('2','5','Luis141','MH_qlF13qRNS5ZmxuQ','Student','Luis','Landry','2160099172716')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('3','5','Jon125','LEzZYEkEpi2jkGc73w','Professor','Jon','Gupta','8359312033176')
+('3','5','Eugene924','mmyJv_PxJx1v4y4UJw','Student','Eugene','Eller','5413637529579')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('4','5','Catherine661','tcaM5g-9OGD1muAKnw','Professor','Catherine','Gomez','7091291008704')
+('4','5','Leslie691','3oHTJ7p_ewRoXK1kFw','Student','Leslie','Rollins','9949043078008')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('5','5','Elouise399','_frk6CEMQwd0cqFPxw','Student','Elouise','Gonzales','1573974038185')
+('5','5','Art769','PQC5EQAp-AoQbo1nqQ','Student','Art','Britt','9167288941500')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('6','5','Sanora498','O8TWnyOo_cUJmlmZXw','Student','Sanora','King','9699928706963')
+('6','5','Alphonse102','UeDUcYuTFgQ6qDaLKA','Student','Alphonse','Patterson','5103990195539')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('7','5','Allan184','5iocqLaEb0t-uZLPUw','Student','Allan','Ballard','4244072139179')
+('7','5','Brian546','ufF_edNEfo8mr48BiQ','Student','Brian','Crawford','5716644792261')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('8','5','Linda674','JZqmdmSrMEmFa1LtbA','Student','Linda','Forcier','5853877515642')
+('8','5','Helen914','7MvkMyxDiTRI0rQ2vQ','Student','Helen','Metz','5711697446346')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('9','5','Pamela440','2xhdRaRqDyAKnlMFmg','Student','Pamela','Lyons','4952420424892')
+('9','5','Jeffrey266','RQ4lYKjNg1sei97Bvw','Student','Jeffrey','Harris','6178687259437')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('10','5','Dorothy986','4PSr74ut-fW9d3uHvQ','Student','Dorothy','Seal','4459308063881')
+('10','5','Natasha829','Z-CS89WNtvusCSNcRw','Student','Natasha','Landis','4033436928686')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('11','5','Norma558','haNyQN5FnJ7YJpaBRA','Student','Norma','Jude','9852022796682')
+('11','5','Catherine912','A5FRJgHHnuz1hTtmYw','Professor','Catherine','Sutherland','2130776189393')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('12','5','Sidney224','0um5T22ZGPQ-uNMmjA','Student','Sidney','Johansen','3776320667245')
+('12','5','Jake140','FxNne3RROu9Y2AwEEw','Student','Jake','Giuliano','4432876181366')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('13','5','Kevin517','Y3S36s4J1y9pLA7Q2Q','Student','Kevin','Wolfe','5371451479577')
+('13','5','Steve370','McCi96PU7bmivLIROQ','Student','Steve','Osman','6949342615523')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('14','5','Patricia907','380ohWE-n4fYviDNiQ','Student','Patricia','Wigfall','5684438396662')
+('14','5','Matthew421','UeypQVUI9MOIHZse-w','Student','Matthew','Tarwater','5246246466627')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('15','5','Amy517','qgxn5lfdYJk4RfEAEA','Student','Amy','Robinette','5340657068692')
+('15','5','Maurice690','CwZm8bT_oyKayLnJRQ','Professor','Maurice','Church','2678162049211')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('16','5','Annette178','t9MCVo1tVYxtBVLsKg','Student','Annette','Mcclain','2051286117742')
+('16','5','Gary356','GqIgVjMhXBIxF-NGYQ','Student','Gary','Pauley','2806651184712')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('17','5','Sona143','mlcwdpU-WWEaJnUpAw','Student','Sona','Jacobson','3821290174281')
+('17','5','Joe709','cSzDgtMqOj0CxPoYEQ','Professor','Joe','Taube','2784751344429')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('18','5','William286','uK-FuBwF_tNkIsVHHA','Student','William','Carr','8105002125491')
+('18','5','Robert494','rEApc3gSQti-5VEJOw','Student','Robert','Harrison','6738062429641')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('19','5','Jose127','35VMX-vTlmGIGJo14w','Student','Jose','Zhou','2061352582088')
+('19','5','Kelly979','GguaKTTEInYVNQtjsQ','Professor','Kelly','Anderson','4968034489626')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('20','5','Casey474','PFpp790lWmjJ87kcfA','Student','Casey','Evenson','9183215002848')
+('20','5','Jack170','8pWTJs473O303mT-kg','Student','Jack','Broadwater','1922047127225')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('21','5','Robert204','gPC23C4YgiAV9zOb_w','Student','Robert','Bourdon','5568438002514')
+('21','5','Yolanda847','-hAB1zI19fWHfVNkPA','Student','Yolanda','Campbell','8971695017803')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('22','5','Janet665','WKGNl1ez8fHl15qhYg','Student','Janet','Peterson','4624443824442')
+('22','5','Flora289','eCRkX6YdhkLQbhtPPw','Student','Flora','Preston','1438366850698')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('23','5','Norma198','Mi-O6eMy_Hc_oN-UjA','Professor','Norma','Hess','2692529766117')
+('23','5','Tara307','bkFsUvIILJIC8Jam-g','Student','Tara','Johnson','9615411385956')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('24','5','Celeste829','7kr5d2Wc6pUGiRIg6w','Student','Celeste','Schmidt','4020904770315')
+('24','5','Brandy466','0txtiY9cvkZfR9-3rQ','Student','Brandy','Halterman','5225743398313')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('25','5','Laurie901','yEdMokguFuc1CtDkBg','Student','Laurie','Noble','6775377620804')
+('25','5','Billy494','MEjpUG3tjXquo8KoLw','Professor','Billy','Lewis','2401323939952')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('26','5','David293','6QJVoprl7NMsSNscdQ','Student','David','Powell','2192748791580')
+('26','5','Lillie911','SNQi6WqrfZ0fXGDvYQ','Student','Lillie','Taylor','2790862175740')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('27','5','David907','VQt9ct3Rnvua32n8UQ','Professor','David','Wright','7414939763123')
+('27','5','Ruby538','HhrfCj5u6G2GmcSSsA','Student','Ruby','Reily','9156977715725')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('28','5','Tracy425','X0YyfQVHRFl__fPMfA','Professor','Tracy','Lundgren','2588534037570')
+('28','5','Barbara501','rjNeX9-0G31tbj3nyA','Student','Barbara','Stone','8754440918512')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('29','5','Randolph362','IITiN0sE4COyy-h8Pw','Student','Randolph','Glazener','1020826699767')
+('29','5','Jeffrey155','CWwy661PLDzWnMbH4w','Student','Jeffrey','Phan','7968907386615')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('30','5','Kelly199','xukztH-PU4k6qZO-rA','Professor','Kelly','Peterson','3641747271423')
+('30','5','Dolores642','NGWdY4iaO6f9QxJU7A','Student','Dolores','Reese','5073867379379')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('31','5','Clarence798','bpwGNMdNtpTGIzzVhg','Student','Clarence','Marshall','6767103719487')
+('31','5','John308','KgtnJV5P3IMyxNAfcg','Student','John','Matthews','7297254071423')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('32','5','Sharyn974','nZidfWCESPyiTwJLkQ','Student','Sharyn','Smith','8616781754852')
+('32','5','Carmen542','IRDJhKVrUe2SHnPmjw','Student','Carmen','Bullock','4996656407875')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('33','5','Philip266','WTpDKhU0bo9OTPWWpw','Student','Philip','Sites','8080110202418')
+('33','5','Ethel788','D7N8RyIr0tCU-OL7bQ','Student','Ethel','Beisch','6779993977609')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('34','5','Dewitt249','1SWDJD0UzyFd9CCNXA','Student','Dewitt','Halstead','6730983194207')
+('34','5','Naomi734','yb187p09JqYLpG-EuQ','Student','Naomi','Payne','1305162044787')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('35','5','Caroline396','CD7i6XOwoSvKAskwMQ','Student','Caroline','Sahsman','1664604709967')
+('35','5','Anthony449','JOA2Fq0RtQXUvCEb4g','Student','Anthony','Selfe','6427422637396')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('36','5','Dorothy883','1m2RbeZPN9RdSV0I1g','Professor','Dorothy','Babin','9537952547150')
+('36','5','Vera338','dwXlGlA8--liRXGTLA','Student','Vera','Solis','9679712854091')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('37','5','Jannie415','qzbIQ_nrfgXbLLyEyg','Student','Jannie','Hajdas','7283457042780')
+('37','5','Kathleen664','SpeGRj-M-CpRzGZlRg','Student','Kathleen','Peacemaker','3314537658972')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('38','5','Noriko935','awtv3HdSfRIRzKhVbQ','Student','Noriko','Mejia','2435538246856')
+('38','5','Sheri297','SEZWF-nyHm3Sk6PovQ','Student','Sheri','Dillon','7255339403728')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('39','5','Joseph446','71rlVjSj9t_Vg6z-LQ','Student','Joseph','Arnold','5743807593509')
+('39','5','Darrell984','3RFD9YcP-I5NIORLvg','Student','Darrell','Abney','3144381322355')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('40','5','Tom851','KeYWm36A_iQs9-hExw','Professor','Tom','Kim','7557859867939')
+('40','5','Lisa483','KvXcbPdAoq6yM8YwMg','Student','Lisa','Rightmire','3342260494597')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('41','5','Jeremy509','y5_LrfdPbKc2ajRm0g','Student','Jeremy','Dodson','8854134900555')
+('41','5','Shirley349','ccPsmEK7I3mZbOgsww','Student','Shirley','Layden','3639218389987')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('42','5','Brandy636','rGgvyFdbtXsCQx9iuw','Student','Brandy','Yu','8146533930127')
+('42','5','Alexandria515','Fbru_DSdPrRUL-PGbw','Student','Alexandria','Coleman','9472865497125')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('43','5','Joel330','UjMxb-eofmKM_QfkfA','Professor','Joel','Reynolds','3989683268673')
+('43','5','Heather143','2y923fWi2CuWYgF4KQ','Student','Heather','Schell','3767707184360')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('44','5','Edward897','mOF0dp31o5f3LQ3J0g','Student','Edward','Stanford','2339079647848')
+('44','5','Herman857','A4FT7EVgSoFEhrlkJA','Student','Herman','Goffinet','2333114405189')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('45','5','Michael919','01OJQbUOLy4XVuCmCA','Student','Michael','Jones','7317270031649')
+('45','5','William617','-rEQQpqBzT1v41BJxg','Professor','William','Reynolds','6874995946946')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('46','5','Christopher191','IhdbLQgqTvVOe2cj_A','Student','Christopher','Clarke','9512366749303')
+('46','5','Emilio846','_HMRNqg_XPf_vlDQHw','Student','Emilio','Curry','1805745472907')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('47','5','Damon525','qZsvc_xqKp61IELlBA','Student','Damon','Thomas','8183606686448')
+('47','5','Gayle910','2jCLuuP23PvjG0zbog','Student','Gayle','Barto','2569483055466')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('48','5','Dean201','E2Czla2SjYHsN5WBdg','Professor','Dean','Panning','9263394260203')
+('48','5','Denise194','cbuTYdtIc8XWNealig','Professor','Denise','Shields','2640832003340')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('49','5','Latrina782','jFGMzjesrXl5izh5eg','Student','Latrina','Mcmahon','8524602381845')
+('49','5','Robin887','uhb-PpUfXgfEVB3F7Q','Student','Robin','Alonso','2251609850146')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('50','5','Harry874','TRouCudoDFT7gtpA-g','Student','Harry','Davis','7198616379611')
+('50','5','Brian976','j2cpcBvihgEABk2xmw','Student','Brian','Chatcho','5244827616316')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('51','5','Mark256','A48gHI_1mo6uHFIK7g','Student','Mark','Mcclelland','9424289066686')
+('51','5','Shelia579','dOPKnJIs7CzzFlM0hg','Student','Shelia','Folk','9336269467625')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('52','5','Norma777','q4z44EnHyQ8Qa0b9ng','Student','Norma','Jones','1864138898050')
+('52','5','Sandra854','T9Q6a3deW5fKJ2UbQw','Student','Sandra','Stevens','8970910380488')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('53','5','Brenda430','kVRc4-w_tSCEHKXYog','Professor','Brenda','Garcia','8986135153620')
+('53','5','Judith846','jDFYHODofUE1PB7fgw','Student','Judith','Miller','8211574693905')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('54','5','Evette624','KmX4T_1Rri65c_LP_w','Professor','Evette','Turner','6328888586105')
+('54','5','Sharon230','OLOI0_gfygINYoMXGw','Student','Sharon','Angel','5608474017827')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('55','5','Robert246','fFzrDPmIPUhl9svmng','Student','Robert','Morris','4139553315168')
+('55','5','Daniel915','PabbpHJhzbGtfFuh7A','Student','Daniel','Vasquez','6809368279528')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('56','5','Brandie717','wBJE1Le4hiBwejc4WQ','Student','Brandie','Hinkson','4785940877966')
+('56','5','Stephen118','uFi8kzLADLBjopg2_g','Student','Stephen','Mchenry','1445097209091')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('57','5','Latonya467','NK4d51gM4uTkdNcEcA','Student','Latonya','Horney','9506899173842')
+('57','5','Kathleen536','qv1a5Rc5WxQ1qMuX9g','Student','Kathleen','Runion','7659677127912')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('58','5','Hannah374','nXwPaH76gJCyw6a2YA','Student','Hannah','James','3421662029340')
+('58','5','Shirley466','PzsdQBtSH9KUZsoRGg','Student','Shirley','Engle','4476485704367')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('59','5','Jamie662','Cp9flbxtrEeCz4z1ZA','Professor','Jamie','Dec','6919051827651')
+('59','5','Richard576','ER2U9k1t9taFBWParg','Student','Richard','Breed','9656703312360')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('60','5','Carol512','lJEYvtpxOE3-o_t8Uw','Student','Carol','Simcox','5627102413005')
+('60','5','Timothy599','1SBcKRg2Nngft4fOnQ','Student','Timothy','Birden','6674601217982')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('61','5','Carl556','NBAtDAPF6El9q7lqdA','Student','Carl','Hughes','6452747558171')
+('61','5','Emery456','pWeYfG-CSJ5Y7b9QOg','Student','Emery','Lombardi','3880272529502')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('62','5','Daniel910','ebdMTvInTf-42ugQiQ','Professor','Daniel','Broad','3134893900185')
+('62','5','Frank386','l7jSJip76G3g0sE6Qw','Student','Frank','Kersey','3962556732551')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('63','5','Rita122','LC19JJ2aqYucyIWmZQ','Student','Rita','Chun','9988718919529')
+('63','5','Susie449','qOwOc6QzKvpWQdQDqg','Student','Susie','Mildren','7498184552198')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('64','5','Christopher463','snBmxshzL72WiuGeSg','Student','Christopher','Rissell','3585476284794')
+('64','5','Brad632','Rs7hr8uaAwejtReeNQ','Student','Brad','Walsh','9585932539056')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('65','5','Jean192','c-k02TWOnDQ2rp2n-A','Student','Jean','Chewning','5328347133981')
+('65','5','Frank420','GJZrTex-aE81l0otCg','Professor','Frank','Collier','3383389069450')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('66','5','Tammy828','TcpQ_-JDm3MNvYVwlw','Student','Tammy','Clark','1091843586821')
+('66','5','Erma179','T6VA7Um4A5jNyqkDUw','Student','Erma','Saenz','5169799242701')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('67','5','Sammy405','hiPfYoYqSg6jHaZ3Vg','Professor','Sammy','Holder','2576479085588')
+('67','5','Richard788','BSHJGvhp9R-4DNSLrQ','Professor','Richard','John','5724482230253')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('68','5','Maria942','TCNUVL6pNnpX3m67jw','Student','Maria','Waterman','5283519302010')
+('68','5','Cheryl984','IwjpX7yBQ0DD-V6DhA','Student','Cheryl','Williams','9244164453019')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('69','5','Ashely899','PiJGI4seTlh0WB3KSg','Professor','Ashely','Stone','7885247564403')
+('69','5','Anna803','SK-_wLVwPM3N5Z5Y2Q','Student','Anna','Bergman','3816666687072')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('70','5','Jeannette539','RmwuT2MwETX6vwS-iw','Student','Jeannette','Santangelo','7146037155812')
+('70','5','Justin507','De0AKjm3Eq1rKIuP-A','Student','Justin','Mcconnel','9614106512637')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('71','5','Sandra919','m8z3Izp_0TbuxQnQGA','Professor','Sandra','Rice','4286505543271')
+('71','5','Isaiah569','HXmUHvjWpYDAj_AESw','Student','Isaiah','Thackaberry','3318730755004')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('72','5','Antonio631','uPq0DPjeyvK21-LFDQ','Student','Antonio','Sauceda','9567346114143')
+('72','5','Thomas855','zt4U-tjjLLArUqIuJw','Student','Thomas','Emanuelson','2504280177734')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('73','5','Jack385','mCu2JY8BcIYe5pMoBg','Student','Jack','Vance','1592276337270')
+('73','5','Jesse678','LzsIMRhku8wv1piSGA','Student','Jesse','Farmer','6214329990113')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('74','5','James161','D-SsLtMuzwyU4nHucQ','Student','James','Randolph','9749584970524')
+('74','5','Eva193','V9vjRrBzI4vbBkKe0w','Student','Eva','Buchanan','3501624280269')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('75','5','Van701','CImFaR32YSnulKOiPg','Student','Van','Candelaria','6162913258884')
+('75','5','Anthony785','jozIC9MKNEQs0uD94Q','Professor','Anthony','Ewell','4337387623029')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('76','5','Michael905','6FMQISrzdlNdGt3reg','Student','Michael','Joseph','2083013766378')
+('76','5','Amy592','ukihvaCN4dQFgrliLQ','Student','Amy','Langlois','9755734456108')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('77','5','Ninfa477','fNyiZhkKF1Ay1TLCgw','Professor','Ninfa','Rahe','3888591211676')
+('77','5','Danielle847','OrXYOAYnG-2qf58oNg','Student','Danielle','Hines','9424204934878')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('78','5','Florence211','tA0l58C0_wlQoCcsLQ','Student','Florence','French','2061071387304')
+('78','5','Lester527','g9Ol_KAmTT33OEd3pg','Student','Lester','Hathaway','6554669248196')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('79','5','Patricia883','TuiEV5cuXyR9_SQetw','Student','Patricia','Monopoli','3946101641032')
+('79','5','Ella365','t6jlFPEyw0svoUSZtg','Student','Ella','Lowe','2253419683690')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('80','5','Faith906','a77jquV5_3QlxW8SzQ','Student','Faith','Lindsey','7141916662385')
+('80','5','Franklin393','4ZfAuQWPuswRO5Vbcw','Student','Franklin','Petronella','9256745467831')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('81','5','Joan621','cor3pF_mhSkQXztNpg','Student','Joan','Honda','9753474494560')
+('81','5','Jacinta791','LY7RLAXoE4q7x3tU9g','Professor','Jacinta','Silvers','2170178255458')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('82','5','Sandra486','xT5CLNrJseLTPi1PtQ','Student','Sandra','Carter','6021781243228')
+('82','5','Terry238','au31GLh111hD33jbzQ','Student','Terry','Hager','4175870653638')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('83','5','Albert403','SlkM-XIku4FCzivEFg','Student','Albert','Webb','3512783983537')
+('83','5','Gloria118','ktCgGqp9cIV4E6KQuw','Student','Gloria','Flores','9967965042473')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('84','5','Candice469','n2tf_lYtqVJK0g-MJg','Professor','Candice','Broten','5567469557785')
+('84','5','Darrin691','_zI5KFzUNe39jeALCQ','Student','Darrin','Petrarca','1672223384267')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('85','5','Mayra462','fyrpBYhOk93nnKGFpA','Professor','Mayra','Collins','4422886481686')
+('85','5','Vanessa998','CaDPS_FCe-_2Y8cHkg','Student','Vanessa','Stiegman','5289617198198')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('86','5','Lucille530','zmRKtEuvN1TbC_9weQ','Student','Lucille','Hall','4231188652060')
+('86','5','Edward737','cLWmga7pA_xyJHj0XA','Student','Edward','King','1955211911852')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('87','5','Bobby915','6iJYLgsXBa6xbBgjHg','Student','Bobby','Duck','7873599587575')
+('87','5','Virginia983','8dblvVEBrhPawVxJFw','Student','Virginia','Siewert','4916863247084')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('88','5','Helen422','uO7C_X1S3Fjrc9ZmRA','Student','Helen','Lopez','8326831454008')
+('88','5','Sylvester809','y4BK25NQN4d81jb6UA','Student','Sylvester','Brooks','4626022119968')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('89','5','Ramiro898','tsLpeNRVyGHvq-KTtA','Student','Ramiro','Weathers','5055038290485')
+('89','5','Delores808','86DFSgONMFc8vnvJLw','Professor','Delores','Canta','3977789133163')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('90','5','Rudy213','8mOc451zSGFQ9NyEPQ','Student','Rudy','Oneil','7309833765657')
+('90','5','Brian963','n99W60f1U05qx-EC1w','Student','Brian','Kasper','8256671953394')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('91','5','Adolfo454','F-zcaLPdNGU9DlR0fg','Student','Adolfo','Davis','7537739429747')
+('91','5','Virgil921','Y3xY9iauylTTg5bi1A','Student','Virgil','Smith','8803739301623')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('92','5','Suzanne494','ERJIsPJNYSQUCSpzyQ','Student','Suzanne','Garcia','1628785987708')
+('92','5','Christopher415','nupWtHXyIwjY7r8_oA','Student','Christopher','Lee','2281569500883')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('93','5','Tracey133','a2GIs8YoK2nIftEZ9w','Professor','Tracey','Mattlin','3744474675234')
+('93','5','William794','4CJa2e8TugLmcMZyUg','Student','William','Wood','9264437919999')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('94','5','Gregory762','QkeAdQ9EQNHplFksUQ','Professor','Gregory','Gallusser','9030100484656')
+('94','5','Philip423','tbgosLfotU8faO3f-Q','Student','Philip','Mandolini','6128061166175')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('95','5','Katie557','oMJmqTcPUP8bmfX6Ug','Professor','Katie','Jiggetts','3532336193735')
+('95','5','Bernard605','TPDEyqSfqWEHbdxbzQ','Student','Bernard','Malone','7762295074868')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('96','5','Joe178','RIteraRTa83t2SfIxA','Student','Joe','Mccasland','2185369596288')
+('96','5','Steve711','FDJfwqeF1a6WmA0eAg','Student','Steve','Neff','3808216365900')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('97','5','Richard649','49jvEiqBqLsaAE3u9g','Student','Richard','Victor','3083157647681')
+('97','5','John613','C9yUUo68aWoMYipLew','Student','John','Rankin','3789950717940')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('98','5','Jeremy664','UKelYGnHmg1jXZGnoA','Student','Jeremy','Green','3580925148404')
+('98','5','Isabella508','Uoh4mrzfE2Qq5s5oXg','Student','Isabella','Russell','4605751752250')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('99','5','Mary869','tyxvhOTdQS2UUobyYA','Operator','Mary','Thomas','7056836800084')
+('99','5','Caroline975','HVdI3CES_QdevYFckA','Operator','Caroline','Kaspar','1871810635665')
 ;
 
 Insert into User
 (`UserID`,`SchoolID`,`Username`,`Password`,`Role`,`FirstName`,`LastName`,`BorrowerCard`)
 Values
-('100','5','Denise231','IGq2RhZBfrRBjE4fsQ','Administrator','Denise','Davalos','2206792966213')
+('100','5','Cecelia526','R18a8MLWc_1wEWNgeQ','Administrator','Cecelia','Barnard','4355183035260')
 ;
 
