@@ -15,12 +15,12 @@ USE testDB1;
 
 
 SET SQL_SAFE_UPDATES = 0;
-CREATE TABLE Author (
-    ISBN VARCHAR(13) NOT NULL,
+
+CREATE TABLE Author (    ISBN VARCHAR(13) NOT NULL,
     last_update TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
     AuthorName VARCHAR(120),
     KEY idx_author_isbn (ISBN)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
 -- Table structure for table `Book`
@@ -36,7 +36,7 @@ CREATE TABLE Book (
     NumOfPages INT,
     Inventory BOOLEAN,
     Language VARCHAR(50)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
 -- Table structure for table `Category`
@@ -47,7 +47,7 @@ CREATE TABLE Category (
     LastUpdate TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
     CategoryName VARCHAR(255),
     KEY idx_author_isbn (ISBN)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
 -- Table structure for table `Image`
@@ -58,7 +58,7 @@ CREATE TABLE Image (
     LastUpdate TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
     ImageLink VARCHAR(255),
     KEY idx_author_isbn (ISBN)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
 -- Table structure for table `Keyword`
@@ -69,7 +69,7 @@ CREATE TABLE Keyword (
     LastUpdate TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
     KeywordName VARCHAR(255),
     KEY idx_author_isbn (ISBN)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
 -- Table structure for table `Reservation`
@@ -84,7 +84,7 @@ CREATE TABLE Reservation (
     ReservationDate Date,
     ExpirationDate Date,
     Active VARCHAR(13)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
 -- Table structure for table `Review`
@@ -99,7 +99,7 @@ CREATE TABLE Review (
     Rating INT UNSIGNED,
     Comment VARCHAR(255),
     ApprovalStatus VARCHAR(20)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
 -- Table structure for table `School`
@@ -115,7 +115,7 @@ CREATE TABLE School (
     Email VARCHAR(50),
     SchoolLibraryOperatorFullName VARCHAR(50),
     SchoolDirectorFullName VARCHAR(50)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
 -- Table structure for table `Summary`
@@ -124,7 +124,7 @@ CREATE TABLE School (
 CREATE TABLE Summary (
     ISBN VARCHAR(13),
     Summary VARCHAR(5000)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
 -- Table structure for table `User`
@@ -139,4 +139,4 @@ CREATE TABLE USER(
     LastName VARCHAR(30),
     BorrowerCard VARCHAR(13),
     HashedPassword VARCHAR(100)
-)
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;

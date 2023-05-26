@@ -16,7 +16,7 @@ import mysql.connector
 
 
 class DataToSQL:
-    def __init__(self,MakePasswords=False,FilesToOne=False,DatabaseName='testDB1',InsertInDbDirectly=False,path='Data/'):
+    def __init__(self,MakePasswords=False,FilesToOne=False,DatabaseName='testDB1',path='Data/'):
         self.DatabaseName=DatabaseName
         self.path=path
         db=mysql.connector.connect(
@@ -357,14 +357,14 @@ class DataToSQL:
         with open(output_file_combined, "w", encoding="utf-8") as output_file:
             output_file.write(f'Use {self.DatabaseName};')
             output_file.write("\n\n")
-            for file_self.path in output_files:
-                with open(file_self.path, "r", encoding="utf-8") as input_file:
+            for file_path in output_files:
+                with open(file_path, "r", encoding="utf-8") as input_file:
                     data = input_file.read()
                     output_file.write(data)
                 output_file.write("\n\n")
         # Delete the output files
         if delete:
-            for file_self.path in output_files:
-                os.remove(file_self.path)
+            for file_path in output_files:
+                os.remove(file_path)
 
-DataToSQL(MakePasswords=False,FilesToOne=True)
+# DataToSQL(MakePasswords=False,FilesToOne=True)
