@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T10:50:55.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oCQLpwX0Nex1NNdjzRWb" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T12:34:40.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SiEE_MkqaqoTqC_A9enC" version="21.3.4" type="github">
   <diagram name="Σελίδα-1" id="zOCQZcjmYUrIdOuTZQAy">
-    <mxGraphModel dx="1050" dy="1750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,7 +84,7 @@
         <mxCell id="oJ1XokG1mtXctFdXL_2H-67" value="Reservation" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="550" y="270" width="160" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="oJ1XokG1mtXctFdXL_2H-68" value="&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;UserID (FK)&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;BookID (FK)&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;ReservationID&lt;/b&gt;&lt;br&gt;ReservationDate&lt;br&gt;ExpirationDate&lt;br&gt;Active" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="oJ1XokG1mtXctFdXL_2H-67" vertex="1">
+        <mxCell id="oJ1XokG1mtXctFdXL_2H-68" value="&lt;u&gt;&lt;b&gt;UserID (FK)&lt;br&gt;SchoolID (FK)&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;BookID (FK)&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;ReservationID&lt;/b&gt;&lt;br&gt;ReservationDate&lt;br&gt;ExpirationDate&lt;br&gt;Active" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="oJ1XokG1mtXctFdXL_2H-67" vertex="1">
           <mxGeometry y="50" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JUQ4CYv2heBlnvrro8Wb-3" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.012;entryY=0.128;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="oJ1XokG1mtXctFdXL_2H-25" edge="1">
