@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T12:35:05.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8BS9BwL7yCYrLEMnPTOf" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T12:39:01.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="v-xN1uiYJZrZpX91jcCJ" version="21.3.4" type="github">
   <diagram name="Σελίδα-1" id="zOCQZcjmYUrIdOuTZQAy">
     <mxGraphModel dx="875" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,10 +76,10 @@
           <mxGeometry y="50" width="160" height="29" as="geometry" />
         </mxCell>
         <mxCell id="oJ1XokG1mtXctFdXL_2H-49" value="Review" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="550" y="440" width="160" height="150" as="geometry" />
+          <mxGeometry x="550" y="440" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="oJ1XokG1mtXctFdXL_2H-50" value="&lt;b&gt;&lt;u&gt;UserID (FK)&lt;br&gt;BookID (FK)&lt;br&gt;ReviewID&lt;/u&gt;&lt;/b&gt;&lt;br&gt;ApprovalStatus&lt;br&gt;Comment&lt;br&gt;Rating" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="oJ1XokG1mtXctFdXL_2H-49" vertex="1">
-          <mxGeometry y="50" width="160" height="100" as="geometry" />
+        <mxCell id="oJ1XokG1mtXctFdXL_2H-50" value="&lt;b&gt;&lt;u&gt;UserID (FK)&lt;br&gt;SchoolID (FK)&lt;br&gt;BookID (FK)&lt;br&gt;ReviewID&lt;/u&gt;&lt;/b&gt;&lt;br&gt;ApprovalStatus&lt;br&gt;Comment&lt;br&gt;Rating" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="oJ1XokG1mtXctFdXL_2H-49" vertex="1">
+          <mxGeometry y="50" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="oJ1XokG1mtXctFdXL_2H-67" value="Reservation" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="550" y="270" width="160" height="160" as="geometry" />
