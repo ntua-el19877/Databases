@@ -205,6 +205,8 @@ class DataToSQL:
                     if j==98:
                         Role='Operator'
                         self.school_to_text(output_file_School,FirstName+' '+LastName,i+1)
+                        L,resID=self.addReservation(output_file_Reservation,Userid,SchoolID,resID,L)
+
                     elif j==99:
                         Role='Administrator'
                         SchoolID='None'
@@ -223,7 +225,7 @@ class DataToSQL:
                     file.write(";\n")
                     if random.randint(0, 5)==0:
                         reviewid=self.addReview(output_file_Review,Userid,SchoolID,reviewid)
-                    if random.randint(0, 5)==0:
+                    if random.randint(0, 3)==0:
                         L,resID=self.addReservation(output_file_Reservation,Userid,SchoolID,resID,L)
                     Userid+=1
         print("Data exported to")
