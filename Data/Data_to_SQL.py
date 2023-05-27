@@ -209,7 +209,7 @@ class DataToSQL:
 
                     elif j==99:
                         Role='Administrator'
-                        SchoolID='None'
+                        # SchoolID='None'
                     if MakePasswords:
                         Password=secrets.token_urlsafe(13)
                         salt = bcrypt.gensalt()
