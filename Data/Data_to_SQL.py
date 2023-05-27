@@ -53,7 +53,7 @@ class DataToSQL:
 
     def removedata(self,output_file):
         with open(output_file, "w") as file:
-            pass  # No need to write anything; the file will be emptied
+            file.write(f"USE {self.DatabaseName};\n\n")
         print("File contents erased:", output_file)
 
     def book_to_text(self):
@@ -74,12 +74,8 @@ class DataToSQL:
             data = json.load(file)
 
         with open(output_file1, "w", encoding="utf-8") as file:
+            file.write(f"USE {self.DatabaseName};\n\n")
             #5 schools
-            Auth=[]
-            Cat=[]
-            Sum=[]
-            Key=[]
-            Ima=[]
             book_id=1
             ss=["Insert into Book ",\
                             "(`BookID`,`SchoolID`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Language`) ",\
@@ -109,79 +105,69 @@ class DataToSQL:
                         stest="".join(ss[3]) % values
                         sstot=ss[0]+ss[1]+ss[2]+stest
 
-                        # self.mycursor.execute(sstot)
-                        
-                        Auth=self.addAuthor(isbn,book,output_file2,Auth)
-                        Key=self.addKeyword(output_file3,book,isbn,Key)
-                        Sum=self.addSummary(output_file4,book,isbn,Sum)
-                        Cat=self.addCategory(output_file5,book,isbn,Cat)
-                        Ima=self.addImage(output_file6,image,isbn,Ima)
+                        self.addAuthor(book_id,book,output_file2)
+                        self.addKeyword(output_file3,book,book_id)
+                        self.addSummary(output_file4,book,book_id)
+                        self.addCategory(output_file5,book,book_id)
+                        self.addImage(output_file6,image,book_id)
                         book_id+=1
                     self.db.commit()
 
         print("Data exported")
 
-    def addImage(self,output_file,image,isbn,L):
-        if not isbn in L:
+    def addImage(self,output_file,image,BookID):
             with open(output_file, "a", encoding="utf-8") as file:
                 file.write("Insert into Image ")
-                file.write("(`ISBN`,`ImageLink`) ")
+                file.write("(`BookID`,`ImageLink`) ")
                 file.write("Values ")
-                file.write(f"('{isbn}','{image}') ")
+                file.write(f"('{BookID}','{image}') ")
                 file.write(";\n")
-            L.append(isbn)
-        return L
 
-    def addAuthor(self,isbn,book,output_file,L):
-        if not isbn in L:
-            with open(output_file, "a", encoding="utf-8") as file:
-                authors=book.get("authors")
-                for j,auth in enumerate(authors):
-                    file.write("Insert into Author ")
-                    file.write("(`ISBN`,`AuthorName`) ")
-                    file.write("Values ")
-                    file.write(f"({isbn},'{self.replace_special_characters(auth)}') ")
-                    file.write(";\n")
-            L.append(isbn)
-        return L
+    def addAuthor(self,BookID,book,output_file):
+        with open(output_file, "a", encoding="utf-8") as file:
+            authors=book.get("authors")
+            for j,auth in enumerate(authors):
+                file.write("Insert into Author ")
+                file.write("(`BookID`,`AuthorName`) ")
+                file.write("Values ")
+                file.write(f"('{BookID}','{self.replace_special_characters(auth)}') ")
+                file.write(";\n")
 
-    def addKeyword(self,output_file,book,isbn,L):
-        if not isbn in L:
+    def addKeyword(self,output_file,book,BookID):
             with open(output_file, "a", encoding="utf-8") as file:
                 categories=book.get("keywords")
                 for j,categ in enumerate(categories):
                     file.write("Insert into Keyword ")
-                    file.write("(`ISBN`,`KeywordName`) ")
+                    file.write("(`BookID`,`KeywordName`) ")
                     file.write("Values ")
-                    file.write(f"('{isbn}','{self.replace_special_characters(categ)}') ")
+                    file.write(f"('{BookID}','{self.replace_special_characters(categ)}') ")
                     file.write(";\n ")
-            L.append(isbn)
-        return L
 
-    def addSummary(self,output_file,book,isbn,L):
-        if not isbn in L:
+    def addSummary(self,output_file,book,BookID):
             with open(output_file, "a", encoding="utf-8") as file:
                 summary=book.get("summary")
                 file.write("Insert into Summary ")
-                file.write("(`ISBN`,`Summary`) ")
+                file.write("(`BookID`,`Summary`) ")
                 file.write("Values ")
-                file.write(f"('{isbn}','{self.replace_special_characters(summary)}') ")
+                file.write(f"('{BookID}','{self.replace_special_characters(summary)}') ")
                 file.write(";\n")
-            L.append(isbn)
-        return L
 
-    def addCategory(self,output_file,book,isbn,L):
-        if not isbn in L:
+    def addCategory(self,output_file,book,BookID):
             with open(output_file, "a", encoding="utf-8") as file:
                     categories=book.get("categories")
+                    if len(categories):
+                        L=["Fantasy","Adventure","Romance","Contemporary","Dystopian","Mystery","Horror","Thriller","Paranormal",
+                           "Historical" "fiction","Science" "Fiction","Children’s","Memoir","Cookbook","Art","Self help","Development",
+                           "Motivational","Health","History","Travel","Guide","Families","Humor"]
+                        categories.append(random.choice(L))
+                        categories.append(random.choice(L))
+                   
                     for j,categ in enumerate(categories):
                             file.write("Insert into Category ")
-                            file.write("(`ISBN`,`CategoryName`) ")
+                            file.write("(`BookID`,`CategoryName`) ")
                             file.write("Values ")
-                            file.write(f"('{isbn}','{self.replace_special_characters(categ)}') ")
+                            file.write(f"('{BookID}','{self.replace_special_characters(categ)}') ")
                             file.write(";\n")
-            L.append(isbn)
-        return L
 
     def user_to_text(self,MakePasswords):
         
@@ -195,6 +181,7 @@ class DataToSQL:
         self.removedata(output_file_Review)
         self.removedata(output_file_School)
         with open(output_file_User, "w", encoding="utf-8") as file:
+            file.write(f"USE {self.DatabaseName};\n\n")
             #5 schools
             Userid=1
             reviewid=1
@@ -214,11 +201,13 @@ class DataToSQL:
                     Username=FirstName+str(random.randint(100, 999))
                     LastName=names.get_last_name()
                     BorrowerCard=random.randint(10**12, (10**13)-1)
+                    SchoolID=i+1
                     if j==98:
                         Role='Operator'
                         self.school_to_text(output_file_School,FirstName+' '+LastName,i+1)
                     elif j==99:
                         Role='Administrator'
+                        SchoolID='None'
                     if MakePasswords:
                         Password=secrets.token_urlsafe(13)
                         salt = bcrypt.gensalt()
@@ -230,12 +219,12 @@ class DataToSQL:
                     file.write("Insert into User ")
                     file.write("(`UserID`,`SchoolID`,`Username`,`Role`,`FirstName`,`LastName`,`BorrowerCard`,`HashedPassword`) ")
                     file.write("Values ")
-                    file.write(f"('{Userid}','{i+1}','{Username}','{Role}','{FirstName}','{LastName}','{BorrowerCard}','{hashed_password}') ")
+                    file.write(f"('{Userid}','{SchoolID}','{Username}','{Role}','{FirstName}','{LastName}','{BorrowerCard}','{hashed_password}') ")
                     file.write(";\n")
                     if random.randint(0, 5)==0:
-                        reviewid=self.addReview(output_file_Review,Userid,i+1,reviewid)
+                        reviewid=self.addReview(output_file_Review,Userid,SchoolID,reviewid)
                     if random.randint(0, 5)==0:
-                        L,resID=self.addReservation(output_file_Reservation,Userid,i+1,resID,L)
+                        L,resID=self.addReservation(output_file_Reservation,Userid,SchoolID,resID,L)
                     Userid+=1
         print("Data exported to")
         print(f'We have Users from 1 to {Userid-1}')
@@ -285,12 +274,11 @@ class DataToSQL:
                         break
                 us,_=str(u).split(' ')
                 ExpirationDates,_=str(ExpirationDate).split(' ')
-
                 file.write("Insert into Reservation ")
                 file.write("(`ReservationID`,`SchoolID`,`UserID`,`BookID`,`ReservationDate`,`ExpirationDate`,`Active`) ")
                 file.write("Values ")
                 file.write(f"('{ReservationID}','{schoolid}','{userid}','{bookid}','{us}','{ExpirationDates}','{Active}') ")
-                file.write(";\n ")
+                file.write(";\n")
                 ReservationID+=1
         return L,ReservationID
 
@@ -340,6 +328,7 @@ class DataToSQL:
 
     def filesToOne(self,delete=True):
         output_files = [
+            self.path+"Data/School.sql",
             self.path + "Data/Book.sql",
             self.path + "Data/Author.sql",
             self.path + "Data/Keyword.sql",
@@ -348,7 +337,6 @@ class DataToSQL:
             self.path + "Data/Reservation.sql",
             self.path + "Data/Review.sql",
             self.path + "Data/User.sql",
-            self.path+"Data/School.sql",
             self.path+"Data/Image.sql"
         ]
 
