@@ -51,9 +51,10 @@ class DataToSQL:
     def random_date(self,start, end, prop):
         return self.str_time_prop(start, end, '%d/%m/%Y %I:%M %p', prop)
 
-    def removedata(self,output_file):
+    def removedata(self,output_file,table_name):
         with open(output_file, "w") as file:
             file.write(f"USE {self.DatabaseName};\n\n")
+            file.write(f"DELETE FROM {table_name};\n\n")
         print("File contents erased:", output_file)
 
     def book_to_text(self):
@@ -64,17 +65,18 @@ class DataToSQL:
         output_file4 = self.path+"Data/Summary.sql"
         output_file5 = self.path+"Data/Category.sql"
         output_file6 = self.path+"Data/Image.sql"
-        self.removedata(output_file2)
-        self.removedata(output_file3)
-        self.removedata(output_file4)
-        self.removedata(output_file5)
-        self.removedata(output_file6)
+        self.removedata(output_file2,"Author")
+        self.removedata(output_file3,"Keyword")
+        self.removedata(output_file4,"Summary")
+        self.removedata(output_file5,"Category")
+        self.removedata(output_file6,"Image")
 
         with open(input_file, "r") as file:
             data = json.load(file)
 
         with open(output_file1, "w", encoding="utf-8") as file:
             file.write(f"USE {self.DatabaseName};\n\n")
+            file.write(f"DELETE FROM Book;\n\n")
             #5 schools
             book_id=1
             ss=["Insert into Book ",\
@@ -88,6 +90,10 @@ class DataToSQL:
 
                 for i, book in enumerate(data):
                     #add 0-3 books to the school
+                    L=["Fantasy","Adventure","Romance","Contemporary","Dystopian","Mystery","Horror","Thriller","Paranormal",
+                           "Historical" "fiction","Science" "Fiction","Children’s","Memoir","Cookbook","Art","Self help","Development",
+                           "Motivational","Health","History","Travel","Guide","Families","Humor"]
+                    valuetoadd=[random.choice(L),random.choice(L)]    
                     for j in range(random.randint(0,3)):
                         title = self.replace_special_characters(book.get("title", "*"))
                         publisher = self.replace_special_characters(book.get("publisher", "*"))
@@ -108,7 +114,7 @@ class DataToSQL:
                         self.addAuthor(book_id,book,output_file2)
                         self.addKeyword(output_file3,book,book_id)
                         self.addSummary(output_file4,book,book_id)
-                        self.addCategory(output_file5,book,book_id)
+                        self.addCategory(output_file5,book,book_id,valuetoadd)
                         self.addImage(output_file6,image,book_id)
                         book_id+=1
                     self.db.commit()
@@ -152,22 +158,27 @@ class DataToSQL:
                 file.write(f"('{BookID}','{self.replace_special_characters(summary)}') ")
                 file.write(";\n")
 
-    def addCategory(self,output_file,book,BookID):
+    def addCategory(self,output_file,book,BookID,valuestoadd):
             with open(output_file, "a", encoding="utf-8") as file:
                     categories=book.get("categories")
-                    if len(categories):
-                        L=["Fantasy","Adventure","Romance","Contemporary","Dystopian","Mystery","Horror","Thriller","Paranormal",
-                           "Historical" "fiction","Science" "Fiction","Children’s","Memoir","Cookbook","Art","Self help","Development",
-                           "Motivational","Health","History","Travel","Guide","Families","Humor"]
-                        categories.append(random.choice(L))
-                        categories.append(random.choice(L))
-                   
-                    for j,categ in enumerate(categories):
-                            file.write("Insert into Category ")
-                            file.write("(`BookID`,`CategoryName`) ")
-                            file.write("Values ")
-                            file.write(f"('{BookID}','{self.replace_special_characters(categ)}') ")
-                            file.write(";\n")
+                    if len(categories)==0:
+                        file.write("Insert into Category ")
+                        file.write("(`BookID`,`CategoryName`) ")
+                        file.write("Values ")
+                        file.write(f"('{BookID}','{self.replace_special_characters(valuestoadd[0])}') ")
+                        file.write(";\n")
+                        file.write("Insert into Category ")
+                        file.write("(`BookID`,`CategoryName`) ")
+                        file.write("Values ")
+                        file.write(f"('{BookID}','{self.replace_special_characters(valuestoadd[1])}') ")
+                        file.write(";\n")
+                    else:
+                        for j,categ in enumerate(categories):
+                                file.write("Insert into Category ")
+                                file.write("(`BookID`,`CategoryName`) ")
+                                file.write("Values ")
+                                file.write(f"('{BookID}','{self.replace_special_characters(categ)}') ")
+                                file.write(";\n")
 
     def user_to_text(self,MakePasswords):
         
@@ -176,12 +187,13 @@ class DataToSQL:
         output_file_Review = self.path+"Data/Review.sql"
         output_file_School = self.path+"Data/School.sql"
         output_file_Passwords = self.path+"Data/Passwords.txt"
-        self.removedata(output_file_Passwords)
-        self.removedata(output_file_Reservation)
-        self.removedata(output_file_Review)
-        self.removedata(output_file_School)
+        self.removedata(output_file_Passwords,"Passwords")
+        self.removedata(output_file_Reservation,"Reservation")
+        self.removedata(output_file_Review,"Review")
+        self.removedata(output_file_School,"School")
         with open(output_file_User, "w", encoding="utf-8") as file:
             file.write(f"USE {self.DatabaseName};\n\n")
+            file.write(f"DELETE FROM User;\n\n")
             #5 schools
             Userid=1
             reviewid=1
