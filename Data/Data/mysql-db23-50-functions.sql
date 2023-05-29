@@ -13,11 +13,13 @@ order by b.Title;
 -- 4.1 Admin check if it is admin
 -- 4.1.1
 
-select *
+select SchoolID,COUNT(*) as ResCount
 from Reservation
-where SchoolID='1'
-    and ReservationDate 
-        between '2023-06-10'and '2023-06-12';
+where ReservationDate 
+        between '2023-06-10'and '2023-06-12'
+group by SchoolID
+order by ResCount
+        ;
 
 -- 4.1.2.a
 
@@ -41,24 +43,36 @@ where r.ReservationDate
     and c.CategoryName='Horror'
 group by r.ReservationID;
 
+-- select r.ReservationID,u.UserID,r.BookID,r.ReservationDate,u.FirstName
+-- from User u
+-- join Reservation r on u.UserID=r.UserID
+-- join Category c on r.BookID=c.BookID
+-- where r.ReservationDate 
+--         between '2023-05-01'and '2023-06-02'
+--     and u.Role='Professor'
+--     and c.CategoryName='Horror'
+-- group by r.ReservationID;
+
 -- 4.1.3
 
-SELECT u.UserID, u.FirstName, u.LastName, COUNT(u.UserID) AS `Borrowed books`
+SELECT u.UserID, u.FirstName, u.LastName, COUNT(u.UserID) AS Borrowed_books
 FROM User u
 JOIN Reservation r ON u.UserID = r.UserID
 WHERE u.Role = 'Professor'
 GROUP BY u.UserID, u.FirstName, u.LastName
-ORDER BY COUNT(u.UserID);
+ORDER BY Borrowed_books DESC;
+
 
 -- 4.1.4
 
 SELECT a.AuthorName, COUNT(a.AuthorName) AS BookCount
 FROM Author a
 LEFT JOIN Book b ON a.BookID = b.BookID
-LEFT JOIN Reservation r ON b.BookID = r.BookID
+RIGHT JOIN Reservation r ON b.BookID = r.BookID
 GROUP BY a.AuthorName
-HAVING BookCount = 0
-ORDER BY BookCount;
+-- HAVING BookCount = 0
+ORDER BY BookCount
+limit 5;
 
 -- 4.1.5
 
@@ -92,11 +106,11 @@ ORDER BY BorrowingCount DESC
 LIMIT 3;
 
 -- 4.1.7
-SELECT a.AuthorName, COUNT(b.BookID) AS BookCount
+SELECT a.AuthorName, COUNT(*) AS BookCount
 FROM Author a
 JOIN Book b ON a.BookID = b.BookID
 GROUP BY a.AuthorName
-HAVING BookCount <= (SELECT COUNT(Book.BookID) AS BookCount2
+HAVING BookCount <= (SELECT COUNT(*) AS BookCount2
         FROM Author
         JOIN Book ON Author.BookID = Book.BookID
         group by AuthorName
@@ -112,3 +126,11 @@ SELECT COUNT(Book.BookID) AS BookCount,AuthorName
         order by BookCount desc
         limit 2 
 
+
+
+SELECT COUNT(Book.BookID) AS BookCount2
+        FROM Author
+        JOIN Book ON Author.BookID = Book.BookID
+        group by AuthorName
+        order by BookCount2 desc
+        limit 1 

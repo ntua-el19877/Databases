@@ -18,6 +18,7 @@ if(__name__ == "__main__"):
     DataToSQL(MakePasswords=False,FilesToOne=False,DatabaseName=Dbname)
     ExportToDatabase(False,Dbname,schema_path)
     
-    # ExportToDatabase(True,Dbname,path+data_single_files[7])
+    # ExportToDatabase(True,Dbname,path+data_single_files[1])
+    # ExportToDatabase(True,Dbname,path+data_single_files[3])
     for file in data_single_files:
         ExportToDatabase(True,Dbname,path+file)
