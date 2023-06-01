@@ -2,8 +2,8 @@
 {% block content %}
 <div class="container" id="row-container">
     {% include "flash_messages.html" %}
-    <div class="row" id="row">
-        <div class="col-md-6">
+    <div class="row" id="row-1">
+        <div class="col-md-6 mb-3">
             <div class="card" id="card-container-layout">
                 <div class="card-body" id="card">
                     <h4 class="card-title">Students</h4>
@@ -15,7 +15,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 mb-3">
             <div class="card" id="card-container-layout">
                 <div class="card-body" id="card">
                     <h4 class="card-title">Grades</h4>
@@ -28,9 +28,8 @@
             </div>
         </div>
     </div>
-
     <div class="row" id="row-2">
-        <div class="col-md-6">
+        <div class="col-md-6 mb-5">
             <div class="card" id="card-container-layout">
                 <div class="card-body" id="card">
                     <h4 class="card-title">Best Dribbling Grade</h4>
@@ -38,7 +37,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 mb-5">
             <div class="card" id="card-container-layout">
                 <div class="card-body" id="card">
                     <h4 class="card-title">Best Shooting Grade</h4>
@@ -47,5 +46,33 @@
             </div>
         </div>
     </div>
+    <div class="row" id="row-1">
+        <div class="col-md-6 mb-3">
+            <div class="card" id="card-container-layout">
+                <div class="card-body" id="card">
+                    <h4 class="card-title">Books</h4>
+                    <p class="card-text paragraph-custom">
+                        Simple query to database to show all books, or enter a new book into the database
+                    </p>
+                    <a class="btn btn-primary btn-submit-custom" href="/books">Show</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 mb-3">
+            <div class="card" id="card-container-layout">
+                <div class="card-body" id="card">
+                    <h4 class="card-title">4.1.1</h4>
+                    <p class="card-text">
+                        Simple Query to database to show : List with the total number of loans per school (Search criteria: year, calendar month, e.g. 
+                        January).
+                    </p>
+                    <a class="btn btn-primary btn-submit-custom" href="/4_1_1?start_date=__start_date__&end_date=__end_date__">Show</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
 </div>
 {% endblock content %}

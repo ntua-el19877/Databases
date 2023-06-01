@@ -13,12 +13,12 @@ order by b.Title;
 -- 4.1 Admin check if it is admin
 -- 4.1.1
 
-select SchoolID,COUNT(*) as ResCount
+select SchoolID,COUNT(*) as 'Number of loans'
 from Reservation
 where ReservationDate 
         between '2023-06-10'and '2023-06-12'
 group by SchoolID
-order by ResCount
+order by SchoolID
         ;
 
 -- 4.1.2.a

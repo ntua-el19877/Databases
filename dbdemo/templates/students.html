@@ -24,11 +24,11 @@
                             <tbody>
                                 {% for student in students %}
                                     <tr>
-                                        <td> {{ student.id }} </td>
-                                        <td> {{ student.first_name }} </td>
-                                        <td> {{ student.last_name }} </td>
-                                        <td> {{ student.email }} </td>
-                                        <td>
+                                        <td> {{ student.BookID }} </td>
+                                        <td> {{ student.Title }} </td>
+                                        <td> {{ student.SchoolID }} </td>
+                                        <td> {{ student.ISBN }} </td>
+                                        <!-- <td>
                                             <a type="button" onclick="setModalFields(this)"
                                             data-toggle="modal" data-id="{{ student.id }}"
                                             data-first_name="{{student.first_name}}"  data-last_name= "{{student.last_name}}"
@@ -43,7 +43,7 @@
                                             data-id = "{{ student.id }}" onclick = "setDeleteModalFields(this)">
                                                 <i class = "fa fa-trash"></i>
                                             </button>
-                                        </td>
+                                        </td> -->
                                     </tr>
                                 {% endfor %}
                             </tbody>

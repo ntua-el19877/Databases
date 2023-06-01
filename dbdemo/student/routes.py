@@ -12,7 +12,7 @@ def getStudents():
     try:
         form = StudentForm()
         cur = db.connection.cursor()
-        cur.execute("SELECT * FROM students")
+        cur.execute("SELECT * FROM book")
         # cur.execute("SELECT * FROM actor")
         column_names = [i[0] for i in cur.description]
         students = [dict(zip(column_names, entry)) for entry in cur.fetchall()]
@@ -97,3 +97,4 @@ def deleteStudent(studentID):
     except Exception as e:
         flash(str(e), "danger")
     return redirect(url_for("student.getStudents"))
+
