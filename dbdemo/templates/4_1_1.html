@@ -6,7 +6,7 @@
         <div class="col-md-12">
             <div class="card" id="card-container">
                 <div class="card-body" id="card">
-                {% if books|length == 0 %}
+                {% if data|length == 0 %}
                     <h1 style="margin-top: 5rem;">No Loans found!</h1>
                 {% else %}
                     <div class="table-responsive">
@@ -20,10 +20,10 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                {% for book in books %}
+                                {% for data_row in data %}
                                     <tr>
-                                        <td> {{ book.SchoolID }} </td>
-                                        <td> {{ book.NumberOfLoans }} </td>
+                                        <td> {{ data_row.SchoolID }} </td>
+                                        <td> {{ data_row.NumberOfLoans }} </td>
                                     </tr>
                                 {% endfor %}
                             </tbody>

@@ -6,7 +6,7 @@
         <div class="col-md-12">
             <div class="card" id="card-container">
                 <div class="card-body" id="card">
-                {% if books|length == 0 %}
+                {% if data|length == 0 %}
                     <h1 style="margin-top: 5rem;">No Books found!</h1>
                 {% else %}
                     <div class="table-responsive">
@@ -22,12 +22,12 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                {% for book in books %}
+                                {% for data_row in data %}
                                     <tr>
-                                        <td> {{ book.BookID }} </td>
-                                        <td> {{ book.Title }} </td>
-                                        <td> {{ book.SchoolID }} </td>
-                                        <td> {{ book.ISBN }} </td>
+                                        <td> {{ data_row.BookID }} </td>
+                                        <td> {{ data_row.Title }} </td>
+                                        <td> {{ data_row.SchoolID }} </td>
+                                        <td> {{ data_row.ISBN }} </td>
                                     </tr>
                                 {% endfor %}
                             </tbody>

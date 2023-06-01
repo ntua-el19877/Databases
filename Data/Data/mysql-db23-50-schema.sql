@@ -41,7 +41,7 @@ CREATE TABLE Book (
     NumOfPages INT,
     Inventory BOOLEAN,
     Language VARCHAR(50),
-    CONSTRAINT `fk_book_school` FOREIGN KEY (SchoolID) REFERENCES School (SchoolID) 
+    CONSTRAINT `fk_book_school` FOREIGN KEY (SchoolID) REFERENCES School (SchoolID)
 )ENGINE=InnoDB DEFAULT CHARSET=utf8;
 --
 -- Table structure for table `Author`
@@ -72,7 +72,7 @@ CREATE TABLE Category (
 --
 
 CREATE TABLE Image (
-    BookID INT UNSIGNED,
+    BookID INT UNSIGNED PRIMARY KEY AUTO_INCREMENT,
     LastUpdate TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
     ImageLink VARCHAR(255),
     CONSTRAINT `fk_image_book` FOREIGN KEY (BookID) REFERENCES Book (BookID)
@@ -122,7 +122,6 @@ CREATE TABLE Reservation (
     CONSTRAINT `fk_reservation_school` FOREIGN KEY (SchoolID) REFERENCES School (SchoolID),
     CONSTRAINT `fk_reservation_user` FOREIGN KEY (UserID) REFERENCES User (UserID),
     CONSTRAINT `fk_reservation_book` FOREIGN KEY (BookID) REFERENCES Book (BookID)
-
 )ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
@@ -148,7 +147,12 @@ CREATE TABLE Review (
 --
 
 CREATE TABLE Summary (
-    BookID INT UNSIGNED,
+    BookID INT UNSIGNED PRIMARY KEY AUTO_INCREMENT,
     Summary VARCHAR(5000),
     CONSTRAINT `fk_summary_book` FOREIGN KEY (BookID) REFERENCES Book (BookID)
 )ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+create index index_author_bookid on Author(BookID);
+create index index_category_bookid on Category(BookID);
+create index index_keyword_bookid on Keyword(BookID);
+create index index_user_schoolid on User(SchoolID);

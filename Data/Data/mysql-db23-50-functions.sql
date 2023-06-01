@@ -33,15 +33,16 @@ order by a.AuthorName;
 
 -- 4.1.2.b
 
-select Min(r.ReservationID),u.UserID,r.BookID,r.ReservationDate,u.FirstName
+select u.UserID,u.FirstName,u.LastName
 from User u
 join Reservation r on u.UserID=r.UserID
 join Category c on r.BookID=c.BookID
 where r.ReservationDate 
-        between '2023-05-01'and '2023-06-02'
+        between '2022-06-01'and '2023-06-01'
     and u.Role='Professor'
-    and c.CategoryName='Horror'
+    and c.CategoryName='History'
 group by r.ReservationID;
+
 
 -- select r.ReservationID,u.UserID,r.BookID,r.ReservationDate,u.FirstName
 -- from User u
@@ -65,24 +66,56 @@ ORDER BY Borrowed_books DESC;
 
 -- 4.1.4
 
-SELECT a.AuthorName, COUNT(a.AuthorName) AS BookCount
-FROM Author a
-LEFT JOIN Book b ON a.BookID = b.BookID
-RIGHT JOIN Reservation r ON b.BookID = r.BookID
-GROUP BY a.AuthorName
--- HAVING BookCount = 0
-ORDER BY BookCount
-limit 5;
+-- SELECT a.AuthorName, COUNT(a.AuthorName) AS BookCount
+-- FROM Author a
+-- LEFT JOIN Book b ON a.BookID = b.BookID
+-- RIGHT JOIN Reservation r ON b.BookID = r.BookID
+-- GROUP BY a.AuthorName
+-- -- HAVING BookCount = 0
+-- ORDER BY BookCount
+-- limit 5;
+
+-- select a1.AuthorName
+-- from Author a1
+-- WHERE a1.AuthorName NOT IN (SELECT a.AuthorName
+-- FROM Author a
+-- JOIN Book b ON a.BookID = b.BookID
+-- JOIN Reservation r ON b.BookID = r.BookID
+-- GROUP BY a.AuthorName)
+-- group by a1.AuthorName;
+
+select a1.AuthorName
+from (select a1.AuthorName 
+        from Author a1
+        group by a1.AuthorName) a1
+WHERE a1.AuthorName NOT IN (
+        SELECT a.AuthorName
+        FROM Author a
+        JOIN Book b ON a.BookID = b.BookID
+        JOIN Reservation r ON b.BookID = r.BookID
+        GROUP BY a.AuthorName
+);
 
 -- 4.1.5
-
-SELECT u.UserID,u.FirstName,u.LastName, COUNT(r.ReservationID) AS ReservationCount
+--school reservation count
+SELECT s.SchoolLibraryOperatorFullName,s.SchoolID, COUNT(*) AS ReservationPerSchoolCount
 FROM Reservation r
-LEFT JOIN User u on u.UserID=r.UserID
-where u.Role='Operator'
-GROUP BY u.UserID
-HAVING ReservationCount > 20
-ORDER BY ReservationCount;
+join School s on s.SchoolID=r.SchoolID
+GROUP BY r.SchoolID
+having ReservationPerSchoolCount>20
+ORDER BY ReservationPerSchoolCount;
+
+SELECT t.ReservationPerSchoolCount, GROUP_CONCAT(t.SchoolLibraryOperatorFullName) AS SchoolsWithSameCount
+FROM (
+    SELECT s.SchoolLibraryOperatorFullName, s.SchoolID, COUNT(*) AS ReservationPerSchoolCount
+    FROM Reservation r
+    JOIN School s ON s.SchoolID = r.SchoolID
+    GROUP BY r.SchoolID
+    HAVING ReservationPerSchoolCount > 20
+) t
+GROUP BY t.ReservationPerSchoolCount
+HAVING COUNT(*) > 1;
+
 
 -- Count Operator Reservations
 
