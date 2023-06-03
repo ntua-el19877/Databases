@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T19:13:44.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="WL0oQBANwAbb_0TTJ9xK" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-03T14:05:49.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZCy8SKwN8neBdCUa1ipV" version="21.3.4" type="github">
   <diagram name="Σελίδα-1" id="zOCQZcjmYUrIdOuTZQAy">
-    <mxGraphModel dx="2074" dy="2285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
             <mxRectangle x="220" y="140" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oJ1XokG1mtXctFdXL_2H-25" value="&lt;u&gt;&lt;b&gt;UserID&lt;/b&gt;&lt;br&gt;&lt;/u&gt;Username&lt;br&gt;FirstName&lt;br&gt;LastName&lt;br&gt;Password&lt;br&gt;BorrowerCard&lt;br&gt;&lt;b&gt;&lt;u&gt;School_ID (FK)&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Role" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="oJ1XokG1mtXctFdXL_2H-24" vertex="1">
+        <mxCell id="oJ1XokG1mtXctFdXL_2H-25" value="&lt;u&gt;&lt;b&gt;UserID&lt;/b&gt;&lt;br&gt;&lt;/u&gt;Username&lt;br&gt;FirstName&lt;br&gt;LastName&lt;br&gt;HashPassword&lt;br&gt;BorrowerCard&lt;br&gt;&lt;b&gt;&lt;u&gt;School_ID (FK)&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Role" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="oJ1XokG1mtXctFdXL_2H-24" vertex="1">
           <mxGeometry y="50" width="170" height="130" as="geometry" />
         </mxCell>
         <mxCell id="oJ1XokG1mtXctFdXL_2H-49" value="Review" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#6c8ebf;" parent="1" vertex="1">
