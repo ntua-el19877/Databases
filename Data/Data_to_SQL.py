@@ -27,8 +27,8 @@ class DataToSQL:
         )
         self.mycursor = db.cursor()
         self.db=db
-        self.book_to_text()
-        self.user_to_text(MakePasswords)
+        start_of_id=self.book_to_text()
+        self.user_to_text(MakePasswords,start_of_id)
         self.filesToOne(FilesToOne)
     
         
@@ -83,11 +83,11 @@ class DataToSQL:
                             "(`BookID`,`SchoolID`,`Title`,`Publisher`,`ISBN`,`NumOfPages`,`Inventory`,`Language`) ",\
                             "Values ",\
                             "('%s','%s','%s','%s','%s','%s',%s,'%s')"]
-            
+            start_of_id=[]
             for SchoolID in range(1,6):
                 
                 #get all possible books
-
+                start_of_id.append(book_id)
                 for i, book in enumerate(data):
                     #add 0-3 books to the school
                     L=["Fantasy","Adventure","Romance","Contemporary","Dystopian","Mystery","Horror","Thriller","Paranormal",
@@ -118,6 +118,8 @@ class DataToSQL:
                         self.addImage(output_file6,image,book_id)
                         book_id+=1
                     self.db.commit()
+        start_of_id.append(book_id-1)
+        return start_of_id
 
         print("Data exported")
 
@@ -180,7 +182,7 @@ class DataToSQL:
                                 file.write(f"('{BookID}','{self.replace_special_characters(categ)}') ")
                                 file.write(";\n")
 
-    def user_to_text(self,MakePasswords):
+    def user_to_text(self,MakePasswords,start_of_id):
         
         output_file_User = self.path+"Data/User.sql"
         output_file_Reservation = self.path+"Data/Reservation.sql"

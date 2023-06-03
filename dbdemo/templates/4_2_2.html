@@ -7,14 +7,15 @@
             <div class="card" id="card-container">
                 <div class="card-body" id="card">
                 {% if data|length == 0 %}
-                    <h1 style="margin-top: 5rem;">No Books found!</h1>
+                    <h1 style="margin-top: 5rem;">No Data found!</h1>
                 {% else %}
                     <div class="table-responsive">
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th>Title</th>
-                                    <th>ISBN</th>
+                                    <th>First Name</th>
+                                    <th>Last Name</th>
+                                    <th>Expiration Dates</th>
                                     <th></th>
                                     <th></th>
                                 </tr>
@@ -22,8 +23,9 @@
                             <tbody>
                                 {% for data_row in data %}
                                     <tr>
-                                        <td> {{ data_row.Title }} </td>
-                                        <td> {{ data_row.ISBN }} </td>
+                                        <td> {{ data_row.FirstName }} </td>
+                                        <td> {{ data_row.LastName }} </td>
+                                        <td> {{ data_row.ExpDates }} </td>
                                     </tr>
                                 {% endfor %}
                             </tbody>

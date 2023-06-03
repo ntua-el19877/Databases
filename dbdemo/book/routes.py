@@ -3,6 +3,7 @@ from flask import Flask, render_template, request, flash, redirect, url_for, abo
 from flask_mysqldb import MySQL
 from dbdemo import db ## initially created by __init__.py, needs to be used here
 from dbdemo.book import book
+from dbdemo.book.forms import BookForm
 
 @book.route("/books")
 def getBooks():
@@ -11,7 +12,7 @@ def getBooks():
     """
     try:
         cur = db.connection.cursor()
-        cur.execute("SELECT * FROM Book")
+        cur.execute("SELECT * FROM Book group by ISBN order by Title")
         column_names = [i[0] for i in cur.description]
         data = [dict(zip(column_names, entry)) for entry in cur.fetchall()]
         cur.close()
@@ -91,6 +92,8 @@ def get4_1_2b():
                         between '{formatted_date2}'and '{formatted_date}'\
                     and u.Role='Professor'\
                     and c.CategoryName='{Category}'\
+                    AND r.Active != 'Declined'\
+                    AND r.Active != 'Pending'\
                 group by r.ReservationID;"
 
     try:
@@ -114,6 +117,8 @@ def get4_1_3():
                 FROM User u\
                 JOIN Reservation r ON u.UserID = r.UserID\
                 WHERE u.Role = 'Professor'\
+                        AND r.Active != 'Declined'\
+                        AND r.Active != 'Pending'\
                 GROUP BY u.UserID, u.FirstName, u.LastName\
                 ORDER BY Borrowed_books DESC,u.FirstName,u.LastName;"
 
@@ -143,6 +148,8 @@ def get4_1_4():
                         FROM Author a\
                         JOIN Book b ON a.BookID = b.BookID\
                         JOIN Reservation r ON b.BookID = r.BookID\
+                        WHERE r.Active != 'Declined'\
+                            AND r.Active != 'Pending'\
                         GROUP BY a.AuthorName\
                 );"
 
@@ -168,6 +175,8 @@ def get4_1_5():
                     SELECT s.SchoolLibraryOperatorFullName, s.SchoolID, COUNT(*) AS ReservationPerSchoolCount\
                     FROM Reservation r\
                     JOIN School s ON s.SchoolID = r.SchoolID\
+                    WHERE r.Active != 'Declined'\
+                        AND r.Active != 'Pending'\
                     GROUP BY r.SchoolID\
                     HAVING ReservationPerSchoolCount > 20\
                 ) t\
@@ -197,6 +206,8 @@ def get4_1_6():
                 JOIN Category c1 ON b.BookID = c1.BookID\
                 JOIN Category c2 ON b.BookID = c2.BookID AND c1.CategoryName < c2.CategoryName\
                 JOIN Reservation r ON b.BookID = r.BookID\
+                WHERE r.Active != 'Declined'\
+                    AND r.Active != 'Pending'\
                 GROUP BY c1.CategoryName, c2.CategoryName\
                 HAVING c1.CategoryName != c2.CategoryName\
                 ORDER BY BorrowingCount DESC\
@@ -242,79 +253,273 @@ def get4_1_7():
         print(e)
         abort(500)
 
+@book.route("/4_2_1")
+def get4_2_1():
+    """
+    Find all authors who have written at least 5 books less than the author with the most books.
+    """
+    OperatorSchoolID = request.args.get("OperatorSchoolID")
+
+    Title = request.args.get("Title")
+    Author = request.args.get("Author")
+    Category = request.args.get("Category")
+    BookCount=request.args.get("BookCount")
+
+    Title_str=f"and Book.Title = '{Title}'"
+    Author_str=f"and Author.AuthorName = '{Author}'"
+    Category_str=f"and Category.CategoryName = '{Category}'"
+    if Title=='' or Title=='__Title__':
+        Title_str=''
+    if Author=='' or Author=='__Author__':
+        Author_str=''
+    if Category=='' or Category=='__Category__':
+        Category_str=''
+    if BookCount=='' or BookCount=='__BookCount__':
+        Books_str=''
+    else:
+        try:       
+            Books_str=f"HAVING BookCount = {int(BookCount)}"
+        except:
+            Books_str=''
+
+    exec_str=f"SELECT Book.Title,Count(*) as BookCount\
+                FROM Book\
+                JOIN Author ON Book.BookID = Author.BookID\
+                JOIN Category ON Book.BookID = Category.BookID\
+                WHERE Book.SchoolID='{OperatorSchoolID}'\
+                    {Title_str}\
+                    {Author_str}\
+                    {Category_str}\
+                group by Book.ISBN\
+                {Books_str}\
+                order by Book.Title"
+
+    try:
+        cur = db.connection.cursor()
+        cur.execute(exec_str)
+        column_names = [i[0] for i in cur.description]
+        data = [dict(zip(column_names, entry)) for entry in cur.fetchall()]
+        cur.close()
+        return render_template("4_2_1.html", data = data, pageTitle = "4.2.1")
+    except Exception as e:
+        print(e)
+        abort(500)
+
+@book.route("/4_2_2")
+def get4_2_2():
+    """
+    Find all borrowers who own at least one book and have delayed its return. (Search criteria: 
+    First Name, Last Name, Delay Days).    
+    """
+    OperatorSchoolID = request.args.get("OperatorSchoolID")
+
+    FirstName = request.args.get("FirstName")
+    LastName = request.args.get("LastName")
+    DelayedDays = request.args.get("DelayedDays")
+
+    current_date = date.today()
+    formatted_date = current_date.strftime("%Y-%m-%d")
+
+    FirstName_str=f"AND User.FirstName='{FirstName}'"
+    LastName_str=f"AND User.LastName='{LastName}'"
+    
+    #insert only if not defalut or empty value
+    if FirstName=='' or FirstName=='__FirstName__':
+        FirstName_str=''
+    if LastName=='' or LastName=='__LastName__':
+        LastName_str=''
+    if DelayedDays=='' or DelayedDays=='__DelayedDays__':
+        DelayedDays_str=''
+    else:
+        DelayedDays_toDate=current_date-timedelta(days=int(DelayedDays))
+        formatted_date2=DelayedDays_toDate.strftime("%Y-%m-%d")
+        DelayedDays_str=f"AND Reservation.ExpirationDate='{formatted_date2}'"
+
+    exec_str=f"SELECT DISTINCT User.FirstName, User.LastName,GROUP_CONCAT( Reservation.ExpirationDate) as ExpDates\
+                FROM User \
+                JOIN Reservation ON User.UserID = Reservation.UserID\
+                JOIN Book ON Reservation.BookID = Book.BookID\
+                WHERE Reservation.ExpirationDate < '{formatted_date}'\
+                    AND Reservation.Active != 'Declined'\
+                    AND Reservation.Active != 'Pending'\
+                    AND User.SchoolID='{OperatorSchoolID}'\
+                    {FirstName_str}\
+                    {LastName_str}\
+                    {DelayedDays_str}\
+                GROUP BY User.FirstName, User.LastName\
+                ORDER BY User.FirstName, User.LastName;"
+
+    try:
+        cur = db.connection.cursor()
+        cur.execute(exec_str)
+        column_names = [i[0] for i in cur.description]
+        data = [dict(zip(column_names, entry)) for entry in cur.fetchall()]
+        cur.close()
+        return render_template("4_2_2.html", data = data, pageTitle = "4.2.2")
+    except Exception as e:
+        print(e)
+        abort(500)
+
+@book.route("/4_2_3")
+def get4_2_3():
+    """
+    Average Ratings per borrower and category (Search criteria: user/category)  
+    """
+    OperatorSchoolID = request.args.get("OperatorSchoolID")
+
+    UserID = request.args.get("UserID")
+    Category = request.args.get("Category")
+
+    UserID_str=f"AND User.UserID='{UserID}'"
+    Category_str=f"AND Category.CategoryName='{Category}'"
+    
+    #insert only if not defalut or empty value
+    if UserID=='' or UserID=='__UserID__':
+        UserID_str=''
+    if Category=='' or Category=='__Category__':
+        Category_str=''
+
+    exec_str=f"SELECT User.UserID,User.FirstName, User.LastName, AVG(Review.Rating) AS AverageRating\
+                FROM User\
+                JOIN Review ON User.UserID = Review.UserID\
+                WHERE User.SchoolID='{OperatorSchoolID}'\
+                    AND Review.ApprovalStatus='Approved'\
+                    {UserID_str}\
+                GROUP BY User.UserID\
+                order by AverageRating desc,User.FirstName, User.LastName ;"
+
+    exec_str2=f"SELECT Category.CategoryName, AVG(Review.Rating) AS AverageRating\
+                FROM Review\
+                JOIN Book ON Review.BookID = Book.BookID\
+                JOIN Category ON Category.BookID = Book.BookID\
+                WHERE Review.SchoolID='{OperatorSchoolID}'\
+                    AND Review.ApprovalStatus='Approved'\
+                    {Category_str}\
+                GROUP BY Category.CategoryName\
+                order by AverageRating desc,Category.CategoryName ;"
+    try:
+        cur = db.connection.cursor()
+        cur.execute(exec_str)
+        column_names = [i[0] for i in cur.description]
+        data = [dict(zip(column_names, entry)) for entry in cur.fetchall()]
+        cur.close()
+        
+        cur = db.connection.cursor()
+        cur.execute(exec_str2)
+        column_names = [i[0] for i in cur.description]
+        data2 = [dict(zip(column_names, entry)) for entry in cur.fetchall()]
+        cur.close()
+
+        return render_template("4_2_3.html", data = data, data2=data2, pageTitle = "4.2.3")
+    except Exception as e:
+        print(e)
+        abort(500)
+
+@book.route("/4_3_1")
+def get4_3_1():
+    """
+    List with all books (Search criteria: title/category/author), ability to select a book and create 
+    a reservation request.
+    """
+    form = BookForm()
+    UserSchoolID = request.args.get("UserSchoolID")
+
+    Title = request.args.get("Title")
+    Author = request.args.get("Author")
+    Category = request.args.get("Category")
+
+    Title_str=f"AND Book.Title = '{Title}'"
+    Author_str=f"AND Author.AuthorName = '{Author}'"
+    Category_str=f"AND Category.CategoryName = '{Category}'"
+
+    #insert only if not defalut or empty value
+    if Title=='' or Title=='__Title__':
+        Title_str=''
+    if Author=='' or Author=='__Author__':
+        Author_str=''
+    if Category=='' or Category=='__Category__':
+        Category_str=''
+
+    exec_str=f"SELECT Book.Title, Book.ISBN, COUNT(*) as BookCount, \
+                GROUP_CONCAT(IF(Book.Inventory = True, Book.BookID, NULL)) as BookIDs\
+                FROM Book\
+                JOIN Author ON Book.BookID = Author.BookID\
+                JOIN Category ON Book.BookID = Category.BookID\
+                WHERE Book.SchoolID='{UserSchoolID}'\
+                {Title_str}\
+                {Author_str}\
+                {Category_str}\
+                group by Book.ISBN\
+                order by Book.Title\
+                ;"
+
+    try:
+        cur = db.connection.cursor()
+        cur.execute(exec_str)
+        column_names = [i[0] for i in cur.description]
+        data = [dict(zip(column_names, entry)) for entry in cur.fetchall()]
+        cur.close()
+        return render_template("4_3_1.html", data = data,UserSchoolID= UserSchoolID,pageTitle = "4.3.1", form = form)
+    except Exception as e:
+        print(e)
+        abort(500)
 
 
 
+@book.route("/4_3_1/ReservationRequest", methods = ["POST"])
+def updateStudent():
+    """
+    Update a student in the database, by id
+    """
+    form = BookForm() ## see createStudent for explanation
+    updateData = form.__dict__
+    if(form.validate_on_submit()):
+        query=f"Insert into Reservation \
+                (`SchoolID`,`UserID`,`BookID`,`ReservationDate`,\
+                `ExpirationDate`,`Active`) \
+                Values \
+                ('{updateData['schoolID'].data}','{updateData['userID'].data}'\
+                ,'{updateData['bookID'].data}',Null,Null,'Pending') ;"
+        print(query)
+        try:
+            cur = db.connection.cursor()
+            cur.execute(query)
+            db.connection.commit()
+            cur.close()
+            flash("Reservation posted successfully", "success")
+        except Exception as e:
+            flash(str(e), "danger")
+    else:
+        for category in form.errors.values():
+            for error in category:
+                flash(error, "danger")
+    return redirect(url_for("book.get4_3_1"))
 
 
+@book.route("/4_3_2")
+def get4_3_2():
+    """
+    List of all books borrowed by this user.
+    """
+    UserID = request.args.get("UserID")
 
 
+    exec_str=f"SELECT User.UserID, Book.Title\
+                FROM Book\
+                JOIN Reservation ON Book.BookID = Reservation.BookID\
+                JOIN User ON Reservation.UserID = User.UserID\
+                WHERE User.UserID='{UserID}'\
+                    and Reservation.Active != 'Declined'\
+                    and Reservation.Active != 'Pending'\
+                order by User.UserID;"
 
-
-# @grade.route("/grades/delete/<int:gradeID>", methods = ["POST"])
-# def deleteGrade(gradeID):
-#     """
-#     Delete grade by id from database
-#     """
-#     query = f"DELETE FROM grades WHERE id = {gradeID};"
-#     try:
-#         cur = db.connection.cursor()
-#         cur.execute(query)
-#         db.connection.commit()
-#         cur.close()
-#         flash("Grade deleted successfully", "primary")
-#     except Exception as e:
-#         flash(str(e), "danger")
-#     return redirect(url_for("grade.getGrades"))
-
-# @grade.route("/grades/create", methods = ["GET", "POST"]) ## "GET" by default
-# def createGrade():
-#     """
-#     Create new grade in the database
-#     """
-#     form = GradeForm() ## This is an object of a class that inherits FlaskForm
-#     ## which in turn inherits Form from wtforms
-#     ## https://flask-wtf.readthedocs.io/en/0.15.x/api/#flask_wtf.FlaskForm
-#     ## https://wtforms.readthedocs.io/en/2.3.x/forms/#wtforms.form.Form
-#     ## If no form data is specified via the formdata parameter of Form
-#     ## (it isn't here) it will implicitly use flask.request.form and flask.request.files.
-#     ## So when this method is called because of a GET request, the request
-#     ## object's form field will not contain user input, whereas if the HTTP
-#     ## request type is POST, it will implicitly retrieve the data.
-#     ## https://flask-wtf.readthedocs.io/en/0.15.x/form/
-#     ## Alternatively, in the case of a POST request, the data could have between
-#     ## retrieved directly from the request object: request.form.get("key name")
-
-#     ## when the form is submitted
-#     if(request.method == "POST"):
-#         newGrade = form.__dict__
-
-#         query = "INSERT INTO grades(course_name, grade, student_id) VALUES ('{}', '{}', '{}');".format(
-#             newGrade['course_name'].data,
-#             newGrade['grade'].data,
-#             newGrade['student_id'].data
-#         )
-
-#         try:
-#             cur = db.connection.cursor()
-#             cur.execute(query)
-#             db.connection.commit()
-#             cur.close()
-#             flash("Grade inserted successfully", "success")
-#             return redirect(url_for("index"))
-#         except Exception as e: ## OperationalError
-#             flash(str(e), "danger")
-#             print(str(e))
-#     ## else, response for GET request
-#     else:
-#         try:
-#             cur = db.connection.cursor()
-#             cur.execute('SELECT id, CONCAT(last_name, ", ", first_name) FROM students;')
-#             form.student_id.choices = list(cur.fetchall())
-#             ## each tuple in the above list is in the format (id, full name),
-#             ## and will be rendered in html as an <option> of the <select>
-#             ## element, with value = id and content = full_name
-#             cur.close()
-#             return render_template("create_grade.html", pageTitle = "Create Grade", form = form)
-#         except Exception as e: ## OperationalError
-#             flash(str(e), "danger")
+    try:
+        cur = db.connection.cursor()
+        cur.execute(exec_str)
+        column_names = [i[0] for i in cur.description]
+        data = [dict(zip(column_names, entry)) for entry in cur.fetchall()]
+        cur.close()
+        return render_template("4_3_2.html", data = data,pageTitle = "4.3.2")
+    except Exception as e:
+        print(e)
+        abort(500)

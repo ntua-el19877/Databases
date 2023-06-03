@@ -1,0 +1,101 @@
+{% extends "global_layout.html" %}
+{% block content %}
+<div class="container">
+    {% include "flash_messages.html" %}
+    <div class="row" id="row">
+        <div class="col-md-12">
+            <div class="card" id="card-container">
+                <div class="card-body" id="card">
+                {% if data|length == 0 %}
+                    <h1 style="margin-top: 5rem;">No Data found!</h1>
+                {% else %}
+                    <div class="table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Title</th>
+                                    <th>ISBN</th>
+                                    <th>Number of Books</th>
+                                    <th>Book is in Inventory</th>
+                                    <th></th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for data_row in data %}
+                                    <tr>
+                                        <td> {{ data_row.Title }} </td>
+                                        <td> {{ data_row.ISBN }} </td>
+                                        <td> {{ data_row.BookCount }} </td>
+                                        <td> {% if data_row.BookIDs is none %} False {% else %} True {% endif %} </td>
+                                        <td>
+                                            {% if data_row.BookIDs is not none %}
+                                                <a type="button" onclick="sendBookRequest(this)"
+                                                    data-toggle="modal" 
+                                                    data-userid="{{ data_row.UserID }}"
+                                                    data-bookid="{{ data_row.BookID }}"
+                                                    data-schoolid="{{ UserSchoolID }}"
+                                                    data-bs-toggle="modal"
+                                                    data-bs-target="#editModal">
+                                                    <i class="fa fa-edit"></i>
+                                                </a>
+                                            {% endif %}
+                                        </td>
+                                    </tr>
+                                    
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Edit modal -->
+<div id="editModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Make Reservation</h4>
+            </div>
+            <div class="modal-body">
+                <form id="modal-form" method="POST" action="/4_3_1/ReservationRequest">
+                    {{ form.hidden_tag() }}
+                    <div style="text-align: center;">
+                        <input type="text" name="userID" id="userID" readonly>
+                        <input type="text" name="bookID" id="bookID" readonly>
+                        <!-- Setting required to false disables the HTML attribute and leaves input validation to the backend -->
+                        {{ form.userID(id="userID", required=True) }}
+                        {{ form.bookID(id="bookID", required=True) }}
+                    </div>
+                    <div class="modal-footer">
+                        <button type="submit" class="btn btn-success">Update</button>
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<script>
+    function sendBookRequest(ISBN,UserID) {
+        document.getElementById("SchoolID").value = row.getAttribute("data-schoolid");
+        document.getElementById("UserID").value = row.getAttribute("data-userid");
+        document.getElementById("BookID").value = row.getAttribute("data-bookid");
+        print(row.getAttribute("data-bookid"))
+        print("-----------------------------")
+        document.getElementById("modal-form").action = "/4_3_1/ReservationRequest";
+        document.getElementById("modal-form").method = "POST";
+    }
+</script>
+
+{% endblock content %}

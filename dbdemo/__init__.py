@@ -1,8 +1,6 @@
 ## This file is ran automatically the first time a Python program imports the package dbdemo
 from flask import Flask
 from flask_mysqldb import MySQL
-from dbdemo.student import student
-from dbdemo.grade import grade
 from dbdemo.book import book
 from Data.config import info_data
 
@@ -25,9 +23,5 @@ db = MySQL(app)
 
 ## routes must be imported after the app object has been initialized
 from dbdemo import routes
-from dbdemo.grade import routes
-from dbdemo.student import routes
 from dbdemo.book import routes
-app.register_blueprint(student)
-app.register_blueprint(grade)
 app.register_blueprint(book)
