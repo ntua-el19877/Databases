@@ -1,7 +1,7 @@
 from calendar import c
 from MySQLdb import OperationalError
 import mysql.connector
-
+from config import info_data
 class ExportToDatabase:
     def __init__(self,Data=True, DatabaseName="testDB1", file_path="Data/Data/mysql-db23-50-insert-data.sql"):
         db = mysql.connector.connect(
@@ -11,6 +11,7 @@ class ExportToDatabase:
             database=DatabaseName
         )
         mycursor = db.cursor()
+
 
         try:
             with open(file_path, "r", encoding="utf-8") as file:

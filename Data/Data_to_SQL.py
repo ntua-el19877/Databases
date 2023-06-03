@@ -16,6 +16,9 @@ import mysql.connector
 
 
 class DataToSQL:
+    '''
+    Creates sql eligible data files from the output.json file
+    '''
     def __init__(self,MakePasswords=False,FilesToOne=False,DatabaseName='testDB1',path='Data/'):
         self.DatabaseName=DatabaseName
         self.path=path
@@ -347,32 +350,32 @@ class DataToSQL:
         return replaced_string
 
     def filesToOne(self,delete=True):
-        output_files = [
-            self.path+"Data/School.sql",
-            self.path + "Data/Book.sql",
-            self.path + "Data/Author.sql",
-            self.path + "Data/Keyword.sql",
-            self.path + "Data/Summary.sql",
-            self.path + "Data/Category.sql",
-            self.path + "Data/Reservation.sql",
-            self.path + "Data/Review.sql",
-            self.path + "Data/User.sql",
-            self.path+"Data/Image.sql"
-        ]
-
-        output_file_combined = self.path + "Data/mysql-db23-50-insert-data.sql"
-        ll=0
-        with open(output_file_combined, "w", encoding="utf-8") as output_file:
-            output_file.write(f'Use {self.DatabaseName};')
-            output_file.write("\n\n")
-            for file_path in output_files:
-                with open(file_path, "r", encoding="utf-8") as input_file:
-                    data = input_file.read()
-                    output_file.write(data)
-                output_file.write("\n\n")
-        # Delete the output files
         if delete:
-            for file_path in output_files:
-                os.remove(file_path)
+            output_files = [
+                self.path+"Data/School.sql",
+                self.path + "Data/Book.sql",
+                self.path + "Data/Author.sql",
+                self.path + "Data/Keyword.sql",
+                self.path + "Data/Summary.sql",
+                self.path + "Data/Category.sql",
+                self.path + "Data/Reservation.sql",
+                self.path + "Data/Review.sql",
+                self.path + "Data/User.sql",
+                self.path+"Data/Image.sql"
+            ]
 
-# DataToSQL(MakePasswords=False,FilesToOne=True)
+            output_file_combined = self.path + "Data/mysql-db23-50-insert-data.sql"
+            ll=0
+            with open(output_file_combined, "w", encoding="utf-8") as output_file:
+                output_file.write(f'Use {self.DatabaseName};')
+                output_file.write("\n\n")
+                for file_path in output_files:
+                    with open(file_path, "r", encoding="utf-8") as input_file:
+                        data = input_file.read()
+                        output_file.write(data)
+                    output_file.write("\n\n")
+            # Delete the output files
+            if delete:
+                for file_path in output_files:
+                    os.remove(file_path)
+

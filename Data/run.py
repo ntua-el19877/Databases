@@ -15,10 +15,8 @@ data_single_files=info_data["data_single_files"]
 
 if(__name__ == "__main__"):
     CheckDatabase(host, user, password, Dbname)
-    DataToSQL(MakePasswords=False,FilesToOne=False,DatabaseName=Dbname)
+    DataToSQL(MakePasswords=True,FilesToOne=False,DatabaseName=Dbname)
+
     ExportToDatabase(False,Dbname,schema_path)
-    
-    # ExportToDatabase(True,Dbname,path+data_single_files[1])
-    # ExportToDatabase(True,Dbname,path+data_single_files[3])
     for file in data_single_files:
         ExportToDatabase(True,Dbname,path+file)

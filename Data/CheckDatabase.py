@@ -20,7 +20,9 @@ class CheckDatabase:
         
         # Check if the desired database exists
         if (database.lower(),) in databases:
-            print("Database '{}' already exists.".format(database))
+            cursor.execute(f"DROP SCHEMA IF EXISTS {database};")
+            cursor.execute(f"CREATE SCHEMA {database};")
+            print("Database '{}' deleted and remade".format(database))
         else:
             # Create the database
             cursor.execute("CREATE DATABASE {}".format(database))

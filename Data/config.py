@@ -14,7 +14,7 @@ info_data={
             "Image.sql"#9
         ],
     "schema_file": "mysql-db23-50-schema.sql",
-    "database":"testdb1",
+    "database":"db_23_team_50",
     "host" : "localhost",
     "user" : "root",
     "password" : ""
