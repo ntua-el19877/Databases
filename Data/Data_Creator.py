@@ -189,19 +189,14 @@ def get_data_to_txt():
     print("Data exported to", output_file)
 
 
-
 #add 40*24*5 values
 stri='a'
 for j in range(5):
     for i in range(24):
         add_v(chr(ord(stri) + i),start_index=j*40)
 
-# #for testing add 40 values
-# add_v('a')
-
 # # Call the function to remove duplicate books by ISBN
 remove_duplicates_by_isbn()
-
 
 # Usage example:
 book_count = get_book_count()

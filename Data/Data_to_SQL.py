@@ -19,7 +19,7 @@ class DataToSQL:
     '''
     Creates sql eligible data files from the output.json file
     '''
-    def __init__(self,MakePasswords=False,FilesToOne=False,DatabaseName='testDB1',path='Data/'):
+    def __init__(self,MakePasswords=False,FilesToOne=False,DatabaseName='testDB1',path='Data/Data'):
         self.DatabaseName=DatabaseName
         self.path=path
         db=mysql.connector.connect(
@@ -61,13 +61,13 @@ class DataToSQL:
         print("File contents erased:", output_file)
 
     def book_to_text(self):
-        input_file = self.path+"output.json"
-        output_file1 = self.path+"Data/Book.sql"
-        output_file2 = self.path+"Data/Author.sql"
-        output_file3 = self.path+"Data/Keyword.sql"
-        output_file4 = self.path+"Data/Summary.sql"
-        output_file5 = self.path+"Data/Category.sql"
-        output_file6 = self.path+"Data/Image.sql"
+        input_file = "Data/output.json"
+        output_file1 = self.path+"Book.sql"
+        output_file2 = self.path+"Author.sql"
+        output_file3 = self.path+"Keyword.sql"
+        output_file4 = self.path+"Summary.sql"
+        output_file5 = self.path+"Category.sql"
+        output_file6 = self.path+"Image.sql"
         self.removedata(output_file2,"Author")
         self.removedata(output_file3,"Keyword")
         self.removedata(output_file4,"Summary")
@@ -187,11 +187,11 @@ class DataToSQL:
 
     def user_to_text(self,MakePasswords,start_of_id):
         
-        output_file_User = self.path+"Data/User.sql"
-        output_file_Reservation = self.path+"Data/Reservation.sql"
-        output_file_Review = self.path+"Data/Review.sql"
-        output_file_School = self.path+"Data/School.sql"
-        output_file_Passwords = self.path+"Data/Passwords.txt"
+        output_file_User = self.path+"User.sql"
+        output_file_Reservation = self.path+"Reservation.sql"
+        output_file_Review = self.path+"Review.sql"
+        output_file_School = self.path+"School.sql"
+        output_file_Passwords = self.path+"Passwords.txt"
         self.removedata(output_file_Passwords,"Passwords")
         self.removedata(output_file_Reservation,"Reservation")
         self.removedata(output_file_Review,"Review")
@@ -352,19 +352,19 @@ class DataToSQL:
     def filesToOne(self,delete=True):
         if delete:
             output_files = [
-                self.path+"Data/School.sql",
-                self.path + "Data/Book.sql",
-                self.path + "Data/Author.sql",
-                self.path + "Data/Keyword.sql",
-                self.path + "Data/Summary.sql",
-                self.path + "Data/Category.sql",
-                self.path + "Data/Reservation.sql",
-                self.path + "Data/Review.sql",
-                self.path + "Data/User.sql",
-                self.path+"Data/Image.sql"
+                self.path+"School.sql",
+                self.path + "Book.sql",
+                self.path + "Author.sql",
+                self.path + "Keyword.sql",
+                self.path + "Summary.sql",
+                self.path + "Category.sql",
+                self.path + "Reservation.sql",
+                self.path + "Review.sql",
+                self.path + "User.sql",
+                self.path+"Image.sql"
             ]
 
-            output_file_combined = self.path + "Data/mysql-db23-50-insert-data.sql"
+            output_file_combined = self.path + "mysql-db23-50-insert-data.sql"
             ll=0
             with open(output_file_combined, "w", encoding="utf-8") as output_file:
                 output_file.write(f'Use {self.DatabaseName};')

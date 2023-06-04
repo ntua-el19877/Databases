@@ -1,5 +1,5 @@
 info_data={
-    "path":"Data/Data/",
+    "path":"Data/DbData/",
     "data_file": "mysql-db23-50-insert-data.sql",
     "data_single_files" : [
             "School.sql",#0
