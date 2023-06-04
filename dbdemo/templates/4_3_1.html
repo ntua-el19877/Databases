@@ -28,7 +28,7 @@
                                         <td> {{ data_row.ISBN }} </td>
                                         <td> {{ data_row.BookCount }} </td>
                                         <td> {% if data_row.BookIDs is none %} False {% else %} True {% endif %} </td>
-                                        <td>
+                                        <!-- <td>
                                             {% if data_row.BookIDs is not none %}
                                                 <a type="button" onclick="sendBookRequest(this)"
                                                     data-toggle="modal" 
@@ -40,7 +40,7 @@
                                                     <i class="fa fa-edit"></i>
                                                 </a>
                                             {% endif %}
-                                        </td>
+                                        </td> -->
                                     </tr>
                                     
                                 {% endfor %}
@@ -56,9 +56,8 @@
 
 
 <!-- Edit modal -->
-<div id="editModal" class="modal fade" role="dialog">
+<!-- <div id="editModal" class="modal fade" role="dialog">
     <div class="modal-dialog">
-        <!-- Modal content-->
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title">Make Reservation</h4>
@@ -69,7 +68,6 @@
                     <div style="text-align: center;">
                         <input type="text" name="userID" id="userID" readonly>
                         <input type="text" name="bookID" id="bookID" readonly>
-                        <!-- Setting required to false disables the HTML attribute and leaves input validation to the backend -->
                         {{ form.userID(id="userID", required=True) }}
                         {{ form.bookID(id="bookID", required=True) }}
                     </div>
@@ -81,11 +79,11 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 
 
-
+<!-- 
 <script>
     function sendBookRequest(ISBN,UserID) {
         document.getElementById("SchoolID").value = row.getAttribute("data-schoolid");
@@ -96,6 +94,6 @@
         document.getElementById("modal-form").action = "/4_3_1/ReservationRequest";
         document.getElementById("modal-form").method = "POST";
     }
-</script>
+</script> -->
 
 {% endblock content %}
